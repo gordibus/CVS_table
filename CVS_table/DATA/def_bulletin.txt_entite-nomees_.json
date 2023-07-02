@@ -1,0 +1,506 @@
+{
+  "Entite0": {
+    "entite": "- Bulletin",
+    "label": "PER",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. masc\n"
+  },
+  "Entite1": {
+    "entite": "I.\u2212",
+    "label": "LOC",
+    "Contexte gauche": ", subst. masc\n",
+    "Contexte droite": "Vx Document bref adress\u00e9 \u00e0"
+  },
+  "Entite2": {
+    "entite": "Votre Majest\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "occasion s\u00fbre pour envoyer \u00e0",
+    "Contexte droite": "un bulletin o\u00f9 je parle"
+  },
+  "Entite3": {
+    "entite": "Mmede Sta\u00ebl",
+    "label": "PER",
+    "Contexte gauche": "avec autant de franchise.",
+    "Contexte droite": ", Lettres de jeunesse,1786,"
+  },
+  "Entite4": {
+    "entite": "Lettres de jeunesse,1786",
+    "label": "MISC",
+    "Contexte gauche": "franchise. Mmede Sta\u00ebl,",
+    "Contexte droite": ", p. 99.\n"
+  },
+  "Entite5": {
+    "entite": "II.\u2212 Bulletin",
+    "label": "PER",
+    "Contexte gauche": ", p. 99.\n",
+    "Contexte droite": "(de vote)."
+  },
+  "Entite6": {
+    "entite": "Billet",
+    "label": "PER",
+    "Contexte gauche": "(de vote).",
+    "Contexte droite": "de format g\u00e9n\u00e9ralement r\u00e9duit par"
+  },
+  "Entite7": {
+    "entite": "Le Parlement fr",
+    "label": "ORG",
+    "Contexte gauche": "diff\u00e9rentes listes. Lidderdale,",
+    "Contexte droite": ".,1954, p. 96"
+  },
+  "Entite8": {
+    "entite": "III.\u2212 Information",
+    "label": "LOC",
+    "Contexte gauche": "dans l'urne.\n",
+    "Contexte droite": "relativement br\u00e8ve engageant la responsabilit\u00e9"
+  },
+  "Entite9": {
+    "entite": "Grande Arm\u00e9e",
+    "label": "MISC",
+    "Contexte gauche": ". Les bulletins de la",
+    "Contexte droite": "(Val\u00e9ry, Vari\u00e9t\u00e9 2,1929"
+  },
+  "Entite10": {
+    "entite": "Vari\u00e9t\u00e9",
+    "label": "PER",
+    "Contexte gauche": "Grande Arm\u00e9e (Val\u00e9ry,",
+    "Contexte droite": "2,1929, p. 112)"
+  },
+  "Entite11": {
+    "entite": "A.\u2212 [",
+    "label": "PER",
+    "Contexte gauche": "p. 112).\n",
+    "Contexte droite": "Concerne l'actualit\u00e9]\n"
+  },
+  "Entite12": {
+    "entite": "Bulletin des lois.",
+    "label": "MISC",
+    "Contexte gauche": "l'actualit\u00e9]\n\u2666",
+    "Contexte droite": ",,Journal officiel destin\u00e9"
+  },
+  "Entite13": {
+    "entite": "Journal officiel",
+    "label": "MISC",
+    "Contexte gauche": "des lois. ,,",
+    "Contexte droite": "destin\u00e9 \u00e0 enregistrer tous les"
+  },
+  "Entite14": {
+    "entite": "Barr",
+    "label": "LOC",
+    "Contexte gauche": "actes l\u00e9gislatifs`` (",
+    "Contexte droite": ". 1967) :\n"
+  },
+  "Entite15": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "inclinons volontiers \u00e0 admettre en",
+    "Contexte droite": "qu'il suffit, pour"
+  },
+  "Entite16": {
+    "entite": "Bulletin des lois",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9cret. Et cependant notre",
+    "Contexte droite": "est bourr\u00e9 de d\u00e9crets qui"
+  },
+  "Entite17": {
+    "entite": "Entretiens sur l'archit.",
+    "label": "MISC",
+    "Contexte gauche": "le vide. Viollet-Le-Duc,",
+    "Contexte droite": ",t. 2, 1872"
+  },
+  "Entite18": {
+    "entite": "2",
+    "label": "MISC",
+    "Contexte gauche": "l'archit.,t.",
+    "Contexte droite": ", 1872, p. 407"
+  },
+  "Entite19": {
+    "entite": "Bulletin Officiel",
+    "label": "LOC",
+    "Contexte gauche": ".\n4. Le",
+    "Contexte droite": "du Minist\u00e8re de l'Int\u00e9rieur"
+  },
+  "Entite20": {
+    "entite": "Minist\u00e8re de l'Int\u00e9rieur",
+    "label": "ORG",
+    "Contexte gauche": ". Le Bulletin Officiel du",
+    "Contexte droite": "est adress\u00e9 gratuitement aux pr\u00e9fectures"
+  },
+  "Entite21": {
+    "entite": "J. Baradat",
+    "label": "PER",
+    "Contexte gauche": "aux pr\u00e9fectures et sous-pr\u00e9fectures.",
+    "Contexte droite": ", L'Organ. d'"
+  },
+  "Entite22": {
+    "entite": "L'Organ",
+    "label": "PER",
+    "Contexte gauche": "sous-pr\u00e9fectures. J. Baradat,",
+    "Contexte droite": ". d'une pr\u00e9fecture,1907,"
+  },
+  "Entite23": {
+    "entite": "Bulletin",
+    "label": "PER",
+    "Contexte gauche": "p. 121.\n\u2666",
+    "Contexte droite": "m\u00e9t\u00e9orologique. Bulletin des Pr\u00e9visions"
+  },
+  "Entite24": {
+    "entite": "Bulletin des Pr\u00e9visions m\u00e9t\u00e9orologiques",
+    "label": "PER",
+    "Contexte gauche": "\n\u2666 Bulletin m\u00e9t\u00e9orologique.",
+    "Contexte droite": "(H. Tscheuschner, La"
+  },
+  "Entite25": {
+    "entite": "H. Tscheuschner",
+    "label": "PER",
+    "Contexte gauche": "Bulletin des Pr\u00e9visions m\u00e9t\u00e9orologiques (",
+    "Contexte droite": ", La Pr\u00e9vision du temps"
+  },
+  "Entite26": {
+    "entite": "La Pr\u00e9vision du temps",
+    "label": "MISC",
+    "Contexte gauche": "m\u00e9t\u00e9orologiques (H. Tscheuschner,",
+    "Contexte droite": "sans instrument,1919, p. 15"
+  },
+  "Entite27": {
+    "entite": "Centre",
+    "label": "LOC",
+    "Contexte gauche": "ensemble sur son d\u00e9veloppement.",
+    "Contexte droite": "internat. de l'enfance"
+  },
+  "Entite28": {
+    "entite": "Cours sur les probl",
+    "label": "MISC",
+    "Contexte gauche": ". de l'enfance,",
+    "Contexte droite": ". d'hyg. scol"
+  },
+  "Entite29": {
+    "entite": "C.\u2212 P.",
+    "label": "PER",
+    "Contexte gauche": ", p. 179.\n",
+    "Contexte droite": "ext.\n\u2212 Publication"
+  },
+  "Entite30": {
+    "entite": "Publication p\u00e9riodique de dimension plus r\u00e9duite",
+    "label": "MISC",
+    "Contexte gauche": "P. ext.\n\u2212",
+    "Contexte droite": "ou de p\u00e9riodicit\u00e9 moins fr\u00e9quente"
+  },
+  "Entite31": {
+    "entite": "Semaines",
+    "label": "LOC",
+    "Contexte gauche": "authentiquement recevable ce sont les",
+    "Contexte droite": "religieuses et les Bulletins dioc\u00e9sains"
+  },
+  "Entite32": {
+    "entite": "Bulletins",
+    "label": "MISC",
+    "Contexte gauche": "les Semaines religieuses et les",
+    "Contexte droite": "dioc\u00e9sains, et encore dans"
+  },
+  "Entite33": {
+    "entite": "Humanisme",
+    "label": "PER",
+    "Contexte gauche": "partie officielle? Maritain,",
+    "Contexte droite": "int\u00e9gral,1936, p. 324."
+  },
+  "Entite34": {
+    "entite": "beaux-arts",
+    "label": "LOC",
+    "Contexte gauche": "autres soci\u00e9t\u00e9s se consacrent aux",
+    "Contexte droite": ", aux sciences pures ou"
+  },
+  "Entite35": {
+    "entite": "Soci\u00e9t\u00e9 de l'histoire de France",
+    "label": "ORG",
+    "Contexte gauche": "exemple les publications de la",
+    "Contexte droite": "). La Civilisation \u00e9crite,1939"
+  },
+  "Entite36": {
+    "entite": "Civilisation",
+    "label": "MISC",
+    "Contexte gauche": "de France). La",
+    "Contexte droite": "\u00e9crite,1939, p. 1613."
+  },
+  "Entite37": {
+    "entite": "Information",
+    "label": "LOC",
+    "Contexte gauche": "politique int\u00e9rieure.\n\u2212",
+    "Contexte droite": "communiqu\u00e9e oralement :\n8"
+  },
+  "Entite38": {
+    "entite": "S. de Beauvoir",
+    "label": "PER",
+    "Contexte gauche": "policiers, histoires fantastiques.",
+    "Contexte droite": ", Les Mandarins,1954, p."
+  },
+  "Entite39": {
+    "entite": "Les Mandarins,1954, p. 526",
+    "label": "ORG",
+    "Contexte gauche": ". S. de Beauvoir,",
+    "Contexte droite": ".\nIV.\u2212 Attestation \u00e9crite"
+  },
+  "Entite40": {
+    "entite": "Attestation",
+    "label": "ORG",
+    "Contexte gauche": "p. 526.\nIV.\u2212",
+    "Contexte droite": "\u00e9crite d\u00e9livr\u00e9e par un organisme"
+  },
+  "Entite41": {
+    "entite": "Bulletin de naissance",
+    "label": "MISC",
+    "Contexte gauche": "Par une admin.]",
+    "Contexte droite": ", de d\u00e9c\u00e8s, de"
+  },
+  "Entite42": {
+    "entite": "Louis-le-Grand",
+    "label": "LOC",
+    "Contexte gauche": "Je suis donc revenu \u00e0",
+    "Contexte droite": ", o\u00f9 on m'a"
+  },
+  "Entite43": {
+    "entite": "J. Rivi\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "insuffisant pour les inscriptions.",
+    "Contexte droite": ", Correspondance[avec Alain-Fournier"
+  },
+  "Entite44": {
+    "entite": "Correspondance[avec",
+    "label": "LOC",
+    "Contexte gauche": "inscriptions. J. Rivi\u00e8re,",
+    "Contexte droite": "Alain-Fournier],"
+  },
+  "Entite45": {
+    "entite": "Alain-Fournier]",
+    "label": "PER",
+    "Contexte gauche": ". J. Rivi\u00e8re, Correspondance[avec",
+    "Contexte droite": ", 1907, p. 306"
+  },
+  "Entite46": {
+    "entite": "Juliette",
+    "label": "PER",
+    "Contexte gauche": "mort :\n10.",
+    "Contexte droite": "(...) riboula des"
+  },
+  "Entite47": {
+    "entite": "L. Stoll\u00e9",
+    "label": "PER",
+    "Contexte gauche": "son bulletin de naissance.",
+    "Contexte droite": ", Douze r\u00e9cits hist."
+  },
+  "Entite48": {
+    "entite": "Douze",
+    "label": "LOC",
+    "Contexte gauche": "naissance. L. Stoll\u00e9,",
+    "Contexte droite": "r\u00e9cits hist. racont\u00e9s en"
+  },
+  "Entite49": {
+    "entite": "Bulletin d'adh\u00e9sion, d'admission",
+    "label": "MISC",
+    "Contexte gauche": "publ. ou priv\u00e9]",
+    "Contexte droite": ". Bulletin de bagages ("
+  },
+  "Entite50": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": ". Bulletin de bagages (",
+    "Contexte droite": ", Le Docteur Pascal,1893,"
+  },
+  "Entite51": {
+    "entite": "Le Docteur Pascal,1893",
+    "label": "MISC",
+    "Contexte gauche": "de bagages (Zola,",
+    "Contexte droite": ", p. 305).Bulletin de consigne"
+  },
+  "Entite52": {
+    "entite": "Les Faux-monnayeurs,1925",
+    "label": "MISC",
+    "Contexte gauche": "de consigne (Gide,",
+    "Contexte droite": ", p. 992)."
+  },
+  "Entite53": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "docum. le subst.",
+    "Contexte droite": ". bulletinier. Celui qui"
+  },
+  "Entite54": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "bulletin dans un journal.",
+    "Contexte droite": ". vx bulletiniste. Le"
+  },
+  "Entite55": {
+    "entite": "vx",
+    "label": "PER",
+    "Contexte gauche": "un journal. Synon.",
+    "Contexte droite": "bulletiniste. Le terrible bulletinier"
+  },
+  "Entite56": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "d'une maison adverse (",
+    "Contexte droite": ", L'Argent, 1891"
+  },
+  "Entite57": {
+    "entite": "L'Argent",
+    "label": "ORG",
+    "Contexte gauche": "maison adverse (Zola,",
+    "Contexte droite": ", 1891, p. 187"
+  },
+  "Entite58": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "187). Attest\u00e9 dans",
+    "Contexte droite": ". 19e, Lar."
+  },
+  "Entite59": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "dans Lar. 19e,",
+    "Contexte droite": ". 20e, Littr\u00e9,"
+  },
+  "Entite60": {
+    "entite": "Littr\u00e9",
+    "label": "LOC",
+    "Contexte gauche": ", Lar. 20e,",
+    "Contexte droite": ", Quillet 1965.\n"
+  },
+  "Entite61": {
+    "entite": "Quillet 1965",
+    "label": "MISC",
+    "Contexte gauche": ". 20e, Littr\u00e9,",
+    "Contexte droite": ".\nPRONONC. ET"
+  },
+  "Entite62": {
+    "entite": "ORTH",
+    "label": "MISC",
+    "Contexte gauche": ".\nPRONONC. ET",
+    "Contexte droite": ". : [bylt\u03b5 \u0303]."
+  },
+  "Entite63": {
+    "entite": "\u0303]. F\u00e9r",
+    "label": "PER",
+    "Contexte gauche": "ORTH. : [bylt\u03b5",
+    "Contexte droite": ". Crit. t. 1"
+  },
+  "Entite64": {
+    "entite": "Rabelais",
+    "label": "PER",
+    "Contexte gauche": "de sant\u00e9 \u00bb] (",
+    "Contexte droite": ", Pantagruel, \u00e9d."
+  },
+  "Entite65": {
+    "entite": "Lettres P.",
+    "label": "PER",
+    "Contexte gauche": "vote \u00bb (Gruget,",
+    "Contexte droite": "Messie, 240, ["
+  },
+  "Entite66": {
+    "entite": "Quem",
+    "label": "MISC",
+    "Contexte gauche": ", [1610] dans",
+    "Contexte droite": ".); 1835 ("
+  },
+  "Entite67": {
+    "entite": "Bulletin",
+    "label": "LOC",
+    "Contexte gauche": "4. 1793-94",
+    "Contexte droite": "des lois de la R\u00e9publique"
+  },
+  "Entite68": {
+    "entite": "R\u00e9publique fran\u00e7aise",
+    "label": "LOC",
+    "Contexte gauche": "Bulletin des lois de la",
+    "Contexte droite": ". Plut\u00f4t d\u00e9r. ("
+  },
+  "Entite69": {
+    "entite": "bullette",
+    "label": "LOC",
+    "Contexte gauche": "de l'a. fr.",
+    "Contexte droite": "(d\u00e9r. de bulle"
+  },
+  "Entite70": {
+    "entite": "Du Cange",
+    "label": "MISC",
+    "Contexte gauche": "sceau \u00bb (1299 dans",
+    "Contexte droite": ") puis \u00ab certificat,"
+  },
+  "Entite71": {
+    "entite": "Batt",
+    "label": "MISC",
+    "Contexte gauche": ", bollettino \u00e9galement attest\u00e9 dans",
+    "Contexte droite": "., au sens 1"
+  },
+  "Entite72": {
+    "entite": "xives",
+    "label": "LOC",
+    "Contexte gauche": "sens 1 dep. le",
+    "Contexte droite": ". et au sens 3"
+  },
+  "Entite73": {
+    "entite": "STAT",
+    "label": "ORG",
+    "Contexte gauche": "d\u00e9veloppement du mot.\n",
+    "Contexte droite": ". \u2212 Fr\u00e9q. abs"
+  },
+  "Entite74": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 956"
+  },
+  "Entite75": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": ", b) 706;",
+    "Contexte droite": ". : a) 692"
+  },
+  "Entite76": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": "b) 480.\n",
+    "Contexte droite": ". \u2212 Gohin 1903,"
+  },
+  "Entite77": {
+    "entite": "Gohin",
+    "label": "LOC",
+    "Contexte gauche": ".\nBBG. \u2212",
+    "Contexte droite": "1903, p. 269 ("
+  },
+  "Entite78": {
+    "entite": "Hope",
+    "label": "LOC",
+    "Contexte gauche": ". bulletiniste). \u2212",
+    "Contexte droite": "1971, p. 169."
+  },
+  "Entite79": {
+    "entite": "Kohlm",
+    "label": "PER",
+    "Contexte gauche": ", p. 169. \u2212",
+    "Contexte droite": ". 1901, p. 34"
+  },
+  "Entite80": {
+    "entite": "Kuhn",
+    "label": "PER",
+    "Contexte gauche": ", p. 34. \u2212",
+    "Contexte droite": "1931, p. 72."
+  },
+  "Entite81": {
+    "entite": "Louis-Philippe",
+    "label": "PER",
+    "Contexte gauche": "72. \u2212 Mat.",
+    "Contexte droite": "1951, p. 31."
+  },
+  "Entite82": {
+    "entite": "Sar",
+    "label": "MISC",
+    "Contexte gauche": ", p. 31. \u2212",
+    "Contexte droite": ". 1920, p. 40"
+  },
+  "Entite83": {
+    "entite": "Wind 1928",
+    "label": "MISC",
+    "Contexte gauche": ", p. 40. \u2212",
+    "Contexte droite": ", p. 141, 199"
+  }
+}

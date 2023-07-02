@@ -1,0 +1,812 @@
+{
+  "Entite0": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "- Royaume, subst.",
+    "Contexte droite": ". \n\nA. \u2212\n"
+  },
+  "Entite1": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "A. \u2212\n1.",
+    "Contexte droite": "gouvern\u00e9 par un roi ou"
+  },
+  "Entite2": {
+    "entite": "Royaume de Belgique",
+    "label": "LOC",
+    "Contexte gauche": "ou par une reine.",
+    "Contexte droite": ", de Gr\u00e8ce, de"
+  },
+  "Entite3": {
+    "entite": "Gr\u00e8ce",
+    "label": "LOC",
+    "Contexte gauche": "Royaume de Belgique, de",
+    "Contexte droite": ", de Naples; capitale"
+  },
+  "Entite4": {
+    "entite": "Naples",
+    "label": "LOC",
+    "Contexte gauche": ", de Gr\u00e8ce, de",
+    "Contexte droite": "; capitale, provinces d'"
+  },
+  "Entite5": {
+    "entite": "Europe",
+    "label": "LOC",
+    "Contexte gauche": "; les royaumes de l'",
+    "Contexte droite": ", de l'univers."
+  },
+  "Entite6": {
+    "entite": "royaume de France",
+    "label": "LOC",
+    "Contexte gauche": "maintes reprises les fronti\u00e8res du",
+    "Contexte droite": "(L'Hist. et"
+  },
+  "Entite7": {
+    "entite": "L'Hist.",
+    "label": "LOC",
+    "Contexte gauche": "du royaume de France (",
+    "Contexte droite": "et ses m\u00e9th.,"
+  },
+  "Entite8": {
+    "entite": "Albert",
+    "label": "PER",
+    "Contexte gauche": "p. 644):\n...",
+    "Contexte droite": ", marquis de Brandebourg ("
+  },
+  "Entite9": {
+    "entite": "marquis de Brandebourg",
+    "label": "PER",
+    "Contexte gauche": "):\n... Albert,",
+    "Contexte droite": "(...) se rendit"
+  },
+  "Entite10": {
+    "entite": "Prusse",
+    "label": "LOC",
+    "Contexte gauche": "rendit seul ma\u00eetre de la",
+    "Contexte droite": ", qui prit alors le"
+  },
+  "Entite11": {
+    "entite": "Prusse",
+    "label": "LOC",
+    "Contexte gauche": "prit alors le nom de",
+    "Contexte droite": "ducale. Ce nouveau duch\u00e9"
+  },
+  "Entite12": {
+    "entite": "Fr\u00e9d\u00e9ric",
+    "label": "PER",
+    "Contexte gauche": "sous l'a\u00efeul du grand",
+    "Contexte droite": ". Chateaubr., G\u00e9nie"
+  },
+  "Entite13": {
+    "entite": "G\u00e9nie, t. 2",
+    "label": "MISC",
+    "Contexte gauche": "Fr\u00e9d\u00e9ric. Chateaubr.,",
+    "Contexte droite": ", 1803, p. 479"
+  },
+  "Entite14": {
+    "entite": "Empl",
+    "label": "LOC",
+    "Contexte gauche": "p. 479.\n\u2212",
+    "Contexte droite": ". abs. [D\u00e9signe"
+  },
+  "Entite15": {
+    "entite": "D\u00e9signe",
+    "label": "LOC",
+    "Contexte gauche": "Empl. abs. [",
+    "Contexte droite": "le royaume dont il est"
+  },
+  "Entite16": {
+    "entite": "S\u00e9nac",
+    "label": "LOC",
+    "Contexte gauche": "habits de leur \u00e9tat (",
+    "Contexte droite": "de Meilhan, \u00c9migr\u00e9,"
+  },
+  "Entite17": {
+    "entite": "Meilhan",
+    "label": "LOC",
+    "Contexte gauche": "leur \u00e9tat (S\u00e9nac de",
+    "Contexte droite": ", \u00c9migr\u00e9, 1797,"
+  },
+  "Entite18": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "1585).\n\u2212",
+    "Contexte droite": ". Ensemble des habitants d'"
+  },
+  "Entite19": {
+    "entite": "Roi mont.",
+    "label": "PER",
+    "Contexte gauche": "le faire (About,",
+    "Contexte droite": ", 1857, p. 225).V."
+  },
+  "Entite20": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "Pour rien au monde.",
+    "Contexte droite": ". plus cour. pas"
+  },
+  "Entite21": {
+    "entite": "royaume des lis/lys",
+    "label": "LOC",
+    "Contexte gauche": "Vx ou litt\u00e9r. Le",
+    "Contexte droite": ". Le royaume de France"
+  },
+  "Entite22": {
+    "entite": "royaume de France",
+    "label": "LOC",
+    "Contexte gauche": "lis/lys. Le",
+    "Contexte droite": ". Ses vignes avaient \u00e9t\u00e9"
+  },
+  "Entite23": {
+    "entite": "Armagnacs que Bourguignons",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9pargn\u00e9es par les capitaines tant",
+    "Contexte droite": "qui ravageaient la Champagne ("
+  },
+  "Entite24": {
+    "entite": "Champagne",
+    "label": "LOC",
+    "Contexte gauche": "que Bourguignons qui ravageaient la",
+    "Contexte droite": "(...) pour la"
+  },
+  "Entite25": {
+    "entite": "royaume des lys",
+    "label": "LOC",
+    "Contexte gauche": "deux partis qui d\u00e9chiraient le",
+    "Contexte droite": "(A. France, Clio"
+  },
+  "Entite26": {
+    "entite": "Clio",
+    "label": "MISC",
+    "Contexte gauche": "lys (A. France,",
+    "Contexte droite": ", 1900, p. 138"
+  },
+  "Entite27": {
+    "entite": "Grande-Bretagne",
+    "label": "LOC",
+    "Contexte gauche": "ensemble politique form\u00e9 de la",
+    "Contexte droite": "(Angleterre et \u00c9cosse)"
+  },
+  "Entite28": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "form\u00e9 de la Grande-Bretagne (",
+    "Contexte droite": "et \u00c9cosse) et de"
+  },
+  "Entite29": {
+    "entite": "\u00c9cosse",
+    "label": "LOC",
+    "Contexte gauche": "la Grande-Bretagne (Angleterre et",
+    "Contexte droite": ") et de l'Irlande"
+  },
+  "Entite30": {
+    "entite": "Irlande",
+    "label": "LOC",
+    "Contexte gauche": "\u00c9cosse) et de l'",
+    "Contexte droite": ". \u00c0 vrai dire,"
+  },
+  "Entite31": {
+    "entite": "Grande-Bretagne",
+    "label": "LOC",
+    "Contexte gauche": ", 4, p. 322).La",
+    "Contexte droite": "consentait \u00e0 intervenir pour la"
+  },
+  "Entite32": {
+    "entite": "Ferdinand",
+    "label": "PER",
+    "Contexte gauche": "intervenir pour la d\u00e9livrance de",
+    "Contexte droite": ", si j'entrais dans"
+  },
+  "Entite33": {
+    "entite": "Royaumes-Unis",
+    "label": "LOC",
+    "Contexte gauche": "entrais dans les vues des",
+    "Contexte droite": "(Chateaubr., M\u00e9m"
+  },
+  "Entite34": {
+    "entite": "Chateaubr",
+    "label": "LOC",
+    "Contexte gauche": "des Royaumes-Unis (",
+    "Contexte droite": "., M\u00e9m.,"
+  },
+  "Entite35": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "Unis (Chateaubr.,",
+    "Contexte droite": ", t. 3, 1848"
+  },
+  "Entite36": {
+    "entite": "Gautier",
+    "label": "LOC",
+    "Contexte gauche": "des trois royaumes unis (",
+    "Contexte droite": ", Rom. momie,"
+  },
+  "Entite37": {
+    "entite": "Rom",
+    "label": "LOC",
+    "Contexte gauche": "royaumes unis (Gautier,",
+    "Contexte droite": ". momie, 1858,"
+  },
+  "Entite38": {
+    "entite": "Royaume-Uni",
+    "label": "LOC",
+    "Contexte gauche": ".\nc) Le",
+    "Contexte droite": ". Au xixes. et"
+  },
+  "Entite39": {
+    "entite": "Grande-Bretagne",
+    "label": "LOC",
+    "Contexte gauche": "ensemble politique form\u00e9 de la",
+    "Contexte droite": "et de l'Irlande du"
+  },
+  "Entite40": {
+    "entite": "Irlande du Nord",
+    "label": "LOC",
+    "Contexte gauche": "la Grande-Bretagne et de l'",
+    "Contexte droite": ". Monsieur Phileas Fogg \u00e9tait"
+  },
+  "Entite41": {
+    "entite": "Royaume-Uni",
+    "label": "LOC",
+    "Contexte gauche": "et le plus s\u00e9dentaire du",
+    "Contexte droite": "(Verne, Tour monde"
+  },
+  "Entite42": {
+    "entite": "Tour",
+    "label": "MISC",
+    "Contexte gauche": "-Uni (Verne,",
+    "Contexte droite": "monde, 1873, p."
+  },
+  "Entite43": {
+    "entite": "Royaume-Uni",
+    "label": "LOC",
+    "Contexte gauche": "moiti\u00e9 de l'\u00e9lectricit\u00e9 du",
+    "Contexte droite": "serait d'origine nucl\u00e9aire ("
+  },
+  "Entite44": {
+    "entite": "royaume de France",
+    "label": "LOC",
+    "Contexte gauche": "il y avait dans le",
+    "Contexte droite": ".\nb) Il"
+  },
+  "Entite45": {
+    "entite": "royaume de Danemark",
+    "label": "LOC",
+    "Contexte gauche": "de pourri* dans le",
+    "Contexte droite": ".\nc) ["
+  },
+  "Entite46": {
+    "entite": "P.",
+    "label": "PER",
+    "Contexte gauche": ".\nc) [",
+    "Contexte droite": "allus. \u00e0 la phrase"
+  },
+  "Entite47": {
+    "entite": "Richard III",
+    "label": "PER",
+    "Contexte gauche": ". \u00e0 la phrase de",
+    "Contexte droite": ", roi d'Angleterre,"
+  },
+  "Entite48": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "Richard III, roi d'",
+    "Contexte droite": ", sur le champ de"
+  },
+  "Entite49": {
+    "entite": "Bosworth",
+    "label": "PER",
+    "Contexte gauche": "le champ de bataille de",
+    "Contexte droite": "o\u00f9 il fut vaincu et"
+  },
+  "Entite50": {
+    "entite": "Shakespeare",
+    "label": "PER",
+    "Contexte gauche": "tu\u00e9; phrase reprise par",
+    "Contexte droite": "dans Richard III, V"
+  },
+  "Entite51": {
+    "entite": "Richard III",
+    "label": "PER",
+    "Contexte gauche": "phrase reprise par Shakespeare dans",
+    "Contexte droite": ", V, 4:"
+  },
+  "Entite52": {
+    "entite": "Un po\u00e8me!",
+    "label": "MISC",
+    "Contexte gauche": "royaume pour un cheval]",
+    "Contexte droite": "un po\u00e8me! mon royaume"
+  },
+  "Entite53": {
+    "entite": "Richard III",
+    "label": "PER",
+    "Contexte gauche": "un cheval! comme dit",
+    "Contexte droite": "(Lamart., Corresp"
+  },
+  "Entite54": {
+    "entite": "Corresp.",
+    "label": "LOC",
+    "Contexte gauche": "III (Lamart.,",
+    "Contexte droite": ", 1830, p. 42"
+  },
+  "Entite55": {
+    "entite": "P.",
+    "label": "PER",
+    "Contexte gauche": ".\nd) [",
+    "Contexte droite": "allus. au N.T.,"
+  },
+  "Entite56": {
+    "entite": "Matth",
+    "label": "PER",
+    "Contexte gauche": "allus. au N.T.,",
+    "Contexte droite": ". XII, 25,"
+  },
+  "Entite57": {
+    "entite": "Marc III",
+    "label": "PER",
+    "Contexte gauche": ". XII, 25,",
+    "Contexte droite": ", 24, Luc XI"
+  },
+  "Entite58": {
+    "entite": "Luc XI",
+    "label": "PER",
+    "Contexte gauche": "Marc III, 24,",
+    "Contexte droite": ", 17: Tout royaume"
+  },
+  "Entite59": {
+    "entite": "M. de Gu\u00e9rin",
+    "label": "PER",
+    "Contexte gauche": "est divis\u00e9e contre elle-m\u00eame (",
+    "Contexte droite": ", Corresp.1833, p. 108).V."
+  },
+  "Entite60": {
+    "entite": "MYTH",
+    "label": "MISC",
+    "Contexte gauche": "B. \u2212 LITT.,",
+    "Contexte droite": "., RELIG.\n"
+  },
+  "Entite61": {
+    "entite": "Royaume",
+    "label": "LOC",
+    "Contexte gauche": ". G\u00e9n. litt\u00e9r.",
+    "Contexte droite": "infernal, noir, sombre"
+  },
+  "Entite62": {
+    "entite": "Pluton",
+    "label": "LOC",
+    "Contexte gauche": ", sombre; royaume de",
+    "Contexte droite": ", de l'ombre,"
+  },
+  "Entite63": {
+    "entite": "royaume infernal!",
+    "label": "LOC",
+    "Contexte gauche": "condamn\u00e9 aux sombres cloaques du",
+    "Contexte droite": "(Cr\u00e9mieux, Orph\u00e9e,"
+  },
+  "Entite64": {
+    "entite": "Orph\u00e9e",
+    "label": "MISC",
+    "Contexte gauche": "infernal! (Cr\u00e9mieux,",
+    "Contexte droite": ", 1858, i,"
+  },
+  "Entite65": {
+    "entite": "Colette",
+    "label": "PER",
+    "Contexte gauche": "mitron des noirs royaumes (",
+    "Contexte droite": ", Naiss. jour,"
+  },
+  "Entite66": {
+    "entite": "Naiss",
+    "label": "PER",
+    "Contexte gauche": "noirs royaumes (Colette,",
+    "Contexte droite": ". jour, 1928,"
+  },
+  "Entite67": {
+    "entite": "31).V. ombre1II C 3",
+    "label": "MISC",
+    "Contexte gauche": "jour, 1928, p.",
+    "Contexte droite": "ex. de Vialar."
+  },
+  "Entite68": {
+    "entite": "Vialar",
+    "label": "MISC",
+    "Contexte gauche": "C 3 ex. de",
+    "Contexte droite": ".\n2. Royaume"
+  },
+  "Entite69": {
+    "entite": "Royaume",
+    "label": "LOC",
+    "Contexte gauche": "Vialar.\n2.",
+    "Contexte droite": "c\u00e9leste, \u00e9ternel; c\u00e9leste"
+  },
+  "Entite70": {
+    "entite": "Bernier",
+    "label": "PER",
+    "Contexte gauche": "Paradis. Le pr\u00eatre r\u00e9fractaire",
+    "Contexte droite": "(...) promettait la"
+  },
+  "Entite71": {
+    "entite": "Louis XVII",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 ceux qui mourraient pour",
+    "Contexte droite": "(Erckm.-Chatr., Hist"
+  },
+  "Entite72": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "XVII (Erckm.-Chatr.,",
+    "Contexte droite": ". paysan, t. 2"
+  },
+  "Entite73": {
+    "entite": "No\u00ebl Est",
+    "label": "PER",
+    "Contexte gauche": "trouv\u00e9 dans la neige \u00e0",
+    "Contexte droite": "entr\u00e9 de plain-pied"
+  },
+  "Entite74": {
+    "entite": "Royaume \u00e9ternel",
+    "label": "LOC",
+    "Contexte gauche": "de plain-pied au",
+    "Contexte droite": "(Jammes, G\u00e9orgiques,"
+  },
+  "Entite75": {
+    "entite": "Jammes, G\u00e9orgiques",
+    "label": "MISC",
+    "Contexte gauche": "pied au Royaume \u00e9ternel (",
+    "Contexte droite": ", Chant 7, 1912"
+  },
+  "Entite76": {
+    "entite": "Chant 7",
+    "label": "MISC",
+    "Contexte gauche": "(Jammes, G\u00e9orgiques,",
+    "Contexte droite": ", 1912, p. 86"
+  },
+  "Entite77": {
+    "entite": "p. 86",
+    "label": "LOC",
+    "Contexte gauche": "Chant 7, 1912,",
+    "Contexte droite": ").\n3."
+  },
+  "Entite78": {
+    "entite": "Royaume",
+    "label": "LOC",
+    "Contexte gauche": ". JUD\u00c9O-CHR\u00c9T.",
+    "Contexte droite": "c\u00e9leste, royaume de Dieu"
+  },
+  "Entite79": {
+    "entite": "royaume de",
+    "label": "LOC",
+    "Contexte gauche": "CHR\u00c9T. Royaume c\u00e9leste,",
+    "Contexte droite": "Dieu, du P\u00e8re,"
+  },
+  "Entite80": {
+    "entite": "P\u00e8re",
+    "label": "LOC",
+    "Contexte gauche": "royaume de Dieu, du",
+    "Contexte droite": ", du ciel, des"
+  },
+  "Entite81": {
+    "entite": "J\u00e9sus-Christ",
+    "label": "PER",
+    "Contexte gauche": ", des cieux, de",
+    "Contexte droite": ", du Christ et,"
+  },
+  "Entite82": {
+    "entite": "Christ",
+    "label": "PER",
+    "Contexte gauche": "J\u00e9sus-Christ, du",
+    "Contexte droite": "et, absol.,"
+  },
+  "Entite83": {
+    "entite": "Royaume",
+    "label": "LOC",
+    "Contexte gauche": "et, absol.,",
+    "Contexte droite": ". R\u00e8gne de Dieu,"
+  },
+  "Entite84": {
+    "entite": "R\u00e8gne de Dieu",
+    "label": "PER",
+    "Contexte gauche": "absol., Royaume.",
+    "Contexte droite": ", du Christ; communaut\u00e9"
+  },
+  "Entite85": {
+    "entite": "Christ",
+    "label": "PER",
+    "Contexte gauche": "R\u00e8gne de Dieu, du",
+    "Contexte droite": "; communaut\u00e9 des croyants vivant"
+  },
+  "Entite86": {
+    "entite": "Christ",
+    "label": "PER",
+    "Contexte gauche": "vivant de l'enseignement du",
+    "Contexte droite": "; communaut\u00e9 des saints."
+  },
+  "Entite87": {
+    "entite": "Royaume",
+    "label": "LOC",
+    "Contexte gauche": "des saints. Attente du",
+    "Contexte droite": ". [L'abb\u00e9 Ardouin"
+  },
+  "Entite88": {
+    "entite": "royaume du P\u00e8re",
+    "label": "LOC",
+    "Contexte gauche": "ressembler pour entrer dans le",
+    "Contexte droite": "(Mauriac, N\u0153ud vip"
+  },
+  "Entite89": {
+    "entite": "N\u0153ud",
+    "label": "LOC",
+    "Contexte gauche": "du P\u00e8re (Mauriac,",
+    "Contexte droite": "vip., 1932,"
+  },
+  "Entite90": {
+    "entite": "\u00c9glises chr\u00e9tiennes",
+    "label": "MISC",
+    "Contexte gauche": ", 1932, p. 139).Les",
+    "Contexte droite": "(...) vivent de"
+  },
+  "Entite91": {
+    "entite": "Royaume",
+    "label": "LOC",
+    "Contexte gauche": "vivent de la promesse du",
+    "Contexte droite": "qui vient et qui d\u00e9j\u00e0"
+  },
+  "Entite92": {
+    "entite": "Univers \u00e9con.",
+    "label": "MISC",
+    "Contexte gauche": "monde de l'homme (",
+    "Contexte droite": "et soc., 1960"
+  },
+  "Entite93": {
+    "entite": "P.",
+    "label": "PER",
+    "Contexte gauche": ").\n\u2212 [",
+    "Contexte droite": "allus. au N.T.,"
+  },
+  "Entite94": {
+    "entite": "Jean XVIII",
+    "label": "PER",
+    "Contexte gauche": "allus. au N.T.,",
+    "Contexte droite": ", 36: Mon r\u00e8gne"
+  },
+  "Entite95": {
+    "entite": "Bragues]!",
+    "label": "LOC",
+    "Contexte gauche": "Lui [l'archev\u00eaque de",
+    "Contexte droite": "... Son royaume est de"
+  },
+  "Entite96": {
+    "entite": "Lemercier, Pinto",
+    "label": "MISC",
+    "Contexte gauche": "de l'autre monde (",
+    "Contexte droite": ", 1800, i,"
+  },
+  "Entite97": {
+    "entite": "37).Son royaume [du po\u00e8te]",
+    "label": "MISC",
+    "Contexte gauche": "i, 2, p.",
+    "Contexte droite": "n'est pas de ce"
+  },
+  "Entite98": {
+    "entite": "Arts et litt",
+    "label": "MISC",
+    "Contexte gauche": "pas sur la terre (",
+    "Contexte droite": "., 1936, p."
+  },
+  "Entite99": {
+    "entite": "p. 38-16",
+    "label": "LOC",
+    "Contexte gauche": "litt., 1936,",
+    "Contexte droite": ").\nb)"
+  },
+  "Entite100": {
+    "entite": "Kant",
+    "label": "PER",
+    "Contexte gauche": "ainsi dans la morale de",
+    "Contexte droite": "lui-m\u00eame? L'homme n'"
+  },
+  "Entite101": {
+    "entite": "Gilson, Espr",
+    "label": "MISC",
+    "Contexte gauche": "du royaume des fins (",
+    "Contexte droite": ". philos. m\u00e9di\u00e9v."
+  },
+  "Entite102": {
+    "entite": "Royaume de Tendre",
+    "label": "LOC",
+    "Contexte gauche": ". HIST. LITT\u00c9R.",
+    "Contexte droite": ". V. tendre2B 2 b."
+  },
+  "Entite103": {
+    "entite": "Royaume",
+    "label": "LOC",
+    "Contexte gauche": "qui lui sont propres.",
+    "Contexte droite": "int\u00e9rieur; royaume de l'"
+  },
+  "Entite104": {
+    "entite": "Suzanne",
+    "label": "MISC",
+    "Contexte gauche": "petit royaume (Duhamel,",
+    "Contexte droite": ", 1941, p. 117).Nous"
+  },
+  "Entite105": {
+    "entite": "Belles sais.",
+    "label": "PER",
+    "Contexte gauche": "ajoncs! (Colette,",
+    "Contexte droite": ", 1954, p. 160"
+  },
+  "Entite106": {
+    "entite": "P\u00e8re-Lachaise",
+    "label": "LOC",
+    "Contexte gauche": "serait cru log\u00e9 devant le",
+    "Contexte droite": ", en plein royaume des"
+  },
+  "Entite107": {
+    "entite": "Zola",
+    "label": "MISC",
+    "Contexte gauche": "plein royaume des taupes (",
+    "Contexte droite": ", Assommoir, 1877,"
+  },
+  "Entite108": {
+    "entite": "Assommoir",
+    "label": "MISC",
+    "Contexte gauche": "des taupes (Zola,",
+    "Contexte droite": ", 1877, p. 687"
+  },
+  "Entite109": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [\u0280wajo:"
+  },
+  "Entite110": {
+    "entite": "m]. Att",
+    "label": "PER",
+    "Contexte gauche": ".: [\u0280wajo:",
+    "Contexte droite": ". ds Ac. dep"
+  },
+  "Entite111": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": "\u0280wajo:m]. Att.",
+    "Contexte droite": ". dep. 1694."
+  },
+  "Entite112": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "1694. \u00c9tymol. et",
+    "Contexte droite": ". 1. Ca 1100"
+  },
+  "Entite113": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": ". Ca 1100 reialme \u00ab",
+    "Contexte droite": "gouvern\u00e9 par un roi \u00bb"
+  },
+  "Entite114": {
+    "entite": "Roland",
+    "label": "PER",
+    "Contexte gauche": "par un roi \u00bb (",
+    "Contexte droite": ", \u00e9d. J. B\u00e9dier"
+  },
+  "Entite115": {
+    "entite": "J. B\u00e9dier",
+    "label": "PER",
+    "Contexte gauche": "(Roland, \u00e9d.",
+    "Contexte droite": ", 2914); 2"
+  },
+  "Entite116": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "); 2. 1266",
+    "Contexte droite": "roiaume \u00ab paradis \u00bb ("
+  },
+  "Entite117": {
+    "entite": "Complainte d'Outremer",
+    "label": "PER",
+    "Contexte gauche": "paradis \u00bb (Rutebeuf,",
+    "Contexte droite": ", \u00e9d. E. Faral"
+  },
+  "Entite118": {
+    "entite": "J. Bastin",
+    "label": "PER",
+    "Contexte gauche": "\u00e9d. E. Faral et",
+    "Contexte droite": ", t. 1, p."
+  },
+  "Entite119": {
+    "entite": "Jean Renart",
+    "label": "PER",
+    "Contexte gauche": ". \u00bb ca 1200 (",
+    "Contexte droite": ", L'Escoufle, \u00e9d"
+  },
+  "Entite120": {
+    "entite": "L'Escoufle, \u00e9d.",
+    "label": "MISC",
+    "Contexte gauche": "1200 (Jean Renart,",
+    "Contexte droite": "Fr. Sweetser, 1524"
+  },
+  "Entite121": {
+    "entite": "Prise de Pamp.",
+    "label": "MISC",
+    "Contexte gauche": "mil. xives. (",
+    "Contexte droite": ", 582 ds Gdf."
+  },
+  "Entite122": {
+    "entite": "Gdf",
+    "label": "ORG",
+    "Contexte gauche": "Pamp., 582 ds",
+    "Contexte droite": ". Compl.),"
+  },
+  "Entite123": {
+    "entite": "ds Rayn",
+    "label": "PER",
+    "Contexte gauche": "\u00bb xiie-xiiies.",
+    "Contexte droite": ". t. 4, p."
+  },
+  "Entite124": {
+    "entite": "Levy Prov.",
+    "label": "PER",
+    "Contexte gauche": "4, p. 68a et",
+    "Contexte droite": "et reialme \u00ab id."
+  },
+  "Entite125": {
+    "entite": "ds Pansier",
+    "label": "PER",
+    "Contexte gauche": "\u00bb xiiie-xves.",
+    "Contexte droite": ". Fr\u00e9q. abs."
+  },
+  "Entite126": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r.:",
+    "Contexte droite": ".: a) 7"
+  },
+  "Entite127": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 3 246;",
+    "Contexte droite": ".: a) 3"
+  },
+  "Entite128": {
+    "entite": "Baist",
+    "label": "PER",
+    "Contexte gauche": "4 900. Bbg.",
+    "Contexte droite": "(G.). Banse"
+  },
+  "Entite129": {
+    "entite": "Forsch",
+    "label": "PER",
+    "Contexte gauche": ", bride... Rom.",
+    "Contexte droite": ". 1906, t. 19"
+  },
+  "Entite130": {
+    "entite": "\u2212 Carmignac",
+    "label": "PER",
+    "Contexte gauche": "pp. 639-640.",
+    "Contexte droite": "(J.). R\u00e8gne"
+  },
+  "Entite131": {
+    "entite": "R\u00e8gne de Dieu",
+    "label": "PER",
+    "Contexte gauche": "Carmignac (J.).",
+    "Contexte droite": "ou royaume de Dieu?"
+  },
+  "Entite132": {
+    "entite": "Foi Lang",
+    "label": "PER",
+    "Contexte gauche": "ou royaume de Dieu?",
+    "Contexte droite": ". 1976, n o1"
+  },
+  "Entite133": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "41. \u2212 Quem.",
+    "Contexte droite": "t. 30 (s.v."
+  },
+  "Entite134": {
+    "entite": "Royaume(-)Uni",
+    "label": "ORG",
+    "Contexte gauche": "t. 30 (s.v.",
+    "Contexte droite": ")."
+  }
+}

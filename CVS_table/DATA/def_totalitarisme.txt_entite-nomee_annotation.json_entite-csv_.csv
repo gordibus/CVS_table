@@ -1,0 +1,28 @@
+entite,label,Contexte gauche,Contexte droite,annotation,id
+Totalitarisme,PER,-,", subst. masc.",Vrai Positif,Entite0
+Gide,PER,des régimes totalitaires. [,] ajoute aussitôt qu'il,Vrai Positif,Entite1
+»,MISC,écrire « encore un livre,", et ces mots sont",Faux Positif,Entite2
+Green,MISC,totalitarisme qu'il hait (,", Journal, 1950,",Faux Positif,Entite3
+Journal,PER,"il hait (Green,",", 1950, p. 67",Faux Positif,Entite4
+P. ext,MISC,"67).
+−",. Système politico-économique,Faux Positif,Entite5
+Le Nouvel Observateur,ORG,", policier et commercial (",", 23 nov. 1966,",Vrai Positif,Entite6
+Prononc,PER,". 4).
+",.: [tɔtalitaʀism̭]. Étymol,Faux Positif,Entite7
+Étymol,PER,Prononc.: [tɔtalitaʀism̭].,. et Hist. 1936,Faux Positif,Entite8
+Hist,PER,[tɔtalitaʀism̭]. Étymol. et,. 1936 totalitarisme fasciste ou,Faux Positif,Entite9
+Maritain,MISC,totalitarisme fasciste ou raciste (,", Human. intégr.",Vrai Positif,Entite10
+Human,MISC,"ou raciste (Maritain,",". intégr., p.",Vrai Positif,Entite11
+Dér,MISC,", p. 290).",. sav. de totalitaire,Vrai Positif,Entite12
+Fréq,PER,*; suff. -isme*.,. abs. littér.,Vrai Positif,Entite13
+Bbg,MISC,littér.: 37.,. Arias (F. F.,Vrai Positif,Entite14
+Arias,PER,: 37. Bbg.,(F. F.).,Vrai Positif,Entite15
+F. F.,PER,. Bbg. Arias (,). Le Champ notionnel,Vrai Positif,Entite16
+Champ notionnel de fascisme...,ORG,F. F.). Le,Congrès Internat. de Ling,Vrai Positif,Entite17
+Congrès Internat,ORG,Champ notionnel de fascisme...,. de Ling. et,Vrai Positif,Entite18
+Ling,PER,... Congrès Internat. de,. et Philol. Rom,Vrai Positif,Entite19
+Philol,LOC,. de Ling. et,". Rom. Naples,",Faux Positif,Entite20
+Rom,LOC,Ling. et Philol.,". Naples, 1981,",Faux Positif,Entite21
+Naples,LOC,et Philol. Rom.,", 1981, t. 5",Vrai Positif,Entite22
+Quem,LOC,72-84. −,. DDL t. 7.,Faux Positif,Entite23
+DDL t. 7,MISC,84. − Quem.,.,Vrai Positif,Entite24

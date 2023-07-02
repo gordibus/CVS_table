@@ -1,0 +1,1310 @@
+{
+  "Entite0": {
+    "entite": "- Autorit\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst.f\u00e9m. \n\nPouvoir"
+  },
+  "Entite1": {
+    "entite": "Pouvoir",
+    "label": "LOC",
+    "Contexte gauche": "Autorit\u00e9, subst.f\u00e9m. \n\n",
+    "Contexte droite": "d'agir sur autrui."
+  },
+  "Entite2": {
+    "entite": "M. Godeau",
+    "label": "PER",
+    "Contexte gauche": "des \u00ab n\u00e9cessit\u00e9s \u00bb pour",
+    "Contexte droite": "\u00e9tait celle qui lui venait"
+  },
+  "Entite3": {
+    "entite": "M. Godeau",
+    "label": "PER",
+    "Contexte gauche": "autres devait \u00eatre utilis\u00e9e par",
+    "Contexte droite": "comme un moyen : celui"
+  },
+  "Entite4": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "le servir. Jouhandeau,",
+    "Contexte droite": "Godeau intime,1926, p. 121"
+  },
+  "Entite5": {
+    "entite": "Godeau",
+    "label": "PER",
+    "Contexte gauche": "servir. Jouhandeau, M.",
+    "Contexte droite": "intime,1926, p. 121."
+  },
+  "Entite6": {
+    "entite": "A.\u2212 [",
+    "label": "ORG",
+    "Contexte gauche": ", p. 121.\n",
+    "Contexte droite": "Autorit\u00e9 acquise en vue du"
+  },
+  "Entite7": {
+    "entite": "Domaine",
+    "label": "LOC",
+    "Contexte gauche": "choses]\n1.",
+    "Contexte droite": "gouvernemental, admin.,"
+  },
+  "Entite8": {
+    "entite": "Pouvoir",
+    "label": "LOC",
+    "Contexte gauche": "Autorit\u00e9 par voie l\u00e9gale]",
+    "Contexte droite": "l\u00e9galement conf\u00e9r\u00e9 \u00e0 une personne"
+  },
+  "Entite9": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": ". L'autorit\u00e9 de l'",
+    "Contexte droite": ", du roi :\n"
+  },
+  "Entite10": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "autorit\u00e9, et pouss\u00e9 l'",
+    "Contexte droite": "sur le bord de l'"
+  },
+  "Entite11": {
+    "entite": "Monarques",
+    "label": "LOC",
+    "Contexte gauche": "avec insolence, que les",
+    "Contexte droite": "ne tiennent leur pouvoir que"
+  },
+  "Entite12": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "tiennent leur pouvoir que de",
+    "Contexte droite": "et de leur \u00e9p\u00e9e,"
+  },
+  "Entite13": {
+    "entite": "Monarques",
+    "label": "MISC",
+    "Contexte gauche": "voix, ils r\u00e9p\u00e8tent aux",
+    "Contexte droite": ", qu'en tout \u00e9tat"
+  },
+  "Entite14": {
+    "entite": "Nation",
+    "label": "MISC",
+    "Contexte gauche": "dans le corps de la",
+    "Contexte droite": ", que de lui \u00e9mane"
+  },
+  "Entite15": {
+    "entite": "Les Pamphlets",
+    "label": "MISC",
+    "Contexte gauche": "leurs sujets. Marat,",
+    "Contexte droite": ",Offrande \u00e0 la Patrie"
+  },
+  "Entite16": {
+    "entite": "Offrande",
+    "label": "LOC",
+    "Contexte gauche": "Marat, Les Pamphlets,",
+    "Contexte droite": "\u00e0 la Patrie, 1789"
+  },
+  "Entite17": {
+    "entite": "De la Religion,2epart.",
+    "label": "MISC",
+    "Contexte gauche": "soci\u00e9t\u00e9, ... Lamennais,",
+    "Contexte droite": ", 1826, p. 56"
+  },
+  "Entite18": {
+    "entite": "Moyen \u00c2ge",
+    "label": "LOC",
+    "Contexte gauche": "On peut dire qu'au",
+    "Contexte droite": ", l'autorit\u00e9 temporelle \u00e9tait"
+  },
+  "Entite19": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "ainsi dire la personne de",
+    "Contexte droite": ". Le sacre du roi"
+  },
+  "Entite20": {
+    "entite": "Humanisme",
+    "label": "PER",
+    "Contexte gauche": "souverain roi. Maritain,",
+    "Contexte droite": "int\u00e9gral,1936, pp. 163-"
+  },
+  "Entite21": {
+    "entite": "Principe",
+    "label": "LOC",
+    "Contexte gauche": "-164.\n\u2666",
+    "Contexte droite": "d'autorit\u00e9 (cf. Flaubert"
+  },
+  "Entite22": {
+    "entite": "Flaubert",
+    "label": "PER",
+    "Contexte gauche": "Principe d'autorit\u00e9 (cf.",
+    "Contexte droite": ", L'\u00c9ducation sentimentale,"
+  },
+  "Entite23": {
+    "entite": "L'\u00c9ducation sentimentale",
+    "label": "MISC",
+    "Contexte gauche": "autorit\u00e9 (cf. Flaubert,",
+    "Contexte droite": ", t. 2, 1869"
+  },
+  "Entite24": {
+    "entite": "Mes",
+    "label": "LOC",
+    "Contexte gauche": "p. 241; Barr\u00e8s,",
+    "Contexte droite": "cahiers, t. 6,"
+  },
+  "Entite25": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "295).\n\u2666",
+    "Contexte droite": "d'autorit\u00e9 (cf. Bainville"
+  },
+  "Entite26": {
+    "entite": "Bainville",
+    "label": "PER",
+    "Contexte gauche": "R\u00e9gime d'autorit\u00e9 (cf.",
+    "Contexte droite": ", Histoire de France,"
+  },
+  "Entite27": {
+    "entite": "Histoire de France",
+    "label": "MISC",
+    "Contexte gauche": "autorit\u00e9 (cf. Bainville,",
+    "Contexte droite": ", t. 2, 1924"
+  },
+  "Entite28": {
+    "entite": "Une autorit\u00e9 sans bornes",
+    "label": "MISC",
+    "Contexte gauche": "dans ses manifestations ext\u00e9rieures]",
+    "Contexte droite": ", gouverner avec autorit\u00e9,"
+  },
+  "Entite29": {
+    "entite": "Nation",
+    "label": "LOC",
+    "Contexte gauche": "toujours fausse vis-\u00e0-vis de la",
+    "Contexte droite": "et par la com\u00e9die n\u00e9cessaire"
+  },
+  "Entite30": {
+    "entite": "Servitude",
+    "label": "PER",
+    "Contexte gauche": "mauvais exemple. Vigny,",
+    "Contexte droite": "et grandeur militaires,1835, p."
+  },
+  "Entite31": {
+    "entite": "Aurelle",
+    "label": "LOC",
+    "Contexte gauche": "25.\n6.",
+    "Contexte droite": "imagina les cheveux gris \u00e9galement"
+  },
+  "Entite32": {
+    "entite": "Les Silences du colonel Bramble,1918",
+    "label": "MISC",
+    "Contexte gauche": "savoir. \u00bb Maurois,",
+    "Contexte droite": ", p. 164.\n"
+  },
+  "Entite33": {
+    "entite": "Baudry",
+    "label": "PER",
+    "Contexte gauche": "une autorit\u00e9 absolue (cf.",
+    "Contexte droite": "des lozi\u00e8res Voyage \u00e0 la"
+  },
+  "Entite34": {
+    "entite": "Voyage \u00e0 la Louisiane",
+    "label": "MISC",
+    "Contexte gauche": "(cf. Baudry des lozi\u00e8res",
+    "Contexte droite": ", 1802, p. 280"
+  },
+  "Entite35": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "autorit\u00e9).\n\u2212",
+    "Contexte droite": ".\n\u2666 Personne,"
+  },
+  "Entite36": {
+    "entite": "Pr\u00e9fet des \u00e9tudes",
+    "label": "MISC",
+    "Contexte gauche": "messieurs \u00bb, disait le",
+    "Contexte droite": "qui prenait un air solennel"
+  },
+  "Entite37": {
+    "entite": "Larbaud",
+    "label": "PER",
+    "Contexte gauche": "prenait un air solennel.",
+    "Contexte droite": ", Fermina Marquez,1911, p."
+  },
+  "Entite38": {
+    "entite": "Fermina Marquez,1911",
+    "label": "PER",
+    "Contexte gauche": "air solennel. Larbaud,",
+    "Contexte droite": ", p. 50.\n"
+  },
+  "Entite39": {
+    "entite": "L'Aventure atomique,1962",
+    "label": "MISC",
+    "Contexte gauche": "port\u00e9e mondiale. Goldschmidt,",
+    "Contexte droite": ", pp. 65-66"
+  },
+  "Entite40": {
+    "entite": "Essai sur la philos",
+    "label": "MISC",
+    "Contexte gauche": "romaine. (Ozanam,",
+    "Contexte droite": ". de Dante,1838, p."
+  },
+  "Entite41": {
+    "entite": "Dante,1838",
+    "label": "LOC",
+    "Contexte gauche": "sur la philos. de",
+    "Contexte droite": ", p. 27)."
+  },
+  "Entite42": {
+    "entite": "Autorit\u00e9 + adj",
+    "label": "ORG",
+    "Contexte gauche": "\nSYNT. a)",
+    "Contexte droite": ". : autorit\u00e9 centrale,"
+  },
+  "Entite43": {
+    "entite": "Autorit\u00e9 + des/du +",
+    "label": "ORG",
+    "Contexte gauche": "pleine autorit\u00e9. b)",
+    "Contexte droite": "subst. : autorit\u00e9 du"
+  },
+  "Entite44": {
+    "entite": "Anton",
+    "label": "PER",
+    "Contexte gauche": ", totalitarisme. b)",
+    "Contexte droite": ". anarchie, assujettissement,"
+  },
+  "Entite45": {
+    "entite": "Pouvoir",
+    "label": "LOC",
+    "Contexte gauche": "contraire \u00e0 la loi]",
+    "Contexte droite": "qu'une personne s'attribue"
+  },
+  "Entite46": {
+    "entite": "Ath\u00e8nes",
+    "label": "LOC",
+    "Contexte gauche": "tyrannie s'\u00e9toit gliss\u00e9e \u00e0",
+    "Contexte droite": ", elle avoit aussi lev\u00e9"
+  },
+  "Entite47": {
+    "entite": "Sicile",
+    "label": "LOC",
+    "Contexte gauche": "aussi lev\u00e9 l'\u00e9tendard en",
+    "Contexte droite": ". Tranquille possesseur d'une"
+  },
+  "Entite48": {
+    "entite": "Tranquille",
+    "label": "LOC",
+    "Contexte gauche": "l'\u00e9tendard en Sicile.",
+    "Contexte droite": "possesseur d'une autorit\u00e9 usurp\u00e9e"
+  },
+  "Entite49": {
+    "entite": "Denys l'Ancien",
+    "label": "PER",
+    "Contexte gauche": "usurp\u00e9e par la ruse,",
+    "Contexte droite": "soutint trente-huit ann\u00e9es sa puissance"
+  },
+  "Entite50": {
+    "entite": "Auguste",
+    "label": "PER",
+    "Contexte gauche": ": en cela, comme",
+    "Contexte droite": ", il proscrivit et r\u00e9gna"
+  },
+  "Entite51": {
+    "entite": "Essai sur les R\u00e9volutions,t. 2",
+    "label": "MISC",
+    "Contexte gauche": "et r\u00e9gna. Chateaubriand,",
+    "Contexte droite": ", 1797, p. 125"
+  },
+  "Entite52": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "p. 125.\n\u2212",
+    "Contexte droite": ". Personne qui exerce le"
+  },
+  "Entite53": {
+    "entite": "Sous-Pr\u00e9fet",
+    "label": "LOC",
+    "Contexte gauche": "et de la r\u00e9ponse du",
+    "Contexte droite": ". Nos r\u00e9volutionnaires se sont"
+  },
+  "Entite54": {
+    "entite": "Fran\u00e7ais",
+    "label": "LOC",
+    "Contexte gauche": "dispositions et les sentiments des",
+    "Contexte droite": "en g\u00e9n\u00e9ral, lorsqu'ils"
+  },
+  "Entite55": {
+    "entite": "Maine de Biran",
+    "label": "PER",
+    "Contexte gauche": "toute autorit\u00e9 l\u00e9gitime; ...",
+    "Contexte droite": ", Journal,1815, pp. 90"
+  },
+  "Entite56": {
+    "entite": "Journal,1815",
+    "label": "LOC",
+    "Contexte gauche": "... Maine de Biran,",
+    "Contexte droite": ", pp. 90-91"
+  },
+  "Entite57": {
+    "entite": "Autorit\u00e9 sans r\u00e9f",
+    "label": "ORG",
+    "Contexte gauche": ") Parfois p\u00e9j. [",
+    "Contexte droite": ". \u00e0 la loi,"
+  },
+  "Entite58": {
+    "entite": "Pouvoir",
+    "label": "LOC",
+    "Contexte gauche": ", \u00e0 la l\u00e9galit\u00e9]",
+    "Contexte droite": "qu'une personne s'attribue"
+  },
+  "Entite59": {
+    "entite": "Wallstein",
+    "label": "LOC",
+    "Contexte gauche": ":\n11. Ce",
+    "Contexte droite": ", \u00e0 la v\u00e9rit\u00e9,"
+  },
+  "Entite60": {
+    "entite": "maison d'Autriche",
+    "label": "LOC",
+    "Contexte gauche": "les armes que pour la",
+    "Contexte droite": ": mais l'arm\u00e9e qu'"
+  },
+  "Entite61": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": "qu'il levait sur l'",
+    "Contexte droite": ", de sa propre autorit\u00e9"
+  },
+  "Entite62": {
+    "entite": "Wallstein,1809, p. IX",
+    "label": "MISC",
+    "Contexte gauche": "d'incertitude. Constant,",
+    "Contexte droite": ".\n\u2666 (Agir"
+  },
+  "Entite63": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": ") d'autorit\u00e9 (cf.",
+    "Contexte droite": ", Hist. des ducs"
+  },
+  "Entite64": {
+    "entite": "ducs de Bourgogne",
+    "label": "LOC",
+    "Contexte gauche": "Barante, Hist. des",
+    "Contexte droite": ", t. 1, 1824"
+  },
+  "Entite65": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "priv\u00e9e (cf. Michelet,",
+    "Contexte droite": ". romaine, t. 2"
+  },
+  "Entite66": {
+    "entite": "Pamphlets",
+    "label": "LOC",
+    "Contexte gauche": "des jurisconsultes (Courier,",
+    "Contexte droite": "pol.,P\u00e9tition aux deux"
+  },
+  "Entite67": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "5).\n\u2212",
+    "Contexte droite": ". Magistrat investi de ce"
+  },
+  "Entite68": {
+    "entite": "J. de Goncourt",
+    "label": "PER",
+    "Contexte gauche": "du cabriolet... E. et",
+    "Contexte droite": ", Journal,1896, p. 919"
+  },
+  "Entite69": {
+    "entite": "Journal,1896",
+    "label": "MISC",
+    "Contexte gauche": "et J. de Goncourt,",
+    "Contexte droite": ", p. 919.\n"
+  },
+  "Entite70": {
+    "entite": "propri\u00e9t\u00e9?1840",
+    "label": "ORG",
+    "Contexte gauche": "Qu'est-ce que la",
+    "Contexte droite": ", p. 152.\n"
+  },
+  "Entite71": {
+    "entite": "Autorit\u00e9 de la chose",
+    "label": "ORG",
+    "Contexte gauche": "p. 152.\n\u2666",
+    "Contexte droite": "jug\u00e9e. Force ex\u00e9cutoire de"
+  },
+  "Entite72": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "une pers. (cf.",
+    "Contexte droite": ", Eug\u00e9nie Grandet, 1834"
+  },
+  "Entite73": {
+    "entite": "Eug\u00e9nie Grandet",
+    "label": "PER",
+    "Contexte gauche": ". (cf. Balzac,",
+    "Contexte droite": ", 1834, p. 17"
+  },
+  "Entite74": {
+    "entite": "Vente",
+    "label": "MISC",
+    "Contexte gauche": "17).\n\u2666",
+    "Contexte droite": "par autorit\u00e9 de justice ("
+  },
+  "Entite75": {
+    "entite": "Flaubert",
+    "label": "PER",
+    "Contexte gauche": "par autorit\u00e9 de justice (",
+    "Contexte droite": ", L'\u00c9ducation sentimentale,"
+  },
+  "Entite76": {
+    "entite": "L'\u00c9ducation sentimentale",
+    "label": "MISC",
+    "Contexte gauche": "de justice (Flaubert,",
+    "Contexte droite": ",t. 2, 1869"
+  },
+  "Entite77": {
+    "entite": "Autorit\u00e9 + adj",
+    "label": "ORG",
+    "Contexte gauche": "\nSYNT. a)",
+    "Contexte droite": ". : autorit\u00e9 judiciaire,"
+  },
+  "Entite78": {
+    "entite": "Autorit\u00e9 +",
+    "label": "ORG",
+    "Contexte gauche": ", l\u00e9gislative; b)",
+    "Contexte droite": "subst. : autorit\u00e9 de"
+  },
+  "Entite79": {
+    "entite": "Autorit\u00e9 acquise",
+    "label": "ORG",
+    "Contexte gauche": "p\u00e8re.\nB.\u2212 [",
+    "Contexte droite": "ou naturelle de mani\u00e8re \u00e0"
+  },
+  "Entite80": {
+    "entite": "\u00c9glise",
+    "label": "MISC",
+    "Contexte gauche": ". L'autorit\u00e9 de l'",
+    "Contexte droite": ", du pape :\n"
+  },
+  "Entite81": {
+    "entite": "P. Bourget",
+    "label": "PER",
+    "Contexte gauche": "certitude qu'il suppose.",
+    "Contexte droite": ", Essais de psychol."
+  },
+  "Entite82": {
+    "entite": "Essais de psychol",
+    "label": "MISC",
+    "Contexte gauche": "suppose. P. Bourget,",
+    "Contexte droite": ". contemp.,1883,"
+  },
+  "Entite83": {
+    "entite": "R. Martin du Gard",
+    "label": "PER",
+    "Contexte gauche": "de \u00ab poss\u00e9der \u00bb!",
+    "Contexte droite": ", Les Thibault,L'"
+  },
+  "Entite84": {
+    "entite": "Les Thibault",
+    "label": "MISC",
+    "Contexte gauche": "R. Martin du Gard,",
+    "Contexte droite": ",L'\u00c9t\u00e9 1914,"
+  },
+  "Entite85": {
+    "entite": "L'\u00c9t\u00e9 1914",
+    "label": "MISC",
+    "Contexte gauche": "Gard, Les Thibault,",
+    "Contexte droite": ", 1936, p. 123"
+  },
+  "Entite86": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "p. 123.\n\u2212",
+    "Contexte droite": ". Personne qui jouit d'"
+  },
+  "Entite87": {
+    "entite": "Hugo",
+    "label": "PER",
+    "Contexte gauche": ". J'ai pour ces",
+    "Contexte droite": ", ces Lamartine la plus"
+  },
+  "Entite88": {
+    "entite": "Lamartine",
+    "label": "PER",
+    "Contexte gauche": "pour ces Hugo, ces",
+    "Contexte droite": "la plus respectueuse admiration,"
+  },
+  "Entite89": {
+    "entite": "Mes cahiers,t. 6",
+    "label": "MISC",
+    "Contexte gauche": "forces pleurardes. Barr\u00e8s,",
+    "Contexte droite": ", 1908, p. 333"
+  },
+  "Entite90": {
+    "entite": "Chose",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9f\u00e9rence.\n\u2212 [",
+    "Contexte droite": "concr.] L'autorit\u00e9"
+  },
+  "Entite91": {
+    "entite": "\u00c9criture",
+    "label": "LOC",
+    "Contexte gauche": "] L'autorit\u00e9 de l'",
+    "Contexte droite": ":\n18. Il"
+  },
+  "Entite92": {
+    "entite": "Europe",
+    "label": "LOC",
+    "Contexte gauche": "ont tant de popularit\u00e9 en",
+    "Contexte droite": ", tant d'autorit\u00e9,"
+  },
+  "Entite93": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "d'autorit\u00e9, repr\u00e9sentent vraiment",
+    "Contexte droite": ", ... Michelet, Le"
+  },
+  "Entite94": {
+    "entite": "Le Peuple,1846, p. 11",
+    "label": "MISC",
+    "Contexte gauche": "France, ... Michelet,",
+    "Contexte droite": ".\n\u2212 [Chose"
+  },
+  "Entite95": {
+    "entite": "Chose",
+    "label": "PER",
+    "Contexte gauche": "11.\n\u2212 [",
+    "Contexte droite": "abstr.] L'autorit\u00e9"
+  },
+  "Entite96": {
+    "entite": "Philine",
+    "label": "PER",
+    "Contexte gauche": "mon c\u0153ur. Bref,",
+    "Contexte droite": "me r\u00e9p\u00e8te les exhortations que"
+  },
+  "Entite97": {
+    "entite": "Journal intime,1866",
+    "label": "ORG",
+    "Contexte gauche": "secr\u00e8tes aspirations. Amiel,",
+    "Contexte droite": ", p. 125.\n"
+  },
+  "Entite98": {
+    "entite": "\u2666 Sp\u00e9c",
+    "label": "LOC",
+    "Contexte gauche": ", p. 125.\n",
+    "Contexte droite": "., PHILOS. M\u00e9thode"
+  },
+  "Entite99": {
+    "entite": "Jans\u00e9nius",
+    "label": "MISC",
+    "Contexte gauche": "20. ... il [",
+    "Contexte droite": "] expose et met en"
+  },
+  "Entite100": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "de p\u00e9n\u00e9trer les myst\u00e8res de",
+    "Contexte droite": ": l'une des philosophes"
+  },
+  "Entite101": {
+    "entite": "voie tr\u00e8s-trompeuse",
+    "label": "LOC",
+    "Contexte gauche": "par la seule raison,",
+    "Contexte droite": ", l'autre des Chr\u00e9tiens"
+  },
+  "Entite102": {
+    "entite": "Chr\u00e9tiens",
+    "label": "MISC",
+    "Contexte gauche": "trompeuse, l'autre des",
+    "Contexte droite": ", tr\u00e8s-s\u00fbre,"
+  },
+  "Entite103": {
+    "entite": "Chr\u00e9tiens",
+    "label": "MISC",
+    "Contexte gauche": "pour \u00e9tudier, \u00e0 ces",
+    "Contexte droite": "d'opinion si communs de"
+  },
+  "Entite104": {
+    "entite": "Saint-Cyran",
+    "label": "LOC",
+    "Contexte gauche": ", selon le mot de",
+    "Contexte droite": ", ne veulent que d\u00e9couvrir"
+  },
+  "Entite105": {
+    "entite": "saint Augustin",
+    "label": "PER",
+    "Contexte gauche": "il suffit de dire avec",
+    "Contexte droite": ", avec Jans\u00e9nius, avec"
+  },
+  "Entite106": {
+    "entite": "Jans\u00e9nius",
+    "label": "PER",
+    "Contexte gauche": "avec saint Augustin, avec",
+    "Contexte droite": ", avec ceux qui parlent"
+  },
+  "Entite107": {
+    "entite": "Enfants de Dieu",
+    "label": "MISC",
+    "Contexte gauche": "avec ceux qui parlent des",
+    "Contexte droite": ", \u00e9tant eux-m\u00eames"
+  },
+  "Entite108": {
+    "entite": "Port-Royal",
+    "label": "LOC",
+    "Contexte gauche": "on aime. Sainte-Beuve,",
+    "Contexte droite": ",t. 2, 1842"
+  },
+  "Entite109": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "p. 125.\n\u2212",
+    "Contexte droite": ". Chose qui, par"
+  },
+  "Entite110": {
+    "entite": "De L'Esprit",
+    "label": "MISC",
+    "Contexte gauche": "avoir lu dans le livre",
+    "Contexte droite": ", qui n'est pas"
+  },
+  "Entite111": {
+    "entite": "Helv\u00e9tius",
+    "label": "PER",
+    "Contexte gauche": "principe tr\u00e8s-faux.",
+    "Contexte droite": ", pour d\u00e9montrer cette proposition"
+  },
+  "Entite112": {
+    "entite": "Inde",
+    "label": "LOC",
+    "Contexte gauche": "chercher ses exemples dans l'",
+    "Contexte droite": "; que ne citait-il"
+  },
+  "Entite113": {
+    "entite": "professeur de",
+    "label": "PER",
+    "Contexte gauche": "autorit\u00e9 de la lettre du",
+    "Contexte droite": "Picpus sur le m\u00e9lodrame."
+  },
+  "Entite114": {
+    "entite": "L'Hermite de la Chauss\u00e9e d'Antin,t. 5",
+    "label": "MISC",
+    "Contexte gauche": "cause; ... Jouy,",
+    "Contexte droite": ", 1814, p. 274"
+  },
+  "Entite115": {
+    "entite": "Faire autorit\u00e9",
+    "label": "ORG",
+    "Contexte gauche": "p. 274.\n\u2212",
+    "Contexte droite": ". S'imposer comme r\u00e8gle"
+  },
+  "Entite116": {
+    "entite": "R. Martin du Gard",
+    "label": "PER",
+    "Contexte gauche": "force de preuve (cf.",
+    "Contexte droite": ", Les Thibault, \u00c9pilogue"
+  },
+  "Entite117": {
+    "entite": "Les Thibault",
+    "label": "MISC",
+    "Contexte gauche": "R. Martin du Gard,",
+    "Contexte droite": ", \u00c9pilogue, 1940,"
+  },
+  "Entite118": {
+    "entite": "\u00c9pilogue",
+    "label": "MISC",
+    "Contexte gauche": "Gard, Les Thibault,",
+    "Contexte droite": ", 1940, p. 954"
+  },
+  "Entite119": {
+    "entite": "Autorit\u00e9 + adj",
+    "label": "ORG",
+    "Contexte gauche": "\nSYNT. a)",
+    "Contexte droite": ". : autorit\u00e9 divine,"
+  },
+  "Entite120": {
+    "entite": "Autorit\u00e9 + de +",
+    "label": "ORG",
+    "Contexte gauche": ", sup\u00e9rieure. b)",
+    "Contexte droite": "subst. : autorit\u00e9 de"
+  },
+  "Entite121": {
+    "entite": "Anton",
+    "label": "PER",
+    "Contexte gauche": ", t\u00e9moignage. b)",
+    "Contexte droite": ". discr\u00e9dit, inf\u00e9riorit\u00e9."
+  },
+  "Entite122": {
+    "entite": "\u00c9vangile",
+    "label": "MISC",
+    "Contexte gauche": "une femme forte selon l'",
+    "Contexte droite": "... dit l'abb\u00e9."
+  },
+  "Entite123": {
+    "entite": "Mort",
+    "label": "LOC",
+    "Contexte gauche": "... Daniel-Rops,",
+    "Contexte droite": ", o\u00f9 est ta victoire?1934"
+  },
+  "Entite124": {
+    "entite": "Air",
+    "label": "MISC",
+    "Contexte gauche": "dans ses manifestations ext\u00e9rieures]",
+    "Contexte droite": ", geste, ton d'"
+  },
+  "Entite125": {
+    "entite": "Augustin",
+    "label": "PER",
+    "Contexte gauche": "m\u00eame temps. Mal\u00e8gue,",
+    "Contexte droite": ",t. 2, 1933"
+  },
+  "Entite126": {
+    "entite": "Maine de Biran",
+    "label": "PER",
+    "Contexte gauche": "De fa\u00e7on imp\u00e9rative (cf.",
+    "Contexte droite": ", Journal, 1817,"
+  },
+  "Entite127": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "cf. Maine de Biran,",
+    "Contexte droite": ", 1817, p. 92"
+  },
+  "Entite128": {
+    "entite": "C\u00e9line",
+    "label": "PER",
+    "Contexte gauche": "= d'autorit\u00e9 (cf.",
+    "Contexte droite": ", Mort \u00e0 cr\u00e9dit,"
+  },
+  "Entite129": {
+    "entite": "Mort \u00e0 cr\u00e9dit",
+    "label": "MISC",
+    "Contexte gauche": "autorit\u00e9 (cf. C\u00e9line,",
+    "Contexte droite": ", 1936, pp. 161"
+  },
+  "Entite130": {
+    "entite": "P\u00e9joratif",
+    "label": "LOC",
+    "Contexte gauche": "696).\n\u2212",
+    "Contexte droite": ":\n24. L'"
+  },
+  "Entite131": {
+    "entite": "Notes",
+    "label": "LOC",
+    "Contexte gauche": "par fatigue. Taine,",
+    "Contexte droite": "sur Paris,Vie et"
+  },
+  "Entite132": {
+    "entite": "Vie et opinions",
+    "label": "MISC",
+    "Contexte gauche": ", Notes sur Paris,",
+    "Contexte droite": "de M. T. Graindorge,"
+  },
+  "Entite133": {
+    "entite": "M. T. Graindorge",
+    "label": "PER",
+    "Contexte gauche": ",Vie et opinions de",
+    "Contexte droite": ", 1867, p. 301"
+  },
+  "Entite134": {
+    "entite": "Rare",
+    "label": "ORG",
+    "Contexte gauche": "p. 301.\n\u2212",
+    "Contexte droite": ". Empire sur soi-"
+  },
+  "Entite135": {
+    "entite": "Empire sur soi-m\u00eame",
+    "label": "LOC",
+    "Contexte gauche": ".\n\u2212 Rare.",
+    "Contexte droite": ". Autorit\u00e9 sur soi :"
+  },
+  "Entite136": {
+    "entite": "Contes et nouvelles,t. 2",
+    "label": "MISC",
+    "Contexte gauche": "un ouragan. Maupassant,",
+    "Contexte droite": ", La Confession, 1884"
+  },
+  "Entite137": {
+    "entite": "La Confession",
+    "label": "MISC",
+    "Contexte gauche": "nouvelles,t. 2,",
+    "Contexte droite": ", 1884, p. 462"
+  },
+  "Entite138": {
+    "entite": "Autorit\u00e9 + adj",
+    "label": "ORG",
+    "Contexte gauche": "\nSYNT. a)",
+    "Contexte droite": ". : autorit\u00e9 m\u00e9connue,"
+  },
+  "Entite139": {
+    "entite": "Anton",
+    "label": "PER",
+    "Contexte gauche": ", superbe. b)",
+    "Contexte droite": ". humilit\u00e9, modestie,"
+  },
+  "Entite140": {
+    "entite": "Buben",
+    "label": "LOC",
+    "Contexte gauche": "Cf. autoriser et aussi",
+    "Contexte droite": "1935, p. 54,"
+  },
+  "Entite141": {
+    "entite": "\u00c9criture",
+    "label": "LOC",
+    "Contexte gauche": "authentique, ici : l'",
+    "Contexte droite": "\u00bb (Ph. de"
+  },
+  "Entite142": {
+    "entite": "Thaon, Bestiaire",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb (Ph. de",
+    "Contexte droite": ", \u00e9d. Walberg,"
+  },
+  "Entite143": {
+    "entite": "ds T.-L.",
+    "label": "PER",
+    "Contexte gauche": "\u00e9d. Walberg, 960",
+    "Contexte droite": ": Mais oz tu,"
+  },
+  "Entite144": {
+    "entite": "D\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "oz tu, om de",
+    "Contexte droite": ", Entent auctorit\u00e9 E oies"
+  },
+  "Entite145": {
+    "entite": "Entent",
+    "label": "LOC",
+    "Contexte gauche": ", om de D\u00e9,",
+    "Contexte droite": "auctorit\u00e9 E oies escripture)"
+  },
+  "Entite146": {
+    "entite": "E",
+    "label": "LOC",
+    "Contexte gauche": "de D\u00e9, Entent auctorit\u00e9",
+    "Contexte droite": "oies escripture), seulement"
+  },
+  "Entite147": {
+    "entite": "Moy",
+    "label": "MISC",
+    "Contexte gauche": "escripture), seulement au",
+    "Contexte droite": ". \u00c2ge; xiiies."
+  },
+  "Entite148": {
+    "entite": "Livre de justice",
+    "label": "MISC",
+    "Contexte gauche": "jug\u00e9, d\u00e9cid\u00e9 \u00bb (",
+    "Contexte droite": ", 7 ds Littr\u00e9 :"
+  },
+  "Entite149": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "de justice, 7 ds",
+    "Contexte droite": ": Loys roi dit que"
+  },
+  "Entite150": {
+    "entite": "Loys",
+    "label": "PER",
+    "Contexte gauche": ", 7 ds Littr\u00e9 :",
+    "Contexte droite": "roi dit que costume doit"
+  },
+  "Entite151": {
+    "entite": "sunt jugies",
+    "label": "PER",
+    "Contexte gauche": "autorit\u00e9 des choses qui tozjors",
+    "Contexte droite": "...); 2."
+  },
+  "Entite152": {
+    "entite": "G. de Pont Ste Maxence",
+    "label": "PER",
+    "Contexte gauche": "imposer l'ob\u00e9issance \u00bb (",
+    "Contexte droite": ", Vie de St Thomas"
+  },
+  "Entite153": {
+    "entite": "Vie de St Thomas",
+    "label": "MISC",
+    "Contexte gauche": "de Pont Ste Maxence,",
+    "Contexte droite": ", \u00e9d. Hippeau,"
+  },
+  "Entite154": {
+    "entite": "Everwic",
+    "label": "PER",
+    "Contexte gauche": "celui [evesque] d'",
+    "Contexte droite": "qui par s'autorit\u00e9 Out"
+  },
+  "Entite155": {
+    "entite": "Out sustreit",
+    "label": "PER",
+    "Contexte gauche": "Everwic qui par s'autorit\u00e9",
+    "Contexte droite": "a l'iglise de Sainte"
+  },
+  "Entite156": {
+    "entite": "Sainte Ternit\u00e9",
+    "label": "PER",
+    "Contexte gauche": "sustreit a l'iglise de",
+    "Contexte droite": "Des reis l'enunct\u00efon)"
+  },
+  "Entite157": {
+    "entite": "Brunetto Latini",
+    "label": "PER",
+    "Contexte gauche": "on se r\u00e9f\u00e8re \u00bb (",
+    "Contexte droite": ", Li Livres dou Tr\u00e9sor"
+  },
+  "Entite158": {
+    "entite": "Li Livres dou Tr\u00e9sor",
+    "label": "PER",
+    "Contexte gauche": "\u00bb (Brunetto Latini,",
+    "Contexte droite": ", liv. III,"
+  },
+  "Entite159": {
+    "entite": "c. 34 ds Dict",
+    "label": "MISC",
+    "Contexte gauche": "III, 1repart.,",
+    "Contexte droite": ". hist. Ac."
+  },
+  "Entite160": {
+    "entite": "veult",
+    "label": "PER",
+    "Contexte gauche": ": Porce que li maistres",
+    "Contexte droite": "plus apertement demonstrer ce que"
+  },
+  "Entite161": {
+    "entite": "sor",
+    "label": "PER",
+    "Contexte gauche": "exemples de grant auctorit\u00e9,",
+    "Contexte droite": "quoi fu dit par plusors"
+  },
+  "Entite162": {
+    "entite": "Plutarque",
+    "label": "PER",
+    "Contexte gauche": "Amyot, trad. de",
+    "Contexte droite": ", Vie d'Alcibiade,"
+  },
+  "Entite163": {
+    "entite": "Vie d'Alcibiade",
+    "label": "MISC",
+    "Contexte gauche": "trad. de Plutarque,",
+    "Contexte droite": ", c. 6, ibid"
+  },
+  "Entite164": {
+    "entite": "c. 6",
+    "label": "MISC",
+    "Contexte gauche": ", Vie d'Alcibiade,",
+    "Contexte droite": ", ibid. : Il"
+  },
+  "Entite165": {
+    "entite": "Ath\u00e9niens",
+    "label": "LOC",
+    "Contexte gauche": "l'alliance et ligue des",
+    "Contexte droite": ", et les exhorta de"
+  },
+  "Entite166": {
+    "entite": "Esther, III",
+    "label": "MISC",
+    "Contexte gauche": "gouvernement \u00bb (Racine,",
+    "Contexte droite": ", 3 ds Littr\u00e9 :"
+  },
+  "Entite167": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": ", III, 3 ds",
+    "Contexte droite": ": Quand la supr\u00eame autorit\u00e9"
+  },
+  "Entite168": {
+    "entite": "La justice",
+    "label": "MISC",
+    "Contexte gauche": "a toujours aupr\u00e8s d'elle",
+    "Contexte droite": "et la v\u00e9rit\u00e9);"
+  },
+  "Entite169": {
+    "entite": "Turgot, Formation des bureaux",
+    "label": "MISC",
+    "Contexte gauche": "l'administration publique \u00bb (",
+    "Contexte droite": "de charit\u00e9, art."
+  },
+  "Entite170": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "Ier, \u00a7 1 ds",
+    "Contexte droite": ". hist. Ac."
+  },
+  "Entite171": {
+    "entite": "Loi ds XII Tables ds TLL",
+    "label": "MISC",
+    "Contexte gauche": "auctoritas attest\u00e9 dep. la",
+    "Contexte droite": "s.v., 1213,"
+  },
+  "Entite172": {
+    "entite": "jur",
+    "label": "MISC",
+    "Contexte gauche": ", 85; cont.",
+    "Contexte droite": ". usus auctoritas \u00ab droit"
+  },
+  "Entite173": {
+    "entite": "Sacra Scriptura",
+    "label": "PER",
+    "Contexte gauche": "auctoritas, synon. de",
+    "Contexte droite": "(S. Augustin, Civ"
+  },
+  "Entite174": {
+    "entite": "S. Augustin",
+    "label": "PER",
+    "Contexte gauche": ". de Sacra Scriptura (",
+    "Contexte droite": ", Civ., 12"
+  },
+  "Entite175": {
+    "entite": "Milt",
+    "label": "LOC",
+    "Contexte gauche": "\u00bb (Nep.,",
+    "Contexte droite": ". 8, 4,"
+  },
+  "Entite176": {
+    "entite": "Miltiade",
+    "label": "PER",
+    "Contexte gauche": "1215, 74 : in",
+    "Contexte droite": "erat ... magna auctoritas apud"
+  },
+  "Entite177": {
+    "entite": "Rhet",
+    "label": "LOC",
+    "Contexte gauche": "d'un \u00e9crivain \u00bb (",
+    "Contexte droite": ". Her. 4,"
+  },
+  "Entite178": {
+    "entite": "cuius",
+    "label": "PER",
+    "Contexte gauche": "vel poetam vel oratorem,",
+    "Contexte droite": "auctoritate niterentur); 5"
+  },
+  "Entite179": {
+    "entite": "Verr",
+    "label": "LOC",
+    "Contexte gauche": "gouvernement \u00bb (Cic\u00e9ron,",
+    "Contexte droite": "., 4, 81"
+  },
+  "Entite180": {
+    "entite": "eius omnes res gestas",
+    "label": "PER",
+    "Contexte gauche": ", 1228, 39 :",
+    "Contexte droite": "... publica auctoritate defendimus)"
+  },
+  "Entite181": {
+    "entite": "Verr",
+    "label": "LOC",
+    "Contexte gauche": "autorit\u00e9 \u00bb (Cic\u00e9ron,",
+    "Contexte droite": "., 1, 52"
+  },
+  "Entite182": {
+    "entite": "STAT",
+    "label": "ORG",
+    "Contexte gauche": "summae auctoritates).\n",
+    "Contexte droite": ". \u2212 Fr\u00e9q. abs"
+  },
+  "Entite183": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 12"
+  },
+  "Entite184": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 7 144;",
+    "Contexte droite": ". : a) 6"
+  },
+  "Entite185": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": ") 9 602.\n",
+    "Contexte droite": ". \u2212 Ac.-Can.-Fr. 1968"
+  },
+  "Entite186": {
+    "entite": "Allmen",
+    "label": "LOC",
+    "Contexte gauche": "Ac.-Can.-Fr. 1968. \u2212",
+    "Contexte droite": "1956. \u2212 Bach.-Dez."
+  },
+  "Entite187": {
+    "entite": "\u2212 Barr",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Bach.-Dez. 1882.",
+    "Contexte droite": ". 1967. \u2212 Bastin"
+  },
+  "Entite188": {
+    "entite": "Bastin",
+    "label": "PER",
+    "Contexte gauche": "Barr. 1967. \u2212",
+    "Contexte droite": "1970. \u2212 Bellet ("
+  },
+  "Entite189": {
+    "entite": "Bellet",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 Bastin 1970. \u2212",
+    "Contexte droite": "(R.). Formation"
+  },
+  "Entite190": {
+    "entite": "Jules Vall\u00e9s",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9veloppement du vocab. chez",
+    "Contexte droite": "journaliste (1848-1871"
+  },
+  "Entite191": {
+    "entite": "CENTRE",
+    "label": "ORG",
+    "Contexte gauche": "In : COLL. DU",
+    "Contexte droite": "DE LEXICOL. POL."
+  },
+  "Entite192": {
+    "entite": "LEXICOL",
+    "label": "ORG",
+    "Contexte gauche": "COLL. DU CENTRE DE",
+    "Contexte droite": ". POL. 1968 Saint-Cloud"
+  },
+  "Entite193": {
+    "entite": "Saint-Cloud",
+    "label": "LOC",
+    "Contexte gauche": "LEXICOL. POL. 1968",
+    "Contexte droite": ". Cah. Lexicol."
+  },
+  "Entite194": {
+    "entite": "Lexicol",
+    "label": "MISC",
+    "Contexte gauche": "1968 Saint-Cloud. Cah.",
+    "Contexte droite": ". 1969, no15,"
+  },
+  "Entite195": {
+    "entite": "Birou",
+    "label": "LOC",
+    "Contexte gauche": "9-10. \u2212",
+    "Contexte droite": "1966. \u2212 Blanche 1857"
+  },
+  "Entite196": {
+    "entite": "Blanche",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 Birou 1966. \u2212",
+    "Contexte droite": "1857. \u2212 Bouillet 1859"
+  },
+  "Entite197": {
+    "entite": "Bouillet",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Blanche 1857. \u2212",
+    "Contexte droite": "1859. \u2212 Bouyer 1963"
+  },
+  "Entite198": {
+    "entite": "Bouyer",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Bouillet 1859. \u2212",
+    "Contexte droite": "1963. \u2212 Bruant 1901"
+  },
+  "Entite199": {
+    "entite": "Bruant",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Bouyer 1963. \u2212",
+    "Contexte droite": "1901. \u2212 Cap."
+  },
+  "Entite200": {
+    "entite": "Foi",
+    "label": "LOC",
+    "Contexte gauche": "\u00c9d. 1967. \u2212",
+    "Contexte droite": "t. 1 1968. \u2212"
+  },
+  "Entite201": {
+    "entite": "Foulq.-St-Jean",
+    "label": "PER",
+    "Contexte gauche": "t. 1 1968. \u2212",
+    "Contexte droite": "1962. \u2212 Goblot 1920"
+  },
+  "Entite202": {
+    "entite": "Goblot",
+    "label": "PER",
+    "Contexte gauche": "-Jean 1962. \u2212",
+    "Contexte droite": "1920. \u2212 Gramm."
+  },
+  "Entite203": {
+    "entite": "Gramm",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 Goblot 1920. \u2212",
+    "Contexte droite": ". t. 1 1789."
+  },
+  "Entite204": {
+    "entite": "\u2212 Lacr",
+    "label": "PER",
+    "Contexte gauche": ". t. 1 1789.",
+    "Contexte droite": ". 1963. \u2212 Lafon"
+  },
+  "Entite205": {
+    "entite": "Lafon",
+    "label": "MISC",
+    "Contexte gauche": "Lacr. 1963. \u2212",
+    "Contexte droite": "1969. \u2212 Lal."
+  },
+  "Entite206": {
+    "entite": "Lal",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 Lafon 1969. \u2212",
+    "Contexte droite": ". 1968. \u2212 Lar"
+  },
+  "Entite207": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "Lal. 1968. \u2212",
+    "Contexte droite": ". comm. 1930."
+  },
+  "Entite208": {
+    "entite": "Breton Suppl",
+    "label": "ORG",
+    "Contexte gauche": ". 1930. \u2212 Le",
+    "Contexte droite": ". 1960. \u2212 Marcel"
+  },
+  "Entite209": {
+    "entite": "Marcel",
+    "label": "PER",
+    "Contexte gauche": "Suppl. 1960. \u2212",
+    "Contexte droite": "1938. \u2212 M\u00e9trol."
+  },
+  "Entite210": {
+    "entite": "\u2212 M\u00e9trol",
+    "label": "PER",
+    "Contexte gauche": ". \u2212 Marcel 1938.",
+    "Contexte droite": ". 1969. \u2212 Mucch"
+  },
+  "Entite211": {
+    "entite": "\u2212 Mucch",
+    "label": "PER",
+    "Contexte gauche": "\u2212 M\u00e9trol. 1969.",
+    "Contexte droite": ". Sc. soc."
+  },
+  "Entite212": {
+    "entite": "Par\u00e9",
+    "label": "PER",
+    "Contexte gauche": "soc. 1969. \u2212",
+    "Contexte droite": "(G.). Le"
+  },
+  "Entite213": {
+    "entite": "Roman de la Rose et la scolastique",
+    "label": "MISC",
+    "Contexte gauche": "(G.). Le",
+    "Contexte droite": "courtoise. Paris. Ottawa"
+  },
+  "Entite214": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "et la scolastique courtoise.",
+    "Contexte droite": ". Ottawa, 1941,"
+  },
+  "Entite215": {
+    "entite": "Ottawa",
+    "label": "LOC",
+    "Contexte gauche": "scolastique courtoise. Paris.",
+    "Contexte droite": ", 1941, pp. 23"
+  },
+  "Entite216": {
+    "entite": "Porot",
+    "label": "LOC",
+    "Contexte gauche": "Pol. 1868. \u2212",
+    "Contexte droite": "1960. \u2212 R\u00e9au-"
+  },
+  "Entite217": {
+    "entite": "Sill",
+    "label": "PER",
+    "Contexte gauche": "t. 2 1825. \u2212",
+    "Contexte droite": ". 1965. \u2212 Spr"
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "Entite0": {
+    "entite": "A.\u2212",
+    "label": "PER",
+    "Contexte gauche": "subst, f\u00e9m. \n\n",
+    "Contexte droite": "[Surtout avec l'art"
+  },
+  "Entite1": {
+    "entite": "Le M\u00e9morial de Sainte-H\u00e9l\u00e8ne,t. 1",
+    "label": "MISC",
+    "Contexte gauche": "tr\u00f4ne. Las Cases,",
+    "Contexte droite": ", 1823, p. 239"
+  },
+  "Entite2": {
+    "entite": "Joffre",
+    "label": "PER",
+    "Contexte gauche": "ne s'improvisent pas.",
+    "Contexte droite": ", M\u00e9moires,t. 2"
+  },
+  "Entite3": {
+    "entite": "M\u00e9moires,t. 2",
+    "label": "MISC",
+    "Contexte gauche": "improvisent pas. Joffre,",
+    "Contexte droite": ", 1931, p. 455"
+  },
+  "Entite4": {
+    "entite": "Corps d'arm\u00e9e",
+    "label": "ORG",
+    "Contexte gauche": "p. 455.\n\u2666",
+    "Contexte droite": ". Grande unit\u00e9 combattante entrant"
+  },
+  "Entite5": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "plur.\n\u2666 Le",
+    "Contexte droite": "des arm\u00e9es. Celui qui"
+  },
+  "Entite6": {
+    "entite": "J. de Maistre",
+    "label": "PER",
+    "Contexte gauche": "sort des armes (cf.",
+    "Contexte droite": ", Les Soir\u00e9es de Saint-P\u00e9tersbourg"
+  },
+  "Entite7": {
+    "entite": "Les Soir\u00e9es de Saint-P\u00e9tersbourg",
+    "label": "MISC",
+    "Contexte gauche": "cf. J. de Maistre,",
+    "Contexte droite": ", t. 2, 1821"
+  },
+  "Entite8": {
+    "entite": "\u00c9ternel des arm\u00e9es",
+    "label": "ORG",
+    "Contexte gauche": "\u2666 P. plaisant. L'",
+    "Contexte droite": ":\n3. Impassible"
+  },
+  "Entite9": {
+    "entite": "Impassible",
+    "label": "ORG",
+    "Contexte gauche": "arm\u00e9es :\n3.",
+    "Contexte droite": "et ardent, il continuait"
+  },
+  "Entite10": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "d'annoncer la col\u00e8re de",
+    "Contexte droite": ": \u00ab J'en veux"
+  },
+  "Entite11": {
+    "entite": "\u00c9ternel des arm\u00e9es...",
+    "label": "ORG",
+    "Contexte gauche": "\u00e0 toi... dit l'",
+    "Contexte droite": "Je rel\u00e8verai tes pans sur"
+  },
+  "Entite12": {
+    "entite": "Vin de Champagne,1909",
+    "label": "LOC",
+    "Contexte gauche": "royaumes! \u00bb Hamp,",
+    "Contexte droite": ", p. 221.\n"
+  },
+  "Entite13": {
+    "entite": "Anges",
+    "label": "LOC",
+    "Contexte gauche": "Les arm\u00e9es c\u00e9lestes. Les",
+    "Contexte droite": "(consid\u00e9r\u00e9s comme combattant aupr\u00e8s"
+  },
+  "Entite14": {
+    "entite": "Satan",
+    "label": "PER",
+    "Contexte gauche": "j'ai quitt\u00e9es, que",
+    "Contexte droite": "lui-m\u00eame, Satan, l'"
+  },
+  "Entite15": {
+    "entite": "Satan",
+    "label": "PER",
+    "Contexte gauche": ", que Satan lui-m\u00eame,",
+    "Contexte droite": ", l'incarnation du mal"
+  },
+  "Entite16": {
+    "entite": "Les Chants de Maldoror,1869",
+    "label": "MISC",
+    "Contexte gauche": "si redoutable. Lautr\u00e9amont,",
+    "Contexte droite": ", p. 346.\n"
+  },
+  "Entite17": {
+    "entite": "La Grande Arm\u00e9e",
+    "label": "MISC",
+    "Contexte gauche": "En partic.\n\u2666",
+    "Contexte droite": ". Arm\u00e9e r\u00e9unie par Napol\u00e9on"
+  },
+  "Entite18": {
+    "entite": "Arm\u00e9e",
+    "label": "ORG",
+    "Contexte gauche": "\u2666 La Grande Arm\u00e9e.",
+    "Contexte droite": "r\u00e9unie par Napol\u00e9on Ierpour la"
+  },
+  "Entite19": {
+    "entite": "Napol\u00e9on Ierpour",
+    "label": "PER",
+    "Contexte gauche": "Arm\u00e9e. Arm\u00e9e r\u00e9unie par",
+    "Contexte droite": "la campagne de 1812 :"
+  },
+  "Entite20": {
+    "entite": "Wissembourg",
+    "label": "MISC",
+    "Contexte gauche": "l'attaque des lignes de",
+    "Contexte droite": ", adorait l'empereur Napol\u00e9on"
+  },
+  "Entite21": {
+    "entite": "Napol\u00e9on",
+    "label": "PER",
+    "Contexte gauche": "Wissembourg, adorait l'empereur",
+    "Contexte droite": "et tout ce qui tenait"
+  },
+  "Entite22": {
+    "entite": "la Grande Arm\u00e9e",
+    "label": "MISC",
+    "Contexte gauche": "tout ce qui tenait \u00e0",
+    "Contexte droite": ". Balzac, La Cousine"
+  },
+  "Entite23": {
+    "entite": "La Cousine Bette,1846",
+    "label": "PER",
+    "Contexte gauche": "Grande Arm\u00e9e. Balzac,",
+    "Contexte droite": ", p. 22.\n"
+  },
+  "Entite24": {
+    "entite": "Arm\u00e9e rouge",
+    "label": "ORG",
+    "Contexte gauche": "22.\n\u2666 L'",
+    "Contexte droite": ". Arm\u00e9e r\u00e9volutionnaire (cf."
+  },
+  "Entite25": {
+    "entite": "Arm\u00e9e r\u00e9volutionnaire",
+    "label": "ORG",
+    "Contexte gauche": "\u2666 L'Arm\u00e9e rouge.",
+    "Contexte droite": "(cf. Malraux, Les"
+  },
+  "Entite26": {
+    "entite": "Malraux",
+    "label": "PER",
+    "Contexte gauche": ". Arm\u00e9e r\u00e9volutionnaire (cf.",
+    "Contexte droite": ", Les Conqu\u00e9rants, 1928"
+  },
+  "Entite27": {
+    "entite": "Les Conqu\u00e9rants",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9volutionnaire (cf. Malraux,",
+    "Contexte droite": ", 1928, p. 72"
+  },
+  "Entite28": {
+    "entite": "Forces sp\u00e9cialis\u00e9es",
+    "label": "ORG",
+    "Contexte gauche": ". introduit par de]",
+    "Contexte droite": "dont se compose l'arm\u00e9e"
+  },
+  "Entite29": {
+    "entite": "Fustel de Coulanges",
+    "label": "PER",
+    "Contexte gauche": "au m\u00eame autel. \u00bb",
+    "Contexte droite": ", La Cit\u00e9 antique,1864,"
+  },
+  "Entite30": {
+    "entite": "La Cit\u00e9 antique,1864, p. 158",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb Fustel de Coulanges,",
+    "Contexte droite": ".\n7. Si"
+  },
+  "Entite31": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": ", c'est qu'\u00e0",
+    "Contexte droite": ", au Service g\u00e9ographique de"
+  },
+  "Entite32": {
+    "entite": "Service g\u00e9ographique",
+    "label": "ORG",
+    "Contexte gauche": "qu'\u00e0 Paris, au",
+    "Contexte droite": "de l'arm\u00e9e, o\u00f9"
+  },
+  "Entite33": {
+    "entite": "L'Atlantide,1919",
+    "label": "ORG",
+    "Contexte gauche": "de formuler... Benoit,",
+    "Contexte droite": ", p. 23.\n"
+  },
+  "Entite34": {
+    "entite": "Desroches",
+    "label": "PER",
+    "Contexte gauche": "militaire :\n8.",
+    "Contexte droite": "s'\u00e9tonna \u00e0 plusieurs reprises"
+  },
+  "Entite35": {
+    "entite": "Les Filles du feu",
+    "label": "MISC",
+    "Contexte gauche": "notre temps... Nerval,",
+    "Contexte droite": ",\u00c9milie, [\u0152uvres"
+  },
+  "Entite36": {
+    "entite": "\u00c9milie",
+    "label": "MISC",
+    "Contexte gauche": "Les Filles du feu,",
+    "Contexte droite": ", [\u0152uvres compl\u00e8tes,"
+  },
+  "Entite37": {
+    "entite": "\u0152uvres",
+    "label": "MISC",
+    "Contexte gauche": "feu,\u00c9milie, [",
+    "Contexte droite": "compl\u00e8tes, t. 61]"
+  },
+  "Entite38": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": ", t. 61],",
+    "Contexte droite": ", H. Champion, 1931"
+  },
+  "Entite39": {
+    "entite": "H. Champion",
+    "label": "PER",
+    "Contexte gauche": "61], Paris,",
+    "Contexte droite": ", 1931 [1854]"
+  },
+  "Entite40": {
+    "entite": "L'Exil,1929, p. 25",
+    "label": "ORG",
+    "Contexte gauche": "l'arm\u00e9e. Montherlant,",
+    "Contexte droite": ".\nSYNT. Arm\u00e9e"
+  },
+  "Entite41": {
+    "entite": "C.\u2212 P.",
+    "label": "PER",
+    "Contexte gauche": "de l'arm\u00e9e.\n",
+    "Contexte droite": "ext.\n1."
+  },
+  "Entite42": {
+    "entite": "R\u00e9union",
+    "label": "LOC",
+    "Contexte gauche": "ext.\n1.",
+    "Contexte droite": "de personnes d\u00e9fendant une cause"
+  },
+  "Entite43": {
+    "entite": "Monseigneur Charlot",
+    "label": "PER",
+    "Contexte gauche": "202.\n11.",
+    "Contexte droite": "t\u00e9moignait \u00e0 cette dame ["
+  },
+  "Entite44": {
+    "entite": "Madame Cartier",
+    "label": "PER",
+    "Contexte gauche": "t\u00e9moignait \u00e0 cette dame [",
+    "Contexte droite": "de Chalmot] une dilection"
+  },
+  "Entite45": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "charit\u00e9 chr\u00e9tienne. \u00bb A.",
+    "Contexte droite": ", L'Orme du mail,1897"
+  },
+  "Entite46": {
+    "entite": "L'Orme du mail,1897, p. 64",
+    "label": "MISC",
+    "Contexte gauche": ". \u00bb A. France,",
+    "Contexte droite": ".\n\u2666 L'Arm\u00e9e"
+  },
+  "Entite47": {
+    "entite": "Arm\u00e9e du Salut",
+    "label": "ORG",
+    "Contexte gauche": "64.\n\u2666 L'",
+    "Contexte droite": ". Association protestante de propagande"
+  },
+  "Entite48": {
+    "entite": "Arm\u00e9e du Salut",
+    "label": "ORG",
+    "Contexte gauche": "d\u00eenent trois femmes de l'",
+    "Contexte droite": ", qui ne mangent que"
+  },
+  "Entite49": {
+    "entite": "R. Martin du Gard",
+    "label": "PER",
+    "Contexte gauche": "leurs cabriolets \u00e0 brides.",
+    "Contexte droite": ", Les Thibault,L'"
+  },
+  "Entite50": {
+    "entite": "Les Thibault",
+    "label": "MISC",
+    "Contexte gauche": "R. Martin du Gard,",
+    "Contexte droite": ",L'\u00c9t\u00e9 1914,"
+  },
+  "Entite51": {
+    "entite": "L'\u00c9t\u00e9 1914",
+    "label": "MISC",
+    "Contexte gauche": "Gard, Les Thibault,",
+    "Contexte droite": ", 1936, p. 711"
+  },
+  "Entite52": {
+    "entite": "Saint-Jacques",
+    "label": "LOC",
+    "Contexte gauche": "f\u00eate seulement, du quartier",
+    "Contexte droite": ": les bataillons de modistes"
+  },
+  "Entite53": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "va s'abattre autour de",
+    "Contexte droite": ", sous les tonnelles des"
+  },
+  "Entite54": {
+    "entite": "Mimi Pinson,1845",
+    "label": "PER",
+    "Contexte gauche": "de friquets. Musset,",
+    "Contexte droite": ", p. 217.\n"
+  },
+  "Entite55": {
+    "entite": "Le Ventre de Paris,1873, p. 705.\n15.",
+    "label": "MISC",
+    "Contexte gauche": "du comptoir. Zola,",
+    "Contexte droite": "... et il n'est"
+  },
+  "Entite56": {
+    "entite": "Vari\u00e9t\u00e9",
+    "label": "PER",
+    "Contexte gauche": "...) ... Val\u00e9ry,",
+    "Contexte droite": "4,1938, p. 148."
+  },
+  "Entite57": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": ".\nRem. Pour",
+    "Contexte droite": ", Nouv. Lar."
+  },
+  "Entite58": {
+    "entite": "Nouv",
+    "label": "LOC",
+    "Contexte gauche": "Rem. Pour Littr\u00e9,",
+    "Contexte droite": ". Lar. ill."
+  },
+  "Entite59": {
+    "entite": "DG, arm\u00e9e",
+    "label": "MISC",
+    "Contexte gauche": "Lar. ill. et",
+    "Contexte droite": "d\u00e9signe aussi, ,,"
+  },
+  "Entite60": {
+    "entite": "ds F\u00e9r",
+    "label": "PER",
+    "Contexte gauche": "\u0259] muet est transcrit",
+    "Contexte droite": ". 1768, F\u00e9r."
+  },
+  "Entite61": {
+    "entite": "F\u00e9r.",
+    "label": "MISC",
+    "Contexte gauche": "ds F\u00e9r. 1768,",
+    "Contexte droite": "Crit. t. 1 1787"
+  },
+  "Entite62": {
+    "entite": "Gattel 1841",
+    "label": "LOC",
+    "Contexte gauche": ". t. 1 1787,",
+    "Contexte droite": "et Littr\u00e9. Enq."
+  },
+  "Entite63": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "1787, Gattel 1841 et",
+    "Contexte droite": ". Enq. : /a\u0280me/."
+  },
+  "Entite64": {
+    "entite": "Baudouin de Sebourc",
+    "label": "PER",
+    "Contexte gauche": "faire la guerre \u00bb (",
+    "Contexte droite": ", \u00e9d. Bocca,"
+  },
+  "Entite65": {
+    "entite": "XXV",
+    "label": "MISC",
+    "Contexte gauche": ", \u00e9d. Bocca,",
+    "Contexte droite": ", 46 ds T.-L. :"
+  },
+  "Entite66": {
+    "entite": "Entra li chevaliers",
+    "label": "MISC",
+    "Contexte gauche": "lire autre] belle armee",
+    "Contexte droite": "dedens la mer salee)"
+  },
+  "Entite67": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "l\u00e8ve ou fait lever un",
+    "Contexte droite": "pour sa s\u00fbret\u00e9 \u00bb ("
+  },
+  "Entite68": {
+    "entite": "Pascal",
+    "label": "PER",
+    "Contexte gauche": "pour sa s\u00fbret\u00e9 \u00bb (",
+    "Contexte droite": ", Pens\u00e9es ds Dict."
+  },
+  "Entite69": {
+    "entite": "Pens\u00e9es ds Dict",
+    "label": "MISC",
+    "Contexte gauche": "s\u00fbret\u00e9 \u00bb (Pascal,",
+    "Contexte droite": ". hist. Ac."
+  },
+  "Entite70": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "Toutes les troupes qu'un",
+    "Contexte droite": "l\u00e8ve et entretient pour sa"
+  },
+  "Entite71": {
+    "entite": "ost",
+    "label": "LOC",
+    "Contexte gauche": ". l'a. fr.",
+    "Contexte droite": "(< lat. hoste"
+  },
+  "Entite72": {
+    "entite": "Roland ds Gdf",
+    "label": "PER",
+    "Contexte gauche": "hoste), dep.",
+    "Contexte droite": ".; cf. Rabelais qui"
+  },
+  "Entite73": {
+    "entite": "Rabelais",
+    "label": "PER",
+    "Contexte gauche": "ds Gdf.; cf.",
+    "Contexte droite": "qui utilise ost en r\u00e9f\u00e9rence"
+  },
+  "Entite74": {
+    "entite": "Antiquit\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "ost en r\u00e9f\u00e9rence \u00e0 l'",
+    "Contexte droite": "(I, 33 ds"
+  },
+  "Entite75": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "r\u00e9f\u00e9rence \u00e0 l'Antiquit\u00e9 (",
+    "Contexte droite": ", 33 ds Hug."
+  },
+  "Entite76": {
+    "entite": "Hug",
+    "label": "LOC",
+    "Contexte gauche": "(I, 33 ds",
+    "Contexte droite": ". : Julien Auguste et"
+  },
+  "Entite77": {
+    "entite": "Julien Auguste",
+    "label": "PER",
+    "Contexte gauche": "33 ds Hug. :",
+    "Contexte droite": "et tout son oust y"
+  },
+  "Entite78": {
+    "entite": "G. Gougenheim",
+    "label": "PER",
+    "Contexte gauche": "Gargantua, 33 cit\u00e9 par",
+    "Contexte droite": ", Notes sur le vocab"
+  },
+  "Entite79": {
+    "entite": "Notes",
+    "label": "LOC",
+    "Contexte gauche": "cit\u00e9 par G. Gougenheim,",
+    "Contexte droite": "sur le vocab. de"
+  },
+  "Entite80": {
+    "entite": "Rabelais ds Word",
+    "label": "PER",
+    "Contexte gauche": "sur le vocab. de",
+    "Contexte droite": ", t. 5, 1949"
+  },
+  "Entite81": {
+    "entite": "Vostre arm\u00e9e partirez",
+    "label": "ORG",
+    "Contexte gauche": "1949, p. 148 :",
+    "Contexte droite": "en deux... Mais ["
+  },
+  "Entite82": {
+    "entite": "Grandgousier?",
+    "label": "MISC",
+    "Contexte gauche": "qui desconfit ce vilain humeux",
+    "Contexte droite": ").\nSTAT."
+  },
+  "Entite83": {
+    "entite": "STAT",
+    "label": "ORG",
+    "Contexte gauche": "Grandgousier?).\n",
+    "Contexte droite": ". \u2212 Fr\u00e9q. abs"
+  },
+  "Entite84": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 20"
+  },
+  "Entite85": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 12 614;",
+    "Contexte droite": ". : a) 16"
+  },
+  "Entite86": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": ") 32 154.\n",
+    "Contexte droite": ". \u2212 Bach.-Dez. 1882"
+  },
+  "Entite87": {
+    "entite": "Baudhuin",
+    "label": "PER",
+    "Contexte gauche": "Bal.-Maq. 1968. \u2212",
+    "Contexte droite": "1968. \u2212 Bible 1912"
+  },
+  "Entite88": {
+    "entite": "Bible",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 Baudhuin 1968. \u2212",
+    "Contexte droite": "1912. \u2212 Blanche 1857"
+  },
+  "Entite89": {
+    "entite": "Blanche",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 Bible 1912. \u2212",
+    "Contexte droite": "1857. \u2212 Bouillet 1859"
+  },
+  "Entite90": {
+    "entite": "Bouillet",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Blanche 1857. \u2212",
+    "Contexte droite": "1859. \u2212 Bruant 1901"
+  },
+  "Entite91": {
+    "entite": "Bruant",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Bouillet 1859. \u2212",
+    "Contexte droite": "1901. \u2212 Cap."
+  },
+  "Entite92": {
+    "entite": "Criqui",
+    "label": "LOC",
+    "Contexte gauche": "Cap. 1936. \u2212",
+    "Contexte droite": "1967 \u2192. \u2212 Darm."
+  },
+  "Entite93": {
+    "entite": "Darm",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 Criqui 1967 \u2192. \u2212",
+    "Contexte droite": ". Vie 1932, p."
+  },
+  "Entite94": {
+    "entite": "Dheilly",
+    "label": "PER",
+    "Contexte gauche": ", p. 195. \u2212",
+    "Contexte droite": "1964. \u2212 Esn."
+  },
+  "Entite95": {
+    "entite": "Foi",
+    "label": "LOC",
+    "Contexte gauche": ". Poilu 1919. \u2212",
+    "Contexte droite": "t. 1 1968. \u2212"
+  },
+  "Entite96": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "t. 1 1968. \u2212",
+    "Contexte droite": "1907. \u2212 Frey 1925"
+  },
+  "Entite97": {
+    "entite": "Frey",
+    "label": "PER",
+    "Contexte gauche": "\u2212 France 1907. \u2212",
+    "Contexte droite": "1925, p. 210,"
+  },
+  "Entite98": {
+    "entite": "Gay",
+    "label": "MISC",
+    "Contexte gauche": "210, 258. \u2212",
+    "Contexte droite": "t. 1 1967 [1887]."
+  },
+  "Entite99": {
+    "entite": "Gougenheim",
+    "label": "LOC",
+    "Contexte gauche": "1 1967 [1887]. \u2212",
+    "Contexte droite": "(G.). Notes"
+  },
+  "Entite100": {
+    "entite": "Rabelais",
+    "label": "PER",
+    "Contexte gauche": "sur le vocab. de",
+    "Contexte droite": ": ost et arm\u00e9e;"
+  },
+  "Entite101": {
+    "entite": "Word",
+    "label": "MISC",
+    "Contexte gauche": "; droite et gauche.",
+    "Contexte droite": ". 1949, t. 5"
+  },
+  "Entite102": {
+    "entite": "t. 5",
+    "label": "MISC",
+    "Contexte gauche": ". Word. 1949,",
+    "Contexte droite": ", pp. 147-148"
+  },
+  "Entite103": {
+    "entite": "Gruss",
+    "label": "PER",
+    "Contexte gauche": "147-148. \u2212",
+    "Contexte droite": "1952. \u2212 Guilb."
+  },
+  "Entite104": {
+    "entite": "Aviat",
+    "label": "LOC",
+    "Contexte gauche": "1952. \u2212 Guilb.",
+    "Contexte droite": ". 1965. \u2212 Jal"
+  },
+  "Entite105": {
+    "entite": "Jal 1848",
+    "label": "MISC",
+    "Contexte gauche": "Aviat. 1965. \u2212",
+    "Contexte droite": ". \u2212 Lacr. 1963"
+  },
+  "Entite106": {
+    "entite": "Lacr",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 Jal 1848. \u2212",
+    "Contexte droite": ". 1963. \u2212 Le"
+  },
+  "Entite107": {
+    "entite": "Breton Suppl",
+    "label": "ORG",
+    "Contexte gauche": ". 1963. \u2212 Le",
+    "Contexte droite": ". 1960. \u2212 Le"
+  },
+  "Entite108": {
+    "entite": "Le Cl\u00e8re 1960",
+    "label": "MISC",
+    "Contexte gauche": "Suppl. 1960. \u2212",
+    "Contexte droite": ". \u2212 Lep. 1948"
+  },
+  "Entite109": {
+    "entite": "Lep",
+    "label": "LOC",
+    "Contexte gauche": "Le Cl\u00e8re 1960. \u2212",
+    "Contexte droite": ". 1948. \u2212 Littr\u00e9"
+  },
+  "Entite110": {
+    "entite": "Michel",
+    "label": "MISC",
+    "Contexte gauche": "-Robin 1865. \u2212",
+    "Contexte droite": "1856. \u2212 Pol."
+  },
+  "Entite111": {
+    "entite": "Schwarz-Hadik",
+    "label": "LOC",
+    "Contexte gauche": "Suppl. 1962. \u2212",
+    "Contexte droite": "1966. \u2212 Spr."
+  },
+  "Entite112": {
+    "entite": "\u2212 Spr",
+    "label": "PER",
+    "Contexte gauche": "Schwarz-Hadik 1966.",
+    "Contexte droite": ". 1967. \u2212 Tondr.-Vill"
+  },
+  "Entite113": {
+    "entite": "Tondr.-Vill",
+    "label": "MISC",
+    "Contexte gauche": "Spr. 1967. \u2212",
+    "Contexte droite": ". 1968. \u2212 Will"
+  },
+  "Entite114": {
+    "entite": "\u2212 Will",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Tondr.-Vill. 1968.",
+    "Contexte droite": ". 1831. \u2212 Zastrow"
+  },
+  "Entite115": {
+    "entite": "Zastrow",
+    "label": "PER",
+    "Contexte gauche": "Will. 1831. \u2212",
+    "Contexte droite": "1963, p. 44,"
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "Entite0": {
+    "entite": "- Soldat",
+    "label": "LOC",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst.masc.\n\nA."
+  },
+  "Entite1": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "un prince, d'un",
+    "Contexte droite": "qui lui verse une solde"
+  },
+  "Entite2": {
+    "entite": "Voltaire",
+    "label": "PER",
+    "Contexte gauche": "ce vers fameux [de",
+    "Contexte droite": "]: Le premier qui"
+  },
+  "Entite3": {
+    "entite": "J. de Maistre",
+    "label": "PER",
+    "Contexte gauche": "sold\u00e9 par un roi (",
+    "Contexte droite": ", Souverainet\u00e9, 1821,"
+  },
+  "Entite4": {
+    "entite": "Souverainet\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "(J. de Maistre,",
+    "Contexte droite": ", 1821, p. 324"
+  },
+  "Entite5": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "se fit simple soldat (",
+    "Contexte droite": ", Voie glor.,"
+  },
+  "Entite6": {
+    "entite": "Voie glor",
+    "label": "LOC",
+    "Contexte gauche": "simple soldat (France,",
+    "Contexte droite": "., 1915, p."
+  },
+  "Entite7": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "instruit et form\u00e9 par un",
+    "Contexte droite": ". Cette guerre (..."
+  },
+  "Entite8": {
+    "entite": "Contre-sens",
+    "label": "MISC",
+    "Contexte gauche": "un joug pour autrui.",
+    "Contexte droite": "hideux. La France est"
+  },
+  "Entite9": {
+    "entite": "La France",
+    "label": "LOC",
+    "Contexte gauche": "autrui. Contre-sens hideux.",
+    "Contexte droite": "est faite pour r\u00e9veiller l'"
+  },
+  "Entite10": {
+    "entite": "Mis\u00e9r",
+    "label": "LOC",
+    "Contexte gauche": "l'\u00e9touffer (Hugo,",
+    "Contexte droite": "., t. 1,"
+  },
+  "Entite11": {
+    "entite": "Croix de bois",
+    "label": "PER",
+    "Contexte gauche": "leur silence. Dorgel\u00e8s,",
+    "Contexte droite": ", 1919, p. 267"
+  },
+  "Entite12": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "militaire, v. ce mot",
+    "Contexte droite": "A rem. 3."
+  },
+  "Entite13": {
+    "entite": "Soldat",
+    "label": "PER",
+    "Contexte gauche": "A rem. 3.",
+    "Contexte droite": "peut \u00eatre connot\u00e9 n\u00e9gativement et"
+  },
+  "Entite14": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "ensemble des troupes d'un",
+    "Contexte droite": ", d'un pays."
+  },
+  "Entite15": {
+    "entite": "Anton.",
+    "label": "PER",
+    "Contexte gauche": ", d'un pays.",
+    "Contexte droite": "civils (v. civil II"
+  },
+  "Entite16": {
+    "entite": "Gdes",
+    "label": "PER",
+    "Contexte gauche": "juin 40 (Ambri\u00e8re,",
+    "Contexte droite": "vac., 1946,"
+  },
+  "Entite17": {
+    "entite": "grad\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "Soldat de fortune. Militaire",
+    "Contexte droite": "sorti du rang \u00e0 la"
+  },
+  "Entite18": {
+    "entite": "Fromentin",
+    "label": "LOC",
+    "Contexte gauche": "action d\u00e9cisive \u00e0 midi (",
+    "Contexte droite": ", Dominique, 1863,"
+  },
+  "Entite19": {
+    "entite": "Soldat",
+    "label": "PER",
+    "Contexte gauche": "243).\n\u2212",
+    "Contexte droite": "de plomb. Figurine en"
+  },
+  "Entite20": {
+    "entite": "Figurine",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Soldat de plomb.",
+    "Contexte droite": "en plomb, en m\u00e9tal"
+  },
+  "Entite21": {
+    "entite": "Larbaud",
+    "label": "PER",
+    "Contexte gauche": "auquel il tenait particuli\u00e8rement (",
+    "Contexte droite": ", F. Marquez, 1911"
+  },
+  "Entite22": {
+    "entite": "F. Marquez",
+    "label": "PER",
+    "Contexte gauche": "tenait particuli\u00e8rement (Larbaud,",
+    "Contexte droite": ", 1911, p. 180"
+  },
+  "Entite23": {
+    "entite": "Joseph",
+    "label": "PER",
+    "Contexte gauche": "attitude insolente, effront\u00e9e.",
+    "Contexte droite": "continuait (...) r\u00e9solu"
+  },
+  "Entite24": {
+    "entite": "Pauline",
+    "label": "PER",
+    "Contexte gauche": "lui serait une le\u00e7on \u00e0",
+    "Contexte droite": ", il n'allait pas"
+  },
+  "Entite25": {
+    "entite": "Vialar, Fusil",
+    "label": "MISC",
+    "Contexte gauche": "qui elle avait affaire (",
+    "Contexte droite": ", 1960, p. 262"
+  },
+  "Entite26": {
+    "entite": "Serv",
+    "label": "PER",
+    "Contexte gauche": "de cour (Vigny,",
+    "Contexte droite": ". et grand. milit"
+  },
+  "Entite27": {
+    "entite": "Bazaine",
+    "label": "PER",
+    "Contexte gauche": "incarne les vertus militaires.",
+    "Contexte droite": "restait le grand homme,"
+  },
+  "Entite28": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "le brave soldat, dont",
+    "Contexte droite": "attendait encore son salut ("
+  },
+  "Entite29": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "attendait encore son salut (",
+    "Contexte droite": ", D\u00e9b\u00e2cle, 1892,"
+  },
+  "Entite30": {
+    "entite": "Prestes",
+    "label": "LOC",
+    "Contexte gauche": "nous le montre [L.C.",
+    "Contexte droite": "] petit gar\u00e7on, adolescent"
+  },
+  "Entite31": {
+    "entite": "L'Humanit\u00e9",
+    "label": "ORG",
+    "Contexte gauche": "dirigeant d'un peuple (",
+    "Contexte droite": ", 19 janv. 1952,"
+  },
+  "Entite32": {
+    "entite": "Sainte-Beuve",
+    "label": "PER",
+    "Contexte gauche": "si d\u00e9licat \u00e0 manier (",
+    "Contexte droite": ", Nouv. lundis,"
+  },
+  "Entite33": {
+    "entite": "Nouv",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 manier (Sainte-Beuve,",
+    "Contexte droite": ". lundis, t. 8"
+  },
+  "Entite34": {
+    "entite": "395).C'",
+    "label": "LOC",
+    "Contexte gauche": "8, 1864, p.",
+    "Contexte droite": "est difficile de passer du"
+  },
+  "Entite35": {
+    "entite": "Arnoux",
+    "label": "MISC",
+    "Contexte gauche": "soldat au secteur civil (",
+    "Contexte droite": ", Contacts all.,"
+  },
+  "Entite36": {
+    "entite": "Contacts all.",
+    "label": "ORG",
+    "Contexte gauche": "secteur civil (Arnoux,",
+    "Contexte droite": ", 1950, p. 68"
+  },
+  "Entite37": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "et de l'air.",
+    "Contexte droite": ". bidasse (fam."
+  },
+  "Entite38": {
+    "entite": "Serv",
+    "label": "PER",
+    "Contexte gauche": "un tic (Vigny,",
+    "Contexte droite": ". et grand. milit"
+  },
+  "Entite39": {
+    "entite": "Sulphart",
+    "label": "PER",
+    "Contexte gauche": "2. ... c'est",
+    "Contexte droite": "que je pr\u00e9f\u00e8re. Il"
+  },
+  "Entite40": {
+    "entite": "Croix de bois",
+    "label": "PER",
+    "Contexte gauche": "meilleur effet. Dorgel\u00e8s,",
+    "Contexte droite": ", 1919, p. 65"
+  },
+  "Entite41": {
+    "entite": "Soldat",
+    "label": "PER",
+    "Contexte gauche": "p. 65.\n\u2666",
+    "Contexte droite": "de premi\u00e8re classe*.\n\u2666"
+  },
+  "Entite42": {
+    "entite": "Loi rel.",
+    "label": "MISC",
+    "Contexte gauche": "du service (J.O.,",
+    "Contexte droite": "recrut. arm.,"
+  },
+  "Entite43": {
+    "entite": "847).En appos",
+    "label": "MISC",
+    "Contexte gauche": "Propos, 1929, p.",
+    "Contexte droite": ". avec valeur d'adj"
+  },
+  "Entite44": {
+    "entite": "Alain",
+    "label": "PER",
+    "Contexte gauche": "l'esprit simple soldat (",
+    "Contexte droite": ", Propos, 1921,"
+  },
+  "Entite45": {
+    "entite": "Excentr",
+    "label": "LOC",
+    "Contexte gauche": "peur? (Larchey,",
+    "Contexte droite": ". lang., 1865"
+  },
+  "Entite46": {
+    "entite": "Salut soldat",
+    "label": "MISC",
+    "Contexte gauche": "En fonction d'appellatif]",
+    "Contexte droite": "Pleurichon!... T'aimes"
+  },
+  "Entite47": {
+    "entite": "C\u00e9line, Mort \u00e0 cr\u00e9dit",
+    "label": "MISC",
+    "Contexte gauche": "en sais rien encore (",
+    "Contexte droite": ", 1936, p. 693"
+  },
+  "Entite48": {
+    "entite": "Soldat",
+    "label": "PER",
+    "Contexte gauche": "693).\n\u2666",
+    "Contexte droite": "inconnu. Soldat fran\u00e7ais anonyme"
+  },
+  "Entite49": {
+    "entite": "Arc de Triomphe",
+    "label": "LOC",
+    "Contexte gauche": "-1918 inhum\u00e9 sous l'",
+    "Contexte droite": "afin que soient honor\u00e9s en"
+  },
+  "Entite50": {
+    "entite": "Giraudoux",
+    "label": "PER",
+    "Contexte gauche": "quel qu'il soit (",
+    "Contexte droite": ", Siegfried, 1928,"
+  },
+  "Entite51": {
+    "entite": "J.-R. Bloch",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 cette singuli\u00e8re idol\u00e2trie (",
+    "Contexte droite": ", Dest. du S."
+  },
+  "Entite52": {
+    "entite": "Dest",
+    "label": "LOC",
+    "Contexte gauche": "idol\u00e2trie (J.-R. Bloch,",
+    "Contexte droite": ". du S., 1931"
+  },
+  "Entite53": {
+    "entite": "S.",
+    "label": "LOC",
+    "Contexte gauche": "Bloch, Dest. du",
+    "Contexte droite": ", 1931, p. 152"
+  },
+  "Entite54": {
+    "entite": "Strasbourg",
+    "label": "LOC",
+    "Contexte gauche": "le soir au bordel de",
+    "Contexte droite": ": des femmes \u00e0 soldats"
+  },
+  "Entite55": {
+    "entite": "Goncourt",
+    "label": "MISC",
+    "Contexte gauche": "cavalerie de la prostitution (",
+    "Contexte droite": ", Journal, 1860,"
+  },
+  "Entite56": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "la prostitution (Goncourt,",
+    "Contexte droite": ", 1860, p. 791"
+  },
+  "Entite57": {
+    "entite": "Garder",
+    "label": "PER",
+    "Contexte gauche": "vieilli. Faire soldat.",
+    "Contexte droite": "la plus grosse part lors"
+  },
+  "Entite58": {
+    "entite": "Ancien",
+    "label": "MISC",
+    "Contexte gauche": "train; soldat de l'",
+    "Contexte droite": "R\u00e9gime, de la Commune"
+  },
+  "Entite59": {
+    "entite": "Commune",
+    "label": "MISC",
+    "Contexte gauche": "Ancien R\u00e9gime, de la",
+    "Contexte droite": ", de la Convention,"
+  },
+  "Entite60": {
+    "entite": "Convention",
+    "label": "ORG",
+    "Contexte gauche": "la Commune, de la",
+    "Contexte droite": ", de l'Empire,"
+  },
+  "Entite61": {
+    "entite": "Empire",
+    "label": "LOC",
+    "Contexte gauche": "la Convention, de l'",
+    "Contexte droite": ", de la Garde nationale"
+  },
+  "Entite62": {
+    "entite": "Garde nationale",
+    "label": "ORG",
+    "Contexte gauche": "l'Empire, de la",
+    "Contexte droite": ", du Moyen-\u00c2ge, de"
+  },
+  "Entite63": {
+    "entite": "Moyen-\u00c2ge",
+    "label": "LOC",
+    "Contexte gauche": "la Garde nationale, du",
+    "Contexte droite": ", de la R\u00e9publique,"
+  },
+  "Entite64": {
+    "entite": "R\u00e9publique",
+    "label": "LOC",
+    "Contexte gauche": "du Moyen-\u00c2ge, de la",
+    "Contexte droite": ", de la R\u00e9volution;"
+  },
+  "Entite65": {
+    "entite": "havresac",
+    "label": "LOC",
+    "Contexte gauche": ", clairon, giberne,",
+    "Contexte droite": ", k\u00e9pi, mousqueton,"
+  },
+  "Entite66": {
+    "entite": "Soldat",
+    "label": "PER",
+    "Contexte gauche": "B. \u2212 P. anal.",
+    "Contexte droite": "de.Personne qui combat"
+  },
+  "Entite67": {
+    "entite": "Soldat du Christ",
+    "label": "PER",
+    "Contexte gauche": ", d'un id\u00e9al.",
+    "Contexte droite": ", de Dieu, de"
+  },
+  "Entite68": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "Soldat du Christ, de",
+    "Contexte droite": ", de la d\u00e9mocratie,"
+  },
+  "Entite69": {
+    "entite": "Louis Veuillot",
+    "label": "PER",
+    "Contexte gauche": "de la v\u00e9rit\u00e9. [",
+    "Contexte droite": "] revint de l\u00e0 ["
+  },
+  "Entite70": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "revint de l\u00e0 [de",
+    "Contexte droite": "] en soldat de la"
+  },
+  "Entite71": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": ", parmi les infid\u00e8les (",
+    "Contexte droite": ", Nouv. lundis,"
+  },
+  "Entite72": {
+    "entite": "Nouv",
+    "label": "PER",
+    "Contexte gauche": "les infid\u00e8les (Sainte-Beuve,",
+    "Contexte droite": ". lundis, t. 1"
+  },
+  "Entite73": {
+    "entite": "L'Abb\u00e9",
+    "label": "PER",
+    "Contexte gauche": "m'administrerez ce soir.",
+    "Contexte droite": "r\u00e9fl\u00e9chit. Il est honn\u00eate"
+  },
+  "Entite74": {
+    "entite": "\u00c9glise militante",
+    "label": "ORG",
+    "Contexte gauche": "mais dur soldat de l'",
+    "Contexte droite": "(Aym\u00e9, Br\u00fblebois,"
+  },
+  "Entite75": {
+    "entite": "Aym\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "de l'\u00c9glise militante (",
+    "Contexte droite": ", Br\u00fblebois, 1926,"
+  },
+  "Entite76": {
+    "entite": "Br\u00fblebois",
+    "label": "LOC",
+    "Contexte gauche": "\u00c9glise militante (Aym\u00e9,",
+    "Contexte droite": ", 1926, p. 209"
+  },
+  "Entite77": {
+    "entite": "Individu",
+    "label": "PER",
+    "Contexte gauche": "termites, les fourmis]",
+    "Contexte droite": "non d\u00e9velopp\u00e9 sexuellement, \u00e0"
+  },
+  "Entite78": {
+    "entite": "Animaux",
+    "label": "PER",
+    "Contexte gauche": "la colonie (Coupin,",
+    "Contexte droite": "de nos pays, 1909"
+  },
+  "Entite79": {
+    "entite": "Femme soldat.",
+    "label": "MISC",
+    "Contexte gauche": ", subst. f\u00e9m.a)",
+    "Contexte droite": "(Dict. xxes."
+  },
+  "Entite80": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": ") Femme soldat. (",
+    "Contexte droite": ". xxes.)."
+  },
+  "Entite81": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "soldat. (Dict.",
+    "Contexte droite": ".). b)"
+  },
+  "Entite82": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "f\u00e9minine de l'arm\u00e9e (",
+    "Contexte droite": ". xxes.)."
+  },
+  "Entite83": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "l'arm\u00e9e (Dict.",
+    "Contexte droite": ".). c)"
+  },
+  "Entite84": {
+    "entite": "Soldate",
+    "label": "PER",
+    "Contexte gauche": "c) P. anal.",
+    "Contexte droite": "de. Femme qui milite"
+  },
+  "Entite85": {
+    "entite": "Arm\u00e9e du Salut",
+    "label": "ORG",
+    "Contexte gauche": "les soldates minaudi\u00e8res de l'",
+    "Contexte droite": "qui essayaient de nous refiler"
+  },
+  "Entite86": {
+    "entite": "Bourlinguer",
+    "label": "PER",
+    "Contexte gauche": "-cul (Cendrars,",
+    "Contexte droite": ", 1948, p. 67"
+  },
+  "Entite87": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [s\u0254lda]. Att"
+  },
+  "Entite88": {
+    "entite": "Att",
+    "label": "MISC",
+    "Contexte gauche": "Orth.: [s\u0254lda].",
+    "Contexte droite": ". ds Ac. dep"
+  },
+  "Entite89": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": ": [s\u0254lda]. Att.",
+    "Contexte droite": ". dep. 1694."
+  },
+  "Entite90": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "1694. \u00c9tymol. et",
+    "Contexte droite": ". A. 1. 1475"
+  },
+  "Entite91": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "un prince ou d'un",
+    "Contexte droite": ", qui lui paie une"
+  },
+  "Entite92": {
+    "entite": "ds M\u00e9m",
+    "label": "PER",
+    "Contexte gauche": "solde \u00bb (doc.",
+    "Contexte droite": ". de Commynes, \u00e9d"
+  },
+  "Entite93": {
+    "entite": "Commynes",
+    "label": "LOC",
+    "Contexte gauche": ". ds M\u00e9m. de",
+    "Contexte droite": ", \u00e9d. Lenglet du"
+  },
+  "Entite94": {
+    "entite": "J. Gr\u00e9vin",
+    "label": "PER",
+    "Contexte gauche": "le militaire non grad\u00e9 (",
+    "Contexte droite": ", L'Olimpe ds Th\u00e9\u00e2tre"
+  },
+  "Entite95": {
+    "entite": "L'Olimpe ds Th\u00e9\u00e2tre",
+    "label": "MISC",
+    "Contexte gauche": "grad\u00e9 (J. Gr\u00e9vin,",
+    "Contexte droite": ", \u00e9d. L. Pinvert"
+  },
+  "Entite96": {
+    "entite": "L. Pinvert",
+    "label": "PER",
+    "Contexte gauche": "ds Th\u00e9\u00e2tre, \u00e9d.",
+    "Contexte droite": ", p. 300: Ainsi"
+  },
+  "Entite97": {
+    "entite": "Discours politiques",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb (La Noue,",
+    "Contexte droite": ", p. 231 ds La"
+  },
+  "Entite98": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "Discours politiques, p. 231",
+    "Contexte droite": "La Curne); 3"
+  },
+  "Entite99": {
+    "entite": "La Curne",
+    "label": "PER",
+    "Contexte gauche": "politiques, p. 231 ds",
+    "Contexte droite": "); 3. 1590"
+  },
+  "Entite100": {
+    "entite": "Soldatz",
+    "label": "PER",
+    "Contexte gauche": "3. 1590-1604",
+    "Contexte droite": "de fortune \u00ab aventuriers \u00bb"
+  },
+  "Entite101": {
+    "entite": "Brant\u00f4me",
+    "label": "PER",
+    "Contexte gauche": "fortune \u00ab aventuriers \u00bb (",
+    "Contexte droite": ", Discours sur les colonels"
+  },
+  "Entite102": {
+    "entite": "Discours sur les colonels de l'infanterie de France",
+    "label": "MISC",
+    "Contexte gauche": "aventuriers \u00bb (Brant\u00f4me,",
+    "Contexte droite": ", 101 r o,"
+  },
+  "Entite103": {
+    "entite": "E. Vaucheret",
+    "label": "PER",
+    "Contexte gauche": "r o, \u00e9d.",
+    "Contexte droite": ", p. 69);"
+  },
+  "Entite104": {
+    "entite": "David, II",
+    "label": "MISC",
+    "Contexte gauche": "fig. (Montchrestien,",
+    "Contexte droite": ", \u00e9d. Petit de"
+  },
+  "Entite105": {
+    "entite": "Julleville",
+    "label": "LOC",
+    "Contexte gauche": ", \u00e9d. Petit de",
+    "Contexte droite": ", p. 211: soldat"
+  },
+  "Entite106": {
+    "entite": "bernard",
+    "label": "MISC",
+    "Contexte gauche": "B. 1645 zool. \u00ab",
+    "Contexte droite": "l'hermite \u00bb (G."
+  },
+  "Entite107": {
+    "entite": "G. Coppier",
+    "label": "PER",
+    "Contexte gauche": "bernard l'hermite \u00bb (",
+    "Contexte droite": ", Hist. et Voyage"
+  },
+  "Entite108": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "\u00bb (G. Coppier,",
+    "Contexte droite": ". et Voyage des Indes"
+  },
+  "Entite109": {
+    "entite": "Voyage des Indes occ.",
+    "label": "MISC",
+    "Contexte gauche": "Coppier, Hist. et",
+    "Contexte droite": ", p. 107)."
+  },
+  "Entite110": {
+    "entite": "A 1",
+    "label": "LOC",
+    "Contexte gauche": ", att. au sens",
+    "Contexte droite": "dep. 1348-53"
+  },
+  "Entite111": {
+    "entite": "Boccace",
+    "label": "PER",
+    "Contexte gauche": ". 1348-53 (",
+    "Contexte droite": "ds Tomm.-Bell.),"
+  },
+  "Entite112": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "1348-53 (Boccace",
+    "Contexte droite": "Tomm.-Bell.), part"
+  },
+  "Entite113": {
+    "entite": "soldare",
+    "label": "LOC",
+    "Contexte gauche": ". pass\u00e9 subst. de",
+    "Contexte droite": "\u00ab payer une solde \u00bb"
+  },
+  "Entite114": {
+    "entite": "soldo",
+    "label": "PER",
+    "Contexte gauche": "\u00bb, d\u00e9r. de",
+    "Contexte droite": "(solde1*)."
+  },
+  "Entite115": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r.:",
+    "Contexte droite": ".: a) 16"
+  },
+  "Entite116": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 14 837;",
+    "Contexte droite": ".: a) 16"
+  },
+  "Entite117": {
+    "entite": "Hope",
+    "label": "LOC",
+    "Contexte gauche": "11 167. Bbg.",
+    "Contexte droite": "1971, p. 50,"
+  },
+  "Entite118": {
+    "entite": "Wind 1928",
+    "label": "MISC",
+    "Contexte gauche": "50, 149. \u2212",
+    "Contexte droite": ", p. 7, 8"
+  }
+}

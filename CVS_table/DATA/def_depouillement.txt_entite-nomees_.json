@@ -1,0 +1,824 @@
+{
+  "Entite0": {
+    "entite": "- D\u00e9pouillement",
+    "label": "ORG",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. masc."
+  },
+  "Entite1": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "- D\u00e9pouillement, subst.",
+    "Contexte droite": ". \nI.\u2212 [L'"
+  },
+  "Entite2": {
+    "entite": "A.\u2212 [",
+    "label": "PER",
+    "Contexte gauche": "d'un abandon]\n",
+    "Contexte droite": "Ce qui est \u00f4t\u00e9 est"
+  },
+  "Entite3": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "fait ordinairement au couteau (",
+    "Contexte droite": ". 20e, Lar."
+  },
+  "Entite4": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "(Lar. 20e,",
+    "Contexte droite": ". encyclop.)."
+  },
+  "Entite5": {
+    "entite": "P. ext.",
+    "label": "MISC",
+    "Contexte gauche": ".).\n\u2212",
+    "Contexte droite": "et p. m\u00e9taph. ["
+  },
+  "Entite6": {
+    "entite": "p. m\u00e9taph",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 P. ext. et",
+    "Contexte droite": ". [Concerne la peau"
+  },
+  "Entite7": {
+    "entite": "Ric\u0153ur",
+    "label": "PER",
+    "Contexte gauche": ", un automatisme primitif (",
+    "Contexte droite": ", Philos. volont\u00e9,1949,"
+  },
+  "Entite8": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "automatisme primitif (Ric\u0153ur,",
+    "Contexte droite": ". volont\u00e9,1949, p. 268"
+  },
+  "Entite9": {
+    "entite": "Op\u00e9ration",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 soie] ,,",
+    "Contexte droite": "par laquelle un ver \u00e0"
+  },
+  "Entite10": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "son enveloppe`` (",
+    "Contexte droite": "). ,,Nous"
+  },
+  "Entite11": {
+    "entite": "Nous avons aid\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "Littr\u00e9). ,,",
+    "Contexte droite": "ainsi au d\u00e9pouillement complet de"
+  },
+  "Entite12": {
+    "entite": "J. Santy",
+    "label": "PER",
+    "Contexte gauche": "complet de seize insectes,",
+    "Contexte droite": ", M\u00e9m. d'Agriculture"
+  },
+  "Entite13": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "insectes, J. Santy,",
+    "Contexte droite": "d'Agriculture, etc. 1870"
+  },
+  "Entite14": {
+    "entite": "Agriculture",
+    "label": "LOC",
+    "Contexte gauche": "Santy, M\u00e9m. d'",
+    "Contexte droite": ", etc. 1870-71"
+  },
+  "Entite15": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "p. 261`` (",
+    "Contexte droite": ").\n2."
+  },
+  "Entite16": {
+    "entite": "Concerne",
+    "label": "MISC",
+    "Contexte gauche": ".\na) [",
+    "Contexte droite": "le feuillage des arbres,"
+  },
+  "Entite17": {
+    "entite": "Man",
+    "label": "LOC",
+    "Contexte gauche": "l'automne (Goncourt,",
+    "Contexte droite": ". Salomon,1867, p. 294).Th\u00e9r\u00e8se"
+  },
+  "Entite18": {
+    "entite": "Mauriac",
+    "label": "MISC",
+    "Contexte gauche": "terre d\u00e9j\u00e0 si nue (",
+    "Contexte droite": ", Th. Desqueyroux,1927,"
+  },
+  "Entite19": {
+    "entite": "Laissons",
+    "label": "LOC",
+    "Contexte gauche": "p. 275).\u00ab",
+    "Contexte droite": "tout \u00e7a jaunir, et"
+  },
+  "Entite20": {
+    "entite": "Vienne",
+    "label": "LOC",
+    "Contexte gauche": "jaunir, et tomber.",
+    "Contexte droite": "le taciturne \u00e9tat, le"
+  },
+  "Entite21": {
+    "entite": "Parti pris,1942",
+    "label": "ORG",
+    "Contexte gauche": "automne \u00bb (Ponge,",
+    "Contexte droite": ", p. 26)."
+  },
+  "Entite22": {
+    "entite": "Action",
+    "label": "LOC",
+    "Contexte gauche": "26).\n\u2212",
+    "Contexte droite": "d'enlever son feuillage ("
+  },
+  "Entite23": {
+    "entite": "Souffr.",
+    "label": "ORG",
+    "Contexte gauche": "m\u00fbrier (Champfl.,",
+    "Contexte droite": "profess. Delteil,1853, p."
+  },
+  "Entite24": {
+    "entite": "Concerne",
+    "label": "MISC",
+    "Contexte gauche": ".\nb) [",
+    "Contexte droite": "des \u00e9toffes]\n\u03b1"
+  },
+  "Entite25": {
+    "entite": "V\u00eatements",
+    "label": "LOC",
+    "Contexte gauche": "]\n\u03b1) [",
+    "Contexte droite": "ou \u00e9l\u00e9ments de v\u00eatement humain"
+  },
+  "Entite26": {
+    "entite": "Mal\u00e8gue",
+    "label": "PER",
+    "Contexte gauche": "le d\u00e9pouillement des faux-cols (",
+    "Contexte droite": ", Augustin,t. 1"
+  },
+  "Entite27": {
+    "entite": "Augustin",
+    "label": "PER",
+    "Contexte gauche": "des faux-cols (Mal\u00e8gue,",
+    "Contexte droite": ",t. 1, 1933"
+  },
+  "Entite28": {
+    "entite": "P. m\u00e9taph.",
+    "label": "PER",
+    "Contexte gauche": "189).\n\u2212",
+    "Contexte droite": "(cf. surtout infra B"
+  },
+  "Entite29": {
+    "entite": "B",
+    "label": "LOC",
+    "Contexte gauche": ". (cf. surtout infra",
+    "Contexte droite": "3).Le Pape. (..."
+  },
+  "Entite30": {
+    "entite": "Hugo",
+    "label": "PER",
+    "Contexte gauche": "est interdit au juge (",
+    "Contexte droite": ", Pape,1878, p. 84).Dans"
+  },
+  "Entite31": {
+    "entite": "P\u00e9guy, V.-M.",
+    "label": "MISC",
+    "Contexte gauche": "assises de son po\u00e8me (",
+    "Contexte droite": ", comte Hugo,1910, p."
+  },
+  "Entite32": {
+    "entite": "costume",
+    "label": "LOC",
+    "Contexte gauche": "ce qu'on laisse de",
+    "Contexte droite": "s'irrite. Les hommes"
+  },
+  "Entite33": {
+    "entite": "Alain",
+    "label": "PER",
+    "Contexte gauche": "et d'\u00e9galit\u00e9; ...",
+    "Contexte droite": ", Propos,1931, p. 991"
+  },
+  "Entite34": {
+    "entite": "I A 1",
+    "label": "MISC",
+    "Contexte gauche": "des autels (cf. d\u00e9pouiller",
+    "Contexte droite": "d). Le d\u00e9pouillement"
+  },
+  "Entite35": {
+    "entite": "Repas",
+    "label": "MISC",
+    "Contexte gauche": "autrefois quotidien : apr\u00e8s le",
+    "Contexte droite": "sacr\u00e9, les nappes \u00e9taient"
+  },
+  "Entite36": {
+    "entite": "R. P. Feder",
+    "label": "PER",
+    "Contexte gauche": "celles des tables profanes (",
+    "Contexte droite": ", Missel quotidien des fid\u00e8les"
+  },
+  "Entite37": {
+    "entite": "Missel",
+    "label": "LOC",
+    "Contexte gauche": "(R. P. Feder,",
+    "Contexte droite": "quotidien des fid\u00e8les,Mame"
+  },
+  "Entite38": {
+    "entite": "Mame",
+    "label": "PER",
+    "Contexte gauche": "Missel quotidien des fid\u00e8les,",
+    "Contexte droite": ", 1957, s.v."
+  },
+  "Entite39": {
+    "entite": "s.v",
+    "label": "ORG",
+    "Contexte gauche": ",Mame, 1957,",
+    "Contexte droite": ". Jeudi Saint)."
+  },
+  "Entite40": {
+    "entite": "Jeudi Saint",
+    "label": "PER",
+    "Contexte gauche": ", 1957, s.v.",
+    "Contexte droite": ").\nc)"
+  },
+  "Entite41": {
+    "entite": "Villon",
+    "label": "LOC",
+    "Contexte gauche": "emp\u00e2tement et du d\u00e9pouillement (",
+    "Contexte droite": ", Dessin. et impr"
+  },
+  "Entite42": {
+    "entite": "Dessin",
+    "label": "LOC",
+    "Contexte gauche": "du d\u00e9pouillement (Villon,",
+    "Contexte droite": ". et impr. lithogr"
+  },
+  "Entite43": {
+    "entite": "B.\u2212 P.",
+    "label": "PER",
+    "Contexte gauche": "p. 385).\n",
+    "Contexte droite": "ext. Ce qui est"
+  },
+  "Entite44": {
+    "entite": "Concerne",
+    "label": "MISC",
+    "Contexte gauche": ".\na) [",
+    "Contexte droite": "des biens mat\u00e9riels]\n"
+  },
+  "Entite45": {
+    "entite": "L'expropriation des particuliers",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 [Avec violence]",
+    "Contexte droite": ", le pillage des habitations"
+  },
+  "Entite46": {
+    "entite": "Proudhon,",
+    "label": "MISC",
+    "Contexte gauche": "de bonne guerre? (",
+    "Contexte droite": "Guerre et Paix,1861, p."
+  },
+  "Entite47": {
+    "entite": "Guerre",
+    "label": "MISC",
+    "Contexte gauche": "guerre? (Proudhon,",
+    "Contexte droite": "et Paix,1861, p. 245).Toutes"
+  },
+  "Entite48": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9pouillement de la France (",
+    "Contexte droite": ", M\u00e9m. guerre,1959,"
+  },
+  "Entite49": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "234).\n\u2666",
+    "Contexte droite": ". R\u00e9sultat de cette action"
+  },
+  "Entite50": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "R\u00e9sultat de cette action.",
+    "Contexte droite": ". d\u00e9nuement.Dans le"
+  },
+  "Entite51": {
+    "entite": "Gdes",
+    "label": "PER",
+    "Contexte gauche": "nous \u00e9tions (Ambri\u00e8re,",
+    "Contexte droite": "vac.,1946, p."
+  },
+  "Entite52": {
+    "entite": "P. m\u00e9taph",
+    "label": "PER",
+    "Contexte gauche": "192).\n\u2666",
+    "Contexte droite": ". [Impos\u00e9 par la"
+  },
+  "Entite53": {
+    "entite": "Teilhard de Ch",
+    "label": "PER",
+    "Contexte gauche": "in Christo Jesu \u00bb (",
+    "Contexte droite": "., Milieu divin,1955,"
+  },
+  "Entite54": {
+    "entite": "Milieu",
+    "label": "PER",
+    "Contexte gauche": "Teilhard de Ch.,",
+    "Contexte droite": "divin,1955, p. 112)"
+  },
+  "Entite55": {
+    "entite": "D\u00e9pouillement des morts",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 [Sans violence]",
+    "Contexte droite": ".\nb) ["
+  },
+  "Entite56": {
+    "entite": "Concerne",
+    "label": "MISC",
+    "Contexte gauche": ".\nb) [",
+    "Contexte droite": "des valeurs non mat\u00e9rielles]"
+  },
+  "Entite57": {
+    "entite": "D\u00e9sappropriation des biens",
+    "label": "MISC",
+    "Contexte gauche": "perfection morale ou spirituelle]",
+    "Contexte droite": "personnels; fait pour quelqu'"
+  },
+  "Entite58": {
+    "entite": "Concerne",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9sulte.\n\u2666 [",
+    "Contexte droite": "des biens mat\u00e9riels] Une"
+  },
+  "Entite59": {
+    "entite": "Besch",
+    "label": "MISC",
+    "Contexte gauche": "de tous ses biens (",
+    "Contexte droite": "., s.v. d\u00e9pouillement"
+  },
+  "Entite60": {
+    "entite": "D\u00e9pouillement",
+    "label": "MISC",
+    "Contexte gauche": "ou l'\u00eatre humain]",
+    "Contexte droite": "int\u00e9rieur, total, de"
+  },
+  "Entite61": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "la puret\u00e9 du diamant (",
+    "Contexte droite": ", S\u00e9raphita,1835, p. 324).Quel"
+  },
+  "Entite62": {
+    "entite": "S\u00e9raphita,1835",
+    "label": "PER",
+    "Contexte gauche": "du diamant (Balzac,",
+    "Contexte droite": ", p. 324).Quel d\u00e9pouillement,"
+  },
+  "Entite63": {
+    "entite": "P\u00e9guy,",
+    "label": "MISC",
+    "Contexte gauche": ", de son pouvoir (",
+    "Contexte droite": "Porche Myst.,1911,"
+  },
+  "Entite64": {
+    "entite": "Porche Myst",
+    "label": "PER",
+    "Contexte gauche": "son pouvoir (P\u00e9guy,",
+    "Contexte droite": ".,1911, p. 254).C'"
+  },
+  "Entite65": {
+    "entite": "254).C'",
+    "label": "LOC",
+    "Contexte gauche": "Myst.,1911, p.",
+    "Contexte droite": "\u00e9tait ce d\u00e9pouillement d'attraits"
+  },
+  "Entite66": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9pouillement d'attraits sensibles que",
+    "Contexte droite": "voulait de moi (Mal\u00e8gue"
+  },
+  "Entite67": {
+    "entite": "Mal\u00e8gue",
+    "label": "PER",
+    "Contexte gauche": "Dieu voulait de moi (",
+    "Contexte droite": ", Augustin,t. 2"
+  },
+  "Entite68": {
+    "entite": "Augustin",
+    "label": "PER",
+    "Contexte gauche": "de moi (Mal\u00e8gue,",
+    "Contexte droite": ",t. 2, 1933"
+  },
+  "Entite69": {
+    "entite": "Concerne",
+    "label": "MISC",
+    "Contexte gauche": ").\n\u2666 [",
+    "Contexte droite": "des biens non mat\u00e9riels]"
+  },
+  "Entite70": {
+    "entite": "Mireille",
+    "label": "LOC",
+    "Contexte gauche": ". [Petit cahier de",
+    "Contexte droite": ":] (...) je"
+  },
+  "Entite71": {
+    "entite": "\u00c8ve",
+    "label": "LOC",
+    "Contexte gauche": "sentimentalement amorphe [dans l'",
+    "Contexte droite": "Future] tant que durait"
+  },
+  "Entite72": {
+    "entite": "Les Confessions de Dan",
+    "label": "MISC",
+    "Contexte gauche": "l'\u00e9cran. Cendrars,",
+    "Contexte droite": "Yack,1929, p. 263."
+  },
+  "Entite73": {
+    "entite": "Bloy",
+    "label": "LOC",
+    "Contexte gauche": "est le d\u00e9pouillement supr\u00eame (",
+    "Contexte droite": ", Journal,1894, p. 156).J'"
+  },
+  "Entite74": {
+    "entite": "Gracq",
+    "label": "LOC",
+    "Contexte gauche": "besoin soudain de d\u00e9pouillement (",
+    "Contexte droite": ", Syrtes,1951, p. 36).La"
+  },
+  "Entite75": {
+    "entite": "Syrtes,1951, p. 36).La hutte de l'ermite",
+    "label": "MISC",
+    "Contexte gauche": "de d\u00e9pouillement (Gracq,",
+    "Contexte droite": "est une gloire de la"
+  },
+  "Entite76": {
+    "entite": "Bachelard, Po\u00e9t.",
+    "label": "MISC",
+    "Contexte gauche": "l'absolu du refuge (",
+    "Contexte droite": "espace,1957, p. 46)"
+  },
+  "Entite77": {
+    "entite": "Trait\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "du savant (Mounier,",
+    "Contexte droite": "caract.,1946, p."
+  },
+  "Entite78": {
+    "entite": "mer grise",
+    "label": "LOC",
+    "Contexte gauche": "regard tombait seulement sur la",
+    "Contexte droite": ", plomb\u00e9e, et ce"
+  },
+  "Entite79": {
+    "entite": "Gracq",
+    "label": "PER",
+    "Contexte gauche": ", le d\u00e9pouillement parfait (",
+    "Contexte droite": ", Beau t\u00e9n\u00e9br.,1945"
+  },
+  "Entite80": {
+    "entite": "Beau",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9pouillement parfait (Gracq,",
+    "Contexte droite": "t\u00e9n\u00e9br.,1945, p."
+  },
+  "Entite81": {
+    "entite": "Concerne",
+    "label": "MISC",
+    "Contexte gauche": ") Usuel\n\u2212 [",
+    "Contexte droite": "une \u0153uvre] D\u00e9pouillement du"
+  },
+  "Entite82": {
+    "entite": "D\u00e9pouillement du r\u00e9cit",
+    "label": "MISC",
+    "Contexte gauche": "[Concerne une \u0153uvre]",
+    "Contexte droite": "(cf. biblique, ex"
+  },
+  "Entite83": {
+    "entite": "Massis",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9pouillement et de bri\u00e8vet\u00e9 (",
+    "Contexte droite": ", Jugements,1923, p. 126).Les"
+  },
+  "Entite84": {
+    "entite": "Dialog",
+    "label": "MISC",
+    "Contexte gauche": "gravit\u00e9 d\u00e9nud\u00e9e (Huyghe,",
+    "Contexte droite": ". avec visible,1955, p."
+  },
+  "Entite85": {
+    "entite": "Concerne",
+    "label": "MISC",
+    "Contexte gauche": ").\n\u2212 [",
+    "Contexte droite": "la langue] Notre langage"
+  },
+  "Entite86": {
+    "entite": "Notre langage occidental",
+    "label": "MISC",
+    "Contexte gauche": "[Concerne la langue]",
+    "Contexte droite": "qui a opt\u00e9 pour le"
+  },
+  "Entite87": {
+    "entite": "Th\u00e9\u00e2tre et double,1938, p. 129",
+    "label": "MISC",
+    "Contexte gauche": "des id\u00e9es (Artaud,",
+    "Contexte droite": ").\n4."
+  },
+  "Entite88": {
+    "entite": "Les Ragon",
+    "label": "MISC",
+    "Contexte gauche": "est un perfectionnement physique]",
+    "Contexte droite": "se recommandaient par la conservation"
+  },
+  "Entite89": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 un parfait d\u00e9pouillement (",
+    "Contexte droite": ", C. Birotteau,1837, p."
+  },
+  "Entite90": {
+    "entite": "C. Birotteau,1837",
+    "label": "PER",
+    "Contexte gauche": "parfait d\u00e9pouillement (Balzac,",
+    "Contexte droite": ", p. 292)."
+  },
+  "Entite91": {
+    "entite": "C. Bernard",
+    "label": "PER",
+    "Contexte gauche": "de la couleur? (",
+    "Contexte droite": ", Notes,1860, p. 158"
+  },
+  "Entite92": {
+    "entite": "Notes,1860",
+    "label": "PER",
+    "Contexte gauche": "? (C. Bernard,",
+    "Contexte droite": ", p. 158)."
+  },
+  "Entite93": {
+    "entite": "II.\u2212",
+    "label": "MISC",
+    "Contexte gauche": "p. 158).\n",
+    "Contexte droite": "[L'id\u00e9e dominante est"
+  },
+  "Entite94": {
+    "entite": "A.\u2212 Rare",
+    "label": "PER",
+    "Contexte gauche": ", de s\u00e9lection]\n",
+    "Contexte droite": ". [L'extraction a"
+  },
+  "Entite95": {
+    "entite": "Champbourcy",
+    "label": "PER",
+    "Contexte gauche": "une prise de possession]",
+    "Contexte droite": ". \u2212 ... j'ai"
+  },
+  "Entite96": {
+    "entite": "Labiche, Cagnotte,1864",
+    "label": "MISC",
+    "Contexte gauche": "nous proc\u00e8derons au d\u00e9pouillement (",
+    "Contexte droite": ", I, 1,"
+  },
+  "Entite97": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "(Labiche, Cagnotte,1864,",
+    "Contexte droite": ", 1, p. 9"
+  },
+  "Entite98": {
+    "entite": "B.\u2212",
+    "label": "ORG",
+    "Contexte gauche": "p. 9).\n",
+    "Contexte droite": "Usuel\n1. ["
+  },
+  "Entite99": {
+    "entite": "Responsorial",
+    "label": "MISC",
+    "Contexte gauche": ". Le d\u00e9pouillement complet du",
+    "Contexte droite": "ratisbonnien nous am\u00e8nerait \u00e0 constater"
+  },
+  "Entite100": {
+    "entite": "2",
+    "label": "MISC",
+    "Contexte gauche": ". mus.,t.",
+    "Contexte droite": ", 1889, p. 162).Les"
+  },
+  "Entite101": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "faits de divers auteurs (",
+    "Contexte droite": "., Martyrs,t."
+  },
+  "Entite102": {
+    "entite": "Martyrs",
+    "label": "LOC",
+    "Contexte gauche": "auteurs (Chateaubr.,",
+    "Contexte droite": ",t. 1, 1810"
+  },
+  "Entite103": {
+    "entite": "Ensemble des op\u00e9rations",
+    "label": "MISC",
+    "Contexte gauche": "de classement] ,,",
+    "Contexte droite": "ayant pour objet de compter"
+  },
+  "Entite104": {
+    "entite": "Olmi-July",
+    "label": "MISC",
+    "Contexte gauche": "toujours facile`` (",
+    "Contexte droite": "1970).\nb"
+  },
+  "Entite105": {
+    "entite": "F\u00e9e Miettes,1831",
+    "label": "PER",
+    "Contexte gauche": "respectueuse d\u00e9f\u00e9rence (Nodier,",
+    "Contexte droite": ", p. 134).D\u00e9pouillement et classement"
+  },
+  "Entite106": {
+    "entite": "Larbaud",
+    "label": "PER",
+    "Contexte gauche": "d'un gros courrier (",
+    "Contexte droite": ", Journal,1935, p. 347).Un"
+  },
+  "Entite107": {
+    "entite": "Journal Officiel",
+    "label": "LOC",
+    "Contexte gauche": "p. 347).Un d\u00e9pouillement syst\u00e9matique du",
+    "Contexte droite": "(De Gaulle, M\u00e9m"
+  },
+  "Entite108": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "syst\u00e9matique du Journal Officiel (",
+    "Contexte droite": ", M\u00e9m. guerre,1956,"
+  },
+  "Entite109": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "550).\n\u2212",
+    "Contexte droite": ". D\u00e9pouillement d'une affaire"
+  },
+  "Entite110": {
+    "entite": "Travail",
+    "label": "LOC",
+    "Contexte gauche": "] CIN. ,,",
+    "Contexte droite": "qui consiste pour le r\u00e9gisseur"
+  },
+  "Entite111": {
+    "entite": "Cohen-S\u00e9at",
+    "label": "LOC",
+    "Contexte gauche": "de tournage`` (",
+    "Contexte droite": ", Vocab. filmologie,"
+  },
+  "Entite112": {
+    "entite": "Vocab",
+    "label": "MISC",
+    "Contexte gauche": "(Cohen-S\u00e9at,",
+    "Contexte droite": ". filmologie, p. 199"
+  },
+  "Entite113": {
+    "entite": "Essai de gramm",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9pouillement. A. Berthomieu,",
+    "Contexte droite": ". cin.,1946,"
+  },
+  "Entite114": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "la majorit\u00e9 aux communes (",
+    "Contexte droite": ", M\u00e9m. guerre,1959,"
+  },
+  "Entite115": {
+    "entite": "Huchon",
+    "label": "PER",
+    "Contexte gauche": "\n\u2212 Emploi abs.",
+    "Contexte droite": "lui-m\u00eame se chargea du d\u00e9pouillement"
+  },
+  "Entite116": {
+    "entite": "Romains",
+    "label": "LOC",
+    "Contexte gauche": "se chargea du d\u00e9pouillement (",
+    "Contexte droite": ", Copains,1913, p. 161"
+  },
+  "Entite117": {
+    "entite": "Sarlazaccio",
+    "label": "LOC",
+    "Contexte gauche": "):\n4. \u00c0",
+    "Contexte droite": ", o\u00f9 le concurrent de"
+  },
+  "Entite118": {
+    "entite": "Jansoulet",
+    "label": "PER",
+    "Contexte gauche": ", o\u00f9 le concurrent de",
+    "Contexte droite": "paraissait devoir l'emporter,"
+  },
+  "Entite119": {
+    "entite": "Daudet",
+    "label": "PER",
+    "Contexte gauche": "pr\u00e9c\u00e9dant le d\u00e9pouillement. A.",
+    "Contexte droite": ", Le Nabab,1877, p."
+  },
+  "Entite120": {
+    "entite": "Le Nabab,1877, p. 163",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9pouillement. A. Daudet,",
+    "Contexte droite": ".\nb) D\u00c9MOGR"
+  },
+  "Entite121": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "de la population masculine (",
+    "Contexte droite": ", Physiol. mar."
+  },
+  "Entite122": {
+    "entite": "STAT.",
+    "label": "ORG",
+    "Contexte gauche": ").\nc)",
+    "Contexte droite": ",,Inventaire des r\u00e9sultats"
+  },
+  "Entite123": {
+    "entite": "Inventaire",
+    "label": "PER",
+    "Contexte gauche": ") STAT. ,,",
+    "Contexte droite": "des r\u00e9sultats d'un sondage"
+  },
+  "Entite124": {
+    "entite": "Media",
+    "label": "MISC",
+    "Contexte gauche": "leur analyse`` (",
+    "Contexte droite": "1971).\nPrononc"
+  },
+  "Entite125": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ". : [depujm\u0251 \u0303]."
+  },
+  "Entite126": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "1932. \u00c9tymol. et",
+    "Contexte droite": ". 1. Fin xiies"
+  },
+  "Entite127": {
+    "entite": "Sermons de St Bernard",
+    "label": "MISC",
+    "Contexte gauche": "de ses v\u00eatements) (",
+    "Contexte droite": ", \u00e9d. W. Foerster"
+  },
+  "Entite128": {
+    "entite": "W. Foerster",
+    "label": "PER",
+    "Contexte gauche": "St Bernard, \u00e9d.",
+    "Contexte droite": ", p. 172, 39"
+  },
+  "Entite129": {
+    "entite": "St Fran\u00e7ois de Sales",
+    "label": "LOC",
+    "Contexte gauche": "abandon, renoncement \u00bb (",
+    "Contexte droite": ", Entretiens spirituels, 8"
+  },
+  "Entite130": {
+    "entite": "Entretiens",
+    "label": "LOC",
+    "Contexte gauche": "St Fran\u00e7ois de Sales,",
+    "Contexte droite": "spirituels, 8 (titre"
+  },
+  "Entite131": {
+    "entite": "ds Hug",
+    "label": "PER",
+    "Contexte gauche": ", 8 (titre)",
+    "Contexte droite": "., s.v. d\u00e9sappropriation"
+  },
+  "Entite132": {
+    "entite": "J. Savary",
+    "label": "PER",
+    "Contexte gauche": "d'un inventaire \u00bb (",
+    "Contexte droite": "des Bruslons, Dict."
+  },
+  "Entite133": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "J. Savary des Bruslons,",
+    "Contexte droite": ". universel de comm."
+  },
+  "Entite134": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "universel de comm.,",
+    "Contexte droite": "). D\u00e9r. du"
+  },
+  "Entite135": {
+    "entite": "Fr\u00e9q",
+    "label": "LOC",
+    "Contexte gauche": "*; suff. -ment1*.",
+    "Contexte droite": ". abs. litt\u00e9r."
+  },
+  "Entite136": {
+    "entite": "Uren",
+    "label": "LOC",
+    "Contexte gauche": ": 157. Bbg.",
+    "Contexte droite": "(O.). Le"
+  }
+}

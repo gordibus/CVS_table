@@ -1,0 +1,1718 @@
+{
+  "Entite0": {
+    "entite": "- Noble",
+    "label": "LOC",
+    "Contexte gauche": "",
+    "Contexte droite": ", adj. \nA."
+  },
+  "Entite1": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "classe sociale, v. noblesse",
+    "Contexte droite": "rem.\na)"
+  },
+  "Entite2": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "\na) [En",
+    "Contexte droite": "] Qui appartient, par"
+  },
+  "Entite3": {
+    "entite": "Mariage G\u00e9rard",
+    "label": "PER",
+    "Contexte gauche": "vous autres (Theuriet,",
+    "Contexte droite": ", 1875, p.212).L'homme"
+  },
+  "Entite4": {
+    "entite": "Dr\u00f4le de jeu",
+    "label": "MISC",
+    "Contexte gauche": "l'amour (Vailland,",
+    "Contexte droite": ", 1945, p.104):"
+  },
+  "Entite5": {
+    "entite": "duc de Bourgogne",
+    "label": "PER",
+    "Contexte gauche": "1. Les conseillers du",
+    "Contexte droite": ", (...) en"
+  },
+  "Entite6": {
+    "entite": "Saint-Jean",
+    "label": "LOC",
+    "Contexte gauche": "nom serait donn\u00e9 avant la",
+    "Contexte droite": ". Barante,Hist."
+  },
+  "Entite7": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "la Saint-Jean. Barante,",
+    "Contexte droite": ". ducs Bourg.,"
+  },
+  "Entite8": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": ". Barante,Hist.",
+    "Contexte droite": "., t.4, 1821"
+  },
+  "Entite9": {
+    "entite": "Guelfes",
+    "label": "MISC",
+    "Contexte gauche": "chef des derniers de ces",
+    "Contexte droite": ", aussi puissants jadis que"
+  },
+  "Entite10": {
+    "entite": "Habsbourg",
+    "label": "PER",
+    "Contexte gauche": "aussi puissants jadis que les",
+    "Contexte droite": ", aussi nobles que les"
+  },
+  "Entite11": {
+    "entite": "Bourbons",
+    "label": "LOC",
+    "Contexte gauche": ", aussi nobles que les",
+    "Contexte droite": ". Cette longue suite d'"
+  },
+  "Entite12": {
+    "entite": "Manifeste contre la France",
+    "label": "MISC",
+    "Contexte gauche": "le duc fameux par son",
+    "Contexte droite": ", Othon, le vaincu"
+  },
+  "Entite13": {
+    "entite": "Othon",
+    "label": "LOC",
+    "Contexte gauche": "Manifeste contre la France,",
+    "Contexte droite": ", le vaincu de Bouvines"
+  },
+  "Entite14": {
+    "entite": "Bouvines",
+    "label": "MISC",
+    "Contexte gauche": "Othon, le vaincu de",
+    "Contexte droite": ", l'empereur Henri le"
+  },
+  "Entite15": {
+    "entite": "Henri le Lion",
+    "label": "PER",
+    "Contexte gauche": "de Bouvines, l'empereur",
+    "Contexte droite": ", d\u00e9poss\u00e9d\u00e9, mis au"
+  },
+  "Entite16": {
+    "entite": "Witikind",
+    "label": "MISC",
+    "Contexte gauche": "de l'Empire, et",
+    "Contexte droite": "enfin, l'anc\u00eatre fabuleux"
+  },
+  "Entite17": {
+    "entite": "Saxons",
+    "label": "MISC",
+    "Contexte gauche": ", le plus grand des",
+    "Contexte droite": ". Bourges,Cr\u00e9pusc."
+  },
+  "Entite18": {
+    "entite": "Bourges",
+    "label": "LOC",
+    "Contexte gauche": "plus grand des Saxons.",
+    "Contexte droite": ",Cr\u00e9pusc. dieux,"
+  },
+  "Entite19": {
+    "entite": "p.15",
+    "label": "PER",
+    "Contexte gauche": ". dieux, 1884,",
+    "Contexte droite": ".\n\u2666 Noble homme"
+  },
+  "Entite20": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "titres du quinzi\u00e8me si\u00e8cle (",
+    "Contexte droite": ".,\u00c9t. ou Disc"
+  },
+  "Entite21": {
+    "entite": "Disc.",
+    "label": "MISC",
+    "Contexte gauche": "Chateaubr.,\u00c9t. ou",
+    "Contexte droite": "hist., t.3,"
+  },
+  "Entite22": {
+    "entite": "Rose-Mariette Rezeau",
+    "label": "MISC",
+    "Contexte gauche": "de naissance d'une certaine",
+    "Contexte droite": ", fille de noble homme"
+  },
+  "Entite23": {
+    "entite": "Claude Rezeau",
+    "label": "PER",
+    "Contexte gauche": ", fille de noble homme",
+    "Contexte droite": "et de dame Rose Taugourdeau"
+  },
+  "Entite24": {
+    "entite": "Rose Taugourdeau",
+    "label": "PER",
+    "Contexte gauche": "Claude Rezeau et de dame",
+    "Contexte droite": "(H. Bazin,Vip\u00e8re"
+  },
+  "Entite25": {
+    "entite": "H. Bazin",
+    "label": "PER",
+    "Contexte gauche": "de dame Rose Taugourdeau (",
+    "Contexte droite": ",Vip\u00e8re, 1948,"
+  },
+  "Entite26": {
+    "entite": "Ds Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "de mani\u00e8re incontestable. (",
+    "Contexte droite": ", DG, Ac."
+  },
+  "Entite27": {
+    "entite": "DG, Ac.",
+    "label": "MISC",
+    "Contexte gauche": ". (Ds Littr\u00e9,",
+    "Contexte droite": "1798-1935)."
+  },
+  "Entite28": {
+    "entite": "Hermite",
+    "label": "PER",
+    "Contexte gauche": "grands propri\u00e9taires (Jouy,",
+    "Contexte droite": ", t.4, 1813,"
+  },
+  "Entite29": {
+    "entite": "p.182).Les",
+    "label": "MISC",
+    "Contexte gauche": ", t.4, 1813,",
+    "Contexte droite": "m\u00e9decins comme il faut ne"
+  },
+  "Entite30": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "ne parlent jamais anc\u00eatres (",
+    "Contexte droite": ",Cous. Bette,"
+  },
+  "Entite31": {
+    "entite": "p.373).V.",
+    "label": "MISC",
+    "Contexte gauche": ". Bette, 1846,",
+    "Contexte droite": "anobli ex. 3,"
+  },
+  "Entite32": {
+    "entite": "le Maire",
+    "label": "LOC",
+    "Contexte gauche": ":\n3. M.",
+    "Contexte droite": "est gentilhomme par sa femme"
+  },
+  "Entite33": {
+    "entite": "Pamphlets",
+    "label": "LOC",
+    "Contexte gauche": ", parvenus. Courier,",
+    "Contexte droite": "pol., Gazette du"
+  },
+  "Entite34": {
+    "entite": "Gazette",
+    "label": "LOC",
+    "Contexte gauche": ",Pamphlets pol.,",
+    "Contexte droite": "du village, 1823,"
+  },
+  "Entite35": {
+    "entite": "Ami Fritz",
+    "label": "PER",
+    "Contexte gauche": "populace (Erckm.-Chatr.,",
+    "Contexte droite": ", 1864, p.91)"
+  },
+  "Entite36": {
+    "entite": "Hors de France",
+    "label": "MISC",
+    "Contexte gauche": ".\nb) [",
+    "Contexte droite": "] Qui appartient par naissance"
+  },
+  "Entite37": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "des plus nobles familles de",
+    "Contexte droite": "les accompagnaient (Dumas p\u00e8re"
+  },
+  "Entite38": {
+    "entite": "Dumas p\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "de Rome les accompagnaient (",
+    "Contexte droite": ", Monte-Cristo,"
+  },
+  "Entite39": {
+    "entite": "Monte-Cristo",
+    "label": "PER",
+    "Contexte gauche": "accompagnaient (Dumas p\u00e8re,",
+    "Contexte droite": ", t.1, 1846,"
+  },
+  "Entite40": {
+    "entite": "Prieur",
+    "label": "PER",
+    "Contexte gauche": "En rev\u00eatant les fonctions de",
+    "Contexte droite": "(1300), il"
+  },
+  "Entite41": {
+    "entite": "Noirs",
+    "label": "LOC",
+    "Contexte gauche": "sous les nouveaux noms de",
+    "Contexte droite": "et de Blancs (Ozanam"
+  },
+  "Entite42": {
+    "entite": "Blancs",
+    "label": "LOC",
+    "Contexte gauche": "noms de Noirs et de",
+    "Contexte droite": "(Ozanam,Philos."
+  },
+  "Entite43": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "de Blancs (Ozanam,",
+    "Contexte droite": ". Dante, 1838,"
+  },
+  "Entite44": {
+    "entite": "Dante",
+    "label": "PER",
+    "Contexte gauche": "(Ozanam,Philos.",
+    "Contexte droite": ", 1838, p.64).Les citoyens"
+  },
+  "Entite45": {
+    "entite": "Taine",
+    "label": "PER",
+    "Contexte gauche": "nobles de l'antiquit\u00e9 (",
+    "Contexte droite": ",Philos. art,"
+  },
+  "Entite46": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "l'antiquit\u00e9 (Taine,",
+    "Contexte droite": ". art, t.2,"
+  },
+  "Entite47": {
+    "entite": "Hutin",
+    "label": "LOC",
+    "Contexte gauche": ")? (Caron,",
+    "Contexte droite": ", Alchimistes, 1959,"
+  },
+  "Entite48": {
+    "entite": "Alchimistes",
+    "label": "MISC",
+    "Contexte gauche": "(Caron, Hutin,",
+    "Contexte droite": ", 1959, p.27)"
+  },
+  "Entite49": {
+    "entite": "Souv",
+    "label": "PER",
+    "Contexte gauche": "demeure noble (Renan,",
+    "Contexte droite": ". enfance, 1883,"
+  },
+  "Entite50": {
+    "entite": "Guermantes",
+    "label": "LOC",
+    "Contexte gauche": "devant le noble h\u00f4tel de",
+    "Contexte droite": "(Proust,Prisonn."
+  },
+  "Entite51": {
+    "entite": "Proust,Prisonn.",
+    "label": "MISC",
+    "Contexte gauche": "noble h\u00f4tel de Guermantes (",
+    "Contexte droite": ", 1922, p.116):"
+  },
+  "Entite52": {
+    "entite": "Orgel",
+    "label": "PER",
+    "Contexte gauche": "(...) M. d'",
+    "Contexte droite": "regretta-t-il fort peu"
+  },
+  "Entite53": {
+    "entite": "Allemands",
+    "label": "LOC",
+    "Contexte gauche": "la place prise par les",
+    "Contexte droite": ". Leurs officiers le trait\u00e8rent"
+  },
+  "Entite54": {
+    "entite": "Radiguet,Bal",
+    "label": "MISC",
+    "Contexte gauche": "noble leur en impose...",
+    "Contexte droite": ", 1923, p.32."
+  },
+  "Entite55": {
+    "entite": "DR",
+    "label": "ORG",
+    "Contexte gauche": ", p.32.\n\u2212",
+    "Contexte droite": ". F\u00c9OD. Biens nobles"
+  },
+  "Entite56": {
+    "entite": "Ds Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "tenus en fief. (",
+    "Contexte droite": ", Gu\u00e9rin 1892, DG"
+  },
+  "Entite57": {
+    "entite": "Gu\u00e9rin",
+    "label": "PER",
+    "Contexte gauche": ". (Ds Littr\u00e9,",
+    "Contexte droite": "1892, DG, Ac"
+  },
+  "Entite58": {
+    "entite": "DG, Ac.",
+    "label": "MISC",
+    "Contexte gauche": "Littr\u00e9, Gu\u00e9rin 1892,",
+    "Contexte droite": "1798-1935)."
+  },
+  "Entite59": {
+    "entite": "Biens francs",
+    "label": "MISC",
+    "Contexte gauche": "1935). ,,",
+    "Contexte droite": "et exempts de charges,"
+  },
+  "Entite60": {
+    "entite": "Terre noble``",
+    "label": "MISC",
+    "Contexte gauche": "disait dans le m\u00eame sens",
+    "Contexte droite": "(Ac. 1935)"
+  },
+  "Entite61": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "elle souffrit mes opinions (",
+    "Contexte droite": ".,M\u00e9m., t.3"
+  },
+  "Entite62": {
+    "entite": "Flaub",
+    "label": "LOC",
+    "Contexte gauche": "un r\u00e9giment de gardes-nobles (",
+    "Contexte droite": ".,Bouvard, t.1,"
+  },
+  "Entite63": {
+    "entite": "p.128).Un quartier noble et riche",
+    "label": "MISC",
+    "Contexte gauche": ", t.1, 1880,",
+    "Contexte droite": "(Maupass.,Contes et"
+  },
+  "Entite64": {
+    "entite": "Marquis de F.",
+    "label": "PER",
+    "Contexte gauche": "nouv., t.2,",
+    "Contexte droite": ", 1886, p.67)"
+  },
+  "Entite65": {
+    "entite": "Ds Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "que des nobles. (",
+    "Contexte droite": ", Gu\u00e9rin 1892, DG"
+  },
+  "Entite66": {
+    "entite": "Gu\u00e9rin",
+    "label": "PER",
+    "Contexte gauche": ". (Ds Littr\u00e9,",
+    "Contexte droite": "1892, DG)."
+  },
+  "Entite67": {
+    "entite": "DG",
+    "label": "MISC",
+    "Contexte gauche": "Littr\u00e9, Gu\u00e9rin 1892,",
+    "Contexte droite": ").\n\u2666 Le"
+  },
+  "Entite68": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "Le faubourg Saint-Germain, \u00e0",
+    "Contexte droite": ". J'y trouvai ("
+  },
+  "Entite69": {
+    "entite": "Brillat-Sav",
+    "label": "LOC",
+    "Contexte gauche": "voyage du noble faubourg (",
+    "Contexte droite": ".,Physiol. go\u00fbt,"
+  },
+  "Entite70": {
+    "entite": "p.326).Il",
+    "label": "PER",
+    "Contexte gauche": ". go\u00fbt, 1825,",
+    "Contexte droite": "\u00e9tait devenu aussi assidu chez"
+  },
+  "Entite71": {
+    "entite": "madame de Grandlieu",
+    "label": "PER",
+    "Contexte gauche": "\u00e9tait devenu aussi assidu chez",
+    "Contexte droite": "que l'aurait \u00e9t\u00e9 un"
+  },
+  "Entite72": {
+    "entite": "Faubourg",
+    "label": "MISC",
+    "Contexte gauche": "dans les cercles du noble",
+    "Contexte droite": "(Balzac,Gobseck,"
+  },
+  "Entite73": {
+    "entite": "Balzac,Gobseck",
+    "label": "MISC",
+    "Contexte gauche": "cercles du noble Faubourg (",
+    "Contexte droite": ", 1830, p.382).Les amendes"
+  },
+  "Entite74": {
+    "entite": "A.B.C.",
+    "label": "PER",
+    "Contexte gauche": "noble faubourg (Coston,",
+    "Contexte droite": "journ., 1952,"
+  },
+  "Entite75": {
+    "entite": "Anat",
+    "label": "LOC",
+    "Contexte gauche": "cette dent (Cuvier,",
+    "Contexte droite": ". comp., t.3"
+  },
+  "Entite76": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "de l'immortel ouvrage de",
+    "Contexte droite": "de Buffon est celui du"
+  },
+  "Entite77": {
+    "entite": "Buffon",
+    "label": "PER",
+    "Contexte gauche": "immortel ouvrage de M. de",
+    "Contexte droite": "est celui du cheval."
+  },
+  "Entite78": {
+    "entite": "Hermite",
+    "label": "PER",
+    "Contexte gauche": "lui assigne. Jouy,",
+    "Contexte droite": ", t.4, 1813,"
+  },
+  "Entite79": {
+    "entite": "P.",
+    "label": "PER",
+    "Contexte gauche": ", p.200.\n[",
+    "Contexte droite": "allus. \u00e0 Buffon]"
+  },
+  "Entite80": {
+    "entite": "Buffon",
+    "label": "PER",
+    "Contexte gauche": "[P. allus. \u00e0",
+    "Contexte droite": "] La plus noble conqu\u00eate"
+  },
+  "Entite81": {
+    "entite": "Soulier",
+    "label": "PER",
+    "Contexte gauche": "nomm\u00e9 le cheval? (",
+    "Contexte droite": ",Gdes applic. \u00e9lectr"
+  },
+  "Entite82": {
+    "entite": "Gdes",
+    "label": "PER",
+    "Contexte gauche": "cheval? (Soulier,",
+    "Contexte droite": "applic. \u00e9lectr.,"
+  },
+  "Entite83": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "sauvage! P. Rousseau,",
+    "Contexte droite": ". transp., 1961"
+  },
+  "Entite84": {
+    "entite": "Oiseaux",
+    "label": "MISC",
+    "Contexte gauche": "Oiseaux de proies nobles.",
+    "Contexte droite": "qui peuvent \u00eatre dress\u00e9s pour"
+  },
+  "Entite85": {
+    "entite": "Ds Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "le haut vol. (",
+    "Contexte droite": ", Gu\u00e9rin 1892, Lar"
+  },
+  "Entite86": {
+    "entite": "Gu\u00e9rin 1892",
+    "label": "MISC",
+    "Contexte gauche": ". (Ds Littr\u00e9,",
+    "Contexte droite": ", Lar. Lang."
+  },
+  "Entite87": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "Littr\u00e9, Gu\u00e9rin 1892,",
+    "Contexte droite": ". Lang. fr."
+  },
+  "Entite88": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ", Lar. Lang.",
+    "Contexte droite": ".).\n\u2666"
+  },
+  "Entite89": {
+    "entite": "Ds Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "surtout dans l'avant-main (",
+    "Contexte droite": ", Gu\u00e9rin 1892, Lar"
+  },
+  "Entite90": {
+    "entite": "Gu\u00e9rin 1892",
+    "label": "MISC",
+    "Contexte gauche": "avant-main (Ds Littr\u00e9,",
+    "Contexte droite": ", Lar. Lang."
+  },
+  "Entite91": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "Littr\u00e9, Gu\u00e9rin 1892,",
+    "Contexte droite": ". Lang. fr."
+  },
+  "Entite92": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ", Lar. Lang.",
+    "Contexte droite": ".).\n\u2212"
+  },
+  "Entite93": {
+    "entite": "Le Radium, 1912",
+    "label": "MISC",
+    "Contexte gauche": "s\u00e9rie des d\u00e9sint\u00e9grations radioactives (",
+    "Contexte droite": ", p.356).Le go\u00fbt d'Orsenna"
+  },
+  "Entite94": {
+    "entite": "p.356).Le",
+    "label": "LOC",
+    "Contexte gauche": "Le Radium, 1912,",
+    "Contexte droite": "go\u00fbt d'Orsenna pour les"
+  },
+  "Entite95": {
+    "entite": "Orsenna",
+    "label": "LOC",
+    "Contexte gauche": "1912, p.356).Le go\u00fbt d'",
+    "Contexte droite": "pour les mat\u00e9riaux massifs et"
+  },
+  "Entite96": {
+    "entite": "Syrtes,1951",
+    "label": "LOC",
+    "Contexte gauche": "les marbres (Gracq,",
+    "Contexte droite": ", p.75).\n"
+  },
+  "Entite97": {
+    "entite": "Ren",
+    "label": "PER",
+    "Contexte gauche": "origine contr\u00f4l\u00e9e (d'apr.",
+    "Contexte droite": ". Vin, 1962)"
+  },
+  "Entite98": {
+    "entite": "Levadoux, Vigne, 1961",
+    "label": "MISC",
+    "Contexte gauche": "leur production trop faible (",
+    "Contexte droite": ", p.121).\n"
+  },
+  "Entite99": {
+    "entite": "Gaz nobles",
+    "label": "ORG",
+    "Contexte gauche": "p.121).\n\u2666",
+    "Contexte droite": ". Gaz rares de l'"
+  },
+  "Entite100": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "de l'atmosph\u00e8re. (",
+    "Contexte droite": ". xxes.)."
+  },
+  "Entite101": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "atmosph\u00e8re. (Dict.",
+    "Contexte droite": ".).\n\u2666"
+  },
+  "Entite102": {
+    "entite": "M\u00e9taux",
+    "label": "PER",
+    "Contexte gauche": ".).\n\u2666",
+    "Contexte droite": "nobles. M\u00e9taux pr\u00e9cieux comme"
+  },
+  "Entite103": {
+    "entite": "M. M. Richard",
+    "label": "PER",
+    "Contexte gauche": "[de l'affinerie de",
+    "Contexte droite": ", \u00e0 Lyon] comprend"
+  },
+  "Entite104": {
+    "entite": "Lyon",
+    "label": "LOC",
+    "Contexte gauche": "M. M. Richard, \u00e0",
+    "Contexte droite": "] comprend deux parties:"
+  },
+  "Entite105": {
+    "entite": "H. Fontaine",
+    "label": "PER",
+    "Contexte gauche": "traitement des m\u00e9taux nobles (",
+    "Contexte droite": ",\u00c9lectrolyse, 1885,"
+  },
+  "Entite106": {
+    "entite": "\u00c9lectrolyse",
+    "label": "PER",
+    "Contexte gauche": "nobles (H. Fontaine,",
+    "Contexte droite": ", 1885, p.304).[Le d\u00e9p\u00f4t"
+  },
+  "Entite107": {
+    "entite": "Gasnier",
+    "label": "PER",
+    "Contexte gauche": "les m\u00e9taux r\u00e9put\u00e9s nobles (",
+    "Contexte droite": ",D\u00e9p\u00f4ts m\u00e9tall.,"
+  },
+  "Entite108": {
+    "entite": "D\u00e9p\u00f4ts m\u00e9tall",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9put\u00e9s nobles (Gasnier,",
+    "Contexte droite": "., 1927, p.420"
+  },
+  "Entite109": {
+    "entite": "Organes",
+    "label": "LOC",
+    "Contexte gauche": "litt\u00e9r. Parties nobles.",
+    "Contexte droite": "humains essentiels tels que le"
+  },
+  "Entite110": {
+    "entite": "Proudhon,Cr\u00e9at",
+    "label": "MISC",
+    "Contexte gauche": "sont form\u00e9es de c\u00f4tes (",
+    "Contexte droite": ". ordre, 1843,"
+  },
+  "Entite111": {
+    "entite": "Arnoux,Solde",
+    "label": "MISC",
+    "Contexte gauche": "bat le noble visc\u00e8re (",
+    "Contexte droite": ", 1958, p.212):"
+  },
+  "Entite112": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "parties nobles [it.",
+    "Contexte droite": "le texte], elle"
+  },
+  "Entite113": {
+    "entite": "Gds",
+    "label": "PER",
+    "Contexte gauche": "coup)... Giono,",
+    "Contexte droite": "chemins, 1951, p.177"
+  },
+  "Entite114": {
+    "entite": "Ds Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "au f\u00e9minin). (",
+    "Contexte droite": ", Gu\u00e9rin 1892, Ac"
+  },
+  "Entite115": {
+    "entite": "Gu\u00e9rin 1892, Ac.",
+    "label": "MISC",
+    "Contexte gauche": ". (Ds Littr\u00e9,",
+    "Contexte droite": "1935, Rob.,"
+  },
+  "Entite116": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "1935, Rob.,",
+    "Contexte droite": ". Lang. fr."
+  },
+  "Entite117": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ", Lar. Lang.",
+    "Contexte droite": ".).\nNoble"
+  },
+  "Entite118": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "\nNoble-\u00e9pine.",
+    "Contexte droite": ". de aub\u00e9pine. ("
+  },
+  "Entite119": {
+    "entite": "Ds Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": ". de aub\u00e9pine. (",
+    "Contexte droite": ", Gu\u00e9rin 1892)."
+  },
+  "Entite120": {
+    "entite": "Gu\u00e9rin",
+    "label": "PER",
+    "Contexte gauche": ". (Ds Littr\u00e9,",
+    "Contexte droite": "1892).\nb"
+  },
+  "Entite121": {
+    "entite": "Le Monde,29 oct.",
+    "label": "MISC",
+    "Contexte gauche": "en instrument de prestige (",
+    "Contexte droite": "1966ds Gilb. 1971).Les sp\u00e9cialit\u00e9s"
+  },
+  "Entite122": {
+    "entite": "Gilb",
+    "label": "LOC",
+    "Contexte gauche": "(Le Monde,29 oct. 1966ds",
+    "Contexte droite": ". 1971).Les sp\u00e9cialit\u00e9s les plus"
+  },
+  "Entite123": {
+    "entite": "Noble",
+    "label": "MISC",
+    "Contexte gauche": "d'un \u00eatre humain]",
+    "Contexte droite": "ami; noble cr\u00e9ature;"
+  },
+  "Entite124": {
+    "entite": "Restif de La Bret",
+    "label": "LOC",
+    "Contexte gauche": "noble, devint basse (",
+    "Contexte droite": ".,M. Nicolas, 1796"
+  },
+  "Entite125": {
+    "entite": "Nicolas",
+    "label": "MISC",
+    "Contexte gauche": "de La Bret.,M.",
+    "Contexte droite": ", 1796, p.151).Saruilles resta"
+  },
+  "Entite126": {
+    "entite": "Nobles",
+    "label": "LOC",
+    "Contexte gauche": ", dans sa conduite.",
+    "Contexte droite": "\u00e2mes; nobles sentiments."
+  },
+  "Entite127": {
+    "entite": "Amiel",
+    "label": "ORG",
+    "Contexte gauche": "qu'il nous faudrait (",
+    "Contexte droite": ",Journal, 1866,"
+  },
+  "Entite128": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "nous faudrait (Amiel,",
+    "Contexte droite": ", 1866, p.276).Le comte"
+  },
+  "Entite129": {
+    "entite": "Orgel",
+    "label": "PER",
+    "Contexte gauche": "1866, p.276).Le comte d'",
+    "Contexte droite": "(...) n'acceptait"
+  },
+  "Entite130": {
+    "entite": "Radiguet,Bal",
+    "label": "MISC",
+    "Contexte gauche": "qu'elle le croit (",
+    "Contexte droite": ", 1923, p.52):"
+  },
+  "Entite131": {
+    "entite": "Van der Meersch",
+    "label": "PER",
+    "Contexte gauche": "g\u00e9n\u00e9reuse rehausse l'\u00e2me.",
+    "Contexte droite": ",Invas. 14,"
+  },
+  "Entite132": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": ") il ajouta... (",
+    "Contexte droite": ",Nana, 1880,"
+  },
+  "Entite133": {
+    "entite": "Nana",
+    "label": "PER",
+    "Contexte gauche": "ajouta... (Zola,",
+    "Contexte droite": ", 1880, p.1203).Bellechut conduisit"
+  },
+  "Entite134": {
+    "entite": "Arthur",
+    "label": "MISC",
+    "Contexte gauche": "1880, p.1203).Bellechut conduisit directement",
+    "Contexte droite": "\u00e0 sa place et s'"
+  },
+  "Entite135": {
+    "entite": "H. Bazin",
+    "label": "PER",
+    "Contexte gauche": "allure de p\u00e8re noble (",
+    "Contexte droite": ",T\u00eate contre murs,"
+  },
+  "Entite136": {
+    "entite": "T\u00eate",
+    "label": "PER",
+    "Contexte gauche": "noble (H. Bazin,",
+    "Contexte droite": "contre murs, 1949,"
+  },
+  "Entite137": {
+    "entite": "Suzanne",
+    "label": "PER",
+    "Contexte gauche": "effets comiques. Duhamel,",
+    "Contexte droite": ", 1941, p.14."
+  },
+  "Entite138": {
+    "entite": "Sainte-Beuve",
+    "label": "LOC",
+    "Contexte gauche": "langage noble et digne (",
+    "Contexte droite": ",Caus. lundi,"
+  },
+  "Entite139": {
+    "entite": "Caus",
+    "label": "LOC",
+    "Contexte gauche": "(Sainte-Beuve,",
+    "Contexte droite": ". lundi, t.12,"
+  },
+  "Entite140": {
+    "entite": "Avenir sc.",
+    "label": "MISC",
+    "Contexte gauche": "costume antique (Renan,",
+    "Contexte droite": ", 1890, p.464)"
+  },
+  "Entite141": {
+    "entite": "Style",
+    "label": "PER",
+    "Contexte gauche": "p.464).\n\u2666",
+    "Contexte droite": "noble. Style soutenu employant"
+  },
+  "Entite142": {
+    "entite": "Anton",
+    "label": "PER",
+    "Contexte gauche": "comme bas ou vulgaire.",
+    "Contexte droite": ". style bas, familier"
+  },
+  "Entite143": {
+    "entite": "M.Leuwen",
+    "label": "LOC",
+    "Contexte gauche": "nobles. Les discours de",
+    "Contexte droite": "(...) n'\u00e9taient"
+  },
+  "Entite144": {
+    "entite": "M. Leuwen",
+    "label": "PER",
+    "Contexte gauche": "piquant et rapide, et",
+    "Contexte droite": "n'admettait jamais la p\u00e9riphrase"
+  },
+  "Entite145": {
+    "entite": "Stendhal",
+    "label": "PER",
+    "Contexte gauche": "ne pourrais plus improviser (",
+    "Contexte droite": ",L. Leuwen, t.3"
+  },
+  "Entite146": {
+    "entite": "L. Leuwen",
+    "label": "PER",
+    "Contexte gauche": "plus improviser (Stendhal,",
+    "Contexte droite": ", t.3, 1835,"
+  },
+  "Entite147": {
+    "entite": "Vari\u00e9t\u00e9 IV",
+    "label": "PER",
+    "Contexte gauche": "la litt\u00e9rature... Val\u00e9ry,",
+    "Contexte droite": ", 1938, p.169."
+  },
+  "Entite148": {
+    "entite": "Ds Petiot",
+    "label": "MISC",
+    "Contexte gauche": ". La boxe. (",
+    "Contexte droite": "1982). La boxe"
+  },
+  "Entite149": {
+    "entite": "K.-O. Si",
+    "label": "MISC",
+    "Contexte gauche": "une \u00e9mouvante figure: le",
+    "Contexte droite": "certains y voient la plus"
+  },
+  "Entite150": {
+    "entite": "La Boxe",
+    "label": "LOC",
+    "Contexte gauche": "art\u00bb (M.Rudetzki,",
+    "Contexte droite": ", Paris, P.U.F.,"
+  },
+  "Entite151": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "M.Rudetzki,La Boxe,",
+    "Contexte droite": ", P.U.F., 1974,"
+  },
+  "Entite152": {
+    "entite": "P.U.F.",
+    "label": "LOC",
+    "Contexte gauche": "La Boxe, Paris,",
+    "Contexte droite": ", 1974, p.5)"
+  },
+  "Entite153": {
+    "entite": "BEAUX-ARTS",
+    "label": "LOC",
+    "Contexte gauche": ").\nb)",
+    "Contexte droite": ", ARCHIT. Qui a"
+  },
+  "Entite154": {
+    "entite": "p.341).Le palais Vandramin",
+    "label": "PER",
+    "Contexte gauche": ", t.2, 1838,",
+    "Contexte droite": "est d'une riche et"
+  },
+  "Entite155": {
+    "entite": "Gautier,Italia",
+    "label": "MISC",
+    "Contexte gauche": "riche et noble architecture (",
+    "Contexte droite": ", 1852, p.276)"
+  },
+  "Entite156": {
+    "entite": "Gilb",
+    "label": "MISC",
+    "Contexte gauche": "haut niveau (d'apr.",
+    "Contexte droite": ". 1980). Ce"
+  },
+  "Entite157": {
+    "entite": "Les Lettres fr.",
+    "label": "MISC",
+    "Contexte gauche": ", presse, etc. (",
+    "Contexte droite": ", 1avr. 1970ds Gilb"
+  },
+  "Entite158": {
+    "entite": "Gilb",
+    "label": "LOC",
+    "Contexte gauche": "., 1avr. 1970ds",
+    "Contexte droite": ". 1980).Un lyc\u00e9e classique,"
+  },
+  "Entite159": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "sections \u00abnobles\u00bb,",
+    "Contexte droite": ", B, C et"
+  },
+  "Entite160": {
+    "entite": "B",
+    "label": "LOC",
+    "Contexte gauche": "nobles\u00bb, A,",
+    "Contexte droite": ", C et D ("
+  },
+  "Entite161": {
+    "entite": "C",
+    "label": "LOC",
+    "Contexte gauche": ", A, B,",
+    "Contexte droite": "et D (Le Monde,21janv"
+  },
+  "Entite162": {
+    "entite": "D",
+    "label": "MISC",
+    "Contexte gauche": ", B, C et",
+    "Contexte droite": "(Le Monde,21janv. 1976ds"
+  },
+  "Entite163": {
+    "entite": "Gilb",
+    "label": "MISC",
+    "Contexte gauche": "(Le Monde,21janv. 1976ds",
+    "Contexte droite": ". 1980).\n"
+  },
+  "Entite164": {
+    "entite": "Hom\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "majest\u00e9. Les anciens (",
+    "Contexte droite": ") ont souvent port\u00e9 le"
+  },
+  "Entite165": {
+    "entite": "La Fontaine",
+    "label": "PER",
+    "Contexte gauche": "dans le familier, t\u00e9moin",
+    "Contexte droite": "(Ch\u00eanedoll\u00e9,Journal,"
+  },
+  "Entite166": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "La Fontaine (Ch\u00eanedoll\u00e9,",
+    "Contexte droite": ", 1807, p.26).Elle parlait"
+  },
+  "Entite167": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "fin de la passion (",
+    "Contexte droite": ", Nouv. lundis,"
+  },
+  "Entite168": {
+    "entite": "Nouv",
+    "label": "PER",
+    "Contexte gauche": "la passion (Sainte-Beuve,",
+    "Contexte droite": ". lundis, t.6,"
+  },
+  "Entite169": {
+    "entite": "p.176).Le",
+    "label": "LOC",
+    "Contexte gauche": ", t.6, 1863,",
+    "Contexte droite": "dernier mot de la Renaissance"
+  },
+  "Entite170": {
+    "entite": "la Renaissance",
+    "label": "LOC",
+    "Contexte gauche": ", p.176).Le dernier mot de",
+    "Contexte droite": "avait \u00e9t\u00e9 dit sous Louis"
+  },
+  "Entite171": {
+    "entite": "Louis XV",
+    "label": "PER",
+    "Contexte gauche": "Renaissance avait \u00e9t\u00e9 dit sous",
+    "Contexte droite": ", et une r\u00e9action s'"
+  },
+  "Entite172": {
+    "entite": "Hugo,Quatre-vingt-treize",
+    "label": "MISC",
+    "Contexte gauche": "pruderie existe en architecture (",
+    "Contexte droite": ", 1874, p.171)"
+  },
+  "Entite173": {
+    "entite": "hist",
+    "label": "PER",
+    "Contexte gauche": ") Emploi adj.,",
+    "Contexte droite": ". romaine. Qualificatif honorifique"
+  },
+  "Entite174": {
+    "entite": "Bas-Empire",
+    "label": "LOC",
+    "Contexte gauche": "de la famille imp\u00e9riale au",
+    "Contexte droite": "et par certains dignitaires auxquels"
+  },
+  "Entite175": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "empereur la d\u00e9cernait. (",
+    "Contexte droite": ". xixes. dont Ac"
+  },
+  "Entite176": {
+    "entite": "Ac",
+    "label": "LOC",
+    "Contexte gauche": "Dict. xixes. dont",
+    "Contexte droite": ". 1798-1878)"
+  },
+  "Entite177": {
+    "entite": "c\u00e9sar",
+    "label": "PER",
+    "Contexte gauche": "Titre inf\u00e9rieur \u00e0 celui de",
+    "Contexte droite": ", cr\u00e9\u00e9 par Constantin au"
+  },
+  "Entite178": {
+    "entite": "Constantin au Bas-Empire",
+    "label": "PER",
+    "Contexte gauche": "de c\u00e9sar, cr\u00e9\u00e9 par",
+    "Contexte droite": "et conf\u00e9rant \u00e0 son titulaire"
+  },
+  "Entite179": {
+    "entite": "Sorbonne",
+    "label": "LOC",
+    "Contexte gauche": "du cours de th\u00e9ologie de",
+    "Contexte droite": ". (Ds Ac."
+  },
+  "Entite180": {
+    "entite": "Ds Ac",
+    "label": "PER",
+    "Contexte gauche": "th\u00e9ologie de Sorbonne. (",
+    "Contexte droite": ". 1835, 1878,"
+  },
+  "Entite181": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": ". 1835, 1878,",
+    "Contexte droite": ", Gu\u00e9rin 1892)."
+  },
+  "Entite182": {
+    "entite": "Gu\u00e9rin",
+    "label": "PER",
+    "Contexte gauche": ", 1878, Littr\u00e9,",
+    "Contexte droite": "1892).\n2"
+  },
+  "Entite183": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": "verbe trans.,p\u00e9j.",
+    "Contexte droite": ". de ennoblir.Lorsqu'"
+  },
+  "Entite184": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 retrancher (Stendhal,",
+    "Contexte droite": ", 1805, p.40)"
+  },
+  "Entite185": {
+    "entite": "Puget",
+    "label": "LOC",
+    "Contexte gauche": "Celui qui noblifie. Le",
+    "Contexte droite": "a os\u00e9 donner du ventre"
+  },
+  "Entite186": {
+    "entite": "S\u00e9bastien",
+    "label": "PER",
+    "Contexte gauche": "du ventre \u00e0 son saint",
+    "Contexte droite": "(...) il a"
+  },
+  "Entite187": {
+    "entite": "Stendhal",
+    "label": "PER",
+    "Contexte gauche": "m\u00e9pris pour les noblifieurs (",
+    "Contexte droite": ",M\u00e9m. touriste,"
+  },
+  "Entite188": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [n\u0254bl\u0325]. Att"
+  },
+  "Entite189": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": ": [n\u0254bl\u0325]. Att.",
+    "Contexte droite": ". dep. 1694."
+  },
+  "Entite190": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "1694. \u00c9tymol. et",
+    "Contexte droite": ". I. Qui l'emporte"
+  },
+  "Entite191": {
+    "entite": "A. 1",
+    "label": "MISC",
+    "Contexte gauche": "sa valeur, ses m\u00e9rites",
+    "Contexte droite": ". ca 1050 d'une"
+  },
+  "Entite192": {
+    "entite": "St Alexis",
+    "label": "LOC",
+    "Contexte gauche": "1050 d'une personne (",
+    "Contexte droite": ", \u00e9d. Chr."
+  },
+  "Entite193": {
+    "entite": "Franc",
+    "label": "MISC",
+    "Contexte gauche": "...filie d'un noble",
+    "Contexte droite": "); ca 1100 ("
+  },
+  "Entite194": {
+    "entite": "ca 1100",
+    "label": "MISC",
+    "Contexte gauche": "un noble Franc);",
+    "Contexte droite": "(Roland, \u00e9d."
+  },
+  "Entite195": {
+    "entite": "Roland",
+    "label": "PER",
+    "Contexte gauche": "); ca 1100 (",
+    "Contexte droite": ", \u00e9d. J. B\u00e9dier"
+  },
+  "Entite196": {
+    "entite": "J. B\u00e9dier",
+    "label": "PER",
+    "Contexte gauche": "(Roland, \u00e9d.",
+    "Contexte droite": ", 467: Dient paien"
+  },
+  "Entite197": {
+    "entite": "Noble",
+    "label": "PER",
+    "Contexte gauche": "Dient paien: ,,",
+    "Contexte droite": "baron ad ci!`"
+  },
+  "Entite198": {
+    "entite": "ca 1179",
+    "label": "MISC",
+    "Contexte gauche": "!``);",
+    "Contexte droite": "subst. nom propre ("
+  },
+  "Entite199": {
+    "entite": "Renart",
+    "label": "PER",
+    "Contexte gauche": "subst. nom propre (",
+    "Contexte droite": ", \u00e9d. M. Roques"
+  },
+  "Entite200": {
+    "entite": "Noble le lion",
+    "label": "MISC",
+    "Contexte gauche": "7: En la cort",
+    "Contexte droite": "); 3equart xves."
+  },
+  "Entite201": {
+    "entite": "Georges Chastellain",
+    "label": "PER",
+    "Contexte gauche": "xves. subst. (",
+    "Contexte droite": ", Exposition sur v\u00e9rit\u00e9 mal"
+  },
+  "Entite202": {
+    "entite": "Exposition sur v\u00e9rit\u00e9 mal prise",
+    "label": "MISC",
+    "Contexte gauche": ". (Georges Chastellain,",
+    "Contexte droite": "ds OEuvres, \u00e9d."
+  },
+  "Entite203": {
+    "entite": "OEuvres",
+    "label": "MISC",
+    "Contexte gauche": "sur v\u00e9rit\u00e9 mal prise ds",
+    "Contexte droite": ", \u00e9d. Kervyn de"
+  },
+  "Entite204": {
+    "entite": "Kervyn de Lettenhove",
+    "label": "PER",
+    "Contexte gauche": "ds OEuvres, \u00e9d.",
+    "Contexte droite": ", t.6, p.311)"
+  },
+  "Entite205": {
+    "entite": "Wace",
+    "label": "PER",
+    "Contexte gauche": "magnifique\u00bb noble palefroi (",
+    "Contexte droite": ", Rou, \u00e9d."
+  },
+  "Entite206": {
+    "entite": "A.J. Holden",
+    "label": "PER",
+    "Contexte gauche": ", Rou, \u00e9d.",
+    "Contexte droite": ", II, 3038)"
+  },
+  "Entite207": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9d. A.J. Holden,",
+    "Contexte droite": ", 3038); 3"
+  },
+  "Entite208": {
+    "entite": "Chirurgie de",
+    "label": "PER",
+    "Contexte gauche": ". 1314 membre noble (",
+    "Contexte droite": "H. de Mondeville, 1900"
+  },
+  "Entite209": {
+    "entite": "H. de Mondeville",
+    "label": "PER",
+    "Contexte gauche": "membre noble (Chirurgie de",
+    "Contexte droite": ", 1900 ds T.-L.)"
+  },
+  "Entite210": {
+    "entite": "ds T.-L.",
+    "label": "PER",
+    "Contexte gauche": "H. de Mondeville, 1900",
+    "Contexte droite": "). B. D'un"
+  },
+  "Entite211": {
+    "entite": "Beno\u00eet de Ste-Maure",
+    "label": "PER",
+    "Contexte gauche": "ca 1165 noble chevalerie (",
+    "Contexte droite": ", Troie, 28428 ds"
+  },
+  "Entite212": {
+    "entite": "Troie",
+    "label": "LOC",
+    "Contexte gauche": "de Ste-Maure,",
+    "Contexte droite": ", 28428 ds T.-L.)"
+  },
+  "Entite213": {
+    "entite": "Troie",
+    "label": "LOC",
+    "Contexte gauche": ". la noble cit\u00e9 de",
+    "Contexte droite": "(Id., op"
+  },
+  "Entite214": {
+    "entite": "Id.",
+    "label": "LOC",
+    "Contexte gauche": "noble cit\u00e9 de Troie (",
+    "Contexte droite": ", op. cit."
+  },
+  "Entite215": {
+    "entite": "Clef d'Amors",
+    "label": "MISC",
+    "Contexte gauche": "fame de noble parage (",
+    "Contexte droite": ", 250, ibid."
+  },
+  "Entite216": {
+    "entite": "Ethiques",
+    "label": "LOC",
+    "Contexte gauche": "noble science (Oresme,",
+    "Contexte droite": ", Prol., \u00e9d"
+  },
+  "Entite217": {
+    "entite": "Prol",
+    "label": "LOC",
+    "Contexte gauche": "(Oresme, Ethiques,",
+    "Contexte droite": "., \u00e9d. A.D."
+  },
+  "Entite218": {
+    "entite": "Chr\u00e9tien de Troyes",
+    "label": "PER",
+    "Contexte gauche": "sepolture riche et noble (",
+    "Contexte droite": ", Clig\u00e8s, \u00e9d."
+  },
+  "Entite219": {
+    "entite": "Id",
+    "label": "MISC",
+    "Contexte gauche": "-87 nobles chastiax (",
+    "Contexte droite": "., Perceval, \u00e9d"
+  },
+  "Entite220": {
+    "entite": "F. Lecoy",
+    "label": "PER",
+    "Contexte gauche": ", Perceval, \u00e9d.",
+    "Contexte droite": ", 6422); c"
+  },
+  "Entite221": {
+    "entite": "Guiot de Provins",
+    "label": "PER",
+    "Contexte gauche": "morale\u00bb noble contenance (",
+    "Contexte droite": ", Bible ds OEuvres,"
+  },
+  "Entite222": {
+    "entite": "Bible ds",
+    "label": "MISC",
+    "Contexte gauche": "(Guiot de Provins,",
+    "Contexte droite": "OEuvres, \u00e9d. J."
+  },
+  "Entite223": {
+    "entite": "OEuvres",
+    "label": "MISC",
+    "Contexte gauche": "de Provins, Bible ds",
+    "Contexte droite": ", \u00e9d. J. Orr"
+  },
+  "Entite224": {
+    "entite": "J. Orr",
+    "label": "PER",
+    "Contexte gauche": "ds OEuvres, \u00e9d.",
+    "Contexte droite": ", 1513); ca"
+  },
+  "Entite225": {
+    "entite": "ca 1485 noble querelle",
+    "label": "MISC",
+    "Contexte gauche": "Orr, 1513);",
+    "Contexte droite": "(Myst\u00e9re du viel Testament"
+  },
+  "Entite226": {
+    "entite": "Myst\u00e9re",
+    "label": "LOC",
+    "Contexte gauche": "ca 1485 noble querelle (",
+    "Contexte droite": "du viel Testament, \u00e9d"
+  },
+  "Entite227": {
+    "entite": "J. de Rothschild",
+    "label": "PER",
+    "Contexte gauche": "viel Testament, \u00e9d.",
+    "Contexte droite": ", 44304); d"
+  },
+  "Entite228": {
+    "entite": "Oresme",
+    "label": "PER",
+    "Contexte gauche": "-72 langage noble (",
+    "Contexte droite": ", op. cit."
+  },
+  "Entite229": {
+    "entite": "Prol.",
+    "label": "LOC",
+    "Contexte gauche": "op. cit.,",
+    "Contexte droite": ", p.101); 1674"
+  },
+  "Entite230": {
+    "entite": "I ds OEuvres",
+    "label": "PER",
+    "Contexte gauche": "Boileau, Art po\u00e9tique,",
+    "Contexte droite": ", \u00e9d. F. Escal"
+  },
+  "Entite231": {
+    "entite": "F. Escal",
+    "label": "PER",
+    "Contexte gauche": "ds OEuvres, \u00e9d.",
+    "Contexte droite": ", p.159: le stile"
+  },
+  "Entite232": {
+    "entite": "Cambrai",
+    "label": "LOC",
+    "Contexte gauche": ") 1216 (charte,",
+    "Contexte droite": "ds E. Tailliar, Recueil"
+  },
+  "Entite233": {
+    "entite": "ds E. Tailliar",
+    "label": "PER",
+    "Contexte gauche": "1216 (charte, Cambrai",
+    "Contexte droite": ", Recueil d'actes en"
+  },
+  "Entite234": {
+    "entite": "Recueil",
+    "label": "LOC",
+    "Contexte gauche": "Cambrai ds E. Tailliar,",
+    "Contexte droite": "d'actes en langue wallonne"
+  },
+  "Entite235": {
+    "entite": "bourgois",
+    "label": "LOC",
+    "Contexte gauche": ", p.54: se ly",
+    "Contexte droite": "ne paye au chevalier ou"
+  },
+  "Entite236": {
+    "entite": "Ordonnance",
+    "label": "LOC",
+    "Contexte gauche": "synon. de baron (",
+    "Contexte droite": "dite de Jean II ds"
+  },
+  "Entite237": {
+    "entite": "Jean II ds \u00c9tablissements de St Louis",
+    "label": "PER",
+    "Contexte gauche": "baron (Ordonnance dite de",
+    "Contexte droite": ", \u00e9d. P. Viollet"
+  },
+  "Entite238": {
+    "entite": "P. Viollet",
+    "label": "PER",
+    "Contexte gauche": "St Louis, \u00e9d.",
+    "Contexte droite": ", t.3, p.194)"
+  },
+  "Entite239": {
+    "entite": "\u00c9. Molinier",
+    "label": "PER",
+    "Contexte gauche": ", \u00e9d. A. et",
+    "Contexte droite": ", p.132 [1358]"
+  },
+  "Entite240": {
+    "entite": "Coutume de Sens",
+    "label": "PER",
+    "Contexte gauche": "une terre heritage noble (",
+    "Contexte droite": "ds Nouv. coutumier g\u00e9n"
+  },
+  "Entite241": {
+    "entite": "ds Nouv",
+    "label": "PER",
+    "Contexte gauche": "noble (Coutume de Sens",
+    "Contexte droite": ". coutumier g\u00e9n.,"
+  },
+  "Entite242": {
+    "entite": "coutumier",
+    "label": "MISC",
+    "Contexte gauche": "de Sens ds Nouv.",
+    "Contexte droite": "g\u00e9n., \u00e9d."
+  },
+  "Entite243": {
+    "entite": "Bourdot de Richebourg",
+    "label": "PER",
+    "Contexte gauche": "\u00e9d. Ch. A.",
+    "Contexte droite": ", t.3, p.499b)"
+  },
+  "Entite244": {
+    "entite": "Coutume du bailliage de Troyes",
+    "label": "MISC",
+    "Contexte gauche": "29 oct. garde noble (",
+    "Contexte droite": ", ibid., p.240b"
+  },
+  "Entite245": {
+    "entite": "nobilis",
+    "label": "LOC",
+    "Contexte gauche": "Empr. au lat.",
+    "Contexte droite": "(de noscere \u00abconna\u00eetre"
+  },
+  "Entite246": {
+    "entite": "Paulys Realencyclop",
+    "label": "PER",
+    "Contexte gauche": "et leurs descendants; v.",
+    "Contexte droite": ". der classischen Altertumswissenschaft,"
+  },
+  "Entite247": {
+    "entite": "classischen Altertumswissenschaft",
+    "label": "PER",
+    "Contexte gauche": "v. Paulys Realencyclop. der",
+    "Contexte droite": ", t.17, 1937,"
+  },
+  "Entite248": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "premier empr. I;",
+    "Contexte droite": "para\u00eet plus sp\u00e9c. empr"
+  },
+  "Entite249": {
+    "entite": "Lex Burgundionum ds Nierm",
+    "label": "MISC",
+    "Contexte gauche": ". (501-518",
+    "Contexte droite": ".), est devenu"
+  },
+  "Entite250": {
+    "entite": "Leges Liutprandi",
+    "label": "PER",
+    "Contexte gauche": "liber, ingenuus (720",
+    "Contexte droite": "regis Langobardorum, ibid."
+  },
+  "Entite251": {
+    "entite": "nobilis",
+    "label": "LOC",
+    "Contexte gauche": "et l'\u00e9volution du mot",
+    "Contexte droite": "\u00e0 partir du ixes."
+  },
+  "Entite252": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "v., entre autres,",
+    "Contexte droite": "Parisse, La noblesse lorraine"
+  },
+  "Entite253": {
+    "entite": "Parisse",
+    "label": "PER",
+    "Contexte gauche": ", entre autres, M.",
+    "Contexte droite": ", La noblesse lorraine,"
+  },
+  "Entite254": {
+    "entite": "XIe-XIIIes",
+    "label": "LOC",
+    "Contexte gauche": ", La noblesse lorraine,",
+    "Contexte droite": "., th\u00e8se, Nancy"
+  },
+  "Entite255": {
+    "entite": "Nancy",
+    "label": "LOC",
+    "Contexte gauche": "XIIIes., th\u00e8se,",
+    "Contexte droite": ", 1976, pp.228 sqq"
+  },
+  "Entite256": {
+    "entite": "pp.228 sqq",
+    "label": "ORG",
+    "Contexte gauche": ", Nancy, 1976,",
+    "Contexte droite": ". Le synon. a."
+  },
+  "Entite257": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ". Le synon. a.",
+    "Contexte droite": ". nobile (ca 1100"
+  },
+  "Entite258": {
+    "entite": "nobile",
+    "label": "LOC",
+    "Contexte gauche": "synon. a. fr.",
+    "Contexte droite": "(ca 1100 nobilie,"
+  },
+  "Entite259": {
+    "entite": "ca 1100",
+    "label": "ORG",
+    "Contexte gauche": "a. fr. nobile (",
+    "Contexte droite": "nobilie, Roland, 3690"
+  },
+  "Entite260": {
+    "entite": "Roland",
+    "label": "PER",
+    "Contexte gauche": "(ca 1100 nobilie,",
+    "Contexte droite": ", 3690; ca 1135"
+  },
+  "Entite261": {
+    "entite": "ca",
+    "label": "LOC",
+    "Contexte gauche": ", Roland, 3690;",
+    "Contexte droite": "1135 nobile, Couronnement de"
+  },
+  "Entite262": {
+    "entite": "Louis",
+    "label": "PER",
+    "Contexte gauche": "1135 nobile, Couronnement de",
+    "Contexte droite": ", \u00e9d. Y. G."
+  },
+  "Entite263": {
+    "entite": "Y. G. Lepage",
+    "label": "PER",
+    "Contexte gauche": "de Louis, \u00e9d.",
+    "Contexte droite": ", r\u00e9d. AB,"
+  },
+  "Entite264": {
+    "entite": "nobilius",
+    "label": "PER",
+    "Contexte gauche": "une forme lat. *",
+    "Contexte droite": "(Thomas A., Essais"
+  },
+  "Entite265": {
+    "entite": "Thomas A.",
+    "label": "PER",
+    "Contexte gauche": "lat. *nobilius (",
+    "Contexte droite": ", Essais, p.79;"
+  },
+  "Entite266": {
+    "entite": "Essais",
+    "label": "MISC",
+    "Contexte gauche": "nobilius (Thomas A.,",
+    "Contexte droite": ", p.79; Fouch\u00e9,"
+  },
+  "Entite267": {
+    "entite": "Fouch\u00e9",
+    "label": "PER",
+    "Contexte gauche": ", Essais, p.79;",
+    "Contexte droite": ", p.942), soit"
+  },
+  "Entite268": {
+    "entite": "v. V\u00e4\u00e4n",
+    "label": "PER",
+    "Contexte gauche": "l'\u00e9poque gallo-rom. (",
+    "Contexte droite": "., \u00a7 48)"
+  },
+  "Entite269": {
+    "entite": "nobilie",
+    "label": "PER",
+    "Contexte gauche": ", \u00a7 48),",
+    "Contexte droite": "n'\u00e9tant qu'une forme"
+  },
+  "Entite270": {
+    "entite": "FEW",
+    "label": "MISC",
+    "Contexte gauche": "qu'une forme isol\u00e9e (",
+    "Contexte droite": "t.7, p.160b)."
+  },
+  "Entite271": {
+    "entite": "Le Pesnel",
+    "label": "ORG",
+    "Contexte gauche": "touche de noblaillerie chez les",
+    "Contexte droite": "(Drieu La Roch."
+  },
+  "Entite272": {
+    "entite": "Drieu La Roch",
+    "label": "PER",
+    "Contexte gauche": "chez les Le Pesnel (",
+    "Contexte droite": ".,R\u00eav. bourg."
+  },
+  "Entite273": {
+    "entite": "Boiste Add",
+    "label": "PER",
+    "Contexte gauche": "ab\u00e2tardie\u00bb (1823,",
+    "Contexte droite": ".); de noble11"
+  },
+  "Entite274": {
+    "entite": "Noblaillon",
+    "label": "LOC",
+    "Contexte gauche": "-erie*.\n2.\n",
+    "Contexte droite": ", subst. masc."
+  },
+  "Entite275": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "\nNoblaillon, subst.",
+    "Contexte droite": ".,p\u00e9j. Personnage de"
+  },
+  "Entite276": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "ou de noblesse douteuse.",
+    "Contexte droite": ". p\u00e9j. de nobliau"
+  },
+  "Entite277": {
+    "entite": "Arnoux,Roi",
+    "label": "MISC",
+    "Contexte gauche": "et des curaillons ultramondains (",
+    "Contexte droite": ", 1956, p.305).\u2212 ["
+  },
+  "Entite278": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "1874 terme de m\u00e9pris (",
+    "Contexte droite": ". 19e), 1903"
+  },
+  "Entite279": {
+    "entite": "v. noblaillerie",
+    "label": "PER",
+    "Contexte gauche": "); de noblaille,",
+    "Contexte droite": ", suff. -on1*.\n"
+  },
+  "Entite280": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": ", suff. -on1*.\n",
+    "Contexte droite": ". \u2212Dub. Pol."
+  },
+  "Entite281": {
+    "entite": "Gougenheim",
+    "label": "LOC",
+    "Contexte gauche": "pp.133-134. _",
+    "Contexte droite": "(G.). Le"
+  },
+  "Entite282": {
+    "entite": "Sens de noble",
+    "label": "LOC",
+    "Contexte gauche": "(G.). Le",
+    "Contexte droite": "et de ses d\u00e9r."
+  },
+  "Entite283": {
+    "entite": "R. de Clari",
+    "label": "PER",
+    "Contexte gauche": "de ses d\u00e9r. chez",
+    "Contexte droite": ". Rom. Philol."
+  },
+  "Entite284": {
+    "entite": "pp.270-272",
+    "label": "MISC",
+    "Contexte gauche": ". 1950, t.3,",
+    "Contexte droite": ". _Reinh. 1963"
+  },
+  "Entite285": {
+    "entite": "Vardar Soc",
+    "label": "PER",
+    "Contexte gauche": "1963, p.76. _",
+    "Contexte droite": ". pol. 1973 ["
+  }
+}

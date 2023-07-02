@@ -1,0 +1,1556 @@
+{
+  "Entite0": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "- R\u00e9gime, subst.",
+    "Contexte droite": ". \n\nI. \u2212 Vx"
+  },
+  "Entite1": {
+    "entite": "I. \u2212",
+    "label": "PER",
+    "Contexte gauche": "subst. masc. \n\n",
+    "Contexte droite": "Vx. Action de r\u00e9gir"
+  },
+  "Entite2": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9gir, de diriger.",
+    "Contexte droite": ". direction.La m\u00e8re"
+  },
+  "Entite3": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9gime de la maison (",
+    "Contexte droite": ", Port-Royal, t. 1"
+  },
+  "Entite4": {
+    "entite": "Port-Royal",
+    "label": "MISC",
+    "Contexte gauche": "la maison (Sainte-Beuve,",
+    "Contexte droite": ", t. 1, 1840"
+  },
+  "Entite5": {
+    "entite": "\u2212 Fa\u00e7on",
+    "label": "MISC",
+    "Contexte gauche": ").\nII.",
+    "Contexte droite": "de r\u00e9gir; ensemble de"
+  },
+  "Entite6": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "une soci\u00e9t\u00e9, d'un",
+    "Contexte droite": "; ensemble des institutions,"
+  },
+  "Entite7": {
+    "entite": "Trait\u00e9 caract.",
+    "label": "MISC",
+    "Contexte gauche": "plus originaux (Mounier,",
+    "Contexte droite": ", 1946, p. 107"
+  },
+  "Entite8": {
+    "entite": "M\u00e9diterran\u00e9e",
+    "label": "LOC",
+    "Contexte gauche": "sur les bords de la",
+    "Contexte droite": ", le chef-d'"
+  },
+  "Entite9": {
+    "entite": "Gr\u00e8ce",
+    "label": "LOC",
+    "Contexte gauche": "-d'\u0153uvre de la",
+    "Contexte droite": "et de Rome (Vidal"
+  },
+  "Entite10": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "de la Gr\u00e8ce et de",
+    "Contexte droite": "(Vidal de La Bl"
+  },
+  "Entite11": {
+    "entite": "La Bl.",
+    "label": "ORG",
+    "Contexte gauche": "de Rome (Vidal de",
+    "Contexte droite": ", Princ. g\u00e9ogr."
+  },
+  "Entite12": {
+    "entite": "Alain",
+    "label": "PER",
+    "Contexte gauche": "s'ils sont potiers (",
+    "Contexte droite": ", Propos, 1929,"
+  },
+  "Entite13": {
+    "entite": "Forme particuli\u00e8re de gouvernement",
+    "label": "MISC",
+    "Contexte gauche": "du pouvoir pol.]",
+    "Contexte droite": "; mani\u00e8re dont le pouvoir"
+  },
+  "Entite14": {
+    "entite": "Dr.",
+    "label": "LOC",
+    "Contexte gauche": "et partis (Vedel,",
+    "Contexte droite": "constit., 1949,"
+  },
+  "Entite15": {
+    "entite": "Trait\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "une doctrine du pouvoir (",
+    "Contexte droite": "sociol., 1968,"
+  },
+  "Entite16": {
+    "entite": "P. r\u00e9f",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9gime]\n\u2212 [",
+    "Contexte droite": ". aux d\u00e9tenteurs, au"
+  },
+  "Entite17": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "au fondement du pouvoir]",
+    "Contexte droite": "aristocratique; r\u00e9gime d\u00e9mocratique,"
+  },
+  "Entite18": {
+    "entite": "M. Bloch",
+    "label": "PER",
+    "Contexte gauche": "type de suj\u00e9tion paysanne (",
+    "Contexte droite": ", Apol. pour hist"
+  },
+  "Entite19": {
+    "entite": "Apol",
+    "label": "LOC",
+    "Contexte gauche": "paysanne (M. Bloch,",
+    "Contexte droite": ". pour hist.,"
+  },
+  "Entite20": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "1792 \u00e0 1848, [",
+    "Contexte droite": "] a v\u00e9cu environ 8"
+  },
+  "Entite21": {
+    "entite": "Dr.",
+    "label": "LOC",
+    "Contexte gauche": "r\u00e9gime monarchique (Vedel,",
+    "Contexte droite": "constit., 1949,"
+  },
+  "Entite22": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "entre les organes de l'",
+    "Contexte droite": "] La confusion des pouvoirs"
+  },
+  "Entite23": {
+    "entite": "Convention",
+    "label": "MISC",
+    "Contexte gauche": "conventionnel (parce que la",
+    "Contexte droite": "est cens\u00e9e l'avoir incarn\u00e9"
+  },
+  "Entite24": {
+    "entite": "Trait\u00e9 sociol",
+    "label": "MISC",
+    "Contexte gauche": "l'avoir incarn\u00e9) (",
+    "Contexte droite": "., 1968, p."
+  },
+  "Entite25": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": ").\nSYNT.",
+    "Contexte droite": "parlementaire, pr\u00e9sidentiel; r\u00e9gime"
+  },
+  "Entite26": {
+    "entite": "B",
+    "label": "LOC",
+    "Contexte gauche": ", pluripartiste (v. pluri-",
+    "Contexte droite": "); r\u00e9gime repr\u00e9sentatif."
+  },
+  "Entite27": {
+    "entite": "P. r\u00e9f",
+    "label": "MISC",
+    "Contexte gauche": "repr\u00e9sentatif.\n\u2212 [",
+    "Contexte droite": ". \u00e0 la mani\u00e8re de"
+  },
+  "Entite28": {
+    "entite": "L'Union sovi\u00e9tique",
+    "label": "ORG",
+    "Contexte gauche": "entre gouvernants et citoyens]",
+    "Contexte droite": "a group\u00e9 autour d'elle"
+  },
+  "Entite29": {
+    "entite": "Billotte, Consid.",
+    "label": "MISC",
+    "Contexte gauche": ", le r\u00e9gime communiste (",
+    "Contexte droite": "strat., 1957,"
+  },
+  "Entite30": {
+    "entite": "Syrie",
+    "label": "LOC",
+    "Contexte gauche": ", p. 40-7).La",
+    "Contexte droite": "ne voudra jamais de l'"
+  },
+  "Entite31": {
+    "entite": "Palestiniens",
+    "label": "MISC",
+    "Contexte gauche": "-progressiste domin\u00e9 par les",
+    "Contexte droite": "dans l'\u00e9ventuel \u00ab Liban"
+  },
+  "Entite32": {
+    "entite": "Liban",
+    "label": "LOC",
+    "Contexte gauche": "Palestiniens dans l'\u00e9ventuel \u00ab",
+    "Contexte droite": "musulman \u00bb (Le Nouvel"
+  },
+  "Entite33": {
+    "entite": "Le Nouvel Observateur",
+    "label": "ORG",
+    "Contexte gauche": "\u00ab Liban musulman \u00bb (",
+    "Contexte droite": ", 26 janv. 1976,"
+  },
+  "Entite34": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": ").\nSYNT.",
+    "Contexte droite": "d\u00e9mocratique, \u00e9galitaire, lib\u00e9ral"
+  },
+  "Entite35": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "propos d'une colonie]",
+    "Contexte droite": "de mandat*, de"
+  },
+  "Entite36": {
+    "entite": "Dans nos baraques",
+    "label": "MISC",
+    "Contexte gauche": "caract\u00e9ristiques d'un gouvernement]",
+    "Contexte droite": "(...) l'on"
+  },
+  "Entite37": {
+    "entite": "Gdes",
+    "label": "PER",
+    "Contexte gauche": "population allemande (Ambri\u00e8re,",
+    "Contexte droite": "vac., 1946,"
+  },
+  "Entite38": {
+    "entite": "Vichy",
+    "label": "LOC",
+    "Contexte gauche": "capitulation, l'abus que",
+    "Contexte droite": "a fait du conformisme et"
+  },
+  "Entite39": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": ", une certaine d\u00e9saffection (",
+    "Contexte droite": ", M\u00e9m. guerre,"
+  },
+  "Entite40": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9saffection (De Gaulle,",
+    "Contexte droite": "guerre, 1959, p."
+  },
+  "Entite41": {
+    "entite": "R\u00e9gime de Juillet",
+    "label": "MISC",
+    "Contexte gauche": "l'hist.] Le",
+    "Contexte droite": "(v. Monarchie de Juillet"
+  },
+  "Entite42": {
+    "entite": "Monarchie de Juillet",
+    "label": "MISC",
+    "Contexte gauche": "R\u00e9gime de Juillet (v.",
+    "Contexte droite": ", s.v. juillet)"
+  },
+  "Entite43": {
+    "entite": "s.v.",
+    "label": "MISC",
+    "Contexte gauche": "v. Monarchie de Juillet,",
+    "Contexte droite": "juillet); le r\u00e9gime"
+  },
+  "Entite44": {
+    "entite": "Terreur",
+    "label": "MISC",
+    "Contexte gauche": "; le r\u00e9gime de la",
+    "Contexte droite": "; le r\u00e9gime de Vichy"
+  },
+  "Entite45": {
+    "entite": "r\u00e9gime de Vichy",
+    "label": "MISC",
+    "Contexte gauche": "de la Terreur; le",
+    "Contexte droite": "; le r\u00e9gime franquiste,"
+  },
+  "Entite46": {
+    "entite": "Green",
+    "label": "PER",
+    "Contexte gauche": "l'av\u00e8nement du communisme (",
+    "Contexte droite": ", Journal, 1933,"
+  },
+  "Entite47": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "du communisme (Green,",
+    "Contexte droite": ", 1933, p. 147).Vous"
+  },
+  "Entite48": {
+    "entite": "Salazar",
+    "label": "PER",
+    "Contexte gauche": ", \u00e0 propos du r\u00e9gime",
+    "Contexte droite": ", de critiquer la politique"
+  },
+  "Entite49": {
+    "entite": "M\u00e9diterran\u00e9e",
+    "label": "LOC",
+    "Contexte gauche": "critiquer la politique am\u00e9ricaine en",
+    "Contexte droite": "(Beauvoir, Mandarins,"
+  },
+  "Entite50": {
+    "entite": "Beauvoir",
+    "label": "LOC",
+    "Contexte gauche": "politique am\u00e9ricaine en M\u00e9diterran\u00e9e (",
+    "Contexte droite": ", Mandarins, 1954,"
+  },
+  "Entite51": {
+    "entite": "Mandarins",
+    "label": "LOC",
+    "Contexte gauche": "en M\u00e9diterran\u00e9e (Beauvoir,",
+    "Contexte droite": ", 1954, p. 126"
+  },
+  "Entite52": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "un type de gouvernement]",
+    "Contexte droite": "fasciste. Qu'ils soient"
+  },
+  "Entite53": {
+    "entite": "Turcs",
+    "label": "LOC",
+    "Contexte gauche": "ou de gauche, les",
+    "Contexte droite": "s'entendent pour dire qu'"
+  },
+  "Entite54": {
+    "entite": "L'Express",
+    "label": "ORG",
+    "Contexte gauche": "la r\u00e8gle du jeu (",
+    "Contexte droite": ", 30 mai 1977,"
+  },
+  "Entite55": {
+    "entite": "L'Ancien",
+    "label": "MISC",
+    "Contexte gauche": "1).\n\u2212",
+    "Contexte droite": "R\u00e9gime. La monarchie absolue"
+  },
+  "Entite56": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "telle qu'elle exista en",
+    "Contexte droite": "jusqu'en 1789 (et"
+  },
+  "Entite57": {
+    "entite": "Europe",
+    "label": "LOC",
+    "Contexte gauche": "en 1789 (et en",
+    "Contexte droite": "); l'organisation sociale"
+  },
+  "Entite58": {
+    "entite": "Ancien",
+    "label": "MISC",
+    "Contexte gauche": ". Les partisans de l'",
+    "Contexte droite": "R\u00e9gime; les abus,"
+  },
+  "Entite59": {
+    "entite": "Ancien",
+    "label": "MISC",
+    "Contexte gauche": ", les privil\u00e8ges de l'",
+    "Contexte droite": "R\u00e9gime. Sauver les \u00c9tats"
+  },
+  "Entite60": {
+    "entite": "\u00c9tats romains",
+    "label": "LOC",
+    "Contexte gauche": "Ancien R\u00e9gime. Sauver les",
+    "Contexte droite": "et l'Italie enti\u00e8re du"
+  },
+  "Entite61": {
+    "entite": "Italie",
+    "label": "LOC",
+    "Contexte gauche": "les \u00c9tats romains et l'",
+    "Contexte droite": "enti\u00e8re du retour in\u00e9vitable de"
+  },
+  "Entite62": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "retour in\u00e9vitable de l'Ancien",
+    "Contexte droite": "et de la Restauration non"
+  },
+  "Entite63": {
+    "entite": "Restauration",
+    "label": "MISC",
+    "Contexte gauche": "Ancien R\u00e9gime et de la",
+    "Contexte droite": "non des puissances l\u00e9gitimes,"
+  },
+  "Entite64": {
+    "entite": "Tocqueville,",
+    "label": "MISC",
+    "Contexte gauche": "vieux et mauvais gouvernements (",
+    "Contexte droite": "Corresp.[avec Reeve], 1849"
+  },
+  "Entite65": {
+    "entite": "Corresp.[avec Reeve]",
+    "label": "MISC",
+    "Contexte gauche": "mauvais gouvernements (Tocqueville,",
+    "Contexte droite": ", 1849, p. 104).Il"
+  },
+  "Entite66": {
+    "entite": "Napol\u00e9on",
+    "label": "PER",
+    "Contexte gauche": "fallait que la tyrannie de",
+    "Contexte droite": "f\u00fbt bien \u00e2pre pour que"
+  },
+  "Entite67": {
+    "entite": "Ancien",
+    "label": "MISC",
+    "Contexte gauche": "que le retour de l'",
+    "Contexte droite": "R\u00e9gime par\u00fbt rendre la libert\u00e9"
+  },
+  "Entite68": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "le retour de l'Ancien",
+    "Contexte droite": "par\u00fbt rendre la libert\u00e9 et"
+  },
+  "Entite69": {
+    "entite": "Nouv",
+    "label": "LOC",
+    "Contexte gauche": "\u00e2me (Lamart.,",
+    "Contexte droite": ". Confid., 1851"
+  },
+  "Entite70": {
+    "entite": "Ancien",
+    "label": "MISC",
+    "Contexte gauche": "de 1889 et d\u00e9testera l'",
+    "Contexte droite": "R\u00e9gime de la bourgeoisie ("
+  },
+  "Entite71": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "1889 et d\u00e9testera l'Ancien",
+    "Contexte droite": "de la bourgeoisie (Goncourt"
+  },
+  "Entite72": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "la bourgeoisie (Goncourt,",
+    "Contexte droite": ", 1861, p. 926"
+  },
+  "Entite73": {
+    "entite": "Mmed'Heudicourt]",
+    "label": "PER",
+    "Contexte gauche": "y est parfaite [chez",
+    "Contexte droite": ", dit le duc,"
+  },
+  "Entite74": {
+    "entite": "Guermantes 2",
+    "label": "MISC",
+    "Contexte gauche": "ancien r\u00e9gime (Proust,",
+    "Contexte droite": ", 1921, p. 487"
+  },
+  "Entite75": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "le personnel politique; l'",
+    "Contexte droite": ". Le pire d\u00e9faut du"
+  },
+  "Entite76": {
+    "entite": "A. France",
+    "label": "PER",
+    "Contexte gauche": ", il est d\u00e9pensier (",
+    "Contexte droite": ", Orme, 1897,"
+  },
+  "Entite77": {
+    "entite": "Orme",
+    "label": "LOC",
+    "Contexte gauche": "d\u00e9pensier (A. France,",
+    "Contexte droite": ", 1897, p. 154).Comment"
+  },
+  "Entite78": {
+    "entite": "Vichy",
+    "label": "LOC",
+    "Contexte gauche": "m\u00e9nageant le r\u00e9gime \u00e9tabli \u00e0",
+    "Contexte droite": "pour le b\u00e9n\u00e9fice d'Hitler"
+  },
+  "Entite79": {
+    "entite": "Hitler",
+    "label": "PER",
+    "Contexte gauche": "Vichy pour le b\u00e9n\u00e9fice d'",
+    "Contexte droite": "on emp\u00eacherait ce r\u00e9gime de"
+  },
+  "Entite80": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "avec l'ennemi? (",
+    "Contexte droite": ", M\u00e9m. guerre,"
+  },
+  "Entite81": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "? (De Gaulle,",
+    "Contexte droite": "guerre, 1954, p."
+  },
+  "Entite82": {
+    "entite": "Organisation",
+    "label": "PER",
+    "Contexte gauche": "les aspects \u00e9con.]",
+    "Contexte droite": ", mode de fonctionnement de"
+  },
+  "Entite83": {
+    "entite": "Homme r\u00e9v.",
+    "label": "MISC",
+    "Contexte gauche": "et industrielle (Camus,",
+    "Contexte droite": ", 1951, p. 250).En"
+  },
+  "Entite84": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "ex. 2, machinisme",
+    "Contexte droite": "ex. de Martin du"
+  },
+  "Entite85": {
+    "entite": "Martin du Gard",
+    "label": "PER",
+    "Contexte gauche": "machinisme A ex. de",
+    "Contexte droite": "), communiste, socialiste"
+  },
+  "Entite86": {
+    "entite": "Suzanne",
+    "label": "MISC",
+    "Contexte gauche": "autres familles (Duhamel,",
+    "Contexte droite": ", 1941, p. 128"
+  },
+  "Entite87": {
+    "entite": "Malraux",
+    "label": "PER",
+    "Contexte gauche": "c'\u00e9tait autre chose (",
+    "Contexte droite": ", Espoir, 1937,"
+  },
+  "Entite88": {
+    "entite": "Industr",
+    "label": "PER",
+    "Contexte gauche": "de plus petites dimensions (",
+    "Contexte droite": ". fr. bois,"
+  },
+  "Entite89": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": ").\nSYNT.",
+    "Contexte droite": "douanier, \u00e9lectoral, fiscal"
+  },
+  "Entite90": {
+    "entite": "Th\u00e9\u00e2tre National Populaire",
+    "label": "LOC",
+    "Contexte gauche": "des soci\u00e9t\u00e9s anonymes, du",
+    "Contexte droite": "; r\u00e9gime g\u00e9n\u00e9ral/particulier"
+  },
+  "Entite91": {
+    "entite": "S\u00e9curit\u00e9 sociale/des assurances",
+    "label": "ORG",
+    "Contexte gauche": "g\u00e9n\u00e9ral/particulier de la",
+    "Contexte droite": "sociales; r\u00e9gime agricole,"
+  },
+  "Entite92": {
+    "entite": "CAPES",
+    "label": "ORG",
+    "Contexte gauche": "ann\u00e9es il y eut le",
+    "Contexte droite": "[Certificat d'Aptitude au"
+  },
+  "Entite93": {
+    "entite": "Certificat d'Aptitude",
+    "label": "ORG",
+    "Contexte gauche": "y eut le CAPES [",
+    "Contexte droite": "au Professorat de l'Enseignement"
+  },
+  "Entite94": {
+    "entite": "Professorat de l'Enseignement du Second",
+    "label": "LOC",
+    "Contexte gauche": "[Certificat d'Aptitude au",
+    "Contexte droite": "degr\u00e9] ancien r\u00e9gime ("
+  },
+  "Entite95": {
+    "entite": "CAPES",
+    "label": "ORG",
+    "Contexte gauche": "(...) et le",
+    "Contexte droite": "nouveau r\u00e9gime (Encyclop."
+  },
+  "Entite96": {
+    "entite": "A 2",
+    "label": "MISC",
+    "Contexte gauche": "concordataire. V. ce mot",
+    "Contexte droite": "ex. de Encyclop."
+  },
+  "Entite97": {
+    "entite": "Encyclop.",
+    "label": "ORG",
+    "Contexte gauche": "A 2 ex. de",
+    "Contexte droite": "\u00e9duc.\n\u2212 ["
+  },
+  "Entite98": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "une modalit\u00e9 partic.]",
+    "Contexte droite": "de la censure pour la"
+  },
+  "Entite99": {
+    "entite": "Alsace",
+    "label": "LOC",
+    "Contexte gauche": "de fer. [En",
+    "Contexte droite": "] l'\u00c9glise va avoir"
+  },
+  "Entite100": {
+    "entite": "\u00c9glise",
+    "label": "MISC",
+    "Contexte gauche": "[En Alsace] l'",
+    "Contexte droite": "va avoir \u00e0 passer de"
+  },
+  "Entite101": {
+    "entite": "Cahiers, t. 12",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9gime la\u00efque (Barr\u00e8s,",
+    "Contexte droite": ", 1919, p. 179).Toute"
+  },
+  "Entite102": {
+    "entite": "For\u00eat fr",
+    "label": "PER",
+    "Contexte gauche": "du taillis sous futaie (",
+    "Contexte droite": "., 1955, p."
+  },
+  "Entite103": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "du r\u00e9gime des prisons]",
+    "Contexte droite": "du droit commun; r\u00e9gime"
+  },
+  "Entite104": {
+    "entite": "Gdes",
+    "label": "PER",
+    "Contexte gauche": "au tabac (Ambri\u00e8re,",
+    "Contexte droite": "vac., 1946,"
+  },
+  "Entite105": {
+    "entite": "Le Point",
+    "label": "ORG",
+    "Contexte gauche": "de privation sensorielle \u00bb (",
+    "Contexte droite": ", 18 avr. 1981,"
+  },
+  "Entite106": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "propos des r\u00e9gimes matrimoniaux]",
+    "Contexte droite": "dotal*, de la"
+  },
+  "Entite107": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "95).\n\u2666",
+    "Contexte droite": "de faveur. Dispositions administratives"
+  },
+  "Entite108": {
+    "entite": "Univers \u00e9con.",
+    "label": "MISC",
+    "Contexte gauche": "lieu aux revenus \u00e9lev\u00e9s (",
+    "Contexte droite": "et soc., 1960"
+  },
+  "Entite109": {
+    "entite": "p. 48-8)",
+    "label": "LOC",
+    "Contexte gauche": "soc., 1960,",
+    "Contexte droite": ".\n3. P."
+  },
+  "Entite110": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "; \u00e9tat de chose.",
+    "Contexte droite": "d'exp\u00e9dients. Il n'"
+  },
+  "Entite111": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": ", d'instituer avec l'",
+    "Contexte droite": "un r\u00e9gime de relations franches"
+  },
+  "Entite112": {
+    "entite": "Jaur\u00e8s, Paix",
+    "label": "MISC",
+    "Contexte gauche": ", nettes, pacifiques (",
+    "Contexte droite": "menac\u00e9e, 1914, p."
+  },
+  "Entite113": {
+    "entite": "J.",
+    "label": "PER",
+    "Contexte gauche": "la domesticit\u00e9 (Proust,",
+    "Contexte droite": "filles en fleurs, 1918"
+  },
+  "Entite114": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "telle mani\u00e8re de faire.",
+    "Contexte droite": ". \u00e0 ce train."
+  },
+  "Entite115": {
+    "entite": "Terre",
+    "label": "LOC",
+    "Contexte gauche": "souffrit beaucoup (Duhamel,",
+    "Contexte droite": "promise, 1934, p."
+  },
+  "Entite116": {
+    "entite": "Camus",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9gime de la peste (",
+    "Contexte droite": ", Peste, 1947,"
+  },
+  "Entite117": {
+    "entite": "Mani\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "B. \u2212\n1.",
+    "Contexte droite": "habituelle d'agir, de"
+  },
+  "Entite118": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "recouvrer sa sant\u00e9).",
+    "Contexte droite": "de vie. \u00c9tudier,"
+  },
+  "Entite119": {
+    "entite": "Beauvoir",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9tait-ce vivre? (",
+    "Contexte droite": ", M\u00e9m. j. fille"
+  },
+  "Entite120": {
+    "entite": "M\u00e9m.",
+    "label": "LOC",
+    "Contexte gauche": "vivre? (Beauvoir,",
+    "Contexte droite": "j. fille, 1958,"
+  },
+  "Entite121": {
+    "entite": "Joubert",
+    "label": "PER",
+    "Contexte gauche": "):\n1. M.",
+    "Contexte droite": "changeait \u00e0 chaque moment de"
+  },
+  "Entite122": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "unies. Chateaubr.,",
+    "Contexte droite": ", t. 2, 1848"
+  },
+  "Entite123": {
+    "entite": "adj",
+    "label": "ORG",
+    "Contexte gauche": "]\n\u2666 [avec",
+    "Contexte droite": ".] R\u00e9gime athl\u00e9tique;"
+  },
+  "Entite124": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "[avec adj.]",
+    "Contexte droite": "athl\u00e9tique; r\u00e9gime claustral;"
+  },
+  "Entite125": {
+    "entite": "Maine de Biran",
+    "label": "PER",
+    "Contexte gauche": "silence ou la m\u00e9ditation (",
+    "Contexte droite": ", Journal, 1819,"
+  },
+  "Entite126": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "(Maine de Biran,",
+    "Contexte droite": ", 1819, p. 246"
+  },
+  "Entite127": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "compl. pr\u00e9p.]",
+    "Contexte droite": "de m\u00e9ditation, de solitude"
+  },
+  "Entite128": {
+    "entite": "Flaubert",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9gime pour le go\u00fbt.",
+    "Contexte droite": "pr\u00e9sent\u00e9 comme un amateur,"
+  },
+  "Entite129": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "de travail (Goncourt,",
+    "Contexte droite": ", 1884, p. 325"
+  },
+  "Entite130": {
+    "entite": "Alain]",
+    "label": "PER",
+    "Contexte gauche": ".\n\u2212 [Chez",
+    "Contexte droite": "Mouvements, manifestations corporelles li\u00e9s"
+  },
+  "Entite131": {
+    "entite": "Alain",
+    "label": "PER",
+    "Contexte gauche": "et un autre r\u00e9gime (",
+    "Contexte droite": ", Propos, 1922,"
+  },
+  "Entite132": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "partic., cour.",
+    "Contexte droite": "(alimentaire)\na"
+  },
+  "Entite133": {
+    "entite": "Habitudes",
+    "label": "PER",
+    "Contexte gauche": "alimentaire)\na)",
+    "Contexte droite": "alimentaires d'un groupe ou"
+  },
+  "Entite134": {
+    "entite": "Vidal de",
+    "label": "MISC",
+    "Contexte gauche": "peuples celtes et germaniques (",
+    "Contexte droite": "La Bl., Princ"
+  },
+  "Entite135": {
+    "entite": "La Bl.",
+    "label": "ORG",
+    "Contexte gauche": "et germaniques (Vidal de",
+    "Contexte droite": ", Princ. g\u00e9ogr."
+  },
+  "Entite136": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "se resserr\u00e8rent... Goncourt,",
+    "Contexte droite": ", 1872, p. 918"
+  },
+  "Entite137": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "type d'aliments consomm\u00e9s]",
+    "Contexte droite": "carnivore. L'usure quotidienne"
+  },
+  "Entite138": {
+    "entite": "John Bull",
+    "label": "PER",
+    "Contexte gauche": "fait que le type de",
+    "Contexte droite": "a quasiment disparu (Morand"
+  },
+  "Entite139": {
+    "entite": "Londres",
+    "label": "LOC",
+    "Contexte gauche": "quasiment disparu (Morand,",
+    "Contexte droite": ", 1933, p. 114"
+  },
+  "Entite140": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "114).\n\u2666",
+    "Contexte droite": "sec. Alimentation du b\u00e9tail"
+  },
+  "Entite141": {
+    "entite": "Livre raison, 1928",
+    "label": "MISC",
+    "Contexte gauche": "beurre] (Pesquidoux,",
+    "Contexte droite": ", p. 221)."
+  },
+  "Entite142": {
+    "entite": "Alimentation raisonn\u00e9e",
+    "label": "MISC",
+    "Contexte gauche": ").\nb)",
+    "Contexte droite": ", caract\u00e9ris\u00e9e par le choix"
+  },
+  "Entite143": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "sain ou malade).",
+    "Contexte droite": "affaiblissant, fortifiant, \u00e9quilibr\u00e9"
+  },
+  "Entite144": {
+    "entite": "Joseph",
+    "label": "PER",
+    "Contexte gauche": "un \u00e9cart de r\u00e9gime.",
+    "Contexte droite": "prit la r\u00e9solution de se"
+  },
+  "Entite145": {
+    "entite": "Passion J. Pasquier",
+    "label": "PER",
+    "Contexte gauche": "son foie (Duhamel,",
+    "Contexte droite": ", 1945, p. 191"
+  },
+  "Entite146": {
+    "entite": "Soigne-toi",
+    "label": "LOC",
+    "Contexte gauche": "marie: (...)",
+    "Contexte droite": ", fais quelque chose,"
+  },
+  "Entite147": {
+    "entite": "Corbeaux, 1882",
+    "label": "MISC",
+    "Contexte gauche": "-ce pas? Becque,",
+    "Contexte droite": ", I, 1,"
+  },
+  "Entite148": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": ", Corbeaux, 1882,",
+    "Contexte droite": ", 1, p. 55"
+  },
+  "Entite149": {
+    "entite": "Surveiller",
+    "label": "PER",
+    "Contexte gauche": ". Vivre de r\u00e9gime.",
+    "Contexte droite": "son alimentation. Les Arajo"
+  },
+  "Entite150": {
+    "entite": "Arajo",
+    "label": "LOC",
+    "Contexte gauche": "Surveiller son alimentation. Les",
+    "Contexte droite": ", Bixio, etc.,"
+  },
+  "Entite151": {
+    "entite": "Bixio",
+    "label": "PER",
+    "Contexte gauche": "alimentation. Les Arajo,",
+    "Contexte droite": ", etc., d\u00eenaient chez"
+  },
+  "Entite152": {
+    "entite": "MmeVillot",
+    "label": "MISC",
+    "Contexte gauche": ", etc., d\u00eenaient chez",
+    "Contexte droite": "; j'y \u00e9tais invit\u00e9"
+  },
+  "Entite153": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "qu'apr\u00e8s (Delacroix,",
+    "Contexte droite": ", 1853, p. 99"
+  },
+  "Entite154": {
+    "entite": "Brunerie",
+    "label": "LOC",
+    "Contexte gauche": "dans un sens convenable (",
+    "Contexte droite": ", Industr. alim."
+  },
+  "Entite155": {
+    "entite": "Industr",
+    "label": "LOC",
+    "Contexte gauche": "sens convenable (Brunerie,",
+    "Contexte droite": ". alim., 1949"
+  },
+  "Entite156": {
+    "entite": "Journal",
+    "label": "PER",
+    "Contexte gauche": "l'\u00e2me (Vigny,",
+    "Contexte droite": "po\u00e8te, 1837, p."
+  },
+  "Entite157": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "substances prescrits ou interdits]",
+    "Contexte droite": "lact\u00e9; r\u00e9gime pauvre en"
+  },
+  "Entite158": {
+    "entite": "Villiers",
+    "label": "PER",
+    "Contexte gauche": "tout \u00e0 fait mieux (",
+    "Contexte droite": "de L'I.-A., Corresp"
+  },
+  "Entite159": {
+    "entite": "Corresp.",
+    "label": "ORG",
+    "Contexte gauche": "Villiers de L'I.-A.,",
+    "Contexte droite": ", 1889, p. 285).R\u00e9gime"
+  },
+  "Entite160": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": ", l'affection soign\u00e9e]",
+    "Contexte droite": "anti-ob\u00e9sique; r\u00e9gime basses calories"
+  },
+  "Entite161": {
+    "entite": "Galliffet",
+    "label": "PER",
+    "Contexte gauche": "hypercalorique; r\u00e9gime diab\u00e9tique.",
+    "Contexte droite": "(...) se sentant"
+  },
+  "Entite162": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "amaigrissement torturant (Goncourt,",
+    "Contexte droite": ", 1890, p. 1226).Faire"
+  },
+  "Entite163": {
+    "entite": "Le Point",
+    "label": "ORG",
+    "Contexte gauche": ", triperie, \u00e9pices (",
+    "Contexte droite": ", 27 sept. 1976,"
+  },
+  "Entite164": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "4).\n\u2212",
+    "Contexte droite": "+ n. propre.Les"
+  },
+  "Entite165": {
+    "entite": "Atkins",
+    "label": "MISC",
+    "Contexte gauche": "ce sens, le r\u00e9gime",
+    "Contexte droite": "est une catastrophe (Marie-Claire"
+  },
+  "Entite166": {
+    "entite": "Marie-Claire",
+    "label": "PER",
+    "Contexte gauche": "Atkins est une catastrophe (",
+    "Contexte droite": ", avr. 1987, p."
+  },
+  "Entite167": {
+    "entite": "R\u00e9gime jockey*.\n\u2666",
+    "label": "PER",
+    "Contexte gauche": "\n\u2212 En partic.",
+    "Contexte droite": "R\u00e9gime pythagoricien (rare)"
+  },
+  "Entite168": {
+    "entite": "R\u00e9gime pythagoricien",
+    "label": "MISC",
+    "Contexte gauche": ". R\u00e9gime jockey*.\n\u2666",
+    "Contexte droite": "(rare). R\u00e9gime"
+  },
+  "Entite169": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "pythagoricien (rare).",
+    "Contexte droite": "v\u00e9g\u00e9tarien. Une maigreur provenue"
+  },
+  "Entite170": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "dignes d'un requin (",
+    "Contexte droite": ", Cous. Pons,"
+  },
+  "Entite171": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "4).\n\u2666",
+    "Contexte droite": "sec. Suppression des boissons"
+  },
+  "Entite172": {
+    "entite": "Gide",
+    "label": "MISC",
+    "Contexte gauche": "par de stricts r\u00e8glements (",
+    "Contexte droite": ", Journal, 1943,"
+  },
+  "Entite173": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "stricts r\u00e8glements (Gide,",
+    "Contexte droite": ", 1943, p. 241).R\u00e9gime"
+  },
+  "Entite174": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "241).R\u00e9gime mi-sec. V. mi-",
+    "Contexte droite": "A.\nc) P."
+  },
+  "Entite175": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "II A.\nc)",
+    "Contexte droite": ". Aliments, repas ("
+  },
+  "Entite176": {
+    "entite": "Jusserand",
+    "label": "PER",
+    "Contexte gauche": "avec un r\u00e9gime).",
+    "Contexte droite": "mangeait son r\u00e9gime. Il"
+  },
+  "Entite177": {
+    "entite": "Tolsto\u00ef",
+    "label": "PER",
+    "Contexte gauche": "\u00bb, le disciple de",
+    "Contexte droite": "t\u00e2tait du r\u00e9gime des autres"
+  },
+  "Entite178": {
+    "entite": "D\u00e9sert Bi\u00e8vres",
+    "label": "PER",
+    "Contexte gauche": "des autres (Duhamel,",
+    "Contexte droite": ", 1937, p. 176).Refuser"
+  },
+  "Entite179": {
+    "entite": "Mani\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "C. \u2212\n1.",
+    "Contexte droite": "dont se produit, \u00e9volue"
+  },
+  "Entite180": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "l'aliment (Faure,",
+    "Contexte droite": ". art, 1912,"
+  },
+  "Entite181": {
+    "entite": "Journal Salav",
+    "label": "PER",
+    "Contexte gauche": "des \u00e9pid\u00e9mies (Duhamel,",
+    "Contexte droite": "., 1927, p."
+  },
+  "Entite182": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "conduit, une enceinte.",
+    "Contexte droite": "(d'\u00e9coulement) laminaire"
+  },
+  "Entite183": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "d'un courant \u00e9lectrique.",
+    "Contexte droite": "permanent ou stationnaire; r\u00e9gime"
+  },
+  "Entite184": {
+    "entite": "M\u00e9t\u00e9or",
+    "label": "LOC",
+    "Contexte gauche": "aux pluies (Maurain,",
+    "Contexte droite": "., 1950, p."
+  },
+  "Entite185": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "189).\n\u2666",
+    "Contexte droite": "d'un cours d'eau"
+  },
+  "Entite186": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "alimentation li\u00e9 au climat.",
+    "Contexte droite": "simple, complexe, r\u00e9gulier"
+  },
+  "Entite187": {
+    "entite": "nivo-glaciaire",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9quatorial, tropical),",
+    "Contexte droite": ", nivo-pluvial."
+  },
+  "Entite188": {
+    "entite": "George1970",
+    "label": "MISC",
+    "Contexte gauche": "est dit r\u00e9gime influenc\u00e9 (",
+    "Contexte droite": ").\n\u2212 M\u00c9CAN"
+  },
+  "Entite189": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": ".\n\u2212 M\u00c9CAN.",
+    "Contexte droite": "(d'un moteur,"
+  },
+  "Entite190": {
+    "entite": "Tinard",
+    "label": "LOC",
+    "Contexte gauche": "des r\u00e9gimes courants) (",
+    "Contexte droite": ", Automob., 1951"
+  },
+  "Entite191": {
+    "entite": "Automob",
+    "label": "LOC",
+    "Contexte gauche": "courants) (Tinard,",
+    "Contexte droite": "., 1951, p."
+  },
+  "Entite192": {
+    "entite": "Partir",
+    "label": "MISC",
+    "Contexte gauche": "parlant d'un moteur]",
+    "Contexte droite": "\u00e0 plein r\u00e9gime. Les"
+  },
+  "Entite193": {
+    "entite": "Saint-Exup",
+    "label": "ORG",
+    "Contexte gauche": "\u00e0 tourner plein r\u00e9gime (",
+    "Contexte droite": "., Pilote guerre,"
+  },
+  "Entite194": {
+    "entite": "Pilote",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9gime (Saint-Exup.,",
+    "Contexte droite": "guerre, 1942, p."
+  },
+  "Entite195": {
+    "entite": "Vibrations aigres",
+    "label": "MISC",
+    "Contexte gauche": "pour indiquer une intensit\u00e9]",
+    "Contexte droite": ", plainte \u00e0 haut r\u00e9gime"
+  },
+  "Entite196": {
+    "entite": "T.S.F.",
+    "label": "LOC",
+    "Contexte gauche": ", de l'\u00e9tincelle de",
+    "Contexte droite": "(Morand, Paris-"
+  },
+  "Entite197": {
+    "entite": "Morand",
+    "label": "LOC",
+    "Contexte gauche": "l'\u00e9tincelle de T.S.F. (",
+    "Contexte droite": ", Paris-Tombouctou,"
+  },
+  "Entite198": {
+    "entite": "Paris-Tombouctou",
+    "label": "LOC",
+    "Contexte gauche": "de T.S.F. (Morand,",
+    "Contexte droite": ", 1929, p. 32).P."
+  },
+  "Entite199": {
+    "entite": "32).P. m\u00e9taph",
+    "label": "ORG",
+    "Contexte gauche": "Tombouctou, 1929, p.",
+    "Contexte droite": ". Tu travailles \u00e0 plein"
+  },
+  "Entite200": {
+    "entite": "Arnoux",
+    "label": "MISC",
+    "Contexte gauche": ", \u00e0 plein temps (",
+    "Contexte droite": ", Double chance, 1958"
+  },
+  "Entite201": {
+    "entite": "Double",
+    "label": "MISC",
+    "Contexte gauche": "plein temps (Arnoux,",
+    "Contexte droite": "chance, 1958, p."
+  },
+  "Entite202": {
+    "entite": "M. Teste",
+    "label": "PER",
+    "Contexte gauche": "une des grandes recherches de",
+    "Contexte droite": "(Val\u00e9ry, Soir\u00e9e avec"
+  },
+  "Entite203": {
+    "entite": "Soir\u00e9e",
+    "label": "LOC",
+    "Contexte gauche": "M. Teste (Val\u00e9ry,",
+    "Contexte droite": "avec M. Teste, 1895"
+  },
+  "Entite204": {
+    "entite": "M. Teste",
+    "label": "PER",
+    "Contexte gauche": "(Val\u00e9ry, Soir\u00e9e avec",
+    "Contexte droite": ", 1895, p. 20"
+  },
+  "Entite205": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "en loc. adj.",
+    "Contexte droite": "d'\u00e9quilibre atteint par un"
+  },
+  "Entite206": {
+    "entite": "Ser, Phys",
+    "label": "MISC",
+    "Contexte gauche": "le r\u00e9gime est \u00e9tabli (",
+    "Contexte droite": ". industr., 1890"
+  },
+  "Entite207": {
+    "entite": "Andrade",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9gime de la montre (",
+    "Contexte droite": ", Horlog., 1924"
+  },
+  "Entite208": {
+    "entite": "Horlog",
+    "label": "MISC",
+    "Contexte gauche": "la montre (Andrade,",
+    "Contexte droite": "., 1924, p."
+  },
+  "Entite209": {
+    "entite": "Base Universitaire",
+    "label": "LOC",
+    "Contexte gauche": "Ce fonctionnement [de la",
+    "Contexte droite": "du Centre M\u00e9diterran\u00e9en] assurera"
+  },
+  "Entite210": {
+    "entite": "Centre",
+    "label": "LOC",
+    "Contexte gauche": "de la Base Universitaire du",
+    "Contexte droite": "M\u00e9diterran\u00e9en] assurera la marche"
+  },
+  "Entite211": {
+    "entite": "Regards sur monde act",
+    "label": "MISC",
+    "Contexte gauche": "de r\u00e9gime (Val\u00e9ry,",
+    "Contexte droite": "., 1931, p."
+  },
+  "Entite212": {
+    "entite": "309).Il",
+    "label": "ORG",
+    "Contexte gauche": "., 1931, p.",
+    "Contexte droite": "y a une sensibilit\u00e9 qui"
+  },
+  "Entite213": {
+    "entite": "Val\u00e9ry, Suite",
+    "label": "MISC",
+    "Contexte gauche": "trouble de ce r\u00e9gime (",
+    "Contexte droite": ", 1934, p. 41"
+  },
+  "Entite214": {
+    "entite": "Ling",
+    "label": "PER",
+    "Contexte gauche": "pr\u00e9position) (d'apr.",
+    "Contexte droite": ". 1972). Les"
+  },
+  "Entite215": {
+    "entite": "Destutt de Tr",
+    "label": "PER",
+    "Contexte gauche": "et de son r\u00e9gime (",
+    "Contexte droite": "., Id\u00e9ol. 2"
+  },
+  "Entite216": {
+    "entite": "D\u00e9sert Bi\u00e8vres",
+    "label": "PER",
+    "Contexte gauche": "est pr\u00e9cis. Duhamel,",
+    "Contexte droite": ", 1937, p. 148"
+  },
+  "Entite217": {
+    "entite": "R\u00e9gime direct/r\u00e9gime indirect",
+    "label": "ORG",
+    "Contexte gauche": "p. 148.\n\u2666",
+    "Contexte droite": ". Mot qui se rattache"
+  },
+  "Entite218": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "verbe dont il d\u00e9pend.",
+    "Contexte droite": ". compl\u00e9ment.Le verbe"
+  },
+  "Entite219": {
+    "entite": "Lav",
+    "label": "MISC",
+    "Contexte gauche": "et le r\u00e9gime indirect (",
+    "Contexte droite": ".Diffic.1846).\n"
+  },
+  "Entite220": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [\u0280e\u0292im]. Homon"
+  },
+  "Entite221": {
+    "entite": "Homon.",
+    "label": "MISC",
+    "Contexte gauche": "Orth.: [\u0280e\u0292im].",
+    "Contexte droite": "et homogr. r\u00e9gime2."
+  },
+  "Entite222": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "r\u00e9-. \u00c9tymol. et",
+    "Contexte droite": ". A. Ca 1265 regimen"
+  },
+  "Entite223": {
+    "entite": "Ca",
+    "label": "LOC",
+    "Contexte gauche": ". et Hist. A.",
+    "Contexte droite": "1265 regimen \u00ab action de"
+  },
+  "Entite224": {
+    "entite": "La R\u00e8gle du Temple",
+    "label": "MISC",
+    "Contexte gauche": ", d'administrer \u00bb (",
+    "Contexte droite": ", \u00e9d. H. de"
+  },
+  "Entite225": {
+    "entite": "H. de Curzon",
+    "label": "PER",
+    "Contexte gauche": "du Temple, \u00e9d.",
+    "Contexte droite": ", p. 235);"
+  },
+  "Entite226": {
+    "entite": "Gilles le Muisit",
+    "label": "PER",
+    "Contexte gauche": "\u00ab id. \u00bb (",
+    "Contexte droite": ", Po\u00e9sies, I,"
+  },
+  "Entite227": {
+    "entite": "Po\u00e9sies",
+    "label": "LOC",
+    "Contexte gauche": "(Gilles le Muisit,",
+    "Contexte droite": ", I, 127 ds"
+  },
+  "Entite228": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "le Muisit, Po\u00e9sies,",
+    "Contexte droite": ", 127 ds T.-L.)"
+  },
+  "Entite229": {
+    "entite": "ds T.-L.",
+    "label": "PER",
+    "Contexte gauche": "Po\u00e9sies, I, 127",
+    "Contexte droite": "). B. 1."
+  },
+  "Entite230": {
+    "entite": "Henri de Mondeville",
+    "label": "PER",
+    "Contexte gauche": "une maladie) \u00bb (",
+    "Contexte droite": ", Chirurgie, \u00e9d."
+  },
+  "Entite231": {
+    "entite": "Chirurgie",
+    "label": "LOC",
+    "Contexte gauche": "(Henri de Mondeville,",
+    "Contexte droite": ", \u00e9d. A. Bos"
+  },
+  "Entite232": {
+    "entite": "A. Bos",
+    "label": "PER",
+    "Contexte gauche": ", Chirurgie, \u00e9d.",
+    "Contexte droite": ", 1442); 2"
+  },
+  "Entite233": {
+    "entite": "Jean Le F\u00e8vre",
+    "label": "PER",
+    "Contexte gauche": "sant\u00e9 \u00bb (Consultation de",
+    "Contexte droite": ", [...] sur"
+  },
+  "Entite234": {
+    "entite": "P. Meyer ds Romania",
+    "label": "PER",
+    "Contexte gauche": "la goutte, \u00e9d.",
+    "Contexte droite": "t. 15, p. 182"
+  },
+  "Entite235": {
+    "entite": "Hainaut",
+    "label": "LOC",
+    "Contexte gauche": "de la recette g\u00e9n\u00e9rale de",
+    "Contexte droite": ", f o79, A."
+  },
+  "Entite236": {
+    "entite": "Nord ds Gdf",
+    "label": "LOC",
+    "Contexte gauche": ", f o79, A.",
+    "Contexte droite": ". Compl.: Regimes"
+  },
+  "Entite237": {
+    "entite": "Mozin-Biber",
+    "label": "MISC",
+    "Contexte gauche": "communaut\u00e9, r\u00e9gime dotal (",
+    "Contexte droite": "); 2. 1789"
+  },
+  "Entite238": {
+    "entite": "Mirabeau",
+    "label": "PER",
+    "Contexte gauche": "d'un \u00e9tat \u00bb (",
+    "Contexte droite": "peint par lui-m\u00eame, t."
+  },
+  "Entite239": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "t. 1, p. 306",
+    "Contexte droite": "Ranft, p. 87)"
+  },
+  "Entite240": {
+    "entite": "Ranft",
+    "label": "LOC",
+    "Contexte gauche": "1, p. 306 ds",
+    "Contexte droite": ", p. 87);"
+  },
+  "Entite241": {
+    "entite": "Point du jour",
+    "label": "MISC",
+    "Contexte gauche": "(av. 1789) (",
+    "Contexte droite": ", IV, p. 276"
+  },
+  "Entite242": {
+    "entite": "IV, p. 276",
+    "label": "MISC",
+    "Contexte gauche": "(Point du jour,",
+    "Contexte droite": ", n oCXIV, 26"
+  },
+  "Entite243": {
+    "entite": "oCXIV",
+    "label": "LOC",
+    "Contexte gauche": ", p. 276, n",
+    "Contexte droite": ", 26 nov. ds Brunot"
+  },
+  "Entite244": {
+    "entite": "Brunot t. 9",
+    "label": "PER",
+    "Contexte gauche": "oCXIV, 26 nov. ds",
+    "Contexte droite": ", p. 621);"
+  },
+  "Entite245": {
+    "entite": "\u00c9pith\u00e8te",
+    "label": "LOC",
+    "Contexte gauche": ") (M. de l'",
+    "Contexte droite": "[P.-N. Chantreau],"
+  },
+  "Entite246": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "[P.-N. Chantreau],",
+    "Contexte droite": ". nat. et anecdotique"
+  },
+  "Entite247": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "s.v. vaisselle d'argent",
+    "Contexte droite": "Quem. DDL t. 11"
+  },
+  "Entite248": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "d'argent ds Quem.",
+    "Contexte droite": "t. 11, s.v."
+  },
+  "Entite249": {
+    "entite": "Trait\u00e9 de la chaleur",
+    "label": "MISC",
+    "Contexte gauche": "fluide \u00bb (P\u00e9clet,",
+    "Contexte droite": "ds Littr\u00e9 Suppl.)"
+  },
+  "Entite250": {
+    "entite": "Littr\u00e9 Suppl",
+    "label": "PER",
+    "Contexte gauche": "Trait\u00e9 de la chaleur ds",
+    "Contexte droite": ".); 2."
+  },
+  "Entite251": {
+    "entite": "Littr\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "cours d'eau \u00bb (",
+    "Contexte droite": "); 3. 1900"
+  },
+  "Entite252": {
+    "entite": "La France",
+    "label": "LOC",
+    "Contexte gauche": "r\u00e9gime d'un moteur (",
+    "Contexte droite": "automobile, p. 161 d'"
+  },
+  "Entite253": {
+    "entite": "E. de Martonne",
+    "label": "PER",
+    "Contexte gauche": ". 1909 m\u00e9t\u00e9or. (",
+    "Contexte droite": ", Trait\u00e9 de g\u00e9ogr."
+  },
+  "Entite254": {
+    "entite": "Trait\u00e9 de g\u00e9ogr",
+    "label": "MISC",
+    "Contexte gauche": "(E. de Martonne,",
+    "Contexte droite": ". phys., p."
+  },
+  "Entite255": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "401. \u2212 Quem.",
+    "Contexte droite": "t. 15, 25."
+  },
+  "Entite256": {
+    "entite": "Tournier",
+    "label": "PER",
+    "Contexte gauche": "15, 25. \u2212",
+    "Contexte droite": "(M.). Un"
+  },
+  "Entite257": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "en 1848. Th\u00e8se,",
+    "Contexte droite": ", 1975, t. 1"
+  },
+  "Entite258": {
+    "entite": "Vardar Soc",
+    "label": "PER",
+    "Contexte gauche": "136-140. \u2212",
+    "Contexte droite": ". pol. 1973 ["
+  }
+}

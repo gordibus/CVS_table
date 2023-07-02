@@ -1,0 +1,1268 @@
+{
+  "Entite0": {
+    "entite": "- Histoire",
+    "label": "LOC",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite1": {
+    "entite": "Histoire",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9roulement de ce pass\u00e9.",
+    "Contexte droite": "universelle; histoire de l'"
+  },
+  "Entite2": {
+    "entite": "Faria",
+    "label": "PER",
+    "Contexte gauche": "histoire de l'art.",
+    "Contexte droite": "continuait d'instruire Dant\u00e8s,"
+  },
+  "Entite3": {
+    "entite": "Dumas p\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "et des grands hommes (",
+    "Contexte droite": ", Monte-Cristo,"
+  },
+  "Entite4": {
+    "entite": "Monte-Cristo",
+    "label": "PER",
+    "Contexte gauche": "hommes (Dumas p\u00e8re,",
+    "Contexte droite": ", t. 1, 1846"
+  },
+  "Entite5": {
+    "entite": "Bainville",
+    "label": "LOC",
+    "Contexte gauche": "des d\u00e9faites plus graves (",
+    "Contexte droite": ", Hist. Fr."
+  },
+  "Entite6": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "plus graves (Bainville,",
+    "Contexte droite": ". Fr., t."
+  },
+  "Entite7": {
+    "entite": "histoire de l'\u00c9glise",
+    "label": "ORG",
+    "Contexte gauche": "histoire de la R\u00e9volution;",
+    "Contexte droite": ", de l'humanit\u00e9,"
+  },
+  "Entite8": {
+    "entite": "Histoire ancienne",
+    "label": "MISC",
+    "Contexte gauche": "nouvelle histoire.\n\u2666",
+    "Contexte droite": ". Histoire couvrant les p\u00e9riodes"
+  },
+  "Entite9": {
+    "entite": "Empire romain",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 la chute de l'",
+    "Contexte droite": "(476) (cf."
+  },
+  "Entite10": {
+    "entite": "Encyclop.",
+    "label": "MISC",
+    "Contexte gauche": "(476) (cf.",
+    "Contexte droite": "\u00e9duc., 1960,"
+  },
+  "Entite11": {
+    "entite": "Moyen \u00c2ge",
+    "label": "LOC",
+    "Contexte gauche": ".\n\u2666 Histoire du",
+    "Contexte droite": ". Histoire qui commence en"
+  },
+  "Entite12": {
+    "entite": "Am\u00e9rique",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 la d\u00e9couverte de l'",
+    "Contexte droite": "(1492) (cf."
+  },
+  "Entite13": {
+    "entite": "Encyclop.",
+    "label": "MISC",
+    "Contexte gauche": "(1492) (cf.",
+    "Contexte droite": "\u00e9duc., 1960,"
+  },
+  "Entite14": {
+    "entite": "Encyclop.",
+    "label": "MISC",
+    "Contexte gauche": "1492-1789 (cf.",
+    "Contexte droite": "\u00e9duc., 1960,"
+  },
+  "Entite15": {
+    "entite": "Encyclop.",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 nos jours (cf.",
+    "Contexte droite": "\u00e9duc., 1960,"
+  },
+  "Entite16": {
+    "entite": "Nouveau Testament",
+    "label": "MISC",
+    "Contexte gauche": "Histoire Sainte. Ancien et",
+    "Contexte droite": "; plus partic.,"
+  },
+  "Entite17": {
+    "entite": "Ancien Testament",
+    "label": "MISC",
+    "Contexte gauche": "; plus partic.,",
+    "Contexte droite": ", relation de l'histoire"
+  },
+  "Entite18": {
+    "entite": "Histoire Sainte",
+    "label": "MISC",
+    "Contexte gauche": ". On m'enseignait l'",
+    "Contexte droite": ", l'\u00c9vangile, le"
+  },
+  "Entite19": {
+    "entite": "\u00c9vangile",
+    "label": "MISC",
+    "Contexte gauche": "l'Histoire Sainte, l'",
+    "Contexte droite": ", le cat\u00e9chisme sans me"
+  },
+  "Entite20": {
+    "entite": "Sartre",
+    "label": "PER",
+    "Contexte gauche": "les moyens de croire (",
+    "Contexte droite": ", Mots,1964, p. 207"
+  },
+  "Entite21": {
+    "entite": "Trait\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "l'histoire des civilisations (",
+    "Contexte droite": "sociol.,1968, p."
+  },
+  "Entite22": {
+    "entite": "Mmede R\u00eanal",
+    "label": "PER",
+    "Contexte gauche": "mon cher ami, dit",
+    "Contexte droite": "en riant (Stendhal,"
+  },
+  "Entite23": {
+    "entite": "Stendhal",
+    "label": "PER",
+    "Contexte gauche": "Mmede R\u00eanal en riant (",
+    "Contexte droite": ", Rouge et Noir,1830,"
+  },
+  "Entite24": {
+    "entite": "Rouge",
+    "label": "PER",
+    "Contexte gauche": "en riant (Stendhal,",
+    "Contexte droite": "et Noir,1830, p. 130"
+  },
+  "Entite25": {
+    "entite": "MmeLedoux : C'est bon, l'histoire ancienne",
+    "label": "MISC",
+    "Contexte gauche": "une femme \u00e2g\u00e9e).",
+    "Contexte droite": ", tournez-moi le feuillet"
+  },
+  "Entite26": {
+    "entite": "Francis",
+    "label": "LOC",
+    "Contexte gauche": "le feuillet (Dieulafoy,",
+    "Contexte droite": ", D\u00e9saugiers, Dupaty,"
+  },
+  "Entite27": {
+    "entite": "D\u00e9saugiers",
+    "label": "LOC",
+    "Contexte gauche": "(Dieulafoy, Francis,",
+    "Contexte droite": ", Dupaty, Une Matin\u00e9e"
+  },
+  "Entite28": {
+    "entite": "Dupaty",
+    "label": "LOC",
+    "Contexte gauche": ", Francis, D\u00e9saugiers,",
+    "Contexte droite": ", Une Matin\u00e9e du Pont"
+  },
+  "Entite29": {
+    "entite": "Une Matin\u00e9e du Pont-Neuf,1806",
+    "label": "MISC",
+    "Contexte gauche": ", D\u00e9saugiers, Dupaty,",
+    "Contexte droite": ", p. 36 ds Quem"
+  },
+  "Entite30": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "-Neuf,1806, p. 36",
+    "Contexte droite": "Quem. DDL t. 19"
+  },
+  "Entite31": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "p. 36 ds Quem.",
+    "Contexte droite": "t. 19).\n"
+  },
+  "Entite32": {
+    "entite": "H).Un",
+    "label": "PER",
+    "Contexte gauche": "Histoire (avec un grand",
+    "Contexte droite": "homme qui a un go\u00fbt"
+  },
+  "Entite33": {
+    "entite": "Goncourt",
+    "label": "MISC",
+    "Contexte gauche": "amusants de l'humanit\u00e9 (",
+    "Contexte droite": ", Journal,1874, p. 1012"
+  },
+  "Entite34": {
+    "entite": "Journal,1874",
+    "label": "MISC",
+    "Contexte gauche": "l'humanit\u00e9 (Goncourt,",
+    "Contexte droite": ", p. 1012)."
+  },
+  "Entite35": {
+    "entite": "Kennedy",
+    "label": "PER",
+    "Contexte gauche": ", que l'actuel pr\u00e9sident",
+    "Contexte droite": "a \u00e9t\u00e9 employ\u00e9 de cette"
+  },
+  "Entite36": {
+    "entite": "Agences presse,1962",
+    "label": "PER",
+    "Contexte gauche": "employ\u00e9 de cette agence (",
+    "Contexte droite": ", p. 13)."
+  },
+  "Entite37": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": ").\nc)",
+    "Contexte droite": ". Ouvrage relatant des faits"
+  },
+  "Entite38": {
+    "entite": "Histoires de France",
+    "label": "MISC",
+    "Contexte gauche": "les atlas, dans des",
+    "Contexte droite": "(Colette, Cl."
+  },
+  "Entite39": {
+    "entite": "Napol\u00e9on Ier",
+    "label": "PER",
+    "Contexte gauche": "l'histoire. Il [",
+    "Contexte droite": "] faisait l'histoire et"
+  },
+  "Entite40": {
+    "entite": "Mis\u00e9r",
+    "label": "LOC",
+    "Contexte gauche": "l'\u00e9crivait (Hugo,",
+    "Contexte droite": "., t. 1,"
+  },
+  "Entite41": {
+    "entite": "Massis",
+    "label": "PER",
+    "Contexte gauche": "802).Paysages charg\u00e9s d'histoire (",
+    "Contexte droite": ", Jugements,1923, p. 135).L'"
+  },
+  "Entite42": {
+    "entite": "Histoire",
+    "label": "PER",
+    "Contexte gauche": ", Jugements,1923, p. 135).L'",
+    "Contexte droite": "commence ou recommence par la"
+  },
+  "Entite43": {
+    "entite": "F. Mitterrand",
+    "label": "PER",
+    "Contexte gauche": "et d'un \u00e9v\u00e9nement (",
+    "Contexte droite": ", Ici et maintenant,"
+  },
+  "Entite44": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": ", Ici et maintenant,",
+    "Contexte droite": ", Le livre de poche"
+  },
+  "Entite45": {
+    "entite": "Le livre de poche",
+    "label": "MISC",
+    "Contexte gauche": "et maintenant, Paris,",
+    "Contexte droite": ", 1981, p. 37"
+  },
+  "Entite46": {
+    "entite": "Henri",
+    "label": "PER",
+    "Contexte gauche": "histoire. L'histoire amnistie",
+    "Contexte droite": "quatre (Hugo, Chansons"
+  },
+  "Entite47": {
+    "entite": "Hugo, Chansons rues",
+    "label": "MISC",
+    "Contexte gauche": "histoire amnistie Henri quatre (",
+    "Contexte droite": "et bois,1865, p. 50).V."
+  },
+  "Entite48": {
+    "entite": "50).V.",
+    "label": "LOC",
+    "Contexte gauche": "rues et bois,1865, p.",
+    "Contexte droite": "comparer ex. 8."
+  },
+  "Entite49": {
+    "entite": "Partie du pass\u00e9",
+    "label": "MISC",
+    "Contexte gauche": ". 8.\n\u2666",
+    "Contexte droite": "que l'on conna\u00eet par"
+  },
+  "Entite50": {
+    "entite": "Gaultier, Bovarysme,1902",
+    "label": "MISC",
+    "Contexte gauche": "et de la pr\u00e9histoire (",
+    "Contexte droite": ", p. 188)."
+  },
+  "Entite51": {
+    "entite": "Corinne, t. 2",
+    "label": "MISC",
+    "Contexte gauche": "de paysages (Sta\u00ebl,",
+    "Contexte droite": ", 1807, p. 69).La"
+  },
+  "Entite52": {
+    "entite": "prix de Rome",
+    "label": "MISC",
+    "Contexte gauche": ", p. 69).La plupart des",
+    "Contexte droite": "renoncent vite \u00e0 \u00ab l'"
+  },
+  "Entite53": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "en redingote (Hourticq,",
+    "Contexte droite": ". art, Fr."
+  },
+  "Entite54": {
+    "entite": "Fr.",
+    "label": "ORG",
+    "Contexte gauche": ", Hist. art,",
+    "Contexte droite": ", 1914, p. 410"
+  },
+  "Entite55": {
+    "entite": "P.",
+    "label": "PER",
+    "Contexte gauche": ").\n\u2212 [",
+    "Contexte droite": "allus.]\n\u2666"
+  },
+  "Entite56": {
+    "entite": "\u0152uvres compl.",
+    "label": "MISC",
+    "Contexte gauche": "le moins. Verlaine,",
+    "Contexte droite": ", t. 5, Confess"
+  },
+  "Entite57": {
+    "entite": "Confess",
+    "label": "MISC",
+    "Contexte gauche": "., t. 5,",
+    "Contexte droite": "., 1895, p."
+  },
+  "Entite58": {
+    "entite": "Voltaire",
+    "label": "PER",
+    "Contexte gauche": "\u2666 [au vers de",
+    "Contexte droite": ", dans sa pi\u00e8ce Charlot"
+  },
+  "Entite59": {
+    "entite": "Charlot ou la Comtesse de Givri",
+    "label": "MISC",
+    "Contexte gauche": "Voltaire, dans sa pi\u00e8ce",
+    "Contexte droite": ", I, 7 Et"
+  },
+  "Entite60": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "la Comtesse de Givri,",
+    "Contexte droite": ", 7 Et voil\u00e0 justement"
+  },
+  "Entite61": {
+    "entite": "M\u00f4ssieu!",
+    "label": "PER",
+    "Contexte gauche": "on \u00e9crit l'histoire,",
+    "Contexte droite": "Flaub., Corresp."
+  },
+  "Entite62": {
+    "entite": "Corresp.",
+    "label": "ORG",
+    "Contexte gauche": "M\u00f4ssieu! Flaub.,",
+    "Contexte droite": ",1844, p. 150."
+  },
+  "Entite63": {
+    "entite": "Science",
+    "label": "MISC",
+    "Contexte gauche": "150.\nb)",
+    "Contexte droite": "qui \u00e9tudie, relate de"
+  },
+  "Entite64": {
+    "entite": "M. Martin",
+    "label": "PER",
+    "Contexte gauche": "histoire. En compagnie de",
+    "Contexte droite": ", le professeur d'histoire"
+  },
+  "Entite65": {
+    "entite": "Gdes",
+    "label": "LOC",
+    "Contexte gauche": "de g\u00e9ographie (Druon,",
+    "Contexte droite": "fam., t. 1"
+  },
+  "Entite66": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "des \u00e9v\u00e9nemens... Cousin,",
+    "Contexte droite": ". philos., t."
+  },
+  "Entite67": {
+    "entite": "Anat",
+    "label": "LOC",
+    "Contexte gauche": "ce visc\u00e8re (Cuvier,",
+    "Contexte droite": ". comp., t."
+  },
+  "Entite68": {
+    "entite": "la Terre",
+    "label": "LOC",
+    "Contexte gauche": ", p. 65).L'histoire de",
+    "Contexte droite": "est divis\u00e9e, par les"
+  },
+  "Entite69": {
+    "entite": "Conf",
+    "label": "PER",
+    "Contexte gauche": "grandes \u00e8res (Boule,",
+    "Contexte droite": ". g\u00e9ol.,1907,"
+  },
+  "Entite70": {
+    "entite": "Vari\u00e9t\u00e9",
+    "label": "PER",
+    "Contexte gauche": "les \u00e2ges (Val\u00e9ry,",
+    "Contexte droite": "III,1936, p. 168)"
+  },
+  "Entite71": {
+    "entite": "Histoire",
+    "label": "LOC",
+    "Contexte gauche": "168).\n\u2666",
+    "Contexte droite": "d'une langue. Je"
+  },
+  "Entite72": {
+    "entite": "Histoire de la Langue fran\u00e7aise",
+    "label": "MISC",
+    "Contexte gauche": "lis aujourd'hui, dans l'",
+    "Contexte droite": "de Brunot :... ("
+  },
+  "Entite73": {
+    "entite": "Brunot",
+    "label": "PER",
+    "Contexte gauche": "de la Langue fran\u00e7aise de",
+    "Contexte droite": ":... (Gide,"
+  },
+  "Entite74": {
+    "entite": "Gide",
+    "label": "PER",
+    "Contexte gauche": "de Brunot :... (",
+    "Contexte droite": ", Journal,1907, p. 240).\u00c0"
+  },
+  "Entite75": {
+    "entite": "Journal,1907",
+    "label": "MISC",
+    "Contexte gauche": ":... (Gide,",
+    "Contexte droite": ", p. 240).\u00c0 une \u00e9tape"
+  },
+  "Entite76": {
+    "entite": "Saussure",
+    "label": "LOC",
+    "Contexte gauche": "celle de la graphie (",
+    "Contexte droite": ", Ling. g\u00e9n."
+  },
+  "Entite77": {
+    "entite": "Ling",
+    "label": "PER",
+    "Contexte gauche": "la graphie (Saussure,",
+    "Contexte droite": ". g\u00e9n.,1916,"
+  },
+  "Entite78": {
+    "entite": "Histoire",
+    "label": "PER",
+    "Contexte gauche": "une phrase.\n\u2212",
+    "Contexte droite": "naturelle. Connaissance, \u00e9tude"
+  },
+  "Entite79": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "trouvent dans la nature.",
+    "Contexte droite": ". mod. sciences naturelles"
+  },
+  "Entite80": {
+    "entite": "mus\u00e9um d'histoire",
+    "label": "LOC",
+    "Contexte gauche": "sciences naturelles.Cabinet,",
+    "Contexte droite": "naturelle. Aujourd'hui, l'"
+  },
+  "Entite81": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "et par des collections (",
+    "Contexte droite": ", Pens\u00e9es,1852, p. 50"
+  },
+  "Entite82": {
+    "entite": "Pens\u00e9es,1852, p. 50",
+    "label": "MISC",
+    "Contexte gauche": "des collections (Sainte-Beuve,",
+    "Contexte droite": ").\nB. \u2212"
+  },
+  "Entite83": {
+    "entite": "Sand, Hist",
+    "label": "MISC",
+    "Contexte gauche": ", importante en r\u00e9alit\u00e9 (",
+    "Contexte droite": ". vie, t. 1"
+  },
+  "Entite84": {
+    "entite": "Bremond",
+    "label": "LOC",
+    "Contexte gauche": "de tous les contemplatifs (",
+    "Contexte droite": ", Hist. sent."
+  },
+  "Entite85": {
+    "entite": "G. Leroux",
+    "label": "PER",
+    "Contexte gauche": "petite histoire de braconnage (",
+    "Contexte droite": ", Parfum,1908, p. 49"
+  },
+  "Entite86": {
+    "entite": "Henri",
+    "label": "PER",
+    "Contexte gauche": "que je sens? dit",
+    "Contexte droite": ". Mes petites histoires n'"
+  },
+  "Entite87": {
+    "entite": "Mes petites histoires",
+    "label": "MISC",
+    "Contexte gauche": "sens? dit Henri.",
+    "Contexte droite": "n'int\u00e9ressent personne; et"
+  },
+  "Entite88": {
+    "entite": "Mandarins,1954, p. 225.",
+    "label": "MISC",
+    "Contexte gauche": "de roman. Beauvoir,",
+    "Contexte droite": "\nSYNT. Curieuse,"
+  },
+  "Entite89": {
+    "entite": "In",
+    "label": "PER",
+    "Contexte gauche": "la t\u00eate (L\u00e9autaud,",
+    "Contexte droite": "memor.,1905, p."
+  },
+  "Entite90": {
+    "entite": "Femmes d'amis",
+    "label": "ORG",
+    "Contexte gauche": "la vie (Courteline,",
+    "Contexte droite": ", Fils, 1885,"
+  },
+  "Entite91": {
+    "entite": "Fils",
+    "label": "PER",
+    "Contexte gauche": ", Femmes d'amis,",
+    "Contexte droite": ", 1885, p. 114).C'"
+  },
+  "Entite92": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "cette pauvre petite fraise (",
+    "Contexte droite": ", Nouv. contes Ninon,1874"
+  },
+  "Entite93": {
+    "entite": "Nouv.",
+    "label": "MISC",
+    "Contexte gauche": "petite fraise (Zola,",
+    "Contexte droite": "contes Ninon,1874, p. 39).Sans"
+  },
+  "Entite94": {
+    "entite": "Ninon,1874, p. 39).Sans histoire",
+    "label": "MISC",
+    "Contexte gauche": "Zola, Nouv. contes",
+    "Contexte droite": ". Sans incident. Oui"
+  },
+  "Entite95": {
+    "entite": "Bernanos",
+    "label": "PER",
+    "Contexte gauche": "une vie sans histoire (",
+    "Contexte droite": ", Joie,1929, p. 669"
+  },
+  "Entite96": {
+    "entite": "Zola",
+    "label": "LOC",
+    "Contexte gauche": "des armatures de fer (",
+    "Contexte droite": ", \u0152uvre,1886, p. 185"
+  },
+  "Entite97": {
+    "entite": "Aventure",
+    "label": "PER",
+    "Contexte gauche": "185).\n\u2212",
+    "Contexte droite": "amoureuse. Vous avez \u00e9t\u00e9"
+  },
+  "Entite98": {
+    "entite": "Flers",
+    "label": "MISC",
+    "Contexte gauche": "histoires, des aventures (",
+    "Contexte droite": ", Caillavet, M. Brotonneau,1923"
+  },
+  "Entite99": {
+    "entite": "Caillavet",
+    "label": "MISC",
+    "Contexte gauche": "des aventures (Flers,",
+    "Contexte droite": ", M. Brotonneau,1923, I"
+  },
+  "Entite100": {
+    "entite": "M. Brotonneau,1923",
+    "label": "PER",
+    "Contexte gauche": "(Flers, Caillavet,",
+    "Contexte droite": ", I, 13,"
+  },
+  "Entite101": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "Caillavet, M. Brotonneau,1923,",
+    "Contexte droite": ", 13, p. 9"
+  },
+  "Entite102": {
+    "entite": "Histoire de cul",
+    "label": "MISC",
+    "Contexte gauche": "9).\n\u2666",
+    "Contexte droite": ", de fesses. V."
+  },
+  "Entite103": {
+    "entite": "I C",
+    "label": "MISC",
+    "Contexte gauche": "de fesses. V. cul",
+    "Contexte droite": "1.\n\u2212 Au"
+  },
+  "Entite104": {
+    "entite": "Michaux",
+    "label": "PER",
+    "Contexte gauche": "attirer des histoires inutilement (",
+    "Contexte droite": ", Plume,1930, p. 143"
+  },
+  "Entite105": {
+    "entite": "Avale",
+    "label": "LOC",
+    "Contexte gauche": "avec qqn. Tiens!",
+    "Contexte droite": "\u00e7a, et puis d\u00e9campe"
+  },
+  "Entite106": {
+    "entite": "Martin du G.",
+    "label": "PER",
+    "Contexte gauche": "p\u00e8re, moi! (",
+    "Contexte droite": ", Thib., Cah"
+  },
+  "Entite107": {
+    "entite": "Cah",
+    "label": "MISC",
+    "Contexte gauche": "G., Thib.,",
+    "Contexte droite": ". gr., 1922"
+  },
+  "Entite108": {
+    "entite": "Rouen",
+    "label": "LOC",
+    "Contexte gauche": "d'histoires quand ils bombardent",
+    "Contexte droite": "(Vailland, Dr\u00f4le de"
+  },
+  "Entite109": {
+    "entite": "Dr\u00f4le de jeu,1945",
+    "label": "MISC",
+    "Contexte gauche": "bombardent Rouen (Vailland,",
+    "Contexte droite": ", p. 69)."
+  },
+  "Entite110": {
+    "entite": "Tacite",
+    "label": "PER",
+    "Contexte gauche": "histoire. Les histoires de",
+    "Contexte droite": "ne sont autre chose que"
+  },
+  "Entite111": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "les tyrans (Michelet,",
+    "Contexte droite": ". romaine, t. 2"
+  },
+  "Entite112": {
+    "entite": "C\u00e9sar Birotteau",
+    "label": "PER",
+    "Contexte gauche": "n\u00e9es jumelles. Qui lit",
+    "Contexte droite": ", devra donc lire la"
+  },
+  "Entite113": {
+    "entite": "Maison Nucingen",
+    "label": "LOC",
+    "Contexte gauche": ", devra donc lire la",
+    "Contexte droite": "(Balzac, C. Birotteau,1837"
+  },
+  "Entite114": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "lire la Maison Nucingen (",
+    "Contexte droite": ", C. Birotteau,1837, p."
+  },
+  "Entite115": {
+    "entite": "C. Birotteau,1837",
+    "label": "PER",
+    "Contexte gauche": "Maison Nucingen (Balzac,",
+    "Contexte droite": ", p. 421) :"
+  },
+  "Entite116": {
+    "entite": "Baudelaire",
+    "label": "PER",
+    "Contexte gauche": ":\n5. ...",
+    "Contexte droite": "(...) n'a"
+  },
+  "Entite117": {
+    "entite": "Edgar Poe",
+    "label": "PER",
+    "Contexte gauche": "dans les \u0153uvres m\u00eames d'",
+    "Contexte droite": "; mais il en a"
+  },
+  "Entite118": {
+    "entite": "Histoires [",
+    "label": "MISC",
+    "Contexte gauche": "t\u00eate de sa traduction des",
+    "Contexte droite": "it. ds le texte"
+  },
+  "Entite119": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "des Histoires [it.",
+    "Contexte droite": "le texte] extraordinaires."
+  },
+  "Entite120": {
+    "entite": "Vari\u00e9t\u00e9",
+    "label": "PER",
+    "Contexte gauche": "] extraordinaires. Val\u00e9ry,",
+    "Contexte droite": "II,1929, p. 147."
+  },
+  "Entite121": {
+    "entite": "Expressions\n\u2666 Histoire",
+    "label": "ORG",
+    "Contexte gauche": "des histoires.\n\u2212",
+    "Contexte droite": "\u00e0 dormir debout*.\n\u2666"
+  },
+  "Entite122": {
+    "entite": ").Il ajouta",
+    "label": "PER",
+    "Contexte gauche": "(c'est que...",
+    "Contexte droite": "(...) : \u00ab"
+  },
+  "Entite123": {
+    "entite": "Contes",
+    "label": "LOC",
+    "Contexte gauche": "\u00bb (Maupass.,",
+    "Contexte droite": "et nouv., t."
+  },
+  "Entite124": {
+    "entite": "Voleur",
+    "label": "MISC",
+    "Contexte gauche": "., t. 2,",
+    "Contexte droite": ", 1882, p. 1229"
+  },
+  "Entite125": {
+    "entite": "Mille",
+    "label": "LOC",
+    "Contexte gauche": "c'est une histoire des",
+    "Contexte droite": "et une Nuits que vous"
+  },
+  "Entite126": {
+    "entite": "Nuits",
+    "label": "MISC",
+    "Contexte gauche": "histoire des Mille et une",
+    "Contexte droite": "que vous me racontez l\u00e0"
+  },
+  "Entite127": {
+    "entite": "Dumas p\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "vous me racontez l\u00e0!",
+    "Contexte droite": ", Mllede Belle-Isle,1839"
+  },
+  "Entite128": {
+    "entite": "Mllede Belle-Isle,1839",
+    "label": "PER",
+    "Contexte gauche": "l\u00e0! Dumas p\u00e8re,",
+    "Contexte droite": ", IV, 7,"
+  },
+  "Entite129": {
+    "entite": "IV",
+    "label": "MISC",
+    "Contexte gauche": "Mllede Belle-Isle,1839,",
+    "Contexte droite": ", 7, p. 67"
+  },
+  "Entite130": {
+    "entite": "\u00c9criture Sainte",
+    "label": "PER",
+    "Contexte gauche": ", souvent tir\u00e9 de l'",
+    "Contexte droite": ", repr\u00e9sent\u00e9 par un dessin"
+  },
+  "Entite131": {
+    "entite": "Journal,1831, p. 81",
+    "label": "MISC",
+    "Contexte gauche": "des vitraux (Michelet,",
+    "Contexte droite": ").\n\u2666 Histoire"
+  },
+  "Entite132": {
+    "entite": "R\u00e9cit",
+    "label": "PER",
+    "Contexte gauche": "Histoire (dr\u00f4le).",
+    "Contexte droite": "g\u00e9n\u00e9ralement court visant \u00e0 faire"
+  },
+  "Entite133": {
+    "entite": "Van der Meersch",
+    "label": "PER",
+    "Contexte gauche": "belge. V. gascon,",
+    "Contexte droite": ", Invas. 14,"
+  },
+  "Entite134": {
+    "entite": "Leclercq",
+    "label": "PER",
+    "Contexte gauche": "faites sur mon compte (",
+    "Contexte droite": ", Proverbes dram.,"
+  },
+  "Entite135": {
+    "entite": "Proverbes",
+    "label": "LOC",
+    "Contexte gauche": "mon compte (Leclercq,",
+    "Contexte droite": "dram., MmeSorbet,"
+  },
+  "Entite136": {
+    "entite": "MmeSorbet",
+    "label": "MISC",
+    "Contexte gauche": ", Proverbes dram.,",
+    "Contexte droite": ", 1835, 4,"
+  },
+  "Entite137": {
+    "entite": "Bernanos",
+    "label": "PER",
+    "Contexte gauche": "tu les as r\u00eav\u00e9es (",
+    "Contexte droite": ", Nuit,1928, p. 32"
+  },
+  "Entite138": {
+    "entite": "clotaire",
+    "label": "PER",
+    "Contexte gauche": "? :\n7.",
+    "Contexte droite": ": Marceline s'en va"
+  },
+  "Entite139": {
+    "entite": "Marceline",
+    "label": "PER",
+    "Contexte gauche": "\n7. clotaire :",
+    "Contexte droite": "s'en va. Marceline"
+  },
+  "Entite140": {
+    "entite": "Marceline",
+    "label": "PER",
+    "Contexte gauche": "Marceline s'en va.",
+    "Contexte droite": "te quitte. Marceline part"
+  },
+  "Entite141": {
+    "entite": "Marceline",
+    "label": "PER",
+    "Contexte gauche": ". Marceline te quitte.",
+    "Contexte droite": "part avec un autre."
+  },
+  "Entite142": {
+    "entite": "J.",
+    "label": "PER",
+    "Contexte gauche": "Elle riait. Achard,",
+    "Contexte droite": "de la Lune,1929, III"
+  },
+  "Entite143": {
+    "entite": "Fam.",
+    "label": "LOC",
+    "Contexte gauche": "26.\nD. \u2212",
+    "Contexte droite": "et pop.\n1"
+  },
+  "Entite144": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "pas donner de nom.",
+    "Contexte droite": ". truc, affaire :"
+  },
+  "Entite145": {
+    "entite": "Monsieur",
+    "label": "PER",
+    "Contexte gauche": "lhermite (...) :",
+    "Contexte droite": "m'a dit de m'"
+  },
+  "Entite146": {
+    "entite": "Sc\u00e8nes",
+    "label": "MISC",
+    "Contexte gauche": "un mot. Feuillet,",
+    "Contexte droite": "et prov.,1851,"
+  },
+  "Entite147": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": ". Cf. Larchey,",
+    "Contexte droite": ". hist. arg."
+  },
+  "Entite148": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": ". Cf. Rigaud,",
+    "Contexte droite": ". jargon paris.,"
+  },
+  "Entite149": {
+    "entite": "jargon paris.",
+    "label": "ORG",
+    "Contexte gauche": ". Rigaud, Dict.",
+    "Contexte droite": ", 1878, p. 188"
+  },
+  "Entite150": {
+    "entite": "Linottes",
+    "label": "LOC",
+    "Contexte gauche": "rendre service (Courteline,",
+    "Contexte droite": ", Pendule, 1890,"
+  },
+  "Entite151": {
+    "entite": "M\u00e9rim\u00e9e 2",
+    "label": "ORG",
+    "Contexte gauche": "Rem. On rel\u00e8ve chez",
+    "Contexte droite": "var. de cette loc"
+  },
+  "Entite152": {
+    "entite": "Lettres Mmede La Rochejacquelein, 1870",
+    "label": "MISC",
+    "Contexte gauche": "suis homme de parole (",
+    "Contexte droite": ", p. 200)."
+  },
+  "Entite153": {
+    "entite": "Histoire de +",
+    "label": "MISC",
+    "Contexte gauche": "200). b)",
+    "Contexte droite": "subst. \u00c0 cause de"
+  },
+  "Entite154": {
+    "entite": "Lettres \u00e0 une",
+    "label": "MISC",
+    "Contexte gauche": "pr\u00e9cipitation o\u00f9 j'\u00e9tais (",
+    "Contexte droite": "inconnue, t. 2,"
+  },
+  "Entite155": {
+    "entite": "Thibaudet",
+    "label": "LOC",
+    "Contexte gauche": "l'histoire-batailles (",
+    "Contexte droite": ", R\u00e9flex. litt."
+  },
+  "Entite156": {
+    "entite": "R\u00e9flex",
+    "label": "MISC",
+    "Contexte gauche": "-batailles (Thibaudet,",
+    "Contexte droite": ". litt.,1936,"
+  },
+  "Entite157": {
+    "entite": "Histoire-chronique",
+    "label": "LOC",
+    "Contexte gauche": ".\n2.\n",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite158": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "mani\u00e8re d'une chronique.",
+    "Contexte droite": "(...) chef de"
+  },
+  "Entite159": {
+    "entite": "Thibaudet, Hist",
+    "label": "MISC",
+    "Contexte gauche": "l'histoire-chronique (",
+    "Contexte droite": ". litt. fr."
+  },
+  "Entite160": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ", Hist. litt.",
+    "Contexte droite": ".,1936, p. 266"
+  },
+  "Entite161": {
+    "entite": "Guizot",
+    "label": "PER",
+    "Contexte gauche": "par des expos\u00e9s oraux.",
+    "Contexte droite": "(...) v\u00e9ritable chef"
+  },
+  "Entite162": {
+    "entite": "Thibaudet, Hist",
+    "label": "MISC",
+    "Contexte gauche": "l'histoire-discours (",
+    "Contexte droite": ". litt. fr."
+  },
+  "Entite163": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ", Hist. litt.",
+    "Contexte droite": ".,1936, p. 266"
+  },
+  "Entite164": {
+    "entite": "duc d'Enghien",
+    "label": "PER",
+    "Contexte gauche": "un fait historique. Le",
+    "Contexte droite": ", histoire-drame,"
+  },
+  "Entite165": {
+    "entite": "\u00c9douard d'Anglemont",
+    "label": "PER",
+    "Contexte gauche": "-drame, par M.",
+    "Contexte droite": "(Musset dsRevue des Deux"
+  },
+  "Entite166": {
+    "entite": "Musset",
+    "label": "PER",
+    "Contexte gauche": "M. \u00c9douard d'Anglemont (",
+    "Contexte droite": "dsRevue des Deux Mondes,1833,"
+  },
+  "Entite167": {
+    "entite": "Deux Mondes,1833",
+    "label": "MISC",
+    "Contexte gauche": "Anglemont (Musset dsRevue des",
+    "Contexte droite": ", p. 103)."
+  },
+  "Entite168": {
+    "entite": "Histoire",
+    "label": "PER",
+    "Contexte gauche": ",1954, p. 173).b)",
+    "Contexte droite": "historisante. Histoire correspondant \u00e0"
+  },
+  "Entite169": {
+    "entite": "L. Febvre",
+    "label": "PER",
+    "Contexte gauche": "peu. Tr\u00e8s peu (",
+    "Contexte droite": ", Combats pour hist."
+  },
+  "Entite170": {
+    "entite": "Combats pour hist.",
+    "label": "MISC",
+    "Contexte gauche": "peu (L. Febvre,",
+    "Contexte droite": ", Hist. historisante,"
+  },
+  "Entite171": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "Combats pour hist.,",
+    "Contexte droite": ". historisante, 1947,"
+  },
+  "Entite172": {
+    "entite": "Sartre",
+    "label": "PER",
+    "Contexte gauche": "qu'il a choisi (",
+    "Contexte droite": ", Sit. III,1949,"
+  },
+  "Entite173": {
+    "entite": "Sit",
+    "label": "PER",
+    "Contexte gauche": "a choisi (Sartre,",
+    "Contexte droite": ". III,1949, p. 181"
+  },
+  "Entite174": {
+    "entite": "J. Vuillemin",
+    "label": "PER",
+    "Contexte gauche": "historisme et le formalisme (",
+    "Contexte droite": ", \u00catre et trav."
+  },
+  "Entite175": {
+    "entite": "\u00catre et trav",
+    "label": "MISC",
+    "Contexte gauche": "formalisme (J. Vuillemin,",
+    "Contexte droite": ".,1949, p. 37"
+  },
+  "Entite176": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ". : [istwa:"
+  },
+  "Entite177": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": "istwa:\u0280]. Att.",
+    "Contexte droite": ". dep. 1694."
+  },
+  "Entite178": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "1694. \u00c9tymol. et",
+    "Contexte droite": ". A. 1. ["
+  },
+  "Entite179": {
+    "entite": "Benedeit",
+    "label": "LOC",
+    "Contexte gauche": "; ca 1105 storie (",
+    "Contexte droite": ", St Brendan, \u00e9d"
+  },
+  "Entite180": {
+    "entite": "St Brendan",
+    "label": "LOC",
+    "Contexte gauche": "1105 storie (Benedeit,",
+    "Contexte droite": ", \u00e9d. E. G."
+  },
+  "Entite181": {
+    "entite": "E. G. R. Waters",
+    "label": "PER",
+    "Contexte gauche": "St Brendan, \u00e9d.",
+    "Contexte droite": ", 54); 1155"
+  },
+  "Entite182": {
+    "entite": "Wace",
+    "label": "LOC",
+    "Contexte gauche": "humanit\u00e9 en g\u00e9n\u00e9ral \u00bb (",
+    "Contexte droite": ", Brut, \u00e9d."
+  },
+  "Entite183": {
+    "entite": "Brut",
+    "label": "LOC",
+    "Contexte gauche": "g\u00e9n\u00e9ral \u00bb (Wace,",
+    "Contexte droite": ", \u00e9d. I. Arnold"
+  },
+  "Entite184": {
+    "entite": "I. Arnold",
+    "label": "PER",
+    "Contexte gauche": ", Brut, \u00e9d.",
+    "Contexte droite": ", 14809); 2"
+  },
+  "Entite185": {
+    "entite": "Bruno Latin",
+    "label": "PER",
+    "Contexte gauche": "humanit\u00e9; science \u00bb (",
+    "Contexte droite": ", Tr\u00e9sor, \u00e9d."
+  },
+  "Entite186": {
+    "entite": "J. Carmody",
+    "label": "PER",
+    "Contexte gauche": ", \u00e9d. Fr.",
+    "Contexte droite": ", livre 3, chap"
+  },
+  "Entite187": {
+    "entite": "Rotr.",
+    "label": "LOC",
+    "Contexte gauche": "garde du pass\u00e9 \u00bb (",
+    "Contexte droite": ", St. Gen.,"
+  },
+  "Entite188": {
+    "entite": "St. Gen",
+    "label": "PER",
+    "Contexte gauche": "\u00bb (Rotr.,",
+    "Contexte droite": "., I, 4"
+  },
+  "Entite189": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": ", St. Gen.,",
+    "Contexte droite": ", 4 ds Littr\u00e9)"
+  },
+  "Entite190": {
+    "entite": "Littr\u00e9",
+    "label": "LOC",
+    "Contexte gauche": ", I, 4 ds",
+    "Contexte droite": "). B. [Ca"
+  },
+  "Entite191": {
+    "entite": "FEW",
+    "label": "MISC",
+    "Contexte gauche": "[Ca 1200 d'apr.",
+    "Contexte droite": "t. 4, p. 439b"
+  },
+  "Entite192": {
+    "entite": "Richard de Fournival",
+    "label": "PER",
+    "Contexte gauche": "personnages; illustrations \u00bb (",
+    "Contexte droite": ", Bestiaire d'amour en"
+  },
+  "Entite193": {
+    "entite": "Bestiaire d'amour",
+    "label": "MISC",
+    "Contexte gauche": "(Richard de Fournival,",
+    "Contexte droite": "en vers, \u00e9d."
+  },
+  "Entite194": {
+    "entite": "A. L\u00e5ngfors",
+    "label": "PER",
+    "Contexte gauche": "en vers, \u00e9d.",
+    "Contexte droite": ", vers 66, fo90a"
+  },
+  "Entite195": {
+    "entite": "Soci\u00e9t\u00e9 n\u00e9o-philologique de Helsingfors, t. 7",
+    "label": "ORG",
+    "Contexte gauche": "fo90a ds M\u00e9moires de la",
+    "Contexte droite": ", p. 305)."
+  },
+  "Entite196": {
+    "entite": "Ca",
+    "label": "LOC",
+    "Contexte gauche": "C. 1. a)",
+    "Contexte droite": "1462 histoire \u00ab r\u00e9cits d'"
+  },
+  "Entite197": {
+    "entite": "Cent",
+    "label": "ORG",
+    "Contexte gauche": "r\u00e9els ou imaginaires \u00bb (",
+    "Contexte droite": "nouv. nouv.,"
+  },
+  "Entite198": {
+    "entite": "L'\u00c9tourdi, 943",
+    "label": "MISC",
+    "Contexte gauche": "mystifier \u00bb (Moli\u00e8re,",
+    "Contexte droite": "); 2. 1670"
+  },
+  "Entite199": {
+    "entite": "Bourgeois gentilhomme",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb (Id.,",
+    "Contexte droite": ", III, 3)"
+  },
+  "Entite200": {
+    "entite": "P. Belon",
+    "label": "PER",
+    "Contexte gauche": "D. 1551 histoire naturelle (",
+    "Contexte droite": ", Histoire naturelle des estranges"
+  },
+  "Entite201": {
+    "entite": "Histoire naturelle",
+    "label": "MISC",
+    "Contexte gauche": "naturelle (P. Belon,",
+    "Contexte droite": "des estranges poissons marins ["
+  },
+  "Entite202": {
+    "entite": "gr.",
+    "label": "LOC",
+    "Contexte gauche": ", sornettes \u00bb, du",
+    "Contexte droite": "\u03b9 \u0314 \u03c3 \u03c4 \u03bf"
+  },
+  "Entite203": {
+    "entite": "\u0314",
+    "label": "LOC",
+    "Contexte gauche": ", du gr. \u03b9",
+    "Contexte droite": "\u03c3 \u03c4 \u03bf \u03c1 \u03b9"
+  },
+  "Entite204": {
+    "entite": "\u0301",
+    "label": "LOC",
+    "Contexte gauche": "\u03c3 \u03c4 \u03bf \u03c1 \u03b9",
+    "Contexte droite": "\u03b1 \u00ab recherche, information"
+  },
+  "Entite205": {
+    "entite": "Histoire",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9cit \u00bb d'o\u00f9 \u00ab",
+    "Contexte droite": "\u00bb. Fr\u00e9q. abs"
+  },
+  "Entite206": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 30"
+  },
+  "Entite207": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 31 889;",
+    "Contexte droite": ". : a) 35"
+  },
+  "Entite208": {
+    "entite": "Launay",
+    "label": "LOC",
+    "Contexte gauche": "35 502. Bbg.",
+    "Contexte droite": "(M.). Le"
+  },
+  "Entite209": {
+    "entite": "J.-J. Rousseau",
+    "label": "PER",
+    "Contexte gauche": "Vocab. pol. de",
+    "Contexte droite": ". Gen\u00e8ve, Paris,"
+  },
+  "Entite210": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "J.-J. Rousseau. Gen\u00e8ve,",
+    "Contexte droite": ", 1977, p. 114"
+  }
+}

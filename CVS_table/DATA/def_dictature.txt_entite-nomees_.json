@@ -1,0 +1,266 @@
+{
+  "Entite0": {
+    "entite": "- Dictature",
+    "label": "LOC",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite1": {
+    "entite": "A.\u2212 HIST",
+    "label": "PER",
+    "Contexte gauche": "subst. f\u00e9m. \n\n",
+    "Contexte droite": ". ROMAINE. Dignit\u00e9,"
+  },
+  "Entite2": {
+    "entite": "Sylla",
+    "label": "PER",
+    "Contexte gauche": ". Sous la dictature de",
+    "Contexte droite": "(Ac.1932).On ne d\u00e9truisit point"
+  },
+  "Entite3": {
+    "entite": "Ac.1932).On",
+    "label": "MISC",
+    "Contexte gauche": "la dictature de Sylla (",
+    "Contexte droite": "ne d\u00e9truisit point la dictature"
+  },
+  "Entite4": {
+    "entite": "Papirius Cursor",
+    "label": "PER",
+    "Contexte gauche": "p. 21).\u00c9lever \u00e0 la dictature",
+    "Contexte droite": "(Michelet, Hist."
+  },
+  "Entite5": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "Papirius Cursor (Michelet,",
+    "Contexte droite": ". romaine,t. 1"
+  },
+  "Entite6": {
+    "entite": "B.\u2212 P.",
+    "label": "PER",
+    "Contexte gauche": "p. 157).\n",
+    "Contexte droite": "ext. R\u00e9gime politique dans"
+  },
+  "Entite7": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "\nB.\u2212 P. ext.",
+    "Contexte droite": "politique dans lequel le pouvoir"
+  },
+  "Entite8": {
+    "entite": "Vichy",
+    "label": "LOC",
+    "Contexte gauche": "dictatures et notamment celle de",
+    "Contexte droite": "(De Gaulle, M\u00e9m"
+  },
+  "Entite9": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "notamment celle de Vichy (",
+    "Contexte droite": ", M\u00e9m. guerre,1956,"
+  },
+  "Entite10": {
+    "entite": "Comit\u00e9 de salut public",
+    "label": "ORG",
+    "Contexte gauche": "p. 445).La dictature incontest\u00e9e du",
+    "Contexte droite": "(Lefebvre, R\u00e9vol."
+  },
+  "Entite11": {
+    "entite": "Lefebvre",
+    "label": "LOC",
+    "Contexte gauche": "Comit\u00e9 de salut public (",
+    "Contexte droite": ", R\u00e9vol. fr."
+  },
+  "Entite12": {
+    "entite": "R\u00e9vol",
+    "label": "LOC",
+    "Contexte gauche": "salut public (Lefebvre,",
+    "Contexte droite": ". fr.,1963,"
+  },
+  "Entite13": {
+    "entite": "Sp\u00e9c",
+    "label": "PER",
+    "Contexte gauche": "389).\n\u2212",
+    "Contexte droite": ". Dictature du prol\u00e9tariat."
+  },
+  "Entite14": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "lequel le prol\u00e9tariat dirige l'",
+    "Contexte droite": "(cf. Jaur\u00e8s, \u00c9t"
+  },
+  "Entite15": {
+    "entite": "Jaur\u00e8s",
+    "label": "LOC",
+    "Contexte gauche": "dirige l'\u00c9tat (cf.",
+    "Contexte droite": ", \u00c9t. soc."
+  },
+  "Entite16": {
+    "entite": "\u00c9t",
+    "label": "LOC",
+    "Contexte gauche": "\u00c9tat (cf. Jaur\u00e8s,",
+    "Contexte droite": ". soc., 1901"
+  },
+  "Entite17": {
+    "entite": "XXV",
+    "label": "MISC",
+    "Contexte gauche": "., 1901, p.",
+    "Contexte droite": ").\nC.\u2212 Au"
+  },
+  "Entite18": {
+    "entite": "2",
+    "label": "MISC",
+    "Contexte gauche": ". fr.,t.",
+    "Contexte droite": ", 1817, p. 223).La"
+  },
+  "Entite19": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "par l\u00e0, commander l'",
+    "Contexte droite": ". \u2212 La dictature des"
+  },
+  "Entite20": {
+    "entite": "Michel",
+    "label": "PER",
+    "Contexte gauche": "des technocrates! dit encore",
+    "Contexte droite": ". Abellio, Heureux les"
+  },
+  "Entite21": {
+    "entite": "Heureux les pacifiques,1946, p. 131.\n\u2212 Vieilli",
+    "label": "MISC",
+    "Contexte gauche": "encore Michel. Abellio,",
+    "Contexte droite": ". Attitude empreinte d'autorit\u00e9"
+  },
+  "Entite22": {
+    "entite": "Mis\u00e9r",
+    "label": "LOC",
+    "Contexte gauche": "sa jovialit\u00e9 (Hugo,",
+    "Contexte droite": ".,t. 1,"
+  },
+  "Entite23": {
+    "entite": "Mmede Sta\u00ebl",
+    "label": "PER",
+    "Contexte gauche": "Rem. On rencontre chez",
+    "Contexte droite": "(Lettres div.,"
+  },
+  "Entite24": {
+    "entite": "Lettres div.",
+    "label": "MISC",
+    "Contexte gauche": "rencontre chez Mmede Sta\u00ebl (",
+    "Contexte droite": ", 1794, p. 622"
+  },
+  "Entite25": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "622) le subst.",
+    "Contexte droite": ". dictatoriat, employ\u00e9 comme"
+  },
+  "Entite26": {
+    "entite": "B. Certains",
+    "label": "ORG",
+    "Contexte gauche": ". de dictature, supra",
+    "Contexte droite": "dict. (Gu\u00e9rin 1892"
+  },
+  "Entite27": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": ". (Gu\u00e9rin 1892,",
+    "Contexte droite": ". 19e-20e) enregistrent la"
+  },
+  "Entite28": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "au sens de ,,",
+    "Contexte droite": "gouvern\u00e9 par un dictateur`"
+  },
+  "Entite29": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ". : [diktaty:"
+  },
+  "Entite30": {
+    "entite": "Ds Ac",
+    "label": "PER",
+    "Contexte gauche": ": [diktaty:\u0280].",
+    "Contexte droite": ". dep. 1694."
+  },
+  "Entite31": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "1694. \u00c9tymol. et",
+    "Contexte droite": ". 1. 1286-"
+  },
+  "Entite32": {
+    "entite": "Priorat",
+    "label": "LOC",
+    "Contexte gauche": "antiq. rom. (",
+    "Contexte droite": ", Trad. de V\u00e9g\u00e8ce"
+  },
+  "Entite33": {
+    "entite": "Trad",
+    "label": "LOC",
+    "Contexte gauche": "rom. (Priorat,",
+    "Contexte droite": ". de V\u00e9g\u00e8ce, 445"
+  },
+  "Entite34": {
+    "entite": "V\u00e9g\u00e8ce",
+    "label": "LOC",
+    "Contexte gauche": "Priorat, Trad. de",
+    "Contexte droite": ", 445 \u2212 SATF \u2212"
+  },
+  "Entite35": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": ", 445 \u2212 SATF \u2212",
+    "Contexte droite": "Quem. Fichier);"
+  },
+  "Entite36": {
+    "entite": "Balz",
+    "label": "LOC",
+    "Contexte gauche": "\u00ab pouvoir absolu \u00bb (",
+    "Contexte droite": ". ds Tr\u00e9v. 1704"
+  },
+  "Entite37": {
+    "entite": "ds Tr\u00e9v",
+    "label": "PER",
+    "Contexte gauche": "absolu \u00bb (Balz.",
+    "Contexte droite": ". 1704); 3"
+  },
+  "Entite38": {
+    "entite": "Disc.",
+    "label": "LOC",
+    "Contexte gauche": "d'une personne \u00bb (",
+    "Contexte droite": ", 23 juin, Arch"
+  },
+  "Entite39": {
+    "entite": "Arch",
+    "label": "LOC",
+    "Contexte gauche": "., 23 juin,",
+    "Contexte droite": ". Parl., 1reS\u00e9r"
+  },
+  "Entite40": {
+    "entite": "t. VIII",
+    "label": "PER",
+    "Contexte gauche": "., 1reS\u00e9r.,",
+    "Contexte droite": ", p. 146, col"
+  },
+  "Entite41": {
+    "entite": "Brunot t. 9",
+    "label": "PER",
+    "Contexte gauche": ", col. 1 ds",
+    "Contexte droite": ", p. 737, note"
+  },
+  "Entite42": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 303"
+  },
+  "Entite43": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": ", b) 349;",
+    "Contexte droite": ". : a) 417"
+  }
+}

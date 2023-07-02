@@ -1,0 +1,2228 @@
+{
+  "Entite0": {
+    "entite": "- Pays",
+    "label": "ORG",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. masc."
+  },
+  "Entite1": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "- Pays, subst.",
+    "Contexte droite": ". \n\nDivision territoriale habit\u00e9e"
+  },
+  "Entite2": {
+    "entite": "Division",
+    "label": "LOC",
+    "Contexte gauche": "subst. masc. \n\n",
+    "Contexte droite": "territoriale habit\u00e9e par une collectivit\u00e9"
+  },
+  "Entite3": {
+    "entite": "Nation, \u00c9tat",
+    "label": "MISC",
+    "Contexte gauche": "une accept. large]",
+    "Contexte droite": ". Les pays de l'"
+  },
+  "Entite4": {
+    "entite": "Europe",
+    "label": "LOC",
+    "Contexte gauche": ". Les pays de l'",
+    "Contexte droite": ", du monde; la"
+  },
+  "Entite5": {
+    "entite": "miss promener",
+    "label": "ORG",
+    "Contexte gauche": ", o\u00f9 vont les jeunes",
+    "Contexte droite": "leur m\u00e9lancolie! (Toepffer"
+  },
+  "Entite6": {
+    "entite": "p.111).Les grands hommes d'un pays",
+    "label": "MISC",
+    "Contexte gauche": ". genev.,1839,",
+    "Contexte droite": ", son histoire, ses"
+  },
+  "Entite7": {
+    "entite": "Giraudoux,Siegfried,1928, iv, 5",
+    "label": "MISC",
+    "Contexte gauche": "langage commun aux peuples (",
+    "Contexte droite": ", p.180):\n1"
+  },
+  "Entite8": {
+    "entite": "Autriche",
+    "label": "LOC",
+    "Contexte gauche": "avais pens\u00e9 autrefois \u00e0 l'",
+    "Contexte droite": "parce que c'\u00e9tait le"
+  },
+  "Entite9": {
+    "entite": "Albertine",
+    "label": "LOC",
+    "Contexte gauche": "le pays d'o\u00f9 venait",
+    "Contexte droite": "(son oncle y avait"
+  },
+  "Entite10": {
+    "entite": "Albertine...",
+    "label": "PER",
+    "Contexte gauche": ", dans les mani\u00e8res d'",
+    "Contexte droite": "Proust,Sodome,1922, p.1119"
+  },
+  "Entite11": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": "\n\u2212 R\u00e9gion. (",
+    "Contexte droite": "). Les vieux pays"
+  },
+  "Entite12": {
+    "entite": "Europe",
+    "label": "LOC",
+    "Contexte gauche": "Les vieux pays. L'",
+    "Contexte droite": ". Ses vieux pays,"
+  },
+  "Entite13": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "pays, c'\u00e9tait l'",
+    "Contexte droite": ", la mangeuse d'homme"
+  },
+  "Entite14": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "(...) c'\u00e9tait",
+    "Contexte droite": "(M. Trudel,V\u00e9zine,1946"
+  },
+  "Entite15": {
+    "entite": "M. Trudel",
+    "label": "PER",
+    "Contexte gauche": "c'\u00e9tait la France (",
+    "Contexte droite": ",V\u00e9zine,1946, p.237 ds"
+  },
+  "Entite16": {
+    "entite": "Richesses Qu\u00e9bec",
+    "label": "PER",
+    "Contexte gauche": ",V\u00e9zine,1946, p.237 ds",
+    "Contexte droite": "1982, p.1752)."
+  },
+  "Entite17": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "; le beau pays de",
+    "Contexte droite": "; les habitants, les"
+  },
+  "Entite18": {
+    "entite": "Partie plus",
+    "label": "MISC",
+    "Contexte gauche": "restreinte]\na)",
+    "Contexte droite": "ou moins \u00e9tendue d'une"
+  },
+  "Entite19": {
+    "entite": "Touraine",
+    "label": "LOC",
+    "Contexte gauche": "...) sourit toujours en",
+    "Contexte droite": ", o\u00f9 les automnes sont"
+  },
+  "Entite20": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "sont nourris au logis (",
+    "Contexte droite": ",Lys,1836, p.124).Je voudrais"
+  },
+  "Entite21": {
+    "entite": "p.124).Je",
+    "label": "LOC",
+    "Contexte gauche": "(Balzac,Lys,1836,",
+    "Contexte droite": "voudrais que vous puissiez voir"
+  },
+  "Entite22": {
+    "entite": "Lorraine",
+    "label": "LOC",
+    "Contexte gauche": "dans un pays comme la",
+    "Contexte droite": "(Barr\u00e8s,Cahiers,"
+  },
+  "Entite23": {
+    "entite": "Barr\u00e8s,Cahiers",
+    "label": "LOC",
+    "Contexte gauche": "pays comme la Lorraine (",
+    "Contexte droite": ", t.5, 1907,"
+  },
+  "Entite24": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "[Il y avait dans",
+    "Contexte droite": "agricole du xixesi\u00e8cle une]"
+  },
+  "Entite25": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "les pays [it.",
+    "Contexte droite": "le texte]. Ceux-ci"
+  },
+  "Entite26": {
+    "entite": "Gaule",
+    "label": "LOC",
+    "Contexte gauche": "ou pagi de l'ancienne",
+    "Contexte droite": ". Le Matin,8 juill. 1983"
+  },
+  "Entite27": {
+    "entite": "Le Matin,8",
+    "label": "MISC",
+    "Contexte gauche": "de l'ancienne Gaule.",
+    "Contexte droite": "juill. 1983, p.25,"
+  },
+  "Entite28": {
+    "entite": "Pays +",
+    "label": "ORG",
+    "Contexte gauche": ". 1.\n\u2212",
+    "Contexte droite": "subst. ou adj."
+  },
+  "Entite29": {
+    "entite": "Pays de +",
+    "label": "LOC",
+    "Contexte gauche": "ou adj.\n\u2666",
+    "Contexte droite": "nom propre (formant des"
+  },
+  "Entite30": {
+    "entite": "g\u00e9ographiques)Pays d'Auge",
+    "label": "ORG",
+    "Contexte gauche": "propre (formant des noms",
+    "Contexte droite": ", de Caux, de"
+  },
+  "Entite31": {
+    "entite": "Caux",
+    "label": "LOC",
+    "Contexte gauche": "g\u00e9ographiques)Pays d'Auge, de",
+    "Contexte droite": ", de Galles. Le"
+  },
+  "Entite32": {
+    "entite": "Galles",
+    "label": "LOC",
+    "Contexte gauche": ", de Caux, de",
+    "Contexte droite": ". Le pauvre et peu"
+  },
+  "Entite33": {
+    "entite": "Valaisan",
+    "label": "LOC",
+    "Contexte gauche": "Le pauvre et peu industrieux",
+    "Contexte droite": "est rest\u00e9 catholique, le"
+  },
+  "Entite34": {
+    "entite": "pays de Vaud",
+    "label": "LOC",
+    "Contexte gauche": "est rest\u00e9 catholique, le",
+    "Contexte droite": "protestant (Michelet,Journal,1830"
+  },
+  "Entite35": {
+    "entite": "Journal,1830",
+    "label": "MISC",
+    "Contexte gauche": "Vaud protestant (Michelet,",
+    "Contexte droite": ", p.75).\n"
+  },
+  "Entite36": {
+    "entite": "Pays + adj",
+    "label": "ORG",
+    "Contexte gauche": "p.75).\n\u2666",
+    "Contexte droite": ". tir\u00e9 d'un nom"
+  },
+  "Entite37": {
+    "entite": "Pays basque",
+    "label": "LOC",
+    "Contexte gauche": ", une province, etc.",
+    "Contexte droite": ", breton, ni\u00e7ois."
+  },
+  "Entite38": {
+    "entite": "p.279).De grands monuments",
+    "label": "ORG",
+    "Contexte gauche": ", t.5, 1906,",
+    "Contexte droite": "sur lesquels plane un souffle"
+  },
+  "Entite39": {
+    "entite": "Vidal",
+    "label": "LOC",
+    "Contexte gauche": "oppose aux pays bordelais (",
+    "Contexte droite": "de La Bl.,Princ"
+  },
+  "Entite40": {
+    "entite": "La Bl",
+    "label": "ORG",
+    "Contexte gauche": "pays bordelais (Vidal de",
+    "Contexte droite": ".,Princ. g\u00e9ogr."
+  },
+  "Entite41": {
+    "entite": "\u2666 Battre",
+    "label": "ORG",
+    "Contexte gauche": ". et expr.\n",
+    "Contexte droite": ", courir le pays."
+  },
+  "Entite42": {
+    "entite": "Lens",
+    "label": "LOC",
+    "Contexte gauche": "). Les garnisons de",
+    "Contexte droite": ", d'Hesdin et des"
+  },
+  "Entite43": {
+    "entite": "Hesdin",
+    "label": "LOC",
+    "Contexte gauche": "garnisons de Lens, d'",
+    "Contexte droite": "et des autres forteresses couraient"
+  },
+  "Entite44": {
+    "entite": "Barante,Hist",
+    "label": "MISC",
+    "Contexte gauche": "l'arm\u00e9e du roi (",
+    "Contexte droite": ". ducs Bourg.,"
+  },
+  "Entite45": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante,Hist.",
+    "Contexte droite": "., t.4, 1821"
+  },
+  "Entite46": {
+    "entite": "Catherine",
+    "label": "PER",
+    "Contexte gauche": "coron (...),",
+    "Contexte droite": "\u00e9tait all\u00e9e \u00e0 Montsou par"
+  },
+  "Entite47": {
+    "entite": "Montsou",
+    "label": "MISC",
+    "Contexte gauche": ", Catherine \u00e9tait all\u00e9e \u00e0",
+    "Contexte droite": "par le pav\u00e9. Depuis"
+  },
+  "Entite48": {
+    "entite": "Germinal,1885",
+    "label": "MISC",
+    "Contexte gauche": "de houilleurs... Zola,",
+    "Contexte droite": ", p.1242.\n\u2666"
+  },
+  "Entite49": {
+    "entite": "Nouv",
+    "label": "LOC",
+    "Contexte gauche": "tour... (Curel,",
+    "Contexte droite": ". idole,1899, ii,"
+  },
+  "Entite50": {
+    "entite": "Anton",
+    "label": "PER",
+    "Contexte gauche": "on ne conna\u00eet pas.",
+    "Contexte droite": ". en pays de connaissance"
+  },
+  "Entite51": {
+    "entite": "Proust,Prisonn.",
+    "label": "MISC",
+    "Contexte gauche": "trouvais en pays inconnu (",
+    "Contexte droite": ",1922, p.249).En pays de"
+  },
+  "Entite52": {
+    "entite": "p.249).En",
+    "label": "LOC",
+    "Contexte gauche": ",Prisonn.,1922,",
+    "Contexte droite": "pays de connaissance. Anton"
+  },
+  "Entite53": {
+    "entite": "Anton",
+    "label": "PER",
+    "Contexte gauche": "p.249).En pays de connaissance.",
+    "Contexte droite": ". en pays inconnu."
+  },
+  "Entite54": {
+    "entite": "Sartre",
+    "label": "PER",
+    "Contexte gauche": "en pays de connaissance (",
+    "Contexte droite": ",Naus\u00e9e,1938, p.166)"
+  },
+  "Entite55": {
+    "entite": "Gagner",
+    "label": "PER",
+    "Contexte gauche": "p.166).\n\u2666",
+    "Contexte droite": "(du) pays ("
+  },
+  "Entite56": {
+    "entite": "Tirer",
+    "label": "LOC",
+    "Contexte gauche": "p.110).\n\u2666",
+    "Contexte droite": "pays (vieilli, pop"
+  },
+  "Entite57": {
+    "entite": "Dict.xixeet xxes",
+    "label": "PER",
+    "Contexte gauche": ". S'enfuir. (",
+    "Contexte droite": ".; J.-F. Rolland,"
+  },
+  "Entite58": {
+    "entite": "J.-F. Rolland",
+    "label": "PER",
+    "Contexte gauche": "(Dict.xixeet xxes.;",
+    "Contexte droite": ", Dict. mauv."
+  },
+  "Entite59": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": ".; J.-F. Rolland,",
+    "Contexte droite": ". mauv. lang."
+  },
+  "Entite60": {
+    "entite": "mauv",
+    "label": "LOC",
+    "Contexte gauche": "J.-F. Rolland, Dict.",
+    "Contexte droite": ". lang., 1813"
+  },
+  "Entite61": {
+    "entite": "lang",
+    "label": "LOC",
+    "Contexte gauche": ", Dict. mauv.",
+    "Contexte droite": "., 1813, p.101"
+  },
+  "Entite62": {
+    "entite": "Terre",
+    "label": "LOC",
+    "Contexte gauche": "la rigolade (Salacrou,",
+    "Contexte droite": "ronde,1938, ii, 1"
+  },
+  "Entite63": {
+    "entite": "Petit Tondu",
+    "label": "MISC",
+    "Contexte gauche": ". On dit que le",
+    "Contexte droite": ", il nous emm\u00e8ne chez"
+  },
+  "Entite64": {
+    "entite": "Grand Mogol",
+    "label": "LOC",
+    "Contexte gauche": "il nous emm\u00e8ne chez le",
+    "Contexte droite": ", quoi! au fin"
+  },
+  "Entite65": {
+    "entite": "Asies",
+    "label": "LOC",
+    "Contexte gauche": "! au fin fond des",
+    "Contexte droite": ", en passant par chez"
+  },
+  "Entite66": {
+    "entite": "Cosaques",
+    "label": "MISC",
+    "Contexte gauche": "en passant par chez les",
+    "Contexte droite": "et le Grand Turc..."
+  },
+  "Entite67": {
+    "entite": "Grand Turc...",
+    "label": "LOC",
+    "Contexte gauche": "chez les Cosaques et le",
+    "Contexte droite": "Ah! la la,"
+  },
+  "Entite68": {
+    "entite": "Adam,Enf",
+    "label": "MISC",
+    "Contexte gauche": "des dr\u00f4les de soupes...",
+    "Contexte droite": ". Aust.,1902,"
+  },
+  "Entite69": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9prouver de nombreux tourments.",
+    "Contexte droite": ". en faire voir ("
+  },
+  "Entite70": {
+    "entite": "Fiodor",
+    "label": "PER",
+    "Contexte gauche": "voir du pays \u00e0 monsieur",
+    "Contexte droite": ", laissez-moi rire!"
+  },
+  "Entite71": {
+    "entite": "Bernanos",
+    "label": "PER",
+    "Contexte gauche": "un petit chat! (",
+    "Contexte droite": ",Joie,1928, p.617)"
+  },
+  "Entite72": {
+    "entite": "Dict.xixeet xxes",
+    "label": "PER",
+    "Contexte gauche": "aspect des lieux. (",
+    "Contexte droite": ".).\nAu"
+  },
+  "Entite73": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "d'une mani\u00e8re approximative.",
+    "Contexte droite": ". \u00e0 vue de nez*.[Gobseck"
+  },
+  "Entite74": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "vue de pays (et",
+    "Contexte droite": "sait comme!) le"
+  },
+  "Entite75": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "le poids des montures (",
+    "Contexte droite": ",Gobseck,1830, p.413).Quant \u00e0"
+  },
+  "Entite76": {
+    "entite": "Acad\u00e9mie",
+    "label": "ORG",
+    "Contexte gauche": "Gobseck,1830, p.413).Quant \u00e0 l'",
+    "Contexte droite": "(...) j'estimais"
+  },
+  "Entite77": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "mourions encore, il [",
+    "Contexte droite": "de Pontmartin] avait chance"
+  },
+  "Entite78": {
+    "entite": "Sainte-Beuve",
+    "label": "PER",
+    "Contexte gauche": "arriver \u00e0 son tour (",
+    "Contexte droite": ",Nouv. lundis,"
+  },
+  "Entite79": {
+    "entite": "Nouv",
+    "label": "LOC",
+    "Contexte gauche": "(Sainte-Beuve,",
+    "Contexte droite": ". lundis, t.3,"
+  },
+  "Entite80": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": "Petite ville, village.",
+    "Contexte droite": ". fam. bled,"
+  },
+  "Entite81": {
+    "entite": "Lourdines,1911",
+    "label": "LOC",
+    "Contexte gauche": "toutes \u00e9vinc\u00e9es (Ch\u00e2teaubriant,",
+    "Contexte droite": ", p.57).On p\u00e9n\u00e9trait dans le"
+  },
+  "Entite82": {
+    "entite": "p.57).On",
+    "label": "ORG",
+    "Contexte gauche": "(Ch\u00e2teaubriant,Lourdines,1911,",
+    "Contexte droite": "p\u00e9n\u00e9trait dans le petit pays"
+  },
+  "Entite83": {
+    "entite": "Triolet",
+    "label": "PER",
+    "Contexte gauche": "une gare de marchandise (",
+    "Contexte droite": ",Prem. accroc,1945,"
+  },
+  "Entite84": {
+    "entite": "Journal femme ch",
+    "label": "MISC",
+    "Contexte gauche": "un d\u00e9pit... Mirbeau,",
+    "Contexte droite": ".,1900, p.165."
+  },
+  "Entite85": {
+    "entite": "pays Mouffetard",
+    "label": "LOC",
+    "Contexte gauche": "une grande ville. Le",
+    "Contexte droite": "a ses coutumes propres et"
+  },
+  "Entite86": {
+    "entite": "Monge",
+    "label": "LOC",
+    "Contexte gauche": "vigueur au del\u00e0 du fleuve",
+    "Contexte droite": "(Duhamel,Confess."
+  },
+  "Entite87": {
+    "entite": "Duhamel",
+    "label": "LOC",
+    "Contexte gauche": "del\u00e0 du fleuve Monge (",
+    "Contexte droite": ",Confess. min."
+  },
+  "Entite88": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": ",1920, p.55).Curieux pays que",
+    "Contexte droite": ", o\u00f9 tous les possibles"
+  },
+  "Entite89": {
+    "entite": "Schaeffer",
+    "label": "MISC",
+    "Contexte gauche": "toutes les exp\u00e9riences permises (",
+    "Contexte droite": ",Rech. mus."
+  },
+  "Entite90": {
+    "entite": "Rech.",
+    "label": "MISC",
+    "Contexte gauche": "exp\u00e9riences permises (Schaeffer,",
+    "Contexte droite": "mus. concr.,1952"
+  },
+  "Entite91": {
+    "entite": "p.74",
+    "label": "PER",
+    "Contexte gauche": ". concr.,1952,",
+    "Contexte droite": ").\n\u2666 Pays"
+  },
+  "Entite92": {
+    "entite": "Pays latin",
+    "label": "LOC",
+    "Contexte gauche": "p.74).\n\u2666",
+    "Contexte droite": "(vieilli). Quartier"
+  },
+  "Entite93": {
+    "entite": "Balzac,Double",
+    "label": "MISC",
+    "Contexte gauche": "tapisse de froides murailles (",
+    "Contexte droite": "fam.,1830, p.227).Ici"
+  },
+  "Entite94": {
+    "entite": "p.227).Ici",
+    "label": "MISC",
+    "Contexte gauche": "Double fam.,1830,",
+    "Contexte droite": "[dans la rue Guy"
+  },
+  "Entite95": {
+    "entite": "rue Guy-de-la-Brosse",
+    "label": "LOC",
+    "Contexte gauche": ", p.227).Ici [dans la",
+    "Contexte droite": "] ne demeurent que de"
+  },
+  "Entite96": {
+    "entite": "Bourget,Disciple,1889, p.12",
+    "label": "MISC",
+    "Contexte gauche": "tentations du pays latin (",
+    "Contexte droite": ").\n3."
+  },
+  "Entite97": {
+    "entite": "Du point de vue",
+    "label": "MISC",
+    "Contexte gauche": "]\na) [",
+    "Contexte droite": "de sa g\u00e9ogr. phys"
+  },
+  "Entite98": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "g\u00e9ogr. phys.]",
+    "Contexte droite": "temp\u00e9r\u00e9, de montagnes."
+  },
+  "Entite99": {
+    "entite": "p.239).Les gens du Nord",
+    "label": "MISC",
+    "Contexte gauche": ", t.2, 1870,",
+    "Contexte droite": "appellent la Provence un pays"
+  },
+  "Entite100": {
+    "entite": "Provence",
+    "label": "LOC",
+    "Contexte gauche": "gens du Nord appellent la",
+    "Contexte droite": "un pays chaud... ("
+  },
+  "Entite101": {
+    "entite": "Colette",
+    "label": "PER",
+    "Contexte gauche": "un pays chaud... (",
+    "Contexte droite": ",Naiss. jour,1928,"
+  },
+  "Entite102": {
+    "entite": "Naiss",
+    "label": "PER",
+    "Contexte gauche": "chaud... (Colette,",
+    "Contexte droite": ". jour,1928, p.31):"
+  },
+  "Entite103": {
+    "entite": "La Bl",
+    "label": "PER",
+    "Contexte gauche": "des mar\u00e9cages. Vidal de",
+    "Contexte droite": ".,Princ. g\u00e9ogr."
+  },
+  "Entite104": {
+    "entite": "La Flandre",
+    "label": "LOC",
+    "Contexte gauche": "plat1I A 1 b.\n",
+    "Contexte droite": ". Avec la mer du"
+  },
+  "Entite105": {
+    "entite": "mer du Nord",
+    "label": "LOC",
+    "Contexte gauche": "La Flandre. Avec la",
+    "Contexte droite": "pour dernier terrain vague Et"
+  },
+  "Entite106": {
+    "entite": "Et des vagues de dunes",
+    "label": "MISC",
+    "Contexte gauche": "Nord pour dernier terrain vague",
+    "Contexte droite": "pour arr\u00eater les vagues Et"
+  },
+  "Entite107": {
+    "entite": "Le plat pays",
+    "label": "MISC",
+    "Contexte gauche": "est \u00e9coutez-le tenir",
+    "Contexte droite": "qui est le mien ("
+  },
+  "Entite108": {
+    "entite": "J. Brel",
+    "label": "PER",
+    "Contexte gauche": "qui est le mien (",
+    "Contexte droite": ", Le Plat paysds J."
+  },
+  "Entite109": {
+    "entite": "Le Plat",
+    "label": "MISC",
+    "Contexte gauche": "mien (J. Brel,",
+    "Contexte droite": "paysds J. Clouzet, Jacques"
+  },
+  "Entite110": {
+    "entite": "J. Clouzet",
+    "label": "PER",
+    "Contexte gauche": "Brel, Le Plat paysds",
+    "Contexte droite": ", Jacques Brel, Choix"
+  },
+  "Entite111": {
+    "entite": "Jacques Brel",
+    "label": "PER",
+    "Contexte gauche": "Plat paysds J. Clouzet,",
+    "Contexte droite": ", Choix de textes,"
+  },
+  "Entite112": {
+    "entite": "Choix de textes, 1964",
+    "label": "MISC",
+    "Contexte gauche": "Clouzet, Jacques Brel,",
+    "Contexte droite": ", p.121).\n"
+  },
+  "Entite113": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": ").\nSYNT.",
+    "Contexte droite": "accident\u00e9, sauvage; pays"
+  },
+  "Entite114": {
+    "entite": "soleil",
+    "label": "LOC",
+    "Contexte gauche": "; pays pluvieux, du",
+    "Contexte droite": "; pays de for\u00eats,"
+  },
+  "Entite115": {
+    "entite": "pays(-)haut",
+    "label": "LOC",
+    "Contexte gauche": "de lacs; pays(-)bas,",
+    "Contexte droite": "; une \u00e9tendue de pays"
+  },
+  "Entite116": {
+    "entite": "\u2666 Arg",
+    "label": "ORG",
+    "Contexte gauche": "\u00e9tendue de pays.\n",
+    "Contexte droite": ". (Les) pays"
+  },
+  "Entite117": {
+    "entite": "Les",
+    "label": "LOC",
+    "Contexte gauche": "\n\u2666 Arg. (",
+    "Contexte droite": ") pays-bas."
+  },
+  "Entite118": {
+    "entite": "pays-bas",
+    "label": "LOC",
+    "Contexte gauche": "Arg. (Les)",
+    "Contexte droite": ". Post\u00e9rieur, sexe de"
+  },
+  "Entite119": {
+    "entite": "Ds France",
+    "label": "ORG",
+    "Contexte gauche": "de la femme. (",
+    "Contexte droite": "1907, Cellard-Rey"
+  },
+  "Entite120": {
+    "entite": "Cellard-Rey",
+    "label": "PER",
+    "Contexte gauche": "(Ds France 1907,",
+    "Contexte droite": "1980).\n\u2666"
+  },
+  "Entite121": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "1980).\n\u2666",
+    "Contexte droite": ". (Un, une"
+  },
+  "Entite122": {
+    "entite": "Othello",
+    "label": "MISC",
+    "Contexte gauche": ", votre Shakespeare. Son",
+    "Contexte droite": "n'est pas un jaloux"
+  },
+  "Entite123": {
+    "entite": "A. Daudet",
+    "label": "PER",
+    "Contexte gauche": ", rien de plus (",
+    "Contexte droite": ", Pte paroisse,1895, p.89).J'"
+  },
+  "Entite124": {
+    "entite": "Pte paroisse,1895, p.89).J'ai voulu",
+    "label": "MISC",
+    "Contexte gauche": "plus (A. Daudet,",
+    "Contexte droite": ", la premi\u00e8re ann\u00e9e de"
+  },
+  "Entite125": {
+    "entite": "pays-chaud",
+    "label": "LOC",
+    "Contexte gauche": "ma silencieuse oisivet\u00e9 de petite",
+    "Contexte droite": "(Colette,Cl."
+  },
+  "Entite126": {
+    "entite": "Pays fertile",
+    "label": "LOC",
+    "Contexte gauche": "de son \u00e9con.]",
+    "Contexte droite": ", industriel, en voie"
+  },
+  "Entite127": {
+    "entite": "Baudry des Loz",
+    "label": "PER",
+    "Contexte gauche": "richesse des pays agricoles (",
+    "Contexte droite": ".,Voy. Louisiane,1802,"
+  },
+  "Entite128": {
+    "entite": "Gobineau,Corresp",
+    "label": "MISC",
+    "Contexte gauche": "dit quelquefois est pauvre (",
+    "Contexte droite": ". [avec Tocqueville]"
+  },
+  "Entite129": {
+    "entite": "Tocqueville",
+    "label": "PER",
+    "Contexte gauche": ",Corresp. [avec",
+    "Contexte droite": "], 1850, p.155"
+  },
+  "Entite130": {
+    "entite": "\u00c9con",
+    "label": "ORG",
+    "Contexte gauche": "ensembles industriels. Perroux,",
+    "Contexte droite": ". XXes.,1964,"
+  },
+  "Entite131": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "p.189.\nSYNT.",
+    "Contexte droite": "avanc\u00e9, d\u00e9velopp\u00e9, florissant"
+  },
+  "Entite132": {
+    "entite": "Du pays.[En",
+    "label": "MISC",
+    "Contexte gauche": "un pays.\n\u2666",
+    "Contexte droite": "parlant d'une production,"
+  },
+  "Entite133": {
+    "entite": "Dusaulx,Voy",
+    "label": "LOC",
+    "Contexte gauche": "des \u00e9toffes du pays (",
+    "Contexte droite": ". Bar\u00e8ge, t.1,"
+  },
+  "Entite134": {
+    "entite": "p.84).Le",
+    "label": "MISC",
+    "Contexte gauche": ", t.1, 1796,",
+    "Contexte droite": "p\u00e2t\u00e9 d'Armagnac, massif"
+  },
+  "Entite135": {
+    "entite": "p\u00e2t\u00e9 d'Armagnac",
+    "label": "LOC",
+    "Contexte gauche": "t.1, 1796, p.84).Le",
+    "Contexte droite": ", massif, fait \u00e0"
+  },
+  "Entite136": {
+    "entite": "Livre raison,1928, p.163).\n\u2666",
+    "label": "MISC",
+    "Contexte gauche": "la fois (Pesquidoux,",
+    "Contexte droite": "(C'est le)"
+  },
+  "Entite137": {
+    "entite": "Bordelais",
+    "label": "LOC",
+    "Contexte gauche": "chose concr.] Le",
+    "Contexte droite": "est le pays des grands"
+  },
+  "Entite138": {
+    "entite": "Hollande",
+    "label": "LOC",
+    "Contexte gauche": "des grands vins; la",
+    "Contexte droite": "est le pays des tulipes"
+  },
+  "Entite139": {
+    "entite": "M\u00e9diterran\u00e9e",
+    "label": "LOC",
+    "Contexte gauche": "barri\u00e8re montagneuse qui borde la",
+    "Contexte droite": ", le Sud repr\u00e9senta pour"
+  },
+  "Entite140": {
+    "entite": "Sud",
+    "label": "LOC",
+    "Contexte gauche": "borde la M\u00e9diterran\u00e9e, le",
+    "Contexte droite": "repr\u00e9senta pour l'ultramontain le"
+  },
+  "Entite141": {
+    "entite": "l'Europe",
+    "label": "LOC",
+    "Contexte gauche": "par une g\u00e9n\u00e9ralisation semblable,",
+    "Contexte droite": "centrale apparut au m\u00e9diterran\u00e9en comme"
+  },
+  "Entite142": {
+    "entite": "La Bl",
+    "label": "PER",
+    "Contexte gauche": "des for\u00eats. Vidal de",
+    "Contexte droite": ".,Princ. g\u00e9ogr."
+  },
+  "Entite143": {
+    "entite": "Angoul\u00eame",
+    "label": "LOC",
+    "Contexte gauche": "une r\u00e9alit\u00e9 abstr.]",
+    "Contexte droite": ", ce pays de plaisir"
+  },
+  "Entite144": {
+    "entite": "Journal,1835",
+    "label": "MISC",
+    "Contexte gauche": "faire... (Michelet,",
+    "Contexte droite": ", p.175).Daudet revenait sur cette"
+  },
+  "Entite145": {
+    "entite": "p.175).Daudet",
+    "label": "LOC",
+    "Contexte gauche": "(Michelet,Journal,1835,",
+    "Contexte droite": "revenait sur cette id\u00e9e que"
+  },
+  "Entite146": {
+    "entite": "Midi",
+    "label": "LOC",
+    "Contexte gauche": "sur cette id\u00e9e que le",
+    "Contexte droite": "n'est pas le pays"
+  },
+  "Entite147": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ",Esth\u00e9t. lang.",
+    "Contexte droite": ".,1899, p.265)"
+  },
+  "Entite148": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "., pol.]",
+    "Contexte droite": "d\u00e9mocratique, multinational; la"
+  },
+  "Entite149": {
+    "entite": "Soir\u00e9es St-P\u00e9tersb",
+    "label": "LOC",
+    "Contexte gauche": "la mort (Maistre,",
+    "Contexte droite": ".,t.1, 1821,"
+  },
+  "Entite150": {
+    "entite": "p.248).Le",
+    "label": "LOC",
+    "Contexte gauche": ".,t.1, 1821,",
+    "Contexte droite": "mot d'ordre de l'"
+  },
+  "Entite151": {
+    "entite": "URSS",
+    "label": "ORG",
+    "Contexte gauche": "mot d'ordre de l'",
+    "Contexte droite": "est de rejoindre et de"
+  },
+  "Entite152": {
+    "entite": "p.16-12",
+    "label": "LOC",
+    "Contexte gauche": ". \u00e9cr.,1939,",
+    "Contexte droite": ".\nSYNT. Pays"
+  },
+  "Entite153": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "12.\nSYNT.",
+    "Contexte droite": "communiste, r\u00e9publicain, socialiste"
+  },
+  "Entite154": {
+    "entite": "HISTOIRE\n\u2666",
+    "label": "LOC",
+    "Contexte gauche": "du pays.\n\u2212",
+    "Contexte droite": "Pays de concordat. Province"
+  },
+  "Entite155": {
+    "entite": "Province",
+    "label": "LOC",
+    "Contexte gauche": "\u2666 Pays de concordat.",
+    "Contexte droite": "o\u00f9 les b\u00e9n\u00e9fices \u00e9taient soumis"
+  },
+  "Entite156": {
+    "entite": "Fran\u00e7ois",
+    "label": "PER",
+    "Contexte gauche": "soumis au concordat pass\u00e9 entre",
+    "Contexte droite": "1eret L\u00e9on X. (Dict.xixes"
+  },
+  "Entite157": {
+    "entite": "L\u00e9on X.",
+    "label": "PER",
+    "Contexte gauche": "concordat pass\u00e9 entre Fran\u00e7ois 1eret",
+    "Contexte droite": "(Dict.xixes.)."
+  },
+  "Entite158": {
+    "entite": "pays",
+    "label": "LOC",
+    "Contexte gauche": ".). Anton.",
+    "Contexte droite": "d'ob\u00e9dience*.\n\u2666 Pays"
+  },
+  "Entite159": {
+    "entite": "Pays coutumier",
+    "label": "LOC",
+    "Contexte gauche": "pays d'ob\u00e9dience*.\n\u2666",
+    "Contexte droite": ", de coutume. Province"
+  },
+  "Entite160": {
+    "entite": "Dict.xixeet xxes",
+    "label": "PER",
+    "Contexte gauche": "des coutumes locales. (",
+    "Contexte droite": ".).\n\u2666"
+  },
+  "Entite161": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": ".).\n\u2666",
+    "Contexte droite": "de droit \u00e9crit. Province"
+  },
+  "Entite162": {
+    "entite": "Province",
+    "label": "LOC",
+    "Contexte gauche": "Pays de droit \u00e9crit.",
+    "Contexte droite": "o\u00f9 l'on suivait le"
+  },
+  "Entite163": {
+    "entite": "Pays d'\u00e9lection(s)*.\n\u2666",
+    "label": "LOC",
+    "Contexte gauche": "emphyth\u00e9ose ex.\n\u2666",
+    "Contexte droite": "Pays d'\u00e9tats. Province"
+  },
+  "Entite164": {
+    "entite": "Province",
+    "label": "LOC",
+    "Contexte gauche": "\u2666 Pays d'\u00e9tats.",
+    "Contexte droite": "o\u00f9 les imp\u00f4ts \u00e9taient d\u00e9cid\u00e9s"
+  },
+  "Entite165": {
+    "entite": "La France",
+    "label": "LOC",
+    "Contexte gauche": "assembl\u00e9e des \u00e9tats provinciaux.",
+    "Contexte droite": "(...) resta ("
+  },
+  "Entite166": {
+    "entite": "Pays de franc-sal\u00e9*.",
+    "label": "LOC",
+    "Contexte gauche": "p.107).\n\u2666",
+    "Contexte droite": "Le bassin de Laval,"
+  },
+  "Entite167": {
+    "entite": "Laval",
+    "label": "LOC",
+    "Contexte gauche": "-sal\u00e9*. Le bassin de",
+    "Contexte droite": ", cette marche du Maine"
+  },
+  "Entite168": {
+    "entite": "marche du Maine",
+    "label": "LOC",
+    "Contexte gauche": "bassin de Laval, cette",
+    "Contexte droite": ", fut, avant la"
+  },
+  "Entite169": {
+    "entite": "Bretagne",
+    "label": "LOC",
+    "Contexte gauche": "la gabelle, et la",
+    "Contexte droite": ", pays de franc-sal\u00e9,"
+  },
+  "Entite170": {
+    "entite": "Vidal de",
+    "label": "MISC",
+    "Contexte gauche": "qui en \u00e9tait exempte (",
+    "Contexte droite": "La Bl.,Tabl."
+  },
+  "Entite171": {
+    "entite": "La Bl.",
+    "label": "ORG",
+    "Contexte gauche": "\u00e9tait exempte (Vidal de",
+    "Contexte droite": ",Tabl. g\u00e9ogr. Fr"
+  },
+  "Entite172": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "p.324).\n\u2666",
+    "Contexte droite": "de grande, de petite"
+  },
+  "Entite173": {
+    "entite": "H. Bazin",
+    "label": "PER",
+    "Contexte gauche": "et une r\u00e9pression f\u00e9roces (",
+    "Contexte droite": ", Vip\u00e8re,1948, p.16)"
+  },
+  "Entite174": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "p.16).\n\u2666",
+    "Contexte droite": "d'imposition. Province qui"
+  },
+  "Entite175": {
+    "entite": "Province",
+    "label": "LOC",
+    "Contexte gauche": "\u2666 Pays d'imposition.",
+    "Contexte droite": "qui n'avait ni \u00e9lections"
+  },
+  "Entite176": {
+    "entite": "Ds Lar",
+    "label": "PER",
+    "Contexte gauche": "administraient les imp\u00f4ts. (",
+    "Contexte droite": ". 20e-Lar."
+  },
+  "Entite177": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": "-Lar. Lang.",
+    "Contexte droite": ".).\n\u2666"
+  },
+  "Entite178": {
+    "entite": "Pays de",
+    "label": "LOC",
+    "Contexte gauche": ".).\n\u2666",
+    "Contexte droite": "nantissement.*\n\u2666"
+  },
+  "Entite179": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "nantissement.*\n\u2666",
+    "Contexte droite": "d'ob\u00e9dience*. Anton. pays"
+  },
+  "Entite180": {
+    "entite": "Anton",
+    "label": "PER",
+    "Contexte gauche": "\n\u2666 Pays d'ob\u00e9dience*.",
+    "Contexte droite": ". pays de concordat ("
+  },
+  "Entite181": {
+    "entite": "Pays de sapience",
+    "label": "LOC",
+    "Contexte gauche": "supra).\n\u2666",
+    "Contexte droite": ". La Normandie (en"
+  },
+  "Entite182": {
+    "entite": "Normandie",
+    "label": "LOC",
+    "Contexte gauche": "Pays de sapience. La",
+    "Contexte droite": "(en raison de la"
+  },
+  "Entite183": {
+    "entite": "Dict.xixeet xxes",
+    "label": "PER",
+    "Contexte gauche": "sa coutume). (",
+    "Contexte droite": ".).\nd"
+  },
+  "Entite184": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "intellectuel, relig.]",
+    "Contexte droite": "civilis\u00e9, polic\u00e9; pays"
+  },
+  "Entite185": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "Sur les moeurs de l'",
+    "Contexte droite": "pays qu'il aime,"
+  },
+  "Entite186": {
+    "entite": "Goncourt",
+    "label": "MISC",
+    "Contexte gauche": "cite ces curieuses anecdotes (",
+    "Contexte droite": ",Journal,1865, p.130).Je viens"
+  },
+  "Entite187": {
+    "entite": "Journal,1865",
+    "label": "MISC",
+    "Contexte gauche": "curieuses anecdotes (Goncourt,",
+    "Contexte droite": ", p.130).Je viens d'un"
+  },
+  "Entite188": {
+    "entite": "p.130).Je",
+    "label": "LOC",
+    "Contexte gauche": "(Goncourt,Journal,1865,",
+    "Contexte droite": "viens d'un pays barbare"
+  },
+  "Entite189": {
+    "entite": "Mal",
+    "label": "ORG",
+    "Contexte gauche": "douzi\u00e8me si\u00e8cle (Audiberti,",
+    "Contexte droite": "court,1947, ii, p.171"
+  },
+  "Entite190": {
+    "entite": "Romains",
+    "label": "LOC",
+    "Contexte gauche": "quand leurs conqu\u00eates [des",
+    "Contexte droite": "] se furent \u00e9tendues en"
+  },
+  "Entite191": {
+    "entite": "Afrique",
+    "label": "LOC",
+    "Contexte gauche": "] se furent \u00e9tendues en",
+    "Contexte droite": ", en Sicile et en"
+  },
+  "Entite192": {
+    "entite": "Sicile",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9tendues en Afrique, en",
+    "Contexte droite": "et en Gr\u00e8ce; quand"
+  },
+  "Entite193": {
+    "entite": "Gr\u00e8ce",
+    "label": "LOC",
+    "Contexte gauche": ", en Sicile et en",
+    "Contexte droite": "; quand ils se furent"
+  },
+  "Entite194": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "avanc\u00e9e, ils emport\u00e8rent \u00e0",
+    "Contexte droite": "des pr\u00e9parations qui les avaient"
+  },
+  "Entite195": {
+    "entite": "Nation d'origine, patrie",
+    "label": "MISC",
+    "Contexte gauche": "une accept. large]",
+    "Contexte droite": ". Pays d'origine;"
+  },
+  "Entite196": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": "d'origine, patrie.",
+    "Contexte droite": "d'origine; pays natal"
+  },
+  "Entite197": {
+    "entite": "Barr\u00e8s,Cahiers",
+    "label": "MISC",
+    "Contexte gauche": "puis dire, personnels (",
+    "Contexte droite": ", t.5, 1906,"
+  },
+  "Entite198": {
+    "entite": "J.-R. Bloch",
+    "label": "PER",
+    "Contexte gauche": "gloire du sport\u00bb (",
+    "Contexte droite": ", Destin du S.,1931,"
+  },
+  "Entite199": {
+    "entite": "Destin du S.,1931, p.128):\n11",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb (J.-R. Bloch,",
+    "Contexte droite": ". Comment! Cette Angleterre"
+  },
+  "Entite200": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "11. Comment! Cette",
+    "Contexte droite": "que vous ch\u00e9rissez tant,"
+  },
+  "Entite201": {
+    "entite": "Gobineau",
+    "label": "LOC",
+    "Contexte gauche": "... Vous l'oubliez?",
+    "Contexte droite": ",Pl\u00e9iades,1874, p.46."
+  },
+  "Entite202": {
+    "entite": "Province",
+    "label": "LOC",
+    "Contexte gauche": "une accept. restreinte]",
+    "Contexte droite": "natale, village natal."
+  },
+  "Entite203": {
+    "entite": "\u00eele de R\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "homme qui retourne dans l'",
+    "Contexte droite": ", son pays, apr\u00e8s"
+  },
+  "Entite204": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": "avoir fait un tour en",
+    "Contexte droite": "(Michelet,Journal,1835,"
+  },
+  "Entite205": {
+    "entite": "Journal,1835",
+    "label": "LOC",
+    "Contexte gauche": "en Allemagne (Michelet,",
+    "Contexte droite": ", p.171).C'est un Breton"
+  },
+  "Entite206": {
+    "entite": "Breton",
+    "label": "PER",
+    "Contexte gauche": "Journal,1835, p.171).C'est un",
+    "Contexte droite": "qui revient au pays natal"
+  },
+  "Entite207": {
+    "entite": "Pr\u00e9vert",
+    "label": "PER",
+    "Contexte gauche": "fait plusieurs mauvais coups (",
+    "Contexte droite": ",Paroles,1946, p.79)"
+  },
+  "Entite208": {
+    "entite": "Pr\u00e9vert",
+    "label": "PER",
+    "Contexte gauche": "le mal du pays (",
+    "Contexte droite": ",Paroles,1946p.283).\n"
+  },
+  "Entite209": {
+    "entite": "Voussard",
+    "label": "PER",
+    "Contexte gauche": "n'avait pas vu na\u00eetre",
+    "Contexte droite": "(...) ne voulut"
+  },
+  "Entite210": {
+    "entite": "Voussard",
+    "label": "PER",
+    "Contexte gauche": "M\u00eame \u00e0 l'anciennet\u00e9,",
+    "Contexte droite": "ne gagna point son grade"
+  },
+  "Entite211": {
+    "entite": "Aym\u00e9,Jument,1933",
+    "label": "MISC",
+    "Contexte gauche": "pays un bon coup (",
+    "Contexte droite": ", p.288).\n"
+  },
+  "Entite212": {
+    "entite": "Lettres",
+    "label": "LOC",
+    "Contexte gauche": "vous promettez (M\u00e9rim\u00e9e,",
+    "Contexte droite": "Panizzi, t.1, 1861"
+  },
+  "Entite213": {
+    "entite": "Scribe,Bertrand,1833, iv",
+    "label": "MISC",
+    "Contexte gauche": "qu'on veut tyranniser (",
+    "Contexte droite": ", 6, p.203).Le gouvernement"
+  },
+  "Entite214": {
+    "entite": "p.203).Le",
+    "label": "LOC",
+    "Contexte gauche": ", iv, 6,",
+    "Contexte droite": "gouvernement va demander au pays"
+  },
+  "Entite215": {
+    "entite": "Hommes bonne vol",
+    "label": "MISC",
+    "Contexte gauche": "effort \u00e9norme (Romains,",
+    "Contexte droite": ".,1938, p.160):"
+  },
+  "Entite216": {
+    "entite": "Fouchard",
+    "label": "PER",
+    "Contexte gauche": "trop, chez le p\u00e8re",
+    "Contexte droite": ", dont les affaires prosp\u00e9raient"
+  },
+  "Entite217": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "commerce de boucher ambulant...",
+    "Contexte droite": ",D\u00e9b\u00e2cle,1892, p.504."
+  },
+  "Entite218": {
+    "entite": "D\u00e9b\u00e2cle,1892, p.504.\n\u2666 Pays l\u00e9gal\nHIST.",
+    "label": "MISC",
+    "Contexte gauche": "boucher ambulant... Zola,",
+    "Contexte droite": "[Sous la monarchie censitaire"
+  },
+  "Entite219": {
+    "entite": "Ensemble des citoyens",
+    "label": "MISC",
+    "Contexte gauche": "monarchie censitaire] ,,",
+    "Contexte droite": "qui remplissent les conditions du"
+  },
+  "Entite220": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "suffrage universel`` (",
+    "Contexte droite": "). V. aussi l\u00e9gal"
+  },
+  "Entite221": {
+    "entite": "L'ensemble des citoyens",
+    "label": "MISC",
+    "Contexte gauche": "3.\n,,",
+    "Contexte droite": "disposant du droit de vote"
+  },
+  "Entite222": {
+    "entite": "Debb.-Daudet Pol",
+    "label": "PER",
+    "Contexte gauche": "ces citoyens`` (",
+    "Contexte droite": ". 1981). Il"
+  },
+  "Entite223": {
+    "entite": "L'Express",
+    "label": "ORG",
+    "Contexte gauche": "r\u00e9el\u00bb, fluide (",
+    "Contexte droite": ", 12 avr. 1976,"
+  },
+  "Entite224": {
+    "entite": "Pays r\u00e9el",
+    "label": "LOC",
+    "Contexte gauche": "2).\n\u2666",
+    "Contexte droite": ". ,,L'ensemble"
+  },
+  "Entite225": {
+    "entite": "L'ensemble des individus d'une nation",
+    "label": "MISC",
+    "Contexte gauche": "Pays r\u00e9el. ,,",
+    "Contexte droite": "qui, soit ne peuvent"
+  },
+  "Entite226": {
+    "entite": "Debb.-Daudet Pol",
+    "label": "PER",
+    "Contexte gauche": "en place`` (",
+    "Contexte droite": ". 1981). Le"
+  },
+  "Entite227": {
+    "entite": "gouvernement de Vichy",
+    "label": "MISC",
+    "Contexte gauche": ". 1981). Le",
+    "Contexte droite": ", \u00e0 la fin de"
+  },
+  "Entite228": {
+    "entite": "Debb.-Daudet Pol",
+    "label": "PER",
+    "Contexte gauche": "non au pays r\u00e9el (",
+    "Contexte droite": ". 1981).Il est parfois question"
+  },
+  "Entite229": {
+    "entite": "1981).Il",
+    "label": "LOC",
+    "Contexte gauche": "r\u00e9el (Debb.-Daudet Pol.",
+    "Contexte droite": "est parfois question de \u00ab"
+  },
+  "Entite230": {
+    "entite": "XIXesi\u00e8cle",
+    "label": "ORG",
+    "Contexte gauche": "pourrait parler de m\u00eame du",
+    "Contexte droite": "(Huyghe,Dialog."
+  },
+  "Entite231": {
+    "entite": "Pamphlets",
+    "label": "LOC",
+    "Contexte gauche": "le pays (Courier,",
+    "Contexte droite": "pol., P\u00e9tition pour"
+  },
+  "Entite232": {
+    "entite": "P\u00e9tition pour vill.",
+    "label": "MISC",
+    "Contexte gauche": ",Pamphlets pol.,",
+    "Contexte droite": ", 1822, p.144).L'exode"
+  },
+  "Entite233": {
+    "entite": "Livre raison,1928, p.176).",
+    "label": "MISC",
+    "Contexte gauche": "aux portes (Pesquidoux,",
+    "Contexte droite": "\nD. \u2212 P. anal"
+  },
+  "Entite234": {
+    "entite": "Domaine",
+    "label": "ORG",
+    "Contexte gauche": ". ou au fig.",
+    "Contexte droite": "fabuleux, irr\u00e9el, g\u00e9n\u00e9ralement"
+  },
+  "Entite235": {
+    "entite": "Alice au pays des merveilles",
+    "label": "MISC",
+    "Contexte gauche": "Le pays des songes;",
+    "Contexte droite": "(de Lewis Carroll)"
+  },
+  "Entite236": {
+    "entite": "Lewis Carroll",
+    "label": "PER",
+    "Contexte gauche": "pays des merveilles (de",
+    "Contexte droite": "). La musique ("
+  },
+  "Entite237": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "cesse \u00e9largies du rythme (",
+    "Contexte droite": ",Joie de vivre,1884,"
+  },
+  "Entite238": {
+    "entite": "Joie de vivre,1884",
+    "label": "PER",
+    "Contexte gauche": "du rythme (Zola,",
+    "Contexte droite": ", p.888):\n13"
+  },
+  "Entite239": {
+    "entite": "Espagne",
+    "label": "LOC",
+    "Contexte gauche": "peu \u00e0 peu, l'",
+    "Contexte droite": "de ma carte devenait,"
+  },
+  "Entite240": {
+    "entite": "Saint-Exup",
+    "label": "LOC",
+    "Contexte gauche": "avaient n\u00e9glig\u00e9e les g\u00e9ographes.",
+    "Contexte droite": ".,Terre hommes,1939, p.145"
+  },
+  "Entite241": {
+    "entite": ",Terre",
+    "label": "LOC",
+    "Contexte gauche": ". Saint-Exup.",
+    "Contexte droite": "hommes,1939, p.145.\n"
+  },
+  "Entite242": {
+    "entite": "Pays",
+    "label": "LOC",
+    "Contexte gauche": ", p.145.\n\u2666",
+    "Contexte droite": "bleu. Pays du r\u00eave"
+  },
+  "Entite243": {
+    "entite": "Lune",
+    "label": "LOC",
+    "Contexte gauche": "ciel bleu). \u00d4",
+    "Contexte droite": "(...) Du haut"
+  },
+  "Entite244": {
+    "entite": "Les astres vont te suivre",
+    "label": "MISC",
+    "Contexte gauche": "o\u00f9, radieux s\u00e9rail,",
+    "Contexte droite": "en pimpant attirail (..."
+  },
+  "Entite245": {
+    "entite": "p.146).Voil\u00e0",
+    "label": "MISC",
+    "Contexte gauche": ",Fl. du Mal,1857,",
+    "Contexte droite": "des petits gar\u00e7ons qui sont"
+  },
+  "Entite246": {
+    "entite": "Gr\u00e8ce",
+    "label": "LOC",
+    "Contexte gauche": "(...) de la",
+    "Contexte droite": "et de Rome, et"
+  },
+  "Entite247": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "de la Gr\u00e8ce et de",
+    "Contexte droite": ", et des pays bleus"
+  },
+  "Entite248": {
+    "entite": "A. France",
+    "label": "PER",
+    "Contexte gauche": ", pour danser ensemble (",
+    "Contexte droite": ",Nos enfants,1887, p.10"
+  },
+  "Entite249": {
+    "entite": "Nos",
+    "label": "PER",
+    "Contexte gauche": "ensemble (A. France,",
+    "Contexte droite": "enfants,1887, p.10)."
+  },
+  "Entite250": {
+    "entite": "Pays de Cocagne*.\n\u2666",
+    "label": "LOC",
+    "Contexte gauche": "p.10).\n\u2666",
+    "Contexte droite": "Pays du Tendre*. [P."
+  },
+  "Entite251": {
+    "entite": "Tendre*.",
+    "label": "LOC",
+    "Contexte gauche": "Cocagne*.\n\u2666 Pays du",
+    "Contexte droite": "[P. allus. au"
+  },
+  "Entite252": {
+    "entite": "Mllede Scud\u00e9ry",
+    "label": "PER",
+    "Contexte gauche": "au pays all\u00e9gorique imagin\u00e9 par",
+    "Contexte droite": "au xviies.] De"
+  },
+  "Entite253": {
+    "entite": "De grands bourgeois",
+    "label": "MISC",
+    "Contexte gauche": "Scud\u00e9ry au xviies.]",
+    "Contexte droite": "(...) eux aussi"
+  },
+  "Entite254": {
+    "entite": "Mllede Scud\u00e9ry",
+    "label": "PER",
+    "Contexte gauche": ") eux aussi r\u00eavent \u00e0",
+    "Contexte droite": ", au pays du Tendre"
+  },
+  "Entite255": {
+    "entite": "pays du Tendre",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 Mllede Scud\u00e9ry, au",
+    "Contexte droite": ", dont ce quartier \u00e9tait"
+  },
+  "Entite256": {
+    "entite": "Pi\u00e9ton",
+    "label": "LOC",
+    "Contexte gauche": "des pr\u00e9cieuses (Fargue,",
+    "Contexte droite": "Paris,1939, p.114)."
+  },
+  "Entite257": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [pei]"
+  },
+  "Entite258": {
+    "entite": "p\u03b5i]. Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "[pei], [",
+    "Contexte droite": ", DG, Passy 1914"
+  },
+  "Entite259": {
+    "entite": "DG, Passy",
+    "label": "MISC",
+    "Contexte gauche": ", [p\u03b5i]. Littr\u00e9,",
+    "Contexte droite": "1914, Barbeau-Rodhe"
+  },
+  "Entite260": {
+    "entite": "Barbeau-Rodhe",
+    "label": "LOC",
+    "Contexte gauche": "DG, Passy 1914,",
+    "Contexte droite": "1930, Warn. 1968"
+  },
+  "Entite261": {
+    "entite": "Warn",
+    "label": "LOC",
+    "Contexte gauche": "Barbeau-Rodhe 1930,",
+    "Contexte droite": ". 1968 ont un ["
+  },
+  "Entite262": {
+    "entite": "Barbeau-Rodhe",
+    "label": "LOC",
+    "Contexte gauche": "combinaison avec [\u03b5]. Ainsi",
+    "Contexte droite": "1930: [pei]"
+  },
+  "Entite263": {
+    "entite": "Warn",
+    "label": "LOC",
+    "Contexte gauche": ", [p\u03b5ji] et",
+    "Contexte droite": ". 1968: [p\u03b5i"
+  },
+  "Entite264": {
+    "entite": "Passy",
+    "label": "LOC",
+    "Contexte gauche": "parler courant``.",
+    "Contexte droite": "1914, en revanche,"
+  },
+  "Entite265": {
+    "entite": "Martinon Comment",
+    "label": "MISC",
+    "Contexte gauche": "pei], [peji].",
+    "Contexte droite": "prononce 1913, p.190,"
+  },
+  "Entite266": {
+    "entite": "j]. Ac",
+    "label": "PER",
+    "Contexte gauche": "des prononc. sans [",
+    "Contexte droite": ". 1694: pais,"
+  },
+  "Entite267": {
+    "entite": "St L\u00e9ger",
+    "label": "LOC",
+    "Contexte gauche": "moins nettement d\u00e9limit\u00e9e\u00bb (",
+    "Contexte droite": ", \u00e9d. J. Linskill"
+  },
+  "Entite268": {
+    "entite": "J. Linskill",
+    "label": "PER",
+    "Contexte gauche": "St L\u00e9ger, \u00e9d.",
+    "Contexte droite": ", 211: Tuit li"
+  },
+  "Entite269": {
+    "entite": "Et sancz Lethgiers",
+    "label": "MISC",
+    "Contexte gauche": "trestuit apresdrent a venir;",
+    "Contexte droite": "lis pred\u00efat); ca"
+  },
+  "Entite270": {
+    "entite": "St Alexis",
+    "label": "LOC",
+    "Contexte gauche": "); ca 1050 (",
+    "Contexte droite": ", \u00e9d. Chr."
+  },
+  "Entite271": {
+    "entite": "Que cele imagine parlat",
+    "label": "MISC",
+    "Contexte gauche": "par trestut le pa\u00efs,",
+    "Contexte droite": "pur Alexis); ca"
+  },
+  "Entite272": {
+    "entite": "Alexis",
+    "label": "MISC",
+    "Contexte gauche": "Que cele imagine parlat pur",
+    "Contexte droite": "); ca 1100 ("
+  },
+  "Entite273": {
+    "entite": "ca 1100",
+    "label": "MISC",
+    "Contexte gauche": "parlat pur Alexis);",
+    "Contexte droite": "(Roland, \u00e9d."
+  },
+  "Entite274": {
+    "entite": "Roland",
+    "label": "PER",
+    "Contexte gauche": "); ca 1100 (",
+    "Contexte droite": ", \u00e9d. J. B\u00e9dier"
+  },
+  "Entite275": {
+    "entite": "J. B\u00e9dier",
+    "label": "PER",
+    "Contexte gauche": "(Roland, \u00e9d.",
+    "Contexte droite": ", 1859: Si lungement"
+  },
+  "Entite276": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "tens m'avez servit,",
+    "Contexte droite": "oes Carlon si granz pa\u00efs"
+  },
+  "Entite277": {
+    "entite": "Carlon",
+    "label": "PER",
+    "Contexte gauche": "avez servit, A oes",
+    "Contexte droite": "si granz pa\u00efs cunquis;"
+  },
+  "Entite278": {
+    "entite": "Charlemagne",
+    "label": "PER",
+    "Contexte gauche": ": Cunquis l'en [",
+    "Contexte droite": ", par Durendal] ai"
+  },
+  "Entite279": {
+    "entite": "Durendal",
+    "label": "PER",
+    "Contexte gauche": "en [Charlemagne, par",
+    "Contexte droite": "] ai pa\u00efs e teres"
+  },
+  "Entite280": {
+    "entite": "Benedeit",
+    "label": "LOC",
+    "Contexte gauche": "; d\u00e9but xiies. (",
+    "Contexte droite": ", St Brendan, \u00e9d"
+  },
+  "Entite281": {
+    "entite": "St Brendan",
+    "label": "LOC",
+    "Contexte gauche": "xiies. (Benedeit,",
+    "Contexte droite": ", \u00e9d. E. G."
+  },
+  "Entite282": {
+    "entite": "E. G. R. Waters",
+    "label": "PER",
+    "Contexte gauche": "St Brendan, \u00e9d.",
+    "Contexte droite": ", 1821: Ja nuvele"
+  },
+  "Entite283": {
+    "entite": "Que venuz",
+    "label": "MISC",
+    "Contexte gauche": "[per partes terrarum]",
+    "Contexte droite": "est de par\u00e4is);"
+  },
+  "Entite284": {
+    "entite": "par\u00e4is",
+    "label": "LOC",
+    "Contexte gauche": "] Que venuz est de",
+    "Contexte droite": "); 2. \u00ab"
+  },
+  "Entite285": {
+    "entite": "Espagne",
+    "label": "LOC",
+    "Contexte gauche": ") ca 1100 d\u00e9signe l'",
+    "Contexte droite": "(Roland, 17,"
+  },
+  "Entite286": {
+    "entite": "Roland",
+    "label": "PER",
+    "Contexte gauche": "1100 d\u00e9signe l'Espagne (",
+    "Contexte droite": ", 17, 134,"
+  },
+  "Entite287": {
+    "entite": "Barbarie",
+    "label": "LOC",
+    "Contexte gauche": "); id. la",
+    "Contexte droite": "(ibid., 1236"
+  },
+  "Entite288": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "1236); id.",
+    "Contexte droite": "(ibid., 1861"
+  },
+  "Entite289": {
+    "entite": "ca 1200",
+    "label": "MISC",
+    "Contexte gauche": "., 1861);",
+    "Contexte droite": "(Jean Bodel, Saisnes"
+  },
+  "Entite290": {
+    "entite": "Jean Bodel",
+    "label": "PER",
+    "Contexte gauche": "); ca 1200 (",
+    "Contexte droite": ", Saisnes, \u00e9d."
+  },
+  "Entite291": {
+    "entite": "E. Stengel",
+    "label": "PER",
+    "Contexte gauche": "\u00e9d. F. Menzel et",
+    "Contexte droite": ", 352: Alemaingne ont"
+  },
+  "Entite292": {
+    "entite": "Alemaingne",
+    "label": "LOC",
+    "Contexte gauche": "E. Stengel, 352:",
+    "Contexte droite": "ont destruite le grant pa\u00efs"
+  },
+  "Entite293": {
+    "entite": "Engleterre",
+    "label": "PER",
+    "Contexte gauche": "xives. li pa\u00efs d'",
+    "Contexte droite": "(Jean Froissart, Chron"
+  },
+  "Entite294": {
+    "entite": "Jean Froissart",
+    "label": "PER",
+    "Contexte gauche": "li pa\u00efs d'Engleterre (",
+    "Contexte droite": ", Chron., II"
+  },
+  "Entite295": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "Froissart, Chron.,",
+    "Contexte droite": ", \u00a7 5, \u00e9d"
+  },
+  "Entite296": {
+    "entite": "S. Luce",
+    "label": "PER",
+    "Contexte gauche": "\u00a7 5, \u00e9d.",
+    "Contexte droite": ", t.9, p.6)"
+  },
+  "Entite297": {
+    "entite": "Savoie",
+    "label": "LOC",
+    "Contexte gauche": "; av. 1514 pais de",
+    "Contexte droite": "(J. Lemaire de Belges"
+  },
+  "Entite298": {
+    "entite": "J. Lemaire de Belges",
+    "label": "PER",
+    "Contexte gauche": "1514 pais de Savoie (",
+    "Contexte droite": ", Exploration de piti\u00e9 ds"
+  },
+  "Entite299": {
+    "entite": "Exploration",
+    "label": "PER",
+    "Contexte gauche": "J. Lemaire de Belges,",
+    "Contexte droite": "de piti\u00e9 ds OEuvres,"
+  },
+  "Entite300": {
+    "entite": "OEuvres",
+    "label": "MISC",
+    "Contexte gauche": ", Exploration de piti\u00e9 ds",
+    "Contexte droite": ", \u00e9d. J. Stecher"
+  },
+  "Entite301": {
+    "entite": "J. Stecher",
+    "label": "PER",
+    "Contexte gauche": "ds OEuvres, \u00e9d.",
+    "Contexte droite": ", t.4, p.173)"
+  },
+  "Entite302": {
+    "entite": "Mont-S.-Mart.",
+    "label": "LOC",
+    "Contexte gauche": "pay (Cart. du",
+    "Contexte droite": ", B.N. lat. 5478"
+  },
+  "Entite303": {
+    "entite": "B.N. lat",
+    "label": "PER",
+    "Contexte gauche": "Mont-S.-Mart.,",
+    "Contexte droite": ". 5478, fol."
+  },
+  "Entite304": {
+    "entite": "Gdf",
+    "label": "LOC",
+    "Contexte gauche": ", fol. 132 rods",
+    "Contexte droite": ". Compl.);"
+  },
+  "Entite305": {
+    "entite": "Anjou",
+    "label": "LOC",
+    "Contexte gauche": "); 1532 pays d'",
+    "Contexte droite": "(Bourdign\u00e9, Faifeu,"
+  },
+  "Entite306": {
+    "entite": "Hug",
+    "label": "LOC",
+    "Contexte gauche": ", Faifeu, 22 ds",
+    "Contexte droite": ".); 3."
+  },
+  "Entite307": {
+    "entite": "ca 1100",
+    "label": "MISC",
+    "Contexte gauche": "la charge; patrie \u00ab",
+    "Contexte droite": "(Roland, 3207:"
+  },
+  "Entite308": {
+    "entite": "Roland",
+    "label": "PER",
+    "Contexte gauche": "patrie \u00abca 1100 (",
+    "Contexte droite": ", 3207: Jo ["
+  },
+  "Entite309": {
+    "entite": "Benedeit",
+    "label": "LOC",
+    "Contexte gauche": "; d\u00e9but xiies. (",
+    "Contexte droite": ", op. cit."
+  },
+  "Entite310": {
+    "entite": "Ileoc",
+    "label": "PER",
+    "Contexte gauche": "patriam tuam redibis],",
+    "Contexte droite": "muras \u00f9 tu nasquis)"
+  },
+  "Entite311": {
+    "entite": "ca 1170",
+    "label": "MISC",
+    "Contexte gauche": "\u00f9 tu nasquis);",
+    "Contexte droite": "(Marie de France,"
+  },
+  "Entite312": {
+    "entite": "Marie de France",
+    "label": "PER",
+    "Contexte gauche": "); ca 1170 (",
+    "Contexte droite": ", Lais, \u00e9d."
+  },
+  "Entite313": {
+    "entite": "Lais",
+    "label": "LOC",
+    "Contexte gauche": "(Marie de France,",
+    "Contexte droite": ", \u00e9d. J. Rychner"
+  },
+  "Entite314": {
+    "entite": "J. Rychner",
+    "label": "PER",
+    "Contexte gauche": ", Lais, \u00e9d.",
+    "Contexte droite": ", Guigemar, 70:"
+  },
+  "Entite315": {
+    "entite": "Guigemar",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9d. J. Rychner,",
+    "Contexte droite": ", 70: ...S'"
+  },
+  "Entite316": {
+    "entite": "li ber",
+    "label": "PER",
+    "Contexte gauche": ": ...S'en vait",
+    "Contexte droite": "en sun pa\u00efs Veeir sun"
+  },
+  "Entite317": {
+    "entite": "sun",
+    "label": "ORG",
+    "Contexte gauche": "en vait li ber en",
+    "Contexte droite": "pa\u00efs Veeir sun pere e"
+  },
+  "Entite318": {
+    "entite": "Veeir sun",
+    "label": "ORG",
+    "Contexte gauche": "li ber en sun pa\u00efs",
+    "Contexte droite": "pere e sun seignur)"
+  },
+  "Entite319": {
+    "entite": "sun",
+    "label": "ORG",
+    "Contexte gauche": "pa\u00efs Veeir sun pere e",
+    "Contexte droite": "seignur); ca 1200"
+  },
+  "Entite320": {
+    "entite": "Chastelain de Couci",
+    "label": "PER",
+    "Contexte gauche": "); ca 1200 (",
+    "Contexte droite": "[?] Chanson,"
+  },
+  "Entite321": {
+    "entite": "A. Lerond",
+    "label": "PER",
+    "Contexte gauche": "] Chanson, \u00e9d.",
+    "Contexte droite": ", XXV, 5:"
+  },
+  "Entite322": {
+    "entite": "XXV",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9d. A. Lerond,",
+    "Contexte droite": ", 5: Cascuns pleure"
+  },
+  "Entite323": {
+    "entite": "Cascuns",
+    "label": "PER",
+    "Contexte gauche": ", XXV, 5:",
+    "Contexte droite": "pleure sa tere et son"
+  },
+  "Entite324": {
+    "entite": "Jean de Meun",
+    "label": "PER",
+    "Contexte gauche": "-78 p.ext. (",
+    "Contexte droite": ", Rose, \u00e9d."
+  },
+  "Entite325": {
+    "entite": "F. Lecoy",
+    "label": "PER",
+    "Contexte gauche": ", Rose, \u00e9d.",
+    "Contexte droite": ", 5004: Mout est"
+  },
+  "Entite326": {
+    "entite": "na\u00ees Qui",
+    "label": "PER",
+    "Contexte gauche": "Mout est chetis e fols",
+    "Contexte droite": "croit que ci soit ses"
+  },
+  "Entite327": {
+    "entite": "Qui Bo\u00ebce De Confort",
+    "label": "MISC",
+    "Contexte gauche": "en bien des clers enquerre",
+    "Contexte droite": "lisent); loc."
+  },
+  "Entite328": {
+    "entite": "Ac",
+    "label": "LOC",
+    "Contexte gauche": "avoir la nostalgie\u00bb (",
+    "Contexte droite": ".); 4."
+  },
+  "Entite329": {
+    "entite": "Li Ver del Juise",
+    "label": "PER",
+    "Contexte gauche": "1130 d\u00e9signe l'enfer (",
+    "Contexte droite": ", 68 ds T.-L.:"
+  },
+  "Entite330": {
+    "entite": "Corneille, Menteur",
+    "label": "MISC",
+    "Contexte gauche": "ou abstractions\u00bb 1643 (",
+    "Contexte droite": ", I, 1:"
+  },
+  "Entite331": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "(Corneille, Menteur,",
+    "Contexte droite": ", 1: Le pays"
+  },
+  "Entite332": {
+    "entite": "Tuileries",
+    "label": "LOC",
+    "Contexte gauche": "et des galanteries [les",
+    "Contexte droite": "]); 1668 ("
+  },
+  "Entite333": {
+    "entite": "La Fontaine",
+    "label": "PER",
+    "Contexte gauche": "]); 1668 (",
+    "Contexte droite": ", Fables, III,"
+  },
+  "Entite334": {
+    "entite": "A. J. Holden",
+    "label": "PER",
+    "Contexte gauche": ", Rou, \u00e9d.",
+    "Contexte droite": ", II, 1056)"
+  },
+  "Entite335": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": ". A. J. Holden,",
+    "Contexte droite": ", 1056); 1376"
+  },
+  "Entite336": {
+    "entite": "Modus",
+    "label": "MISC",
+    "Contexte gauche": "; 1376 plat pa\u00efs (",
+    "Contexte droite": "et Ratio, 246,"
+  },
+  "Entite337": {
+    "entite": "ds T.-L.",
+    "label": "PER",
+    "Contexte gauche": "Ratio, 246, 33",
+    "Contexte droite": "); b) 1256"
+  },
+  "Entite338": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "paiis; froit paiis (",
+    "Contexte droite": "du corps de A. de"
+  },
+  "Entite339": {
+    "entite": "A. de Sienne",
+    "label": "PER",
+    "Contexte gauche": "(R\u00e9gime du corps de",
+    "Contexte droite": ", 50, 9:"
+  },
+  "Entite340": {
+    "entite": "ds T.-L.",
+    "label": "PER",
+    "Contexte gauche": "9: 50, 12",
+    "Contexte droite": "); 1377 fort pa\u00efs"
+  },
+  "Entite341": {
+    "entite": "Gace de La Buigne",
+    "label": "PER",
+    "Contexte gauche": "\u00abpays bois\u00e9\u00bb (",
+    "Contexte droite": ", Deduis, 9091;"
+  },
+  "Entite342": {
+    "entite": "Adenet le Roi",
+    "label": "MISC",
+    "Contexte gauche": "habitant une contr\u00e9e\u00bb (",
+    "Contexte droite": ", Berte, \u00e9d."
+  },
+  "Entite343": {
+    "entite": "Berte",
+    "label": "PER",
+    "Contexte gauche": "(Adenet le Roi,",
+    "Contexte droite": ", \u00e9d. A. Henry"
+  },
+  "Entite344": {
+    "entite": "A. Henry",
+    "label": "PER",
+    "Contexte gauche": ", Berte, \u00e9d.",
+    "Contexte droite": ", 3272: Tous li"
+  },
+  "Entite345": {
+    "entite": "li acoroit",
+    "label": "PER",
+    "Contexte gauche": "-tous li pa\u00efs contre",
+    "Contexte droite": "); 7. \u00ab"
+  },
+  "Entite346": {
+    "entite": "Trait\u00e9 entre",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb 1355 pays coustumier (",
+    "Contexte droite": "Charles de Navarre et Jean"
+  },
+  "Entite347": {
+    "entite": "Charles de Navarre",
+    "label": "PER",
+    "Contexte gauche": "pays coustumier (Trait\u00e9 entre",
+    "Contexte droite": "et Jean roi de France"
+  },
+  "Entite348": {
+    "entite": "Jean roi de France ds Isambert",
+    "label": "PER",
+    "Contexte gauche": "entre Charles de Navarre et",
+    "Contexte droite": ", Rec. g\u00e9n."
+  },
+  "Entite349": {
+    "entite": "Rec.",
+    "label": "MISC",
+    "Contexte gauche": "de France ds Isambert,",
+    "Contexte droite": "g\u00e9n. anc. lois"
+  },
+  "Entite350": {
+    "entite": "fr.",
+    "label": "ORG",
+    "Contexte gauche": "g\u00e9n. anc. lois",
+    "Contexte droite": ", t.4, p.738:"
+  },
+  "Entite351": {
+    "entite": "Languedo\u00efl",
+    "label": "LOC",
+    "Contexte gauche": "bounes genz... de la",
+    "Contexte droite": "et du pays coustumier)"
+  },
+  "Entite352": {
+    "entite": "Coutume d'Auvergne",
+    "label": "PER",
+    "Contexte gauche": "pays de droit \u00e9crit (",
+    "Contexte droite": "ds Nouv. coutumier g\u00e9n"
+  },
+  "Entite353": {
+    "entite": "ds Nouv",
+    "label": "PER",
+    "Contexte gauche": "\u00e9crit (Coutume d'Auvergne",
+    "Contexte droite": ". coutumier g\u00e9n. \u00e9d"
+  },
+  "Entite354": {
+    "entite": "coutumier",
+    "label": "MISC",
+    "Contexte gauche": "d'Auvergne ds Nouv.",
+    "Contexte droite": "g\u00e9n. \u00e9d. Bourdot"
+  },
+  "Entite355": {
+    "entite": "Bourdot de Richebourg",
+    "label": "PER",
+    "Contexte gauche": "coutumier g\u00e9n. \u00e9d.",
+    "Contexte droite": ", t.4, p.1174a)"
+  },
+  "Entite356": {
+    "entite": "Estats",
+    "label": "LOC",
+    "Contexte gauche": "); 1690 pays d'",
+    "Contexte droite": "; pays d'Election ("
+  },
+  "Entite357": {
+    "entite": "Election",
+    "label": "PER",
+    "Contexte gauche": "d'Estats; pays d'",
+    "Contexte droite": "(Fur.)."
+  },
+  "Entite358": {
+    "entite": "pagensis",
+    "label": "PER",
+    "Contexte gauche": ". Du b. lat.",
+    "Contexte droite": "propr. \u00abhabitant du"
+  },
+  "Entite359": {
+    "entite": "Gr\u00e9goire de Tours",
+    "label": "PER",
+    "Contexte gauche": "(2emoiti\u00e9 vies.,",
+    "Contexte droite": "ds Blaise Lat. chr\u00e9t"
+  },
+  "Entite360": {
+    "entite": "Blaise Lat",
+    "label": "PER",
+    "Contexte gauche": ", Gr\u00e9goire de Tours ds",
+    "Contexte droite": ". chr\u00e9t.);"
+  },
+  "Entite361": {
+    "entite": "Capit",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9b. ixes.,",
+    "Contexte droite": ". Car. Magni ds"
+  },
+  "Entite362": {
+    "entite": "Magni ds",
+    "label": "ORG",
+    "Contexte gauche": ", Capit. Car.",
+    "Contexte droite": "Blaise Latin. Med."
+  },
+  "Entite363": {
+    "entite": "Blaise Latin",
+    "label": "PER",
+    "Contexte gauche": ". Car. Magni ds",
+    "Contexte droite": ". Med. Aev."
+  },
+  "Entite364": {
+    "entite": "Agobard, ibid.",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb (ixes.,",
+    "Contexte droite": ") cf. paysan*. Pagensis a"
+  },
+  "Entite365": {
+    "entite": "Pagensis",
+    "label": "PER",
+    "Contexte gauche": "ibid.) cf. paysan*.",
+    "Contexte droite": "a, dans ces sens"
+  },
+  "Entite366": {
+    "entite": "pagensis",
+    "label": "PER",
+    "Contexte gauche": "du \u00abpays\u00bb par",
+    "Contexte droite": "s'explique prob. par"
+  },
+  "Entite367": {
+    "entite": "Few",
+    "label": "PER",
+    "Contexte gauche": "ager, territorium... (",
+    "Contexte droite": "t.7, p.471b)."
+  },
+  "Entite368": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "p.370. _Quem.",
+    "Contexte droite": "t.13, 14. _"
+  },
+  "Entite369": {
+    "entite": "Rabotin",
+    "label": "PER",
+    "Contexte gauche": "t.13, 14. _",
+    "Contexte droite": "(M.). Le"
+  },
+  "Entite370": {
+    "entite": "Montr\u00e9al",
+    "label": "LOC",
+    "Contexte gauche": "pol. et socio-ethnique \u00e0",
+    "Contexte droite": "de 1829 \u00e0 1842."
+  }
+}

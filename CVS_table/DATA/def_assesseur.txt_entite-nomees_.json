@@ -1,0 +1,302 @@
+{
+  "Entite0": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "- Assesseur, subst.",
+    "Contexte droite": ". \nI.\u2212 Cour."
+  },
+  "Entite1": {
+    "entite": "Compagnie des Indes anglaises",
+    "label": "ORG",
+    "Contexte gauche": ":\n1. La",
+    "Contexte droite": "a \u00e9t\u00e9 longtemps tout \u00e0"
+  },
+  "Entite2": {
+    "entite": "Inde",
+    "label": "LOC",
+    "Contexte gauche": "d\u00e9l\u00e8guent et dirigent dans l'",
+    "Contexte droite": ", par leurs d\u00e9p\u00eaches,"
+  },
+  "Entite3": {
+    "entite": "Le M\u00e9morial de Sainte-H\u00e9l\u00e8ne,t.",
+    "label": "MISC",
+    "Contexte gauche": "souveraine. Las Cases,",
+    "Contexte droite": "2,1823, p. 278."
+  },
+  "Entite4": {
+    "entite": "J. Baradat",
+    "label": "PER",
+    "Contexte gauche": "loi du 1erjuin 1853...",
+    "Contexte droite": ", L'Organ. d'"
+  },
+  "Entite5": {
+    "entite": "L'Organ",
+    "label": "PER",
+    "Contexte gauche": "1853... J. Baradat,",
+    "Contexte droite": ". d'une pr\u00e9fecture,1907,"
+  },
+  "Entite6": {
+    "entite": "DR.",
+    "label": "ORG",
+    "Contexte gauche": "p. 321.\n\u2212",
+    "Contexte droite": ",,Officier de justice"
+  },
+  "Entite7": {
+    "entite": "Officier",
+    "label": "PER",
+    "Contexte gauche": "\u2212 DR. ,,",
+    "Contexte droite": "de justice dont les fonctions"
+  },
+  "Entite8": {
+    "entite": "2ole jury",
+    "label": "PER",
+    "Contexte gauche": "pr\u00e9sident et les assesseurs;",
+    "Contexte droite": "(C. pr. p\u00e9n"
+  },
+  "Entite9": {
+    "entite": "C. pr.",
+    "label": "PER",
+    "Contexte gauche": "assesseurs; 2ole jury (",
+    "Contexte droite": "p\u00e9n., art."
+  },
+  "Entite10": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": ". de dr.,",
+    "Contexte droite": ", Dalloz, t. 1,1962"
+  },
+  "Entite11": {
+    "entite": "Dalloz",
+    "label": "LOC",
+    "Contexte gauche": "dr., Paris,",
+    "Contexte droite": ", t. 1,1962, s.v"
+  },
+  "Entite12": {
+    "entite": "s.v.",
+    "label": "MISC",
+    "Contexte gauche": "Dalloz, t. 1,1962,",
+    "Contexte droite": "cour d'assises.\n"
+  },
+  "Entite13": {
+    "entite": "Saint Office",
+    "label": "MISC",
+    "Contexte gauche": ", du pr\u00e9sident, du",
+    "Contexte droite": "; assesseur l\u00e9giste; conseillers"
+  },
+  "Entite14": {
+    "entite": "II.\u2212",
+    "label": "MISC",
+    "Contexte gauche": "prendre pour assesseur.\n",
+    "Contexte droite": "R\u00e9gion. (Canada)"
+  },
+  "Entite15": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": "\nII.\u2212 R\u00e9gion. (",
+    "Contexte droite": "). ,,Estimateur"
+  },
+  "Entite16": {
+    "entite": "Estimateur, celui",
+    "label": "MISC",
+    "Contexte gauche": "Canada). ,,",
+    "Contexte droite": "qui r\u00e9partit les contributions,"
+  },
+  "Entite17": {
+    "entite": "Passy",
+    "label": "LOC",
+    "Contexte gauche": "\u0280] ou [ase-].",
+    "Contexte droite": "1914, Barbeau-Rodhe"
+  },
+  "Entite18": {
+    "entite": "Barbeau-Rodhe",
+    "label": "LOC",
+    "Contexte gauche": "[ase-]. Passy 1914,",
+    "Contexte droite": "1930, Harrap's 1963"
+  },
+  "Entite19": {
+    "entite": "Harrap's 1963",
+    "label": "MISC",
+    "Contexte gauche": "Barbeau-Rodhe 1930,",
+    "Contexte droite": "et Dub. transcrivent la"
+  },
+  "Entite20": {
+    "entite": "Dub",
+    "label": "LOC",
+    "Contexte gauche": ", Harrap's 1963 et",
+    "Contexte droite": ". transcrivent la 2esyllabe du"
+  },
+  "Entite21": {
+    "entite": "ex",
+    "label": "MISC",
+    "Contexte gauche": "des dict. hist.",
+    "Contexte droite": ". F\u00e9r. 1768 :"
+  },
+  "Entite22": {
+    "entite": "Pt Rob",
+    "label": "ORG",
+    "Contexte gauche": "ac\u00e8-ceur).",
+    "Contexte droite": ". la transcrit par ["
+  },
+  "Entite23": {
+    "entite": "Warn",
+    "label": "LOC",
+    "Contexte gauche": "[e] ferm\u00e9.",
+    "Contexte droite": ". 1968 donne la prononc"
+  },
+  "Entite24": {
+    "entite": "F\u00e9l",
+    "label": "MISC",
+    "Contexte gauche": "e], cf. aussi",
+    "Contexte droite": ". 1851.\n\u00c9TYMOL"
+  },
+  "Entite25": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "Rec. de fabliaux,",
+    "Contexte droite": ", p. 294, \u00e9d"
+  },
+  "Entite26": {
+    "entite": "ds DG",
+    "label": "MISC",
+    "Contexte gauche": "294, \u00e9d. Jubinal",
+    "Contexte droite": ": Comme assessour se seoient"
+  },
+  "Entite27": {
+    "entite": "Ordin",
+    "label": "LOC",
+    "Contexte gauche": "un juge principal \u00bb (",
+    "Contexte droite": ". Tancrei, ms."
+  },
+  "Entite28": {
+    "entite": "Tancrei",
+    "label": "LOC",
+    "Contexte gauche": "principal \u00bb (Ordin.",
+    "Contexte droite": ", ms. Salis,"
+  },
+  "Entite29": {
+    "entite": "fo8dds Gdf",
+    "label": "PER",
+    "Contexte gauche": ", ms. Salis,",
+    "Contexte droite": ". Compl. : Accessors"
+  },
+  "Entite30": {
+    "entite": "li juges",
+    "label": "PER",
+    "Contexte gauche": ": Accessors est cil que",
+    "Contexte droite": "prant a compaignon por oir"
+  },
+  "Entite31": {
+    "entite": "Beaumanoir",
+    "label": "LOC",
+    "Contexte gauche": "\u00bb (Ph. de",
+    "Contexte droite": ", Coutumes Beauvaisis, C."
+  },
+  "Entite32": {
+    "entite": "Coutumes Beauvaisis",
+    "label": "PER",
+    "Contexte gauche": "Ph. de Beaumanoir,",
+    "Contexte droite": ", C. I, 26"
+  },
+  "Entite33": {
+    "entite": "C. I",
+    "label": "PER",
+    "Contexte gauche": "Beaumanoir, Coutumes Beauvaisis,",
+    "Contexte droite": ", 26, ibid."
+  },
+  "Entite34": {
+    "entite": "Div",
+    "label": "LOC",
+    "Contexte gauche": ", dep. Cic\u00e9ron,",
+    "Contexte droite": "., 1, 95"
+  },
+  "Entite35": {
+    "entite": "TLL s.v",
+    "label": "ORG",
+    "Contexte gauche": ", 1, 95 ds",
+    "Contexte droite": "., 873, 56"
+  },
+  "Entite36": {
+    "entite": "S\u00e9n\u00e8que",
+    "label": "MISC",
+    "Contexte gauche": "dans sa fonction \u00bb (",
+    "Contexte droite": ", Dial., 9"
+  },
+  "Entite37": {
+    "entite": "Dial.",
+    "label": "ORG",
+    "Contexte gauche": "fonction \u00bb (S\u00e9n\u00e8que,",
+    "Contexte droite": ", 9, 3,"
+  },
+  "Entite38": {
+    "entite": "STAT",
+    "label": "ORG",
+    "Contexte gauche": ", 62).\n",
+    "Contexte droite": ". \u2212 Fr\u00e9q. abs"
+  },
+  "Entite39": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": ". : 38.\n",
+    "Contexte droite": ". \u2212 Arch\u00e9ol. chr\u00e9t"
+  },
+  "Entite40": {
+    "entite": "\u2212 Bach.-Dez",
+    "label": "PER",
+    "Contexte gauche": ". chr\u00e9t. 1924.",
+    "Contexte droite": ". 1882. \u2212 B\u00e9l"
+  },
+  "Entite41": {
+    "entite": "B\u00e9l",
+    "label": "LOC",
+    "Contexte gauche": "Bach.-Dez. 1882. \u2212",
+    "Contexte droite": ". 1957. \u2212 Bouillet"
+  },
+  "Entite42": {
+    "entite": "Bouillet",
+    "label": "PER",
+    "Contexte gauche": "B\u00e9l. 1957. \u2212",
+    "Contexte droite": "1859. \u2212 Canada 1930"
+  },
+  "Entite43": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 Bouillet 1859. \u2212",
+    "Contexte droite": "1930. \u2212 Cap."
+  },
+  "Entite44": {
+    "entite": "Foi",
+    "label": "LOC",
+    "Contexte gauche": "Lab. 1846. \u2212",
+    "Contexte droite": "t. 1 1968. \u2212"
+  },
+  "Entite45": {
+    "entite": "Frey",
+    "label": "PER",
+    "Contexte gauche": "t. 1 1968. \u2212",
+    "Contexte droite": "1925, p. 223."
+  },
+  "Entite46": {
+    "entite": "M\u00e9t",
+    "label": "LOC",
+    "Contexte gauche": ", p. 223. \u2212",
+    "Contexte droite": ". 1955. \u2212 Pissot"
+  },
+  "Entite47": {
+    "entite": "Pissot 1803",
+    "label": "MISC",
+    "Contexte gauche": "M\u00e9t. 1955. \u2212",
+    "Contexte droite": ". \u2212 Sandry-Carr"
+  },
+  "Entite48": {
+    "entite": "Sandry-Carr",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 Pissot 1803. \u2212",
+    "Contexte droite": ". Cin\u00e9ma 1963. \u2212"
+  },
+  "Entite49": {
+    "entite": "St.-Edme",
+    "label": "LOC",
+    "Contexte gauche": ". Cin\u00e9ma 1963. \u2212",
+    "Contexte droite": "t. 2 1825."
+  }
+}

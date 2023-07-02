@@ -1,0 +1,86 @@
+{
+  "Entite0": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "- Totalitarisme, subst.",
+    "Contexte droite": ". \n\nSyst\u00e8me politique des"
+  },
+  "Entite1": {
+    "entite": "Green",
+    "label": "PER",
+    "Contexte gauche": "totalitarisme qu'il hait (",
+    "Contexte droite": ", Journal, 1950,"
+  },
+  "Entite2": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "il hait (Green,",
+    "Contexte droite": ", 1950, p. 67"
+  },
+  "Entite3": {
+    "entite": "Le Nouvel Observateur",
+    "label": "ORG",
+    "Contexte gauche": ", policier et commercial (",
+    "Contexte droite": ", 23 nov. 1966,"
+  },
+  "Entite4": {
+    "entite": "p. 25",
+    "label": "LOC",
+    "Contexte gauche": ", 23 nov. 1966,",
+    "Contexte droite": ", col. 4)"
+  },
+  "Entite5": {
+    "entite": "t\u0254talita\u0280ism\u032d].",
+    "label": "LOC",
+    "Contexte gauche": "\nPrononc.: [",
+    "Contexte droite": "\u00c9tymol. et Hist."
+  },
+  "Entite6": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "[t\u0254talita\u0280ism\u032d]. \u00c9tymol. et",
+    "Contexte droite": ". 1936 totalitarisme fasciste ou"
+  },
+  "Entite7": {
+    "entite": "Fr\u00e9q",
+    "label": "LOC",
+    "Contexte gauche": "*; suff. -isme*.",
+    "Contexte droite": ". abs. litt\u00e9r."
+  },
+  "Entite8": {
+    "entite": "Arias",
+    "label": "PER",
+    "Contexte gauche": ": 37. Bbg.",
+    "Contexte droite": "(F. F.)."
+  },
+  "Entite9": {
+    "entite": "Champ notionnel de fascisme...",
+    "label": "LOC",
+    "Contexte gauche": "F. F.). Le",
+    "Contexte droite": "Congr\u00e8s Internat. de Ling"
+  },
+  "Entite10": {
+    "entite": "Congr\u00e8s Internat",
+    "label": "PER",
+    "Contexte gauche": "Champ notionnel de fascisme...",
+    "Contexte droite": ". de Ling. et"
+  },
+  "Entite11": {
+    "entite": "Ling",
+    "label": "LOC",
+    "Contexte gauche": "... Congr\u00e8s Internat. de",
+    "Contexte droite": ". et Philol. Rom"
+  },
+  "Entite12": {
+    "entite": "Naples",
+    "label": "LOC",
+    "Contexte gauche": "et Philol. Rom.",
+    "Contexte droite": ", 1981, t. 5"
+  },
+  "Entite13": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "84. \u2212 Quem.",
+    "Contexte droite": "t. 7."
+  }
+}

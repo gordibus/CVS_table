@@ -1,0 +1,818 @@
+{
+  "Entite0": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "- Gendarme, subst.",
+    "Contexte droite": ". \nA. \u2212 HISTOIRE"
+  },
+  "Entite1": {
+    "entite": "Cavalier",
+    "label": "PER",
+    "Contexte gauche": "\u2212 HISTOIRE\n1.",
+    "Contexte droite": "arm\u00e9 de pied en cap"
+  },
+  "Entite2": {
+    "entite": "Don P\u00e8dre",
+    "label": "PER",
+    "Contexte gauche": "pesamment arm\u00e9s (M\u00e9rim\u00e9e,",
+    "Contexte droite": "1er,1848, p. 402)"
+  },
+  "Entite3": {
+    "entite": "Gentilhomme",
+    "label": "PER",
+    "Contexte gauche": "2.\na)",
+    "Contexte droite": "d'un corps de cavalerie"
+  },
+  "Entite4": {
+    "entite": "Gendarme d'Orl\u00e9ans",
+    "label": "MISC",
+    "Contexte gauche": "un grand du royaume.",
+    "Contexte droite": ", de la reine."
+  },
+  "Entite5": {
+    "entite": "Journ",
+    "label": "PER",
+    "Contexte gauche": "la garde (Vigny,",
+    "Contexte droite": ". po\u00e8te,1846, p. 1246).Au"
+  },
+  "Entite6": {
+    "entite": "Dauphin",
+    "label": "LOC",
+    "Contexte gauche": "de sous-lieutenant des gendarmes-",
+    "Contexte droite": "(A. France, Vie"
+  },
+  "Entite7": {
+    "entite": "A. France",
+    "label": "PER",
+    "Contexte gauche": "des gendarmes-Dauphin (",
+    "Contexte droite": ", Vie litt\u00e9r.,1892"
+  },
+  "Entite8": {
+    "entite": "Vie",
+    "label": "PER",
+    "Contexte gauche": "Dauphin (A. France,",
+    "Contexte droite": "litt\u00e9r.,1892, p."
+  },
+  "Entite9": {
+    "entite": "Amp\u00e9lour,1937",
+    "label": "PER",
+    "Contexte gauche": "du roi (Audiberti,",
+    "Contexte droite": ", p. 97)."
+  },
+  "Entite10": {
+    "entite": "Gendarme d'\u00e9lite",
+    "label": "MISC",
+    "Contexte gauche": "97).\n\u2666",
+    "Contexte droite": "(cf. gendarmerie A 2"
+  },
+  "Entite11": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "d'\u00e9lite (cf. gendarmerie",
+    "Contexte droite": "2).\nb"
+  },
+  "Entite12": {
+    "entite": "Hugo",
+    "label": "PER",
+    "Contexte gauche": "pour mari l'innocent (",
+    "Contexte droite": ", Art d'\u00eatre gd"
+  },
+  "Entite13": {
+    "entite": "Art",
+    "label": "PER",
+    "Contexte gauche": "l'innocent (Hugo,",
+    "Contexte droite": "d'\u00eatre gd-p\u00e8re,1877"
+  },
+  "Entite14": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "ex\u00e9cution des arr\u00eats judiciaires.",
+    "Contexte droite": ". cogne (pop."
+  },
+  "Entite15": {
+    "entite": "cogne",
+    "label": "LOC",
+    "Contexte gauche": "arr\u00eats judiciaires. Synon.",
+    "Contexte droite": "(pop.),"
+  },
+  "Entite16": {
+    "entite": "guignol",
+    "label": "PER",
+    "Contexte gauche": "(pop.),",
+    "Contexte droite": "(fam.),"
+  },
+  "Entite17": {
+    "entite": "Dumas p\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "prennent des teintes effrayantes (",
+    "Contexte droite": ", Monte-Cristo,"
+  },
+  "Entite18": {
+    "entite": "Monte-Cristo",
+    "label": "PER",
+    "Contexte gauche": "effrayantes (Dumas p\u00e8re,",
+    "Contexte droite": ", t. 2, 1846"
+  },
+  "Entite19": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "hussard de la guillotine (",
+    "Contexte droite": ", Splend. et mis"
+  },
+  "Entite20": {
+    "entite": "p. 535).Pour",
+    "label": "MISC",
+    "Contexte gauche": "et mis.,1847,",
+    "Contexte droite": "aider le ministre de l'"
+  },
+  "Entite21": {
+    "entite": "ministre de l'Int\u00e9rieur",
+    "label": "ORG",
+    "Contexte gauche": ", p. 535).Pour aider le",
+    "Contexte droite": "\u00e0 maintenir l'ordre public"
+  },
+  "Entite22": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "leur corps d'origine (",
+    "Contexte droite": ", M\u00e9m. guerre,1959,"
+  },
+  "Entite23": {
+    "entite": "Eh!",
+    "label": "ORG",
+    "Contexte gauche": ":\n1. \u00ab",
+    "Contexte droite": "dis-je, je connais"
+  },
+  "Entite24": {
+    "entite": "Saint-Exup",
+    "label": "LOC",
+    "Contexte gauche": "sont vides de cervelle.",
+    "Contexte droite": "., Citad.,1944"
+  },
+  "Entite25": {
+    "entite": "Citad",
+    "label": "LOC",
+    "Contexte gauche": "cervelle. Saint-Exup.,",
+    "Contexte droite": ".,1944, p. 974"
+  },
+  "Entite26": {
+    "entite": "piquet de gendarme",
+    "label": "PER",
+    "Contexte gauche": ", escouade, peloton,",
+    "Contexte droite": "; gendarme \u00e0 cheval,"
+  },
+  "Entite27": {
+    "entite": "Gendarme",
+    "label": "MISC",
+    "Contexte gauche": "aux gendarmes.\n\u2666",
+    "Contexte droite": "maritime. Militaire appartenant au"
+  },
+  "Entite28": {
+    "entite": "7-8)",
+    "label": "LOC",
+    "Contexte gauche": "p. 3, col.",
+    "Contexte droite": ".\n\u2212 Loc."
+  },
+  "Entite29": {
+    "entite": "J.-R. Bloch",
+    "label": "PER",
+    "Contexte gauche": "ampleur de ses talents (",
+    "Contexte droite": ", Dest. du S.,1931"
+  },
+  "Entite30": {
+    "entite": "Dest",
+    "label": "LOC",
+    "Contexte gauche": "talents (J.-R. Bloch,",
+    "Contexte droite": ". du S.,1931, p."
+  },
+  "Entite31": {
+    "entite": "Dormir",
+    "label": "PER",
+    "Contexte gauche": "Fam., vieilli.",
+    "Contexte droite": "en gendarme. ,,"
+  },
+  "Entite32": {
+    "entite": "L. Rigaud",
+    "label": "PER",
+    "Contexte gauche": "un \u0153il`` (",
+    "Contexte droite": ", Dict. arg."
+  },
+  "Entite33": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "` (L. Rigaud,",
+    "Contexte droite": ". arg. mod."
+  },
+  "Entite34": {
+    "entite": "Chapeau",
+    "label": "LOC",
+    "Contexte gauche": "139).\n\u2666",
+    "Contexte droite": "de gendarme. Bicorne que"
+  },
+  "Entite35": {
+    "entite": "Goncourt",
+    "label": "MISC",
+    "Contexte gauche": "un chapeau de gendarme (",
+    "Contexte droite": ", Journal,1871, p. 805"
+  },
+  "Entite36": {
+    "entite": "Journal,1871",
+    "label": "MISC",
+    "Contexte gauche": "de gendarme (Goncourt,",
+    "Contexte droite": ", p. 805)."
+  },
+  "Entite37": {
+    "entite": "Chapeau",
+    "label": "LOC",
+    "Contexte gauche": ".\nP. anal.",
+    "Contexte droite": "en papier rappelant la forme"
+  },
+  "Entite38": {
+    "entite": "J. Bousquet",
+    "label": "PER",
+    "Contexte gauche": "un chapeau de gendarme (",
+    "Contexte droite": ", Trad. du silence,1935"
+  },
+  "Entite39": {
+    "entite": "Trad",
+    "label": "LOC",
+    "Contexte gauche": "gendarme (J. Bousquet,",
+    "Contexte droite": ". du silence,1935-36"
+  },
+  "Entite40": {
+    "entite": "MmeColette",
+    "label": "LOC",
+    "Contexte gauche": "cette figure triangulaire [de",
+    "Contexte droite": "] \u00e0 nez pointu et"
+  },
+  "Entite41": {
+    "entite": "Zoo",
+    "label": "LOC",
+    "Contexte gauche": "une de ces lionnes du",
+    "Contexte droite": "(Cocteau, Po\u00e9s."
+  },
+  "Entite42": {
+    "entite": "Cocteau",
+    "label": "LOC",
+    "Contexte gauche": "ces lionnes du Zoo (",
+    "Contexte droite": ", Po\u00e9s. crit."
+  },
+  "Entite43": {
+    "entite": "Po\u00e9s",
+    "label": "LOC",
+    "Contexte gauche": "du Zoo (Cocteau,",
+    "Contexte droite": ". crit. II,"
+  },
+  "Entite44": {
+    "entite": "Flaub",
+    "label": "LOC",
+    "Contexte gauche": "gendarme et au voleur (",
+    "Contexte droite": "., 1re\u00c9duc. sent"
+  },
+  "Entite45": {
+    "entite": "Stendhal",
+    "label": "PER",
+    "Contexte gauche": "prot\u00e9g\u00e9 par le gendarme (",
+    "Contexte droite": ", M\u00e9m. touriste,"
+  },
+  "Entite46": {
+    "entite": "M\u00e9m",
+    "label": "PER",
+    "Contexte gauche": "le gendarme (Stendhal,",
+    "Contexte droite": ". touriste, t. 2"
+  },
+  "Entite47": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "les ennemis du peuple (",
+    "Contexte droite": ", Germinal,1885, p. 1336"
+  },
+  "Entite48": {
+    "entite": "Germinal,1885",
+    "label": "MISC",
+    "Contexte gauche": "du peuple (Zola,",
+    "Contexte droite": ", p. 1336) :"
+  },
+  "Entite49": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "2. Maintenant elle [",
+    "Contexte droite": "] est au cachot,"
+  },
+  "Entite50": {
+    "entite": "Bonaparte",
+    "label": "PER",
+    "Contexte gauche": "soyez tranquilles, le sieur",
+    "Contexte droite": ", gendarme \u00e0 la r\u00e9sidence"
+  },
+  "Entite51": {
+    "entite": "\u00c9lys\u00e9e",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 la r\u00e9sidence de l'",
+    "Contexte droite": ", en r\u00e9pond \u00e0 l'"
+  },
+  "Entite52": {
+    "entite": "l'Europe",
+    "label": "LOC",
+    "Contexte gauche": "\u00c9lys\u00e9e, en r\u00e9pond \u00e0",
+    "Contexte droite": "; (...) cette"
+  },
+  "Entite53": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "(...) cette mis\u00e9rable",
+    "Contexte droite": "a la camisole de force"
+  },
+  "Entite54": {
+    "entite": "Hugo",
+    "label": "PER",
+    "Contexte gauche": "la camisole de force...",
+    "Contexte droite": ", Nap. le Pt"
+  },
+  "Entite55": {
+    "entite": "Nap",
+    "label": "LOC",
+    "Contexte gauche": "de force... Hugo,",
+    "Contexte droite": ". le Pt, Paris"
+  },
+  "Entite56": {
+    "entite": "Pt",
+    "label": "LOC",
+    "Contexte gauche": "Hugo, Nap. le",
+    "Contexte droite": ", Paris, Hetzel-"
+  },
+  "Entite57": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "Nap. le Pt,",
+    "Contexte droite": ", Hetzel-Quantin,"
+  },
+  "Entite58": {
+    "entite": "Hetzel-Quantin",
+    "label": "LOC",
+    "Contexte gauche": "le Pt, Paris,",
+    "Contexte droite": ", 1882 [1852]"
+  },
+  "Entite59": {
+    "entite": "Gendarme am\u00e9ricain",
+    "label": "MISC",
+    "Contexte gauche": "p. 45.\n\u2666",
+    "Contexte droite": "au Proche-Orient,"
+  },
+  "Entite60": {
+    "entite": "Pr\u00e9sident Nixon",
+    "label": "PER",
+    "Contexte gauche": "gendarme du monde. Le",
+    "Contexte droite": "vient express\u00e9ment de renoncer,"
+  },
+  "Entite61": {
+    "entite": "Universit\u00e9",
+    "label": "ORG",
+    "Contexte gauche": "sujet des affaires de l'",
+    "Contexte droite": "(Zola, Argent,1891,"
+  },
+  "Entite62": {
+    "entite": "Gendarme de +",
+    "label": "MISC",
+    "Contexte gauche": ").\n\u03b2)",
+    "Contexte droite": "subst.Personne consid\u00e9r\u00e9e comme"
+  },
+  "Entite63": {
+    "entite": "Gendarme du mat\u00e9rialisme",
+    "label": "MISC",
+    "Contexte gauche": "protecteur de quelque chose.",
+    "Contexte droite": ", de la tradition."
+  },
+  "Entite64": {
+    "entite": "Audiberte",
+    "label": "LOC",
+    "Contexte gauche": "toujours les attitudes surveillantes d'",
+    "Contexte droite": ", sa s\u00e9r\u00e9nit\u00e9 de gendarme"
+  },
+  "Entite65": {
+    "entite": "A. Daudet",
+    "label": "PER",
+    "Contexte gauche": "deux amoureux \u00e0 froid (",
+    "Contexte droite": ", N. Roumestan,1881, p."
+  },
+  "Entite66": {
+    "entite": "N. Roumestan,1881",
+    "label": "PER",
+    "Contexte gauche": "froid (A. Daudet,",
+    "Contexte droite": ", p. 254).Ajalbert (..."
+  },
+  "Entite67": {
+    "entite": "Goncourt",
+    "label": "MISC",
+    "Contexte gauche": "des bouches devant elle (",
+    "Contexte droite": ", Journal,1894, p. 699"
+  },
+  "Entite68": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "gros os de gendarme (",
+    "Contexte droite": ", Pot-Bouille,1882,"
+  },
+  "Entite69": {
+    "entite": "Pot-Bouille,1882",
+    "label": "LOC",
+    "Contexte gauche": "de gendarme (Zola,",
+    "Contexte droite": ", p. 358)."
+  },
+  "Entite70": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "et aux mani\u00e8res autoritaires.",
+    "Contexte droite": ". virago.Elle,"
+  },
+  "Entite71": {
+    "entite": "Gaspard,1925",
+    "label": "LOC",
+    "Contexte gauche": "l'air (Pourrat,",
+    "Contexte droite": ", p. 226).Elle \u00e9tait accompagn\u00e9e"
+  },
+  "Entite72": {
+    "entite": "jupon",
+    "label": "LOC",
+    "Contexte gauche": "une esp\u00e8ce de gendarme en",
+    "Contexte droite": "(Cendrars, Bourlinguer,1948,"
+  },
+  "Entite73": {
+    "entite": "Cendrars",
+    "label": "LOC",
+    "Contexte gauche": "de gendarme en jupon (",
+    "Contexte droite": ", Bourlinguer,1948, p. 48"
+  },
+  "Entite74": {
+    "entite": "Bourlinguer,1948",
+    "label": "LOC",
+    "Contexte gauche": "en jupon (Cendrars,",
+    "Contexte droite": ", p. 48)."
+  },
+  "Entite75": {
+    "entite": "Hareng saur",
+    "label": "PER",
+    "Contexte gauche": "\n\u03b1) Pop.",
+    "Contexte droite": ". Il se contentait ("
+  },
+  "Entite76": {
+    "entite": "Braves",
+    "label": "PER",
+    "Contexte gauche": "beau gendarme (Richepin,",
+    "Contexte droite": "gens,1886, p. 17).Boissonnade."
+  },
+  "Entite77": {
+    "entite": "Avis",
+    "label": "ORG",
+    "Contexte gauche": "\u2212 La suivante : \u00ab",
+    "Contexte droite": "\u00e0 la population. Occasion"
+  },
+  "Entite78": {
+    "entite": "Gend",
+    "label": "LOC",
+    "Contexte gauche": "harengs saurs (Courteline,",
+    "Contexte droite": ". sans piti\u00e9,1899, p."
+  },
+  "Entite79": {
+    "entite": "Saucisson",
+    "label": "PER",
+    "Contexte gauche": "92).\n\u2212",
+    "Contexte droite": "sec, aplati et tr\u00e8s"
+  },
+  "Entite80": {
+    "entite": "Suisse",
+    "label": "LOC",
+    "Contexte gauche": "tr\u00e8s dur, fabriqu\u00e9 en",
+    "Contexte droite": "et dans l'est de"
+  },
+  "Entite81": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "et dans l'est de",
+    "Contexte droite": "(d'apr. Mont."
+  },
+  "Entite82": {
+    "entite": "Mont",
+    "label": "LOC",
+    "Contexte gauche": "la France (d'apr.",
+    "Contexte droite": ". 1967).\n"
+  },
+  "Entite83": {
+    "entite": "Maran",
+    "label": "LOC",
+    "Contexte gauche": "gendarmes et aux toucans (",
+    "Contexte droite": ", Batouala,1925, p. 32).Dans"
+  },
+  "Entite84": {
+    "entite": "Batouala,1925",
+    "label": "LOC",
+    "Contexte gauche": "aux toucans (Maran,",
+    "Contexte droite": ", p. 32).Dans les arbres"
+  },
+  "Entite85": {
+    "entite": "Gide",
+    "label": "LOC",
+    "Contexte gauche": "leur nid aux branches (",
+    "Contexte droite": ", Journal,1944, p. 268"
+  },
+  "Entite86": {
+    "entite": "Journal,1944",
+    "label": "LOC",
+    "Contexte gauche": "aux branches (Gide,",
+    "Contexte droite": ", p. 268)."
+  },
+  "Entite87": {
+    "entite": "Nom r\u00e9gional du vairon``",
+    "label": "LOC",
+    "Contexte gauche": ".\n\u2212 ,,",
+    "Contexte droite": "(Schreiner 1975)."
+  },
+  "Entite88": {
+    "entite": "Schreiner",
+    "label": "ORG",
+    "Contexte gauche": "du vairon`` (",
+    "Contexte droite": "1975).\nd"
+  },
+  "Entite89": {
+    "entite": "Tache",
+    "label": "LOC",
+    "Contexte gauche": ") JOAILL. ,,",
+    "Contexte droite": "ou f\u00ealure qui se rencontre"
+  },
+  "Entite90": {
+    "entite": "Bloc",
+    "label": "PER",
+    "Contexte gauche": ") G\u00c9OGR. PHYS.",
+    "Contexte droite": "rocheux pro\u00e9minent en montagne ("
+  },
+  "Entite91": {
+    "entite": "Gautrat",
+    "label": "LOC",
+    "Contexte gauche": "en montagne (d'apr.",
+    "Contexte droite": "1970). Gendarme est"
+  },
+  "Entite92": {
+    "entite": "Gendarme",
+    "label": "MISC",
+    "Contexte gauche": "apr. Gautrat 1970).",
+    "Contexte droite": "est (...) devenu"
+  },
+  "Entite93": {
+    "entite": "Gautrat",
+    "label": "LOC",
+    "Contexte gauche": "et rep\u00e9rable (d'apr.",
+    "Contexte droite": "1970).\nf"
+  },
+  "Entite94": {
+    "entite": "Flamm\u00e8ches",
+    "label": "ORG",
+    "Contexte gauche": "f) Au plur.",
+    "Contexte droite": "qui s'\u00e9chappent du feu"
+  },
+  "Entite95": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "on le tisonne. (",
+    "Contexte droite": ". xixes.)."
+  },
+  "Entite96": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "tisonne. (Dict.",
+    "Contexte droite": ".).\n3"
+  },
+  "Entite97": {
+    "entite": "Double fam.",
+    "label": "MISC",
+    "Contexte gauche": "visage gendarme (Balzac,",
+    "Contexte droite": ",1830, p. 282)"
+  },
+  "Entite98": {
+    "entite": "Gendarmaille, subst.",
+    "label": "MISC",
+    "Contexte gauche": "REM. 1.\n",
+    "Contexte droite": "f\u00e9m.,p\u00e9j.,"
+  },
+  "Entite99": {
+    "entite": "Martin du G.",
+    "label": "PER",
+    "Contexte gauche": "commune... la gendarmaille (",
+    "Contexte droite": ", Gonfle,1928, III,"
+  },
+  "Entite100": {
+    "entite": "Gonfle,1928",
+    "label": "LOC",
+    "Contexte gauche": "(Martin du G.,",
+    "Contexte droite": ", III, 1,"
+  },
+  "Entite101": {
+    "entite": "III",
+    "label": "LOC",
+    "Contexte gauche": "du G., Gonfle,1928,",
+    "Contexte droite": ", 1, p. 1221"
+  },
+  "Entite102": {
+    "entite": "Lexis1975",
+    "label": "MISC",
+    "Contexte gauche": ". Une gemme gendarmeuse (",
+    "Contexte droite": ").\n3."
+  },
+  "Entite103": {
+    "entite": "Jean Guiraud",
+    "label": "PER",
+    "Contexte gauche": "tira sur (...)",
+    "Contexte droite": "(L. Daudet, Br\u00e9v"
+  },
+  "Entite104": {
+    "entite": "L. Daudet",
+    "label": "PER",
+    "Contexte gauche": "...) Jean Guiraud (",
+    "Contexte droite": ", Br\u00e9v. journ."
+  },
+  "Entite105": {
+    "entite": "Br\u00e9v",
+    "label": "LOC",
+    "Contexte gauche": "Guiraud (L. Daudet,",
+    "Contexte droite": ". journ.,1936,"
+  },
+  "Entite106": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ". : [\u0292 \u0251"
+  },
+  "Entite107": {
+    "entite": "Ds",
+    "label": "MISC",
+    "Contexte gauche": ": [\u0292 \u0251 \u0303da\u0280m].",
+    "Contexte droite": "Ac. 1694-1932"
+  },
+  "Entite108": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "1932. \u00c9tymol. et",
+    "Contexte droite": ". 1. \u00ab homme"
+  },
+  "Entite109": {
+    "entite": "G. Chastellain",
+    "label": "PER",
+    "Contexte gauche": "av. 1475 escuier gendarme (",
+    "Contexte droite": ", Chron., \u00e9d"
+  },
+  "Entite110": {
+    "entite": "Chron",
+    "label": "LOC",
+    "Contexte gauche": "gendarme (G. Chastellain,",
+    "Contexte droite": "., \u00e9d. Kervyn"
+  },
+  "Entite111": {
+    "entite": "Kervyn de Lettenhove",
+    "label": "PER",
+    "Contexte gauche": "Chron., \u00e9d.",
+    "Contexte droite": ", IV, 275 :"
+  },
+  "Entite112": {
+    "entite": "IV",
+    "label": "MISC",
+    "Contexte gauche": ". Kervyn de Lettenhove,",
+    "Contexte droite": ", 275 : un gentil"
+  },
+  "Entite113": {
+    "entite": "G. Leseur",
+    "label": "PER",
+    "Contexte gauche": "; 1477-83 (",
+    "Contexte droite": ", Hist. de Gaston"
+  },
+  "Entite114": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "83 (G. Leseur,",
+    "Contexte droite": ". de Gaston de Foix"
+  },
+  "Entite115": {
+    "entite": "Gaston de Foix",
+    "label": "PER",
+    "Contexte gauche": "Leseur, Hist. de",
+    "Contexte droite": ", I, 63 ds"
+  },
+  "Entite116": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "de Gaston de Foix,",
+    "Contexte droite": ", 63 ds Bartzsch,"
+  },
+  "Entite117": {
+    "entite": "ds Bartzsch",
+    "label": "PER",
+    "Contexte gauche": "Foix, I, 63",
+    "Contexte droite": ", p. 147 : un"
+  },
+  "Entite118": {
+    "entite": "fort ays\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "bel et adroit gendarme ...",
+    "Contexte droite": "en son harnoys);"
+  },
+  "Entite119": {
+    "entite": "FEW",
+    "label": "MISC",
+    "Contexte gauche": "police \u00bb (d'apr.",
+    "Contexte droite": "t. 4, p. 107b"
+  },
+  "Entite120": {
+    "entite": "D\u00e9cret du 26-27",
+    "label": "MISC",
+    "Contexte gauche": "107b); 1792 (",
+    "Contexte droite": "ao\u00fbt 1792 ds Brunot t."
+  },
+  "Entite121": {
+    "entite": "Joinville",
+    "label": "LOC",
+    "Contexte gauche": "\u00bb d\u00e9but xives. (",
+    "Contexte droite": ", St-Louis,"
+  },
+  "Entite122": {
+    "entite": "St-Louis",
+    "label": "LOC",
+    "Contexte gauche": "xives. (Joinville,",
+    "Contexte droite": ", \u00e9d. N.L. Corbett"
+  },
+  "Entite123": {
+    "entite": "N.L. Corbett",
+    "label": "PER",
+    "Contexte gauche": "-Louis, \u00e9d.",
+    "Contexte droite": ", 143), \u00ab"
+  },
+  "Entite124": {
+    "entite": "Tite Live",
+    "label": "PER",
+    "Contexte gauche": "-56 (Bersuire,",
+    "Contexte droite": ", B.N., 20312 ter"
+  },
+  "Entite125": {
+    "entite": "ds Isambert",
+    "label": "PER",
+    "Contexte gauche": "une force permanente \u00e0 cheval",
+    "Contexte droite": ", Recueil g\u00e9n. anc"
+  },
+  "Entite126": {
+    "entite": "Recueil g\u00e9n",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 cheval ds Isambert,",
+    "Contexte droite": ". anc. lois fr"
+  },
+  "Entite127": {
+    "entite": "fr.",
+    "label": "ORG",
+    "Contexte gauche": "g\u00e9n. anc. lois",
+    "Contexte droite": ", t. 9, p."
+  },
+  "Entite128": {
+    "entite": "t. 9",
+    "label": "LOC",
+    "Contexte gauche": ". lois fr.,",
+    "Contexte droite": ", p. 59, \u00a7"
+  },
+  "Entite129": {
+    "entite": "ca 1465",
+    "label": "MISC",
+    "Contexte gauche": ", sing. coll.",
+    "Contexte droite": "(Chants hist. des"
+  },
+  "Entite130": {
+    "entite": "Chants hist",
+    "label": "MISC",
+    "Contexte gauche": "coll. ca 1465 (",
+    "Contexte droite": ". des r\u00e8gnes de Ch"
+  },
+  "Entite131": {
+    "entite": "Ch",
+    "label": "ORG",
+    "Contexte gauche": "hist. des r\u00e8gnes de",
+    "Contexte droite": ". VII et L. XI"
+  },
+  "Entite132": {
+    "entite": "L. XI",
+    "label": "PER",
+    "Contexte gauche": "de Ch. VII et",
+    "Contexte droite": ", Bartzsch, p. 148"
+  },
+  "Entite133": {
+    "entite": "Bartzsch",
+    "label": "MISC",
+    "Contexte gauche": "VII et L. XI,",
+    "Contexte droite": ", p. 148),"
+  },
+  "Entite134": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 2"
+  },
+  "Entite135": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 2 707;",
+    "Contexte droite": ". : a) 3"
+  }
+}

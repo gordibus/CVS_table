@@ -1,0 +1,2036 @@
+{
+  "Entite0": {
+    "entite": "- Justice",
+    "label": "PER",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite1": {
+    "entite": "Principe",
+    "label": "LOC",
+    "Contexte gauche": "compl. d\u00e9term.]",
+    "Contexte droite": "moral impliquant la conformit\u00e9 de"
+  },
+  "Entite2": {
+    "entite": "Clemenceau",
+    "label": "PER",
+    "Contexte gauche": "libre de s'arr\u00eater (",
+    "Contexte droite": ", Iniquit\u00e9,1899, p. 276).La"
+  },
+  "Entite3": {
+    "entite": "Iniquit\u00e9,1899",
+    "label": "PER",
+    "Contexte gauche": "s'arr\u00eater (Clemenceau,",
+    "Contexte droite": ", p. 276).La justice a"
+  },
+  "Entite4": {
+    "entite": "Bergson",
+    "label": "PER",
+    "Contexte gauche": "proportion, de compensation (",
+    "Contexte droite": ", Deux sources,1932, p."
+  },
+  "Entite5": {
+    "entite": "68).V.",
+    "label": "LOC",
+    "Contexte gauche": ", Deux sources,1932, p.",
+    "Contexte droite": "carrefour ex. 3;"
+  },
+  "Entite6": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "ex. 3; \u00e9quit\u00e9",
+    "Contexte droite": "2 a ex. de"
+  },
+  "Entite7": {
+    "entite": "Weill",
+    "label": "LOC",
+    "Contexte gauche": "2 a ex. de",
+    "Contexte droite": "; indiff\u00e9rent ex. 4"
+  },
+  "Entite8": {
+    "entite": "A 1",
+    "label": "MISC",
+    "Contexte gauche": "ex. 4; injustice",
+    "Contexte droite": "ex. de Clemenceau et"
+  },
+  "Entite9": {
+    "entite": "Clemenceau",
+    "label": "PER",
+    "Contexte gauche": "A 1 ex. de",
+    "Contexte droite": "et ex. 1;"
+  },
+  "Entite10": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "autre originalit\u00e9 que de soumettre",
+    "Contexte droite": "\u00e0 la justice et d'"
+  },
+  "Entite11": {
+    "entite": "Homme r\u00e9v.",
+    "label": "MISC",
+    "Contexte gauche": "histoire contemporaine. Camus,",
+    "Contexte droite": ",1951, p. 144."
+  },
+  "Entite12": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "dans la peine, le",
+    "Contexte droite": "de justice et de mis\u00e9ricorde"
+  },
+  "Entite13": {
+    "entite": "Weill",
+    "label": "PER",
+    "Contexte gauche": "justice et de mis\u00e9ricorde (",
+    "Contexte droite": ", op. cit."
+  },
+  "Entite14": {
+    "entite": "Europe",
+    "label": "LOC",
+    "Contexte gauche": "pour la cr\u00e9ation d'une",
+    "Contexte droite": "solidaire, cette paix ("
+  },
+  "Entite15": {
+    "entite": "Martin du G.",
+    "label": "PER",
+    "Contexte gauche": "un trait\u00e9 de plus (",
+    "Contexte droite": ", Thib., \u00c9pil"
+  },
+  "Entite16": {
+    "entite": "\u00c9pil",
+    "label": "PER",
+    "Contexte gauche": "G., Thib.,",
+    "Contexte droite": "., 1940, p."
+  },
+  "Entite17": {
+    "entite": "Ric\u0153ur",
+    "label": "PER",
+    "Contexte gauche": "pain et d'eau.",
+    "Contexte droite": ", Philos. volont\u00e9,1949,"
+  },
+  "Entite18": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "d'eau. Ric\u0153ur,",
+    "Contexte droite": ". volont\u00e9,1949, p. 122"
+  },
+  "Entite19": {
+    "entite": "Le Ma\u00eetre de Justice",
+    "label": "MISC",
+    "Contexte gauche": "Dans la secte ess\u00e9nienne]",
+    "Contexte droite": ". Le l\u00e9gislateur. ["
+  },
+  "Entite20": {
+    "entite": "J\u00e9sus le Nazar\u00e9en",
+    "label": "PER",
+    "Contexte gauche": "le ma\u00eetre de justice et",
+    "Contexte droite": ", entre le Messie ess\u00e9nien"
+  },
+  "Entite21": {
+    "entite": "Messie",
+    "label": "MISC",
+    "Contexte gauche": "le Nazar\u00e9en, entre le",
+    "Contexte droite": "ess\u00e9nien et le Messie chr\u00e9tien"
+  },
+  "Entite22": {
+    "entite": "Messie",
+    "label": "MISC",
+    "Contexte gauche": "le Messie ess\u00e9nien et le",
+    "Contexte droite": "chr\u00e9tien (Philos.,"
+  },
+  "Entite23": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "et le Messie chr\u00e9tien (",
+    "Contexte droite": "., Relig.,"
+  },
+  "Entite24": {
+    "entite": "Relig",
+    "label": "MISC",
+    "Contexte gauche": "chr\u00e9tien (Philos.,",
+    "Contexte droite": "., 1857, p."
+  },
+  "Entite25": {
+    "entite": "Verbe",
+    "label": "PER",
+    "Contexte gauche": "4).\n\u2212",
+    "Contexte droite": "+ justice :\n3"
+  },
+  "Entite26": {
+    "entite": "Propri\u00e9t\u00e9,1840",
+    "label": "PER",
+    "Contexte gauche": "de soci\u00e9t\u00e9. Proudhon,",
+    "Contexte droite": ", p. 300.\n"
+  },
+  "Entite27": {
+    "entite": "Fran\u00e7ais",
+    "label": "LOC",
+    "Contexte gauche": "Cette faveur publique que les",
+    "Contexte droite": "prodiguent quelquefois avec si peu"
+  },
+  "Entite28": {
+    "entite": "Hermite, t. 5",
+    "label": "MISC",
+    "Contexte gauche": "de discernement (Jouy,",
+    "Contexte droite": ", 1814, p. 280"
+  },
+  "Entite29": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "):\n4. Si",
+    "Contexte droite": ", autrefois si grande de"
+  },
+  "Entite30": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": ", elle ne serait plus",
+    "Contexte droite": "... Clemenceau, Vers r\u00e9paration,1899"
+  },
+  "Entite31": {
+    "entite": "Vers",
+    "label": "PER",
+    "Contexte gauche": "la France... Clemenceau,",
+    "Contexte droite": "r\u00e9paration,1899, p. 466."
+  },
+  "Entite32": {
+    "entite": "Justice +",
+    "label": "ORG",
+    "Contexte gauche": "p. 466.\n\u2666",
+    "Contexte droite": "d\u00e9term.Le roi n'"
+  },
+  "Entite33": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "\u2666 Justice + d\u00e9term.",
+    "Contexte droite": "n'a cru, ni"
+  },
+  "Entite34": {
+    "entite": "Van-der-Noot",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9galement adress\u00e9s par le sieur",
+    "Contexte droite": "(Le Moniteur,t."
+  },
+  "Entite35": {
+    "entite": "Le Moniteur,t. 2",
+    "label": "MISC",
+    "Contexte gauche": "-der-Noot (",
+    "Contexte droite": ", 1789, p. 351).J'"
+  },
+  "Entite36": {
+    "entite": "L'H\u00e9ritier, Lettres",
+    "label": "MISC",
+    "Contexte gauche": "de douleurs (Latouche,",
+    "Contexte droite": "amans,1821, p. 107):"
+  },
+  "Entite37": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "il y avait vraiment un",
+    "Contexte droite": ", ce Dieu juste dont"
+  },
+  "Entite38": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "vraiment un Dieu, ce",
+    "Contexte droite": "juste dont tout c\u0153ur simple"
+  },
+  "Entite39": {
+    "entite": "Jean-Jacques,1950",
+    "label": "PER",
+    "Contexte gauche": "et consol\u00e9s. Gu\u00e9henno,",
+    "Contexte droite": ", p. 145.\n"
+  },
+  "Entite40": {
+    "entite": "Barbazan",
+    "label": "PER",
+    "Contexte gauche": "th\u00e8se. Le sire de",
+    "Contexte droite": "leur fit un discours pour"
+  },
+  "Entite41": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "justice de leur cause (",
+    "Contexte droite": ", Hist. ducs Bourg"
+  },
+  "Entite42": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante, Hist.",
+    "Contexte droite": "., t. 2,"
+  },
+  "Entite43": {
+    "entite": "Karr",
+    "label": "PER",
+    "Contexte gauche": "l'\u00e9quit\u00e9 des caresses (",
+    "Contexte droite": ", Sous tilleuls,1832, p."
+  },
+  "Entite44": {
+    "entite": "Sous tilleuls,1832, p. 78):\n6",
+    "label": "MISC",
+    "Contexte gauche": "des caresses (Karr,",
+    "Contexte droite": ". Lefranc prend la parole"
+  },
+  "Entite45": {
+    "entite": "Lefranc",
+    "label": "PER",
+    "Contexte gauche": "78):\n6.",
+    "Contexte droite": "prend la parole. Au"
+  },
+  "Entite46": {
+    "entite": "Journal,1892",
+    "label": "MISC",
+    "Contexte gauche": "cause... \u00bb Goncourt,",
+    "Contexte droite": ", p. 315.\n"
+  },
+  "Entite47": {
+    "entite": "Mani\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "compl. d\u00e9term.]",
+    "Contexte droite": "de concevoir, de promouvoir"
+  },
+  "Entite48": {
+    "entite": "A 1",
+    "label": "LOC",
+    "Contexte gauche": "promouvoir la justice (supra",
+    "Contexte droite": "); sa mise en"
+  },
+  "Entite49": {
+    "entite": "France",
+    "label": "PER",
+    "Contexte gauche": "rigueurs de la justice (",
+    "Contexte droite": ", Vie fleur,1922, p."
+  },
+  "Entite50": {
+    "entite": "Vie fleur,1922, p. 361).Il",
+    "label": "MISC",
+    "Contexte gauche": "la justice (France,",
+    "Contexte droite": "n'y a pas de"
+  },
+  "Entite51": {
+    "entite": "Gaspard,1922",
+    "label": "LOC",
+    "Contexte gauche": "son c\u0153ur (Pourrat,",
+    "Contexte droite": ", p. 246).Le monde s'"
+  },
+  "Entite52": {
+    "entite": "La Croix",
+    "label": "ORG",
+    "Contexte gauche": "il ne lit plus gu\u00e8re",
+    "Contexte droite": ", il se fout des"
+  },
+  "Entite53": {
+    "entite": "H. Bazin",
+    "label": "PER",
+    "Contexte gauche": "et non vos aum\u00f4nes (",
+    "Contexte droite": ", Vip\u00e8re,1948, p. 240).V."
+  },
+  "Entite54": {
+    "entite": "Homme r\u00e9v.",
+    "label": "MISC",
+    "Contexte gauche": "au monde. Camus,",
+    "Contexte droite": ",1951, p. 359."
+  },
+  "Entite55": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "p. 359.\n\u2666",
+    "Contexte droite": "., au sing."
+  },
+  "Entite56": {
+    "entite": "Le Moniteur,t. 2",
+    "label": "MISC",
+    "Contexte gauche": "dette et une justice (",
+    "Contexte droite": ", 1789, p. 342).Don"
+  },
+  "Entite57": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "l'homme aux justices (",
+    "Contexte droite": "., Corresp.,"
+  },
+  "Entite58": {
+    "entite": "Corresp.",
+    "label": "ORG",
+    "Contexte gauche": "justices (Chateaubr.,",
+    "Contexte droite": ", t. 2, 1821"
+  },
+  "Entite59": {
+    "entite": "Reine",
+    "label": "PER",
+    "Contexte gauche": "bienfaits... Montherl.,",
+    "Contexte droite": "morte,1942, II, 1ertabl"
+  },
+  "Entite60": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "., Reine morte,1942,",
+    "Contexte droite": ", 1ertabl., 3"
+  },
+  "Entite61": {
+    "entite": "Justice +",
+    "label": "ORG",
+    "Contexte gauche": "p. 182.\n\u2212",
+    "Contexte droite": "d\u00e9term.\n1."
+  },
+  "Entite62": {
+    "entite": "Un fils a\u00een\u00e9",
+    "label": "MISC",
+    "Contexte gauche": ". exprime une qualit\u00e9]",
+    "Contexte droite": "qui vient, non r\u00e9clamer"
+  },
+  "Entite63": {
+    "entite": "Notaire,1836",
+    "label": "LOC",
+    "Contexte gauche": "ses fr\u00e8res (Gozlan,",
+    "Contexte droite": ", p. 34).Il n'y"
+  },
+  "Entite64": {
+    "entite": "Clemenceau",
+    "label": "PER",
+    "Contexte gauche": "\u00e9gale justice pour tous (",
+    "Contexte droite": ", Iniquit\u00e9,1899, p. 244).D'"
+  },
+  "Entite65": {
+    "entite": "Iniquit\u00e9,1899",
+    "label": "PER",
+    "Contexte gauche": "pour tous (Clemenceau,",
+    "Contexte droite": ", p. 244).D'ici l'"
+  },
+  "Entite66": {
+    "entite": "Arnoux, Gentilsh",
+    "label": "MISC",
+    "Contexte gauche": "froide et tranchante justice (",
+    "Contexte droite": ". ceinture,1928, p. 222).V."
+  },
+  "Entite67": {
+    "entite": "Jank\u00e9l\u00e9vitch",
+    "label": "MISC",
+    "Contexte gauche": "222).V. \u00e9quit\u00e9 ex. de",
+    "Contexte droite": ":\n9. Sa"
+  },
+  "Entite68": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "pour deux... Beauvoir,",
+    "Contexte droite": "j. fille,1958, p. 44"
+  },
+  "Entite69": {
+    "entite": "Le d\u00e9term.",
+    "label": "LOC",
+    "Contexte gauche": "]\na) [",
+    "Contexte droite": "est un adj.]"
+  },
+  "Entite70": {
+    "entite": "Justice",
+    "label": "PER",
+    "Contexte gauche": "est un adj.]",
+    "Contexte droite": "providentielle, surnaturelle; justice"
+  },
+  "Entite71": {
+    "entite": "Bonald",
+    "label": "MISC",
+    "Contexte gauche": "sur la justice divine (",
+    "Contexte droite": ", L\u00e9gisl. primit."
+  },
+  "Entite72": {
+    "entite": "L\u00e9gisl",
+    "label": "PER",
+    "Contexte gauche": "justice divine (Bonald,",
+    "Contexte droite": ". primit., t."
+  },
+  "Entite73": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": ", p. 185).Les lois de",
+    "Contexte droite": "sont le code le plus"
+  },
+  "Entite74": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "de la justice naturelle (",
+    "Contexte droite": "., G\u00e9nie, t."
+  },
+  "Entite75": {
+    "entite": "G\u00e9nie, t. 2",
+    "label": "MISC",
+    "Contexte gauche": "naturelle (Chateaubr.,",
+    "Contexte droite": ", 1803, p. 571).V."
+  },
+  "Entite76": {
+    "entite": "A 2",
+    "label": "LOC",
+    "Contexte gauche": "1803, p. 571).V. \u00e9quit\u00e9",
+    "Contexte droite": "a ex. de Cousin"
+  },
+  "Entite77": {
+    "entite": "Cousin",
+    "label": "LOC",
+    "Contexte gauche": "2 a ex. de",
+    "Contexte droite": ", Vrai, 1836,"
+  },
+  "Entite78": {
+    "entite": "Alain",
+    "label": "PER",
+    "Contexte gauche": "qu'\u00e0 l'autre.",
+    "Contexte droite": ", Propos,1912, p. 137"
+  },
+  "Entite79": {
+    "entite": "Justice immanente*. Justice",
+    "label": "MISC",
+    "Contexte gauche": ", p. 137.\n",
+    "Contexte droite": "commutative*. Justice distributrice (v."
+  },
+  "Entite80": {
+    "entite": "Justice distributrice",
+    "label": "MISC",
+    "Contexte gauche": "\nJustice immanente*. Justice commutative*.",
+    "Contexte droite": "(v. distributeur rem."
+  },
+  "Entite81": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": ".).\n\u2666",
+    "Contexte droite": "., litt\u00e9r. Celui"
+  },
+  "Entite82": {
+    "entite": "Ruines,1791",
+    "label": "LOC",
+    "Contexte gauche": "accomplissent! (Volney,",
+    "Contexte droite": ", p. 16).Les ch\u00e2timens d\u00e9cern\u00e9s"
+  },
+  "Entite83": {
+    "entite": "J. de Maistre",
+    "label": "PER",
+    "Contexte gauche": "par la justice humaine (",
+    "Contexte droite": ", Soir\u00e9es St-P\u00e9tersb"
+  },
+  "Entite84": {
+    "entite": "Soir\u00e9es St-P\u00e9tersb",
+    "label": "LOC",
+    "Contexte gauche": "(J. de Maistre,",
+    "Contexte droite": "., t. 1,"
+  },
+  "Entite85": {
+    "entite": "Avenir sc.",
+    "label": "MISC",
+    "Contexte gauche": "-bas. Renan,",
+    "Contexte droite": ",1890, p. 523."
+  },
+  "Entite86": {
+    "entite": "Justice divine!",
+    "label": "PER",
+    "Contexte gauche": "\nLoc. exclam.",
+    "Contexte droite": "Justice divine!... M."
+  },
+  "Entite87": {
+    "entite": "Justice divine!",
+    "label": "PER",
+    "Contexte gauche": "exclam. Justice divine!",
+    "Contexte droite": "... M. Daniel n'a"
+  },
+  "Entite88": {
+    "entite": "Daniel",
+    "label": "PER",
+    "Contexte gauche": "Justice divine!... M.",
+    "Contexte droite": "n'a pas d\u00e9jeun\u00e9!"
+  },
+  "Entite89": {
+    "entite": "A. Daudet",
+    "label": "PER",
+    "Contexte gauche": "pas d\u00e9jeun\u00e9!... (",
+    "Contexte droite": ", Pt Chose,1868, p."
+  },
+  "Entite90": {
+    "entite": "Pt Chose,1868, p. 49",
+    "label": "MISC",
+    "Contexte gauche": "... (A. Daudet,",
+    "Contexte droite": ").\nb)"
+  },
+  "Entite91": {
+    "entite": "Le d\u00e9term.",
+    "label": "LOC",
+    "Contexte gauche": ".\nb) [",
+    "Contexte droite": "est un compl. de"
+  },
+  "Entite92": {
+    "entite": "Fort peu exact",
+    "label": "MISC",
+    "Contexte gauche": "compl. de nom]",
+    "Contexte droite": "moi-m\u00eame \u00e0 donner"
+  },
+  "Entite93": {
+    "entite": "Lettres Fr.",
+    "label": "ORG",
+    "Contexte gauche": "ce monde (Courier,",
+    "Contexte droite": "et Ital.,1807,"
+  },
+  "Entite94": {
+    "entite": "Ital",
+    "label": "LOC",
+    "Contexte gauche": ", Lettres Fr. et",
+    "Contexte droite": ".,1807, p. 746).Il"
+  },
+  "Entite95": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "rien et la justice de",
+    "Contexte droite": "tout (Camus, \u00c9tranger,1942"
+  },
+  "Entite96": {
+    "entite": "\u00c9tranger,1942",
+    "label": "LOC",
+    "Contexte gauche": "Dieu tout (Camus,",
+    "Contexte droite": ", p. 1206):\n"
+  },
+  "Entite97": {
+    "entite": "S. D. N.",
+    "label": "LOC",
+    "Contexte gauche": "manque au berceau de la",
+    "Contexte droite": ", c'est la foi"
+  },
+  "Entite98": {
+    "entite": "Hommes bonne",
+    "label": "MISC",
+    "Contexte gauche": "la violence. Romains,",
+    "Contexte droite": "vol.,1939, p."
+  },
+  "Entite99": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "p. 246.\n\u2666",
+    "Contexte droite": "., au plur."
+  },
+  "Entite100": {
+    "entite": "Veuillot",
+    "label": "PER",
+    "Contexte gauche": "il y a l'autre",
+    "Contexte droite": ", celui qui s'amuse"
+  },
+  "Entite101": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 m\u00eame du prochain (",
+    "Contexte droite": ", Nouv. lundis,"
+  },
+  "Entite102": {
+    "entite": "Nouv",
+    "label": "PER",
+    "Contexte gauche": "du prochain (Sainte-Beuve,",
+    "Contexte droite": ". lundis, t. 1"
+  },
+  "Entite103": {
+    "entite": "Vers",
+    "label": "PER",
+    "Contexte gauche": "d'injures (Clemenceau,",
+    "Contexte droite": "r\u00e9paration,1899, p. 538)"
+  },
+  "Entite104": {
+    "entite": "Camus",
+    "label": "MISC",
+    "Contexte gauche": "justice de deux tra\u00eetres (",
+    "Contexte droite": ", Chev. Olmedo,1957,"
+  },
+  "Entite105": {
+    "entite": "Charles Gosselin",
+    "label": "PER",
+    "Contexte gauche": "un tort subi. M.",
+    "Contexte droite": ", auquel je donnerai plein"
+  },
+  "Entite106": {
+    "entite": "Corresp",
+    "label": "LOC",
+    "Contexte gauche": "inou\u00efe (Lamart.,",
+    "Contexte droite": ".,1835, p. 108"
+  },
+  "Entite107": {
+    "entite": "Las Cases",
+    "label": "LOC",
+    "Contexte gauche": "faussement accus\u00e9 et condamn\u00e9.",
+    "Contexte droite": ", M\u00e9mor. Ste-"
+  },
+  "Entite108": {
+    "entite": "M\u00e9mor.",
+    "label": "MISC",
+    "Contexte gauche": "condamn\u00e9. Las Cases,",
+    "Contexte droite": "Ste-H\u00e9l\u00e8ne, t."
+  },
+  "Entite109": {
+    "entite": "Ch\u00e2tier",
+    "label": "PER",
+    "Contexte gauche": "\na) Absol.",
+    "Contexte droite": "un coupable, ex\u00e9cuter une"
+  },
+  "Entite110": {
+    "entite": "Fais",
+    "label": "LOC",
+    "Contexte gauche": "ton fid\u00e8le homme lige;",
+    "Contexte droite": "justice, Fernan, venge"
+  },
+  "Entite111": {
+    "entite": "Troph\u00e9es,1893",
+    "label": "MISC",
+    "Contexte gauche": "-nous! (H\u00e9r\u00e9dia,",
+    "Contexte droite": ", p. 167):\n"
+  },
+  "Entite112": {
+    "entite": "Si",
+    "label": "MISC",
+    "Contexte gauche": "167):\n14.",
+    "Contexte droite": "(...) [l'"
+  },
+  "Entite113": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "(...) [l'",
+    "Contexte droite": "] entre dans un conflit"
+  },
+  "Entite114": {
+    "entite": "Disra\u00ebli,1927",
+    "label": "LOC",
+    "Contexte gauche": "soit faite. Maurois,",
+    "Contexte droite": ", p. 288.\n"
+  },
+  "Entite115": {
+    "entite": "Faire justice",
+    "label": "MISC",
+    "Contexte gauche": "288.\nb)",
+    "Contexte droite": "\u00e0 qqn. Reconna\u00eetre le"
+  },
+  "Entite116": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "J'en portai plainte \u00e0",
+    "Contexte droite": "le lieutenant-criminel,"
+  },
+  "Entite117": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "me d\u00e9barrassant du vilain (",
+    "Contexte droite": ", Opinions J. Coignard,1893,"
+  },
+  "Entite118": {
+    "entite": "Opinions J. Coignard,1893",
+    "label": "PER",
+    "Contexte gauche": "du vilain (France,",
+    "Contexte droite": ", p. 136)."
+  },
+  "Entite119": {
+    "entite": "Faire justice",
+    "label": "MISC",
+    "Contexte gauche": ").\nc)",
+    "Contexte droite": "de qqn, de qqc"
+  },
+  "Entite120": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "crimes qui se commettaient (",
+    "Contexte droite": ", Hist. ducs Bourg"
+  },
+  "Entite121": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante, Hist.",
+    "Contexte droite": "., t. 4,"
+  },
+  "Entite122": {
+    "entite": "En votre qualit\u00e9 de podestat vous \u00eates",
+    "label": "MISC",
+    "Contexte gauche": "sur-le-champ farines et fourrages;",
+    "Contexte droite": "Le seul capable ici de"
+  },
+  "Entite123": {
+    "entite": "Sinon",
+    "label": "PER",
+    "Contexte gauche": "heure pour ce soin,",
+    "Contexte droite": ", de vous ces gens"
+  },
+  "Entite124": {
+    "entite": "Satires,1865",
+    "label": "PER",
+    "Contexte gauche": "prompte justice. Barbier,",
+    "Contexte droite": ", p. 194.\n"
+  },
+  "Entite125": {
+    "entite": "Proudhon",
+    "label": "LOC",
+    "Contexte gauche": "justice de leurs \u00e9quivoques (",
+    "Contexte droite": ", Propri\u00e9t\u00e9,1840, p. 218).J'"
+  },
+  "Entite126": {
+    "entite": "Propri\u00e9t\u00e9,1840",
+    "label": "LOC",
+    "Contexte gauche": "leurs \u00e9quivoques (Proudhon,",
+    "Contexte droite": ", p. 218).J'avais couvert"
+  },
+  "Entite127": {
+    "entite": "Fromentin, Dominique,1863",
+    "label": "MISC",
+    "Contexte gauche": "j'en fis justice (",
+    "Contexte droite": ", p. 141)."
+  },
+  "Entite128": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": "ch\u00e2tier un coupable. En",
+    "Contexte droite": "(...) jusque sous"
+  },
+  "Entite129": {
+    "entite": "Maximilien",
+    "label": "PER",
+    "Contexte gauche": "(...) jusque sous",
+    "Contexte droite": "r\u00e8gne le droit du poing"
+  },
+  "Entite130": {
+    "entite": "Taine",
+    "label": "PER",
+    "Contexte gauche": "justice soi-m\u00eame (",
+    "Contexte droite": ", Philos. art,"
+  },
+  "Entite131": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "-m\u00eame (Taine,",
+    "Contexte droite": ". art, t. 1"
+  },
+  "Entite132": {
+    "entite": "alfred",
+    "label": "PER",
+    "Contexte gauche": "127):\n16.",
+    "Contexte droite": ": Mais, Monsieur le"
+  },
+  "Entite133": {
+    "entite": "Monsieur",
+    "label": "PER",
+    "Contexte gauche": ". alfred : Mais,",
+    "Contexte droite": "le Pr\u00e9sident, il fallait"
+  },
+  "Entite134": {
+    "entite": "Client",
+    "label": "LOC",
+    "Contexte gauche": "-m\u00eame. Courteline,",
+    "Contexte droite": "s\u00e9r.,1897, 3"
+  },
+  "Entite135": {
+    "entite": "Assembl\u00e9e nationale",
+    "label": "ORG",
+    "Contexte gauche": "ceux des membres de l'",
+    "Contexte droite": "qui n'\u00e9taient pas dans"
+  },
+  "Entite136": {
+    "entite": "Le Moniteur,t. 2",
+    "label": "MISC",
+    "Contexte gauche": "les principes du peuple (",
+    "Contexte droite": ", 1789, p. 550"
+  },
+  "Entite137": {
+    "entite": "Janet, Obsess.",
+    "label": "MISC",
+    "Contexte gauche": "justice par le suicide (",
+    "Contexte droite": "et psychasth.,1903,"
+  },
+  "Entite138": {
+    "entite": "Luxembourgeois",
+    "label": "LOC",
+    "Contexte gauche": ",1903, p. 73).Un jeune",
+    "Contexte droite": "d'Esch-sur-Alzette, pris de"
+  },
+  "Entite139": {
+    "entite": "Esch-sur-Alzette",
+    "label": "LOC",
+    "Contexte gauche": "p. 73).Un jeune Luxembourgeois d'",
+    "Contexte droite": ", pris de boisson,"
+  },
+  "Entite140": {
+    "entite": "L'Est R\u00e9publicain,5",
+    "label": "MISC",
+    "Contexte gauche": "pour se faire justice (",
+    "Contexte droite": "d\u00e9c. 1980, p. 15"
+  },
+  "Entite141": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "dignit\u00e9 de mon attitude (",
+    "Contexte droite": ", DrPascal,1893, p. 98).V."
+  },
+  "Entite142": {
+    "entite": "DrPascal,1893, p. 98).V.",
+    "label": "MISC",
+    "Contexte gauche": "mon attitude (Zola,",
+    "Contexte droite": "amour ex. 286 :"
+  },
+  "Entite143": {
+    "entite": "Turgot",
+    "label": "PER",
+    "Contexte gauche": "17. Le plan de",
+    "Contexte droite": "pour assainir les finances n'"
+  },
+  "Entite144": {
+    "entite": "Bainville",
+    "label": "LOC",
+    "Contexte gauche": "qui l'ont pr\u00e9c\u00e9d\u00e9.",
+    "Contexte droite": ", Hist. Fr."
+  },
+  "Entite145": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "ont pr\u00e9c\u00e9d\u00e9. Bainville,",
+    "Contexte droite": ". Fr., t."
+  },
+  "Entite146": {
+    "entite": "Bernanos",
+    "label": "PER",
+    "Contexte gauche": "la corbeille \u00e0 papier (",
+    "Contexte droite": ", Mauv. r\u00eave,1948,"
+  },
+  "Entite147": {
+    "entite": "Mauv",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 papier (Bernanos,",
+    "Contexte droite": ". r\u00eave,1948, p. 908"
+  },
+  "Entite148": {
+    "entite": "Godchaux",
+    "label": "LOC",
+    "Contexte gauche": "elle sera suspendue \u00bb.",
+    "Contexte droite": "l\u00e8ve la t\u00eate avec un"
+  },
+  "Entite149": {
+    "entite": "Faut",
+    "label": "LOC",
+    "Contexte gauche": "un r\u00e2le heureux : \u00ab",
+    "Contexte droite": "leur rendre cette justice :"
+  },
+  "Entite150": {
+    "entite": "Sartre",
+    "label": "PER",
+    "Contexte gauche": "sont pas vaches \u00bb.",
+    "Contexte droite": ", Mort ds \u00e2me,1949,"
+  },
+  "Entite151": {
+    "entite": "Mort ds \u00e2me,1949",
+    "label": "PER",
+    "Contexte gauche": "vaches \u00bb. Sartre,",
+    "Contexte droite": ", p. 253.\n"
+  },
+  "Entite152": {
+    "entite": "Napol\u00e9on",
+    "label": "PER",
+    "Contexte gauche": "loin d'\u00eatre favorable \u00e0",
+    "Contexte droite": "; toutefois on lui doit"
+  },
+  "Entite153": {
+    "entite": "Las Cases",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9gard honore son caract\u00e8re (",
+    "Contexte droite": ", M\u00e9mor. Ste-"
+  },
+  "Entite154": {
+    "entite": "M\u00e9mor.",
+    "label": "MISC",
+    "Contexte gauche": "caract\u00e8re (Las Cases,",
+    "Contexte droite": "Ste-H\u00e9l\u00e8ne, t."
+  },
+  "Entite155": {
+    "entite": "M. Desboutin",
+    "label": "PER",
+    "Contexte gauche": ", aux salons annuels,",
+    "Contexte droite": "a enfin gagn\u00e9 une entr\u00e9e"
+  },
+  "Entite156": {
+    "entite": "Art mod.",
+    "label": "MISC",
+    "Contexte gauche": "sont superbes (Huysmans,",
+    "Contexte droite": ",1883, p. 91).Bravo!"
+  },
+  "Entite157": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "Montherl., Exil,1929,",
+    "Contexte droite": ", 5, p. 63"
+  },
+  "Entite158": {
+    "entite": "A 1",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 la justice (supra",
+    "Contexte droite": ") de. Je lui"
+  },
+  "Entite159": {
+    "entite": "Recteur,1944",
+    "label": "LOC",
+    "Contexte gauche": "le presbyt\u00e8re. Queff\u00e9lec,",
+    "Contexte droite": ", p. 78.\n"
+  },
+  "Entite160": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": "r\u00e9pandait en mal\u00e9dictions contre l'",
+    "Contexte droite": ", qu'il accusait avec"
+  },
+  "Entite161": {
+    "entite": "Femme",
+    "label": "LOC",
+    "Contexte gauche": "races latines (Bloy,",
+    "Contexte droite": "pauvre,1897, p. 119)"
+  },
+  "Entite162": {
+    "entite": "Las Cases",
+    "label": "LOC",
+    "Contexte gauche": "et bu le vin (",
+    "Contexte droite": ", M\u00e9mor. Ste-"
+  },
+  "Entite163": {
+    "entite": "M\u00e9mor.",
+    "label": "MISC",
+    "Contexte gauche": "vin (Las Cases,",
+    "Contexte droite": "Ste-H\u00e9l\u00e8ne, t."
+  },
+  "Entite164": {
+    "entite": "Brillat-Sav",
+    "label": "LOC",
+    "Contexte gauche": "marchand et au consommateur (",
+    "Contexte droite": "., Physiol. go\u00fbt,1825"
+  },
+  "Entite165": {
+    "entite": "Physiol",
+    "label": "LOC",
+    "Contexte gauche": "Brillat-Sav.,",
+    "Contexte droite": ". go\u00fbt,1825, p. 119"
+  },
+  "Entite166": {
+    "entite": "Bernanos",
+    "label": "PER",
+    "Contexte gauche": "int\u00e9r\u00eat de la justice (",
+    "Contexte droite": ", Crime,1935, p. 783).Les"
+  },
+  "Entite167": {
+    "entite": "Vie temps st Louis,1942",
+    "label": "MISC",
+    "Contexte gauche": "leurs exc\u00e8s (Faral,",
+    "Contexte droite": ", p. 92).V. \u00e9quit\u00e9 A"
+  },
+  "Entite168": {
+    "entite": "92).V.",
+    "label": "LOC",
+    "Contexte gauche": "temps st Louis,1942, p.",
+    "Contexte droite": "\u00e9quit\u00e9 A 2 b ex"
+  },
+  "Entite169": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "2 b ex. de",
+    "Contexte droite": ", Gobseck, 1830,"
+  },
+  "Entite170": {
+    "entite": "fran\u00e7oise",
+    "label": "PER",
+    "Contexte gauche": "\n20. la s\u0153ur",
+    "Contexte droite": "(...) : \u00c0"
+  },
+  "Entite171": {
+    "entite": "Rendre la justice",
+    "label": "MISC",
+    "Contexte gauche": "de la justice.\n",
+    "Contexte droite": ". Exercer le pouvoir judiciaire"
+  },
+  "Entite172": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "la justice avec \u00e9quit\u00e9 (",
+    "Contexte droite": "., Martyrs, t."
+  },
+  "Entite173": {
+    "entite": "Martyrs",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9quit\u00e9 (Chateaubr.,",
+    "Contexte droite": ", t. 2, 1810"
+  },
+  "Entite174": {
+    "entite": "20).Les seuls patriciens",
+    "label": "MISC",
+    "Contexte gauche": "2, 1810, p.",
+    "Contexte droite": "rendaient la justice et connaissaient"
+  },
+  "Entite175": {
+    "entite": "Fustel de Coul",
+    "label": "PER",
+    "Contexte gauche": "formules de la loi (",
+    "Contexte droite": "., Cit\u00e9 antique,1864,"
+  },
+  "Entite176": {
+    "entite": "Cit\u00e9 antique,1864, p. 322",
+    "label": "LOC",
+    "Contexte gauche": "Fustel de Coul.,",
+    "Contexte droite": ").\n\u2666 HISTOIRE"
+  },
+  "Entite177": {
+    "entite": "Lep",
+    "label": "LOC",
+    "Contexte gauche": "d'amendes (d'apr.",
+    "Contexte droite": ". 1948) :\n"
+  },
+  "Entite178": {
+    "entite": "Moyen \u00c2ge",
+    "label": "MISC",
+    "Contexte gauche": "m\u00e9contentement d'un seigneur du",
+    "Contexte droite": "auquel on n'aurait laiss\u00e9"
+  },
+  "Entite179": {
+    "entite": "hart",
+    "label": "PER",
+    "Contexte gauche": ", en lui enlevant sa",
+    "Contexte droite": "et son bourreau... Mille"
+  },
+  "Entite180": {
+    "entite": "Juridiction",
+    "label": "PER",
+    "Contexte gauche": "Haute justice. ,,",
+    "Contexte droite": "permettant \u00e0 un seigneur de"
+  },
+  "Entite181": {
+    "entite": "Lep",
+    "label": "LOC",
+    "Contexte gauche": "peine corporelle`` (",
+    "Contexte droite": ". 1948). Le"
+  },
+  "Entite182": {
+    "entite": "Comte",
+    "label": "PER",
+    "Contexte gauche": ". 1948). Le",
+    "Contexte droite": ": (...) mes"
+  },
+  "Entite183": {
+    "entite": "Dumas p\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "justice basse et haute (",
+    "Contexte droite": ", Charles VII,1831, II"
+  },
+  "Entite184": {
+    "entite": "Charles",
+    "label": "PER",
+    "Contexte gauche": "haute (Dumas p\u00e8re,",
+    "Contexte droite": "VII,1831, II, 5"
+  },
+  "Entite185": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "p\u00e8re, Charles VII,1831,",
+    "Contexte droite": ", 5, p. 262"
+  },
+  "Entite186": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "et par le feu.",
+    "Contexte droite": ". de jugement de Dieu"
+  },
+  "Entite187": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "Synon. de jugement de",
+    "Contexte droite": "(v. jugement C 1"
+  },
+  "Entite188": {
+    "entite": "C 1 hist.).V.",
+    "label": "MISC",
+    "Contexte gauche": "de Dieu (v. jugement",
+    "Contexte droite": "feu I B a \u03b1"
+  },
+  "Entite189": {
+    "entite": "I B",
+    "label": "MISC",
+    "Contexte gauche": "jugement C 1 hist.).V. feu",
+    "Contexte droite": "a \u03b1 ex. de"
+  },
+  "Entite190": {
+    "entite": "Barr\u00e8s.\nBois",
+    "label": "MISC",
+    "Contexte gauche": "a \u03b1 ex. de",
+    "Contexte droite": "de justice. V. bois"
+  },
+  "Entite191": {
+    "entite": "II C 2 a.\nFourches",
+    "label": "MISC",
+    "Contexte gauche": "de justice. V. bois",
+    "Contexte droite": "de justice et p. ell"
+  },
+  "Entite192": {
+    "entite": "Gay",
+    "label": "MISC",
+    "Contexte gauche": "., justice (cf.",
+    "Contexte droite": "t. 2 1928)."
+  },
+  "Entite193": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "t. 2 1928).",
+    "Contexte droite": ". de fourches patibulaires."
+  },
+  "Entite194": {
+    "entite": "Roche-Savine",
+    "label": "LOC",
+    "Contexte gauche": "potences o\u00f9 les seigneurs de",
+    "Contexte droite": "faisaient pendre le monde dont"
+  },
+  "Entite195": {
+    "entite": "Gaspard,1922",
+    "label": "LOC",
+    "Contexte gauche": "leur d\u00e9plaisait (Pourrat,",
+    "Contexte droite": ", p. 231)."
+  },
+  "Entite196": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "2esection I A 4.",
+    "Contexte droite": "sceptre de justice.\u00c9douard"
+  },
+  "Entite197": {
+    "entite": "\u00c9douard VII",
+    "label": "PER",
+    "Contexte gauche": "Synon sceptre de justice.",
+    "Contexte droite": "(...), couvert"
+  },
+  "Entite198": {
+    "entite": "Main de Merci",
+    "label": "MISC",
+    "Contexte gauche": "de Londres, tenant la",
+    "Contexte droite": ", le Sceptre de Justice"
+  },
+  "Entite199": {
+    "entite": "Sceptre de Justice",
+    "label": "MISC",
+    "Contexte gauche": "Main de Merci, le",
+    "Contexte droite": ", la Verge d'\u00c9quit\u00e9"
+  },
+  "Entite200": {
+    "entite": "Verge d'\u00c9quit\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "Sceptre de Justice, la",
+    "Contexte droite": "et, sur sa t\u00eate"
+  },
+  "Entite201": {
+    "entite": "Indes",
+    "label": "LOC",
+    "Contexte gauche": "...) la couronne des",
+    "Contexte droite": "aux trois cents diamants ("
+  },
+  "Entite202": {
+    "entite": "Londres,1933",
+    "label": "MISC",
+    "Contexte gauche": "cents diamants (Morand,",
+    "Contexte droite": ", p. 48)."
+  },
+  "Entite203": {
+    "entite": "Barante, Hist.",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9cart\u00e2t de ses ordonnances (",
+    "Contexte droite": "ducs Bourg., t."
+  },
+  "Entite204": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante, Hist.",
+    "Contexte droite": "., t. 4,"
+  },
+  "Entite205": {
+    "entite": "p. 371).La",
+    "label": "MISC",
+    "Contexte gauche": ", 1821-24,",
+    "Contexte droite": "fortune, l'honneur et"
+  },
+  "Entite206": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "glaive de ses justices (",
+    "Contexte droite": "., M\u00e9m.,"
+  },
+  "Entite207": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "justices (Chateaubr.,",
+    "Contexte droite": ", t. 1, 1848"
+  },
+  "Entite208": {
+    "entite": "la R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "injustes qu'il fit dans",
+    "Contexte droite": "et que le monde lui"
+  },
+  "Entite209": {
+    "entite": "Journal,1845, p. 612",
+    "label": "MISC",
+    "Contexte gauche": "reproche encore. Michelet,",
+    "Contexte droite": ".\n2. P."
+  },
+  "Entite210": {
+    "entite": "Appareil",
+    "label": "LOC",
+    "Contexte gauche": "2. P. m\u00e9ton.",
+    "Contexte droite": "de la justice; instance"
+  },
+  "Entite211": {
+    "entite": "B",
+    "label": "LOC",
+    "Contexte gauche": "justice (cf. aussi supra",
+    "Contexte droite": "2 a p. m\u00e9ton."
+  },
+  "Entite212": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "la police de s\u00fbret\u00e9 (",
+    "Contexte droite": ", Splend. et mis"
+  },
+  "Entite213": {
+    "entite": "634).Le Comit\u00e9 de la lib\u00e9ration",
+    "label": "ORG",
+    "Contexte gauche": "mis.,1847, p.",
+    "Contexte droite": "d\u00e9cidant d'assurer l'action"
+  },
+  "Entite214": {
+    "entite": "Vichy",
+    "label": "LOC",
+    "Contexte gauche": "du \u00ab gouvernement \u00bb de",
+    "Contexte droite": ", Pierre Pucheu \u00e9tait emprisonn\u00e9"
+  },
+  "Entite215": {
+    "entite": "Pierre Pucheu",
+    "label": "PER",
+    "Contexte gauche": "gouvernement \u00bb de Vichy,",
+    "Contexte droite": "\u00e9tait emprisonn\u00e9 (De Gaulle"
+  },
+  "Entite216": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "Pierre Pucheu \u00e9tait emprisonn\u00e9 (",
+    "Contexte droite": ", M\u00e9m. guerre,1956,"
+  },
+  "Entite217": {
+    "entite": "Journal femme ch",
+    "label": "MISC",
+    "Contexte gauche": "des professionnels... Mirbeau,",
+    "Contexte droite": ".,1900, p. 174"
+  },
+  "Entite218": {
+    "entite": "Palais de Justice",
+    "label": "LOC",
+    "Contexte gauche": "174.\nSYNT.",
+    "Contexte droite": "; ministre de la Justice"
+  },
+  "Entite219": {
+    "entite": "Justice",
+    "label": "MISC",
+    "Contexte gauche": "auxiliaire, repr\u00e9sentant de la",
+    "Contexte droite": "; gens, officier de"
+  },
+  "Entite220": {
+    "entite": "Minist\u00e8re de la justice",
+    "label": "ORG",
+    "Contexte gauche": "* en justice.\n",
+    "Contexte droite": "et p. ell.,"
+  },
+  "Entite221": {
+    "entite": "Justice.",
+    "label": "MISC",
+    "Contexte gauche": "p. ell., la",
+    "Contexte droite": "C..., sous-directeur \u00e0"
+  },
+  "Entite222": {
+    "entite": "Justice (Barr\u00e8s, Cahiers,",
+    "label": "ORG",
+    "Contexte gauche": "..., sous-directeur \u00e0 la",
+    "Contexte droite": "t. 7, 1909,"
+  },
+  "Entite223": {
+    "entite": "Justice",
+    "label": "MISC",
+    "Contexte gauche": "enfin plusieurs candidats pour la",
+    "Contexte droite": ", qui appartenait dans le"
+  },
+  "Entite224": {
+    "entite": "Edgar Faure",
+    "label": "PER",
+    "Contexte gauche": "dans le pr\u00e9c\u00e9dent cabinet \u00e0",
+    "Contexte droite": "lui-m\u00eame (L'Humanit\u00e9,19 janv."
+  },
+  "Entite225": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": ", \u00e9v\u00eaques et rois (",
+    "Contexte droite": ", Bergeret,1901, p. 355"
+  },
+  "Entite226": {
+    "entite": "Bergeret,1901, p. 355).",
+    "label": "MISC",
+    "Contexte gauche": "et rois (France,",
+    "Contexte droite": "\n\u2212 Justice + d\u00e9term"
+  },
+  "Entite227": {
+    "entite": "Justice +",
+    "label": "ORG",
+    "Contexte gauche": "355).\n\u2212",
+    "Contexte droite": "d\u00e9term.\na)"
+  },
+  "Entite228": {
+    "entite": "Le d\u00e9term.",
+    "label": "ORG",
+    "Contexte gauche": ".\na) [",
+    "Contexte droite": "exprime une qualit\u00e9] Justice"
+  },
+  "Entite229": {
+    "entite": "Justice",
+    "label": "MISC",
+    "Contexte gauche": ". exprime une qualit\u00e9]",
+    "Contexte droite": "l\u00e9gale, organis\u00e9e, vendue"
+  },
+  "Entite230": {
+    "entite": "Pyrot",
+    "label": "PER",
+    "Contexte gauche": "):\n24. ...",
+    "Contexte droite": "est condamn\u00e9. S'il"
+  },
+  "Entite231": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "innocence d'un condamn\u00e9.",
+    "Contexte droite": ", \u00cele ping.,1908"
+  },
+  "Entite232": {
+    "entite": "\u00cele ping.",
+    "label": "LOC",
+    "Contexte gauche": "un condamn\u00e9. France,",
+    "Contexte droite": ",1908, p. 279."
+  },
+  "Entite233": {
+    "entite": "Le d\u00e9term.",
+    "label": "LOC",
+    "Contexte gauche": ".\nb) [",
+    "Contexte droite": "exprime une relation]\n"
+  },
+  "Entite234": {
+    "entite": "Le d\u00e9term.",
+    "label": "LOC",
+    "Contexte gauche": "]\n\u03b1) [",
+    "Contexte droite": "est un adj.]"
+  },
+  "Entite235": {
+    "entite": "Justice internationale",
+    "label": "ORG",
+    "Contexte gauche": "est un adj.]",
+    "Contexte droite": ", nationale; justice capitaliste"
+  },
+  "Entite236": {
+    "entite": "Ponson du Terr.",
+    "label": "MISC",
+    "Contexte gauche": "avons si bien combin\u00e9 (",
+    "Contexte droite": ", Rocambole, t. 4"
+  },
+  "Entite237": {
+    "entite": "Rocambole, t. 4",
+    "label": "MISC",
+    "Contexte gauche": "Ponson du Terr.,",
+    "Contexte droite": ", 1859, p. 259).De"
+  },
+  "Entite238": {
+    "entite": "259).De l'Inquisition",
+    "label": "MISC",
+    "Contexte gauche": "4, 1859, p.",
+    "Contexte droite": "\u00e0 la justice politique de"
+  },
+  "Entite239": {
+    "entite": "Sorel",
+    "label": "PER",
+    "Contexte gauche": "amplification de l'autorit\u00e9 (",
+    "Contexte droite": ", R\u00e9flex. violence,1908,"
+  },
+  "Entite240": {
+    "entite": "R\u00e9flex",
+    "label": "PER",
+    "Contexte gauche": "l'autorit\u00e9 (Sorel,",
+    "Contexte droite": ". violence,1908, p. 150).Il"
+  },
+  "Entite241": {
+    "entite": "150).Il",
+    "label": "MISC",
+    "Contexte gauche": "R\u00e9flex. violence,1908, p.",
+    "Contexte droite": "en faisait [de son"
+  },
+  "Entite242": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "s\u00e9culi\u00e8re trouvaient un asile (",
+    "Contexte droite": ", Mir. Gd St"
+  },
+  "Entite243": {
+    "entite": "St Nicolas,1909",
+    "label": "LOC",
+    "Contexte gauche": "France, Mir. Gd",
+    "Contexte droite": ", p. 64).V. d\u00e9fendre ex"
+  },
+  "Entite244": {
+    "entite": "p. 64).V.",
+    "label": "MISC",
+    "Contexte gauche": ". Gd St Nicolas,1909,",
+    "Contexte droite": "d\u00e9fendre ex. 8 :"
+  },
+  "Entite245": {
+    "entite": "Vers",
+    "label": "PER",
+    "Contexte gauche": "ce droit. Clemenceau,",
+    "Contexte droite": "r\u00e9paration,1899, p. 386."
+  },
+  "Entite246": {
+    "entite": "Saint-Louis",
+    "label": "LOC",
+    "Contexte gauche": "unifiant le droit, [",
+    "Contexte droite": "] unira la nation."
+  },
+  "Entite247": {
+    "entite": "Bainville",
+    "label": "LOC",
+    "Contexte gauche": "peu les justices f\u00e9odales (",
+    "Contexte droite": ", Hist. Fr."
+  },
+  "Entite248": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "justices f\u00e9odales (Bainville,",
+    "Contexte droite": ". Fr., t."
+  },
+  "Entite249": {
+    "entite": "Le d\u00e9term.",
+    "label": "LOC",
+    "Contexte gauche": ".\n\u03b2) [",
+    "Contexte droite": "est un compl. de"
+  },
+  "Entite250": {
+    "entite": "Justice du roi",
+    "label": "MISC",
+    "Contexte gauche": "compl. de nom]",
+    "Contexte droite": ". L'Universit\u00e9, soutenue"
+  },
+  "Entite251": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "justice de l'\u00e9v\u00eaque (",
+    "Contexte droite": ", Hist. ducs Bourg"
+  },
+  "Entite252": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "l'\u00e9v\u00eaque (Barante,",
+    "Contexte droite": ". ducs Bourg.,"
+  },
+  "Entite253": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante, Hist.",
+    "Contexte droite": "., t. 1,"
+  },
+  "Entite254": {
+    "entite": "Fustel de Coul",
+    "label": "PER",
+    "Contexte gauche": "client d'un citoyen.",
+    "Contexte droite": "., Cit\u00e9 antique,1864,"
+  },
+  "Entite255": {
+    "entite": "Cit\u00e9 antique,1864, p. 251",
+    "label": "LOC",
+    "Contexte gauche": "Fustel de Coul.,",
+    "Contexte droite": ".\n\u2666 En partic"
+  },
+  "Entite256": {
+    "entite": "Justice de paix",
+    "label": "PER",
+    "Contexte gauche": "\n\u2666 En partic.",
+    "Contexte droite": "(v. juge de paix"
+  },
+  "Entite257": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "paix, s.v. juge",
+    "Contexte droite": "1a); greffier,"
+  },
+  "Entite258": {
+    "entite": "La justice",
+    "label": "MISC",
+    "Contexte gauche": "ALL\u00c9GORIE, ICONOGR.,",
+    "Contexte droite": "personnifi\u00e9e (notamment au sens"
+  },
+  "Entite259": {
+    "entite": "C 2",
+    "label": "MISC",
+    "Contexte gauche": "personnifi\u00e9e (notamment au sens",
+    "Contexte droite": "). La Justice ("
+  },
+  "Entite260": {
+    "entite": "Justice",
+    "label": "MISC",
+    "Contexte gauche": "C 2). La",
+    "Contexte droite": "(...) dans le"
+  },
+  "Entite261": {
+    "entite": "Litt",
+    "label": "MISC",
+    "Contexte gauche": "crime (Chateaubr.,",
+    "Contexte droite": ". angl., t."
+  },
+  "Entite262": {
+    "entite": "Justice un bandeau",
+    "label": "ORG",
+    "Contexte gauche": "o\u00f9 se trouve peinte la",
+    "Contexte droite": "sur les yeux, \u2212"
+  },
+  "Entite263": {
+    "entite": "Conscrit",
+    "label": "PER",
+    "Contexte gauche": "sortait (Erckm.-Chatr.,",
+    "Contexte droite": "1813,1864, p. 47).Un dais"
+  },
+  "Entite264": {
+    "entite": "Justice, la Temp\u00e9rance, la Force",
+    "label": "MISC",
+    "Contexte gauche": ". Ces figures \u00e9taient la",
+    "Contexte droite": "et la Chastet\u00e9 (France"
+  },
+  "Entite265": {
+    "entite": "Chastet\u00e9",
+    "label": "LOC",
+    "Contexte gauche": ", la Force et la",
+    "Contexte droite": "(France, Puits ste"
+  },
+  "Entite266": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "Force et la Chastet\u00e9 (",
+    "Contexte droite": ", Puits ste Claire,1895,"
+  },
+  "Entite267": {
+    "entite": "Puits ste",
+    "label": "ORG",
+    "Contexte gauche": "la Chastet\u00e9 (France,",
+    "Contexte droite": "Claire,1895, p. 185):"
+  },
+  "Entite268": {
+    "entite": "Justice le suit",
+    "label": "ORG",
+    "Contexte gauche": "droit devant lui; la",
+    "Contexte droite": ", pr\u00eate \u00e0 r\u00e9compenser les"
+  },
+  "Entite269": {
+    "entite": "Gilson",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 punir les m\u00e9chants.",
+    "Contexte droite": ", Espr. philos."
+  },
+  "Entite270": {
+    "entite": "Espr",
+    "label": "PER",
+    "Contexte gauche": "les m\u00e9chants. Gilson,",
+    "Contexte droite": ". philos. m\u00e9di\u00e9v."
+  },
+  "Entite271": {
+    "entite": "P.",
+    "label": "PER",
+    "Contexte gauche": "129.\n\u2666 [",
+    "Contexte droite": "allus. \u00e0 Horace ("
+  },
+  "Entite272": {
+    "entite": "Horace",
+    "label": "MISC",
+    "Contexte gauche": "[P. allus. \u00e0",
+    "Contexte droite": "(Ode III 2)"
+  },
+  "Entite273": {
+    "entite": "Ode III 2",
+    "label": "MISC",
+    "Contexte gauche": "allus. \u00e0 Horace (",
+    "Contexte droite": ")] La justice arrive"
+  },
+  "Entite274": {
+    "entite": "La justice",
+    "label": "MISC",
+    "Contexte gauche": "Ode III 2)]",
+    "Contexte droite": "arrive d'un pied boiteux"
+  },
+  "Entite275": {
+    "entite": "Hugo",
+    "label": "PER",
+    "Contexte gauche": "boiteux de la justice (",
+    "Contexte droite": ", L\u00e9gende, t. 2"
+  },
+  "Entite276": {
+    "entite": "justice.[Le",
+    "label": "MISC",
+    "Contexte gauche": "\n\u2212 Subst. +",
+    "Contexte droite": "subst. d\u00e9signe un attribut"
+  },
+  "Entite277": {
+    "entite": "Le glaive de la justice",
+    "label": "MISC",
+    "Contexte gauche": "instrument de la justice]",
+    "Contexte droite": ". Plus lourd que le"
+  },
+  "Entite278": {
+    "entite": "Ciel",
+    "label": "PER",
+    "Contexte gauche": ". Plus lourd que le",
+    "Contexte droite": "et la Terre, plus"
+  },
+  "Entite279": {
+    "entite": "Terre",
+    "label": "LOC",
+    "Contexte gauche": "que le Ciel et la",
+    "Contexte droite": ", plus pesant Dans les"
+  },
+  "Entite280": {
+    "entite": "Chants Maldoror,1869",
+    "label": "MISC",
+    "Contexte gauche": "justice. Lautr\u00e9am.,",
+    "Contexte droite": ", p. 247.\n"
+  },
+  "Entite281": {
+    "entite": "raide",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Loc. Lent,",
+    "Contexte droite": "comme la justice. Th\u00e9r\u00e8se"
+  },
+  "Entite282": {
+    "entite": "Th\u00e9r\u00e8se",
+    "label": "PER",
+    "Contexte gauche": "(...). Mais",
+    "Contexte droite": "est sourde (...)"
+  },
+  "Entite283": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "lente comme la justice (",
+    "Contexte droite": ", Bonnard,1881, p. 378).Non"
+  },
+  "Entite284": {
+    "entite": "Bonnard,1881",
+    "label": "PER",
+    "Contexte gauche": "la justice (France,",
+    "Contexte droite": ", p. 378).Non, je"
+  },
+  "Entite285": {
+    "entite": "raide",
+    "label": "PER",
+    "Contexte gauche": "je ne sortirai pas,",
+    "Contexte droite": "comme la justice, en"
+  },
+  "Entite286": {
+    "entite": "H. Bazin",
+    "label": "PER",
+    "Contexte gauche": "en claquant les portes (",
+    "Contexte droite": ", Huile sur feu,1954,"
+  },
+  "Entite287": {
+    "entite": "Huile sur feu,1954",
+    "label": "MISC",
+    "Contexte gauche": "portes (H. Bazin,",
+    "Contexte droite": ", p. 101)."
+  },
+  "Entite288": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ". : [\u0292ystis]. Att"
+  },
+  "Entite289": {
+    "entite": "Att",
+    "label": "MISC",
+    "Contexte gauche": "Orth. : [\u0292ystis].",
+    "Contexte droite": ". ds Ac. dep"
+  },
+  "Entite290": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": ": [\u0292ystis]. Att.",
+    "Contexte droite": ". dep. 1694."
+  },
+  "Entite291": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "1694. \u00c9tymol. et",
+    "Contexte droite": ". 1. a)"
+  },
+  "Entite292": {
+    "entite": "Ca",
+    "label": "LOC",
+    "Contexte gauche": ". 1. a)",
+    "Contexte droite": "1050 \u00ab principe moral au"
+  },
+  "Entite293": {
+    "entite": "Wace",
+    "label": "LOC",
+    "Contexte gauche": "selon son d\u00fb \u00bb (",
+    "Contexte droite": ", Brut, \u00e9d."
+  },
+  "Entite294": {
+    "entite": "Brut",
+    "label": "LOC",
+    "Contexte gauche": "d\u00fb \u00bb (Wace,",
+    "Contexte droite": ", \u00e9d. I. Arnold"
+  },
+  "Entite295": {
+    "entite": "I. Arnold",
+    "label": "PER",
+    "Contexte gauche": ", Brut, \u00e9d.",
+    "Contexte droite": ", 3605); c"
+  },
+  "Entite296": {
+    "entite": "Vieux Testament",
+    "label": "PER",
+    "Contexte gauche": "juste \u00bb (Myst.",
+    "Contexte droite": ", \u00e9d. J. de"
+  },
+  "Entite297": {
+    "entite": "J. de Rothschild",
+    "label": "PER",
+    "Contexte gauche": "Vieux Testament, \u00e9d.",
+    "Contexte droite": ", XLII, 43943,"
+  },
+  "Entite298": {
+    "entite": "XLII",
+    "label": "MISC",
+    "Contexte gauche": ". J. de Rothschild,",
+    "Contexte droite": ", 43943, V,"
+  },
+  "Entite299": {
+    "entite": "V",
+    "label": "MISC",
+    "Contexte gauche": ", XLII, 43943,",
+    "Contexte droite": ", 335); d"
+  },
+  "Entite300": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "juste avec la volont\u00e9 de",
+    "Contexte droite": "\u00bb (Indice et rec"
+  },
+  "Entite301": {
+    "entite": "Indice",
+    "label": "LOC",
+    "Contexte gauche": "volont\u00e9 de Dieu \u00bb (",
+    "Contexte droite": "et rec. universel de"
+  },
+  "Entite302": {
+    "entite": "Bible ds",
+    "label": "MISC",
+    "Contexte gauche": "principaux des livres de la",
+    "Contexte droite": "FEW, t. 5,"
+  },
+  "Entite303": {
+    "entite": "Pascal",
+    "label": "PER",
+    "Contexte gauche": "\u00bb notre mis\u00e9rable justice (",
+    "Contexte droite": ", Pens\u00e9es, \u00e9d."
+  },
+  "Entite304": {
+    "entite": "Pens\u00e9es, \u00e9d",
+    "label": "MISC",
+    "Contexte gauche": "mis\u00e9rable justice (Pascal,",
+    "Contexte droite": ". L. Lafuma, 131"
+  },
+  "Entite305": {
+    "entite": "L. Lafuma",
+    "label": "PER",
+    "Contexte gauche": ", Pens\u00e9es, \u00e9d.",
+    "Contexte droite": ", 131, p. 515"
+  },
+  "Entite306": {
+    "entite": "Roland",
+    "label": "PER",
+    "Contexte gauche": "punir, ch\u00e2tier \u00bb (",
+    "Contexte droite": ", \u00e9d. J. B\u00e9dier"
+  },
+  "Entite307": {
+    "entite": "J. B\u00e9dier",
+    "label": "PER",
+    "Contexte gauche": "(Roland, \u00e9d.",
+    "Contexte droite": ", 498); b"
+  },
+  "Entite308": {
+    "entite": "Joinville",
+    "label": "MISC",
+    "Contexte gauche": "justices et les jugemens (",
+    "Contexte droite": ", Vie de St-"
+  },
+  "Entite309": {
+    "entite": "Vie de St-Louis",
+    "label": "MISC",
+    "Contexte gauche": "les jugemens (Joinville,",
+    "Contexte droite": ", \u00e9d. N. L."
+  },
+  "Entite310": {
+    "entite": "N. L. Corbett",
+    "label": "PER",
+    "Contexte gauche": "-Louis, \u00e9d.",
+    "Contexte droite": ", \u00a7 505);"
+  },
+  "Entite311": {
+    "entite": "Froissart",
+    "label": "PER",
+    "Contexte gauche": "\u00ab ex\u00e9cution capitale \u00bb (",
+    "Contexte droite": ", Chron., I"
+  },
+  "Entite312": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "Froissart, Chron.,",
+    "Contexte droite": ", \u00a7 14 ds \u00e9d"
+  },
+  "Entite313": {
+    "entite": "S. Luce",
+    "label": "PER",
+    "Contexte gauche": "\u00a7 14 ds \u00e9d.",
+    "Contexte droite": ", t. I, p."
+  },
+  "Entite314": {
+    "entite": "t. I",
+    "label": "PER",
+    "Contexte gauche": "\u00e9d. S. Luce,",
+    "Contexte droite": ", p. 31);"
+  },
+  "Entite315": {
+    "entite": "Pascal",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 son \u00e9gard \u00bb (",
+    "Contexte droite": "VIIIeProvinciale, \u00e9d. L."
+  },
+  "Entite316": {
+    "entite": "L. Lafuma",
+    "label": "PER",
+    "Contexte gauche": "Pascal VIIIeProvinciale, \u00e9d.",
+    "Contexte droite": ", p. 405);"
+  },
+  "Entite317": {
+    "entite": "Ste Marguerite",
+    "label": "PER",
+    "Contexte gauche": "juge \u00bb (Wace,",
+    "Contexte droite": ", \u00e9d. E. A."
+  },
+  "Entite318": {
+    "entite": "E. A. Francis",
+    "label": "PER",
+    "Contexte gauche": "Ste Marguerite, \u00e9d.",
+    "Contexte droite": ", ms. A,"
+  },
+  "Entite319": {
+    "entite": "St Nicolas",
+    "label": "LOC",
+    "Contexte gauche": "\u00bb (Id.,",
+    "Contexte droite": ", 704 ds T.-L.)"
+  },
+  "Entite320": {
+    "entite": "ds T.-L.",
+    "label": "PER",
+    "Contexte gauche": ", St Nicolas, 704",
+    "Contexte droite": "); p. ext."
+  },
+  "Entite321": {
+    "entite": "N. du Fail",
+    "label": "PER",
+    "Contexte gauche": "du pouvoir judiciaire \u00bb (",
+    "Contexte droite": ", Contes d'Eutrapel,"
+  },
+  "Entite322": {
+    "entite": "Contes d'Eutrapel",
+    "label": "MISC",
+    "Contexte gauche": "(N. du Fail,",
+    "Contexte droite": ", \u00e9d. J. Ass\u00e9zat"
+  },
+  "Entite323": {
+    "entite": "J. Ass\u00e9zat",
+    "label": "PER",
+    "Contexte gauche": "d'Eutrapel, \u00e9d.",
+    "Contexte droite": ", t. II, p."
+  },
+  "Entite324": {
+    "entite": "t. II",
+    "label": "PER",
+    "Contexte gauche": "\u00e9d. J. Ass\u00e9zat,",
+    "Contexte droite": ", p. 359);"
+  },
+  "Entite325": {
+    "entite": "Chr\u00e9tien de Troyes",
+    "label": "PER",
+    "Contexte gauche": "rendre la justice \u00bb (",
+    "Contexte droite": ", Erec et Enide,"
+  },
+  "Entite326": {
+    "entite": "Erec",
+    "label": "PER",
+    "Contexte gauche": "(Chr\u00e9tien de Troyes,",
+    "Contexte droite": "et Enide, \u00e9d."
+  },
+  "Entite327": {
+    "entite": "\u00c9tienne Boileau",
+    "label": "PER",
+    "Contexte gauche": "peu d'importance \u00bb (",
+    "Contexte droite": ", M\u00e9tiers, 9 ds"
+  },
+  "Entite328": {
+    "entite": "M\u00e9tiers, 9 ds T.-L.",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb (\u00c9tienne Boileau,",
+    "Contexte droite": "); d) ca"
+  },
+  "Entite329": {
+    "entite": "ca",
+    "label": "LOC",
+    "Contexte gauche": "T.-L.); d)",
+    "Contexte droite": "1280 \u00ab chacune des juridictions"
+  },
+  "Entite330": {
+    "entite": "Philippe de Beaumanoir",
+    "label": "PER",
+    "Contexte gauche": "juridictions \u00bb justice espirituel (",
+    "Contexte droite": ", Coutumes Beauvaisis, \u00e9d"
+  },
+  "Entite331": {
+    "entite": "Coutumes Beauvaisis",
+    "label": "PER",
+    "Contexte gauche": "(Philippe de Beaumanoir,",
+    "Contexte droite": ", \u00e9d. A. Salmon"
+  },
+  "Entite332": {
+    "entite": "A. Salmon",
+    "label": "PER",
+    "Contexte gauche": "Coutumes Beauvaisis, \u00e9d.",
+    "Contexte droite": ", \u00a7 311);"
+  },
+  "Entite333": {
+    "entite": "Jean de Meun",
+    "label": "PER",
+    "Contexte gauche": "ou moins all\u00e9gorique \u00bb (",
+    "Contexte droite": ", Rose, \u00e9d."
+  },
+  "Entite334": {
+    "entite": "F. Lecoy",
+    "label": "PER",
+    "Contexte gauche": ", Rose, \u00e9d.",
+    "Contexte droite": ", 5365). Empr"
+  },
+  "Entite335": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 17"
+  },
+  "Entite336": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 10 582;",
+    "Contexte droite": ". : a) 17"
+  },
+  "Entite337": {
+    "entite": "- Wagner",
+    "label": "PER",
+    "Contexte gauche": "1962, p. 329.",
+    "Contexte droite": "(R.L.). B."
+  },
+  "Entite338": {
+    "entite": "B. Soc",
+    "label": "PER",
+    "Contexte gauche": "Wagner (R.L.).",
+    "Contexte droite": ". Ling. 1976,"
+  }
+}

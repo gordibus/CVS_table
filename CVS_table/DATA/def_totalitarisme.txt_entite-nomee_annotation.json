@@ -1,0 +1,177 @@
+{
+  "Entite0": {
+    "entite": "Totalitarisme",
+    "label": "PER",
+    "Contexte gauche": "-",
+    "Contexte droite": ", subst. masc.",
+    "annotation": "Vrai Positif"
+  },
+  "Entite1": {
+    "entite": "Gide",
+    "label": "PER",
+    "Contexte gauche": "des r\u00e9gimes totalitaires. [",
+    "Contexte droite": "] ajoute aussit\u00f4t qu'il",
+    "annotation": "Vrai Positif"
+  },
+  "Entite2": {
+    "entite": "\u00bb",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9crire \u00ab encore un livre",
+    "Contexte droite": ", et ces mots sont",
+    "annotation": "Faux Positif"
+  },
+  "Entite3": {
+    "entite": "Green",
+    "label": "MISC",
+    "Contexte gauche": "totalitarisme qu'il hait (",
+    "Contexte droite": ", Journal, 1950,",
+    "annotation": "Faux Positif"
+  },
+  "Entite4": {
+    "entite": "Journal",
+    "label": "PER",
+    "Contexte gauche": "il hait (Green,",
+    "Contexte droite": ", 1950, p. 67",
+    "annotation": "Faux Positif"
+  },
+  "Entite5": {
+    "entite": "P. ext",
+    "label": "MISC",
+    "Contexte gauche": "67).\n\u2212",
+    "Contexte droite": ". Syst\u00e8me politico-\u00e9conomique",
+    "annotation": "Faux Positif"
+  },
+  "Entite6": {
+    "entite": "Le Nouvel Observateur",
+    "label": "ORG",
+    "Contexte gauche": ", policier et commercial (",
+    "Contexte droite": ", 23 nov. 1966,",
+    "annotation": "Vrai Positif"
+  },
+  "Entite7": {
+    "entite": "Prononc",
+    "label": "PER",
+    "Contexte gauche": ". 4).\n",
+    "Contexte droite": ".: [t\u0254talita\u0280ism\u032d]. \u00c9tymol",
+    "annotation": "Faux Positif"
+  },
+  "Entite8": {
+    "entite": "\u00c9tymol",
+    "label": "PER",
+    "Contexte gauche": "Prononc.: [t\u0254talita\u0280ism\u032d].",
+    "Contexte droite": ". et Hist. 1936",
+    "annotation": "Faux Positif"
+  },
+  "Entite9": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "[t\u0254talita\u0280ism\u032d]. \u00c9tymol. et",
+    "Contexte droite": ". 1936 totalitarisme fasciste ou",
+    "annotation": "Faux Positif"
+  },
+  "Entite10": {
+    "entite": "Maritain",
+    "label": "MISC",
+    "Contexte gauche": "totalitarisme fasciste ou raciste (",
+    "Contexte droite": ", Human. int\u00e9gr.",
+    "annotation": "Vrai Positif"
+  },
+  "Entite11": {
+    "entite": "Human",
+    "label": "MISC",
+    "Contexte gauche": "ou raciste (Maritain,",
+    "Contexte droite": ". int\u00e9gr., p.",
+    "annotation": "Vrai Positif"
+  },
+  "Entite12": {
+    "entite": "D\u00e9r",
+    "label": "MISC",
+    "Contexte gauche": ", p. 290).",
+    "Contexte droite": ". sav. de totalitaire",
+    "annotation": "Vrai Positif"
+  },
+  "Entite13": {
+    "entite": "Fr\u00e9q",
+    "label": "PER",
+    "Contexte gauche": "*; suff. -isme*.",
+    "Contexte droite": ". abs. litt\u00e9r.",
+    "annotation": "Vrai Positif"
+  },
+  "Entite14": {
+    "entite": "Bbg",
+    "label": "MISC",
+    "Contexte gauche": "litt\u00e9r.: 37.",
+    "Contexte droite": ". Arias (F. F.",
+    "annotation": "Vrai Positif"
+  },
+  "Entite15": {
+    "entite": "Arias",
+    "label": "PER",
+    "Contexte gauche": ": 37. Bbg.",
+    "Contexte droite": "(F. F.).",
+    "annotation": "Vrai Positif"
+  },
+  "Entite16": {
+    "entite": "F. F.",
+    "label": "PER",
+    "Contexte gauche": ". Bbg. Arias (",
+    "Contexte droite": "). Le Champ notionnel",
+    "annotation": "Vrai Positif"
+  },
+  "Entite17": {
+    "entite": "Champ notionnel de fascisme...",
+    "label": "ORG",
+    "Contexte gauche": "F. F.). Le",
+    "Contexte droite": "Congr\u00e8s Internat. de Ling",
+    "annotation": "Vrai Positif"
+  },
+  "Entite18": {
+    "entite": "Congr\u00e8s Internat",
+    "label": "ORG",
+    "Contexte gauche": "Champ notionnel de fascisme...",
+    "Contexte droite": ". de Ling. et",
+    "annotation": "Vrai Positif"
+  },
+  "Entite19": {
+    "entite": "Ling",
+    "label": "PER",
+    "Contexte gauche": "... Congr\u00e8s Internat. de",
+    "Contexte droite": ". et Philol. Rom",
+    "annotation": "Vrai Positif"
+  },
+  "Entite20": {
+    "entite": "Philol",
+    "label": "LOC",
+    "Contexte gauche": ". de Ling. et",
+    "Contexte droite": ". Rom. Naples,",
+    "annotation": "Faux Positif"
+  },
+  "Entite21": {
+    "entite": "Rom",
+    "label": "LOC",
+    "Contexte gauche": "Ling. et Philol.",
+    "Contexte droite": ". Naples, 1981,",
+    "annotation": "Faux Positif"
+  },
+  "Entite22": {
+    "entite": "Naples",
+    "label": "LOC",
+    "Contexte gauche": "et Philol. Rom.",
+    "Contexte droite": ", 1981, t. 5",
+    "annotation": "Vrai Positif"
+  },
+  "Entite23": {
+    "entite": "Quem",
+    "label": "LOC",
+    "Contexte gauche": "72-84. \u2212",
+    "Contexte droite": ". DDL t. 7.",
+    "annotation": "Faux Positif"
+  },
+  "Entite24": {
+    "entite": "DDL t. 7",
+    "label": "MISC",
+    "Contexte gauche": "84. \u2212 Quem.",
+    "Contexte droite": ".",
+    "annotation": "Vrai Positif"
+  }
+}

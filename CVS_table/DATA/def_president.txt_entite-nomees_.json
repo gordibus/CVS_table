@@ -1,0 +1,1022 @@
+{
+  "Entite0": {
+    "entite": "- Pr\u00e9sident",
+    "label": "PER",
+    "Contexte gauche": "",
+    "Contexte droite": ", -ente, subst."
+  },
+  "Entite1": {
+    "entite": "Pr\u00e9sident",
+    "label": "LOC",
+    "Contexte gauche": "sans sortir, et le",
+    "Contexte droite": "se leva pour prononcer l'"
+  },
+  "Entite2": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "pour prononcer l'arr\u00eat (",
+    "Contexte droite": ", C. Birotteau, 1837"
+  },
+  "Entite3": {
+    "entite": "C. Birotteau",
+    "label": "PER",
+    "Contexte gauche": "l'arr\u00eat (Balzac,",
+    "Contexte droite": ", 1837, p.411).Le pr\u00e9sident"
+  },
+  "Entite4": {
+    "entite": "p.411).Le",
+    "label": "LOC",
+    "Contexte gauche": "C. Birotteau, 1837,",
+    "Contexte droite": "pr\u00e9sident lui a encore enjoint"
+  },
+  "Entite5": {
+    "entite": "Camus",
+    "label": "LOC",
+    "Contexte gauche": "de quitter la barre (",
+    "Contexte droite": ", \u00c9tranger, 1942,"
+  },
+  "Entite6": {
+    "entite": "\u00c9tranger",
+    "label": "MISC",
+    "Contexte gauche": "la barre (Camus,",
+    "Contexte droite": ", 1942, p.1189):"
+  },
+  "Entite7": {
+    "entite": "Mme Mathieu",
+    "label": "PER",
+    "Contexte gauche": ". Le pr\u00e9sident demanda \u00e0",
+    "Contexte droite": ": \u2212C'est bien ainsi"
+  },
+  "Entite8": {
+    "entite": "G. Leroux",
+    "label": "PER",
+    "Contexte gauche": "pour vous, madame?",
+    "Contexte droite": ", Myst\u00e8re ch. jaune"
+  },
+  "Entite9": {
+    "entite": "Myst\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "madame? G. Leroux,",
+    "Contexte droite": "ch. jaune, 1907"
+  },
+  "Entite10": {
+    "entite": "Marthe",
+    "label": "LOC",
+    "Contexte gauche": ". Ces dames ayant nomm\u00e9",
+    "Contexte droite": "pr\u00e9sidente, celle-ci (..."
+  },
+  "Entite11": {
+    "entite": "MmePaloque",
+    "label": "PER",
+    "Contexte gauche": "s'\u00e9tait empress\u00e9e de d\u00e9signer",
+    "Contexte droite": "comme tr\u00e9sori\u00e8re (Zola,"
+  },
+  "Entite12": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9signer MmePaloque comme tr\u00e9sori\u00e8re (",
+    "Contexte droite": ", Conqu\u00eate Plassans, 1874"
+  },
+  "Entite13": {
+    "entite": "Conqu\u00eate Plassans",
+    "label": "MISC",
+    "Contexte gauche": "comme tr\u00e9sori\u00e8re (Zola,",
+    "Contexte droite": ", 1874, p.985)"
+  },
+  "Entite14": {
+    "entite": "Pr\u00e9sident",
+    "label": "PER",
+    "Contexte gauche": "p.985).\n\u2212",
+    "Contexte droite": "+ n. propre.Ce"
+  },
+  "Entite15": {
+    "entite": "Montesquieu",
+    "label": "PER",
+    "Contexte gauche": "hiver, le pr\u00e9sident de",
+    "Contexte droite": "\u00e9tait mort (Gu\u00e9henno,"
+  },
+  "Entite16": {
+    "entite": "Gu\u00e9henno",
+    "label": "PER",
+    "Contexte gauche": "de Montesquieu \u00e9tait mort (",
+    "Contexte droite": ", Jean-Jacques, 1950,"
+  },
+  "Entite17": {
+    "entite": "Jean-Jacques",
+    "label": "PER",
+    "Contexte gauche": "\u00e9tait mort (Gu\u00e9henno,",
+    "Contexte droite": ", 1950, p.116).Je m'"
+  },
+  "Entite18": {
+    "entite": "p.116).Je",
+    "label": "LOC",
+    "Contexte gauche": ", Jean-Jacques, 1950,",
+    "Contexte droite": "m'adressai aux pr\u00e9sidents L\u00e9on"
+  },
+  "Entite19": {
+    "entite": "L\u00e9on Blum",
+    "label": "PER",
+    "Contexte gauche": "p.116).Je m'adressai aux pr\u00e9sidents",
+    "Contexte droite": ", \u00c9douard Herriot et Louis"
+  },
+  "Entite20": {
+    "entite": "\u00c9douard Herriot",
+    "label": "PER",
+    "Contexte gauche": "aux pr\u00e9sidents L\u00e9on Blum,",
+    "Contexte droite": "et Louis Marin (De"
+  },
+  "Entite21": {
+    "entite": "Louis Marin",
+    "label": "PER",
+    "Contexte gauche": "Blum, \u00c9douard Herriot et",
+    "Contexte droite": "(De Gaulle, M\u00e9m"
+  },
+  "Entite22": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "Herriot et Louis Marin (",
+    "Contexte droite": ", M\u00e9m. guerre,"
+  },
+  "Entite23": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "Marin (De Gaulle,",
+    "Contexte droite": "guerre, 1959, p.258"
+  },
+  "Entite24": {
+    "entite": "Monsieur",
+    "label": "PER",
+    "Contexte gauche": "p.258).\n\u2212",
+    "Contexte droite": "le pr\u00e9sident. Vous ne"
+  },
+  "Entite25": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "monsieur le pr\u00e9sident? (",
+    "Contexte droite": ", E. Rougon, 1876"
+  },
+  "Entite26": {
+    "entite": "E. Rougon",
+    "label": "PER",
+    "Contexte gauche": "pr\u00e9sident? (Zola,",
+    "Contexte droite": ", 1876, p.174)"
+  },
+  "Entite27": {
+    "entite": "J. de Maistre",
+    "label": "PER",
+    "Contexte gauche": "a point de dignit\u00e9 (",
+    "Contexte droite": ", Consid. sur Fr"
+  },
+  "Entite28": {
+    "entite": "Fr",
+    "label": "LOC",
+    "Contexte gauche": "Maistre, Consid. sur",
+    "Contexte droite": "., 1796, p.127).Remplacer"
+  },
+  "Entite29": {
+    "entite": "A. France",
+    "label": "PER",
+    "Contexte gauche": "et pr\u00e9sidents \u00e0 mortier (",
+    "Contexte droite": ", Opinions J. Coignard,"
+  },
+  "Entite30": {
+    "entite": "Opinions J. Coignard",
+    "label": "PER",
+    "Contexte gauche": "mortier (A. France,",
+    "Contexte droite": ", 1893, p.213)"
+  },
+  "Entite31": {
+    "entite": "Van der Meersch",
+    "label": "ORG",
+    "Contexte gauche": "et de jeux populaires (",
+    "Contexte droite": ", Invas. 14,"
+  },
+  "Entite32": {
+    "entite": "Vivier",
+    "label": "PER",
+    "Contexte gauche": "Pr\u00e9sident-fondateur. M.",
+    "Contexte droite": "n'est plus! Le"
+  },
+  "Entite33": {
+    "entite": "Pr\u00e9sident-Fondateur",
+    "label": "PER",
+    "Contexte gauche": "nous puissions rendre \u00e0 notre",
+    "Contexte droite": ", est d'assurer avec"
+  },
+  "Entite34": {
+    "entite": "Les Amis de Rabelais",
+    "label": "ORG",
+    "Contexte gauche": "continuit\u00e9 de son oeuvre (",
+    "Contexte droite": "et de La Devini\u00e8re,"
+  },
+  "Entite35": {
+    "entite": "La Devini\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "Amis de Rabelais et de",
+    "Contexte droite": ", t.3, no4,"
+  },
+  "Entite36": {
+    "entite": "Pr\u00e9sident du S\u00e9nat",
+    "label": "ORG",
+    "Contexte gauche": "que dirige le pr\u00e9sident]",
+    "Contexte droite": ", de l'Assembl\u00e9e nationale"
+  },
+  "Entite37": {
+    "entite": "Assembl\u00e9e nationale",
+    "label": "ORG",
+    "Contexte gauche": "du S\u00e9nat, de l'",
+    "Contexte droite": "; pr\u00e9sident de s\u00e9ance,"
+  },
+  "Entite38": {
+    "entite": "\u00c9tats-Unis",
+    "label": "LOC",
+    "Contexte gauche": "universit\u00e9; le pr\u00e9sident des",
+    "Contexte droite": ", de l'Italie;"
+  },
+  "Entite39": {
+    "entite": "Italie",
+    "label": "LOC",
+    "Contexte gauche": "des \u00c9tats-Unis, de l'",
+    "Contexte droite": "; le pr\u00e9sident de la"
+  },
+  "Entite40": {
+    "entite": "Union fran\u00e7aise",
+    "label": "ORG",
+    "Contexte gauche": "des missions, de l'",
+    "Contexte droite": ". L'archev\u00eaque de Sens"
+  },
+  "Entite41": {
+    "entite": "Sens",
+    "label": "LOC",
+    "Contexte gauche": "fran\u00e7aise. L'archev\u00eaque de",
+    "Contexte droite": "fut pr\u00e9sident de la chambre"
+  },
+  "Entite42": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "la chambre des comptes (",
+    "Contexte droite": ", Hist. ducs Bourg"
+  },
+  "Entite43": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante, Hist.",
+    "Contexte droite": "., t.3, 1821"
+  },
+  "Entite44": {
+    "entite": "p.380).Quand",
+    "label": "PER",
+    "Contexte gauche": ", 1821-24,",
+    "Contexte droite": "le pr\u00e9sident des assises lui"
+  },
+  "Entite45": {
+    "entite": "Stendhal",
+    "label": "PER",
+    "Contexte gauche": ", il se leva (",
+    "Contexte droite": ", Rouge et Noir,"
+  },
+  "Entite46": {
+    "entite": "Rouge",
+    "label": "PER",
+    "Contexte gauche": "se leva (Stendhal,",
+    "Contexte droite": "et Noir, 1830,"
+  },
+  "Entite47": {
+    "entite": "L'Homme, 1935, p.18",
+    "label": "MISC",
+    "Contexte gauche": "la jeunesse (Carrel,",
+    "Contexte droite": ").\n\u2212 Au"
+  },
+  "Entite48": {
+    "entite": "Pain de saint-Antoine",
+    "label": "MISC",
+    "Contexte gauche": "archev\u00eaque \u00e0 l'inauguration du",
+    "Contexte droite": ", dont elle \u00e9tait pr\u00e9sidente"
+  },
+  "Entite49": {
+    "entite": "Orme",
+    "label": "MISC",
+    "Contexte gauche": "pr\u00e9sidente (A. France,",
+    "Contexte droite": ", 1897, p.66):"
+  },
+  "Entite50": {
+    "entite": "MmeRoosevelt",
+    "label": "MISC",
+    "Contexte gauche": "2. ... je citerai",
+    "Contexte droite": ", des \u00c9tats-Unis, M."
+  },
+  "Entite51": {
+    "entite": "\u00c9tats-Unis",
+    "label": "LOC",
+    "Contexte gauche": "je citerai MmeRoosevelt, des",
+    "Contexte droite": ", M. Ren\u00e9 Cassin,"
+  },
+  "Entite52": {
+    "entite": "Ren\u00e9 Cassin",
+    "label": "PER",
+    "Contexte gauche": ", des \u00c9tats-Unis, M.",
+    "Contexte droite": ", de la France et"
+  },
+  "Entite53": {
+    "entite": "M. Neogy",
+    "label": "PER",
+    "Contexte gauche": ", de la France et",
+    "Contexte droite": ", de l'Inde,"
+  },
+  "Entite54": {
+    "entite": "Inde",
+    "label": "LOC",
+    "Contexte gauche": "M. Neogy, de l'",
+    "Contexte droite": ", qui furent respectivement les"
+  },
+  "Entite55": {
+    "entite": "Pr\u00e9sidente",
+    "label": "LOC",
+    "Contexte gauche": ", qui furent respectivement les",
+    "Contexte droite": ", Vice-Pr\u00e9sident, et Rapporteur"
+  },
+  "Entite56": {
+    "entite": "Vice-Pr\u00e9sident",
+    "label": "LOC",
+    "Contexte gauche": "furent respectivement les Pr\u00e9sidente,",
+    "Contexte droite": ", et Rapporteur de ce"
+  },
+  "Entite57": {
+    "entite": "Rapporteur",
+    "label": "PER",
+    "Contexte gauche": "Pr\u00e9sidente, Vice-Pr\u00e9sident, et",
+    "Contexte droite": "de ce premier organisme."
+  },
+  "Entite58": {
+    "entite": "Dr. Homme",
+    "label": "MISC",
+    "Contexte gauche": ". D\u00e9clar. univ.",
+    "Contexte droite": ", 1949, p.14."
+  },
+  "Entite59": {
+    "entite": "iveR\u00e9publique",
+    "label": "MISC",
+    "Contexte gauche": ", sous la iiieet la",
+    "Contexte droite": "notamment. Je ne ferais"
+  },
+  "Entite60": {
+    "entite": "Conseil",
+    "label": "ORG",
+    "Contexte gauche": "je voulusse \u00eatre pr\u00e9sident du",
+    "Contexte droite": ", rien l\u00e0-dedans"
+  },
+  "Entite61": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "n'e\u00fbt \u00e9t\u00e9 extraordinaire (",
+    "Contexte droite": "., M\u00e9m.,"
+  },
+  "Entite62": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "extraordinaire (Chateaubr.,",
+    "Contexte droite": ", t.3, 1848,"
+  },
+  "Entite63": {
+    "entite": "p.234).Tel",
+    "label": "MISC",
+    "Contexte gauche": ", t.3, 1848,",
+    "Contexte droite": "\u00e9tait mon \u00e9tat d'esprit"
+  },
+  "Entite64": {
+    "entite": "Conseil me",
+    "label": "ORG",
+    "Contexte gauche": "1eravril, le pr\u00e9sident du",
+    "Contexte droite": "fit prier de passer \u00e0"
+  },
+  "Entite65": {
+    "entite": "Joffre",
+    "label": "PER",
+    "Contexte gauche": "passer \u00e0 son cabinet (",
+    "Contexte droite": ", M\u00e9m., t.2"
+  },
+  "Entite66": {
+    "entite": "M\u00e9m",
+    "label": "PER",
+    "Contexte gauche": "son cabinet (Joffre,",
+    "Contexte droite": "., t.2, 1931"
+  },
+  "Entite67": {
+    "entite": "p.447).Le",
+    "label": "LOC",
+    "Contexte gauche": ", t.2, 1931,",
+    "Contexte droite": "pr\u00e9sident du conseil avait retrouv\u00e9"
+  },
+  "Entite68": {
+    "entite": "Le Monde",
+    "label": "ORG",
+    "Contexte gauche": "et de son \u00e9nergie (",
+    "Contexte droite": ", 19 janv. 1952,"
+  },
+  "Entite69": {
+    "entite": "Pr\u00e9sident de la R\u00e9publique",
+    "label": "PER",
+    "Contexte gauche": "2).\n\u2666",
+    "Contexte droite": ". En France, chef"
+  },
+  "Entite70": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "de la R\u00e9publique. En",
+    "Contexte droite": ", chef du pouvoir ex\u00e9cutif"
+  },
+  "Entite71": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "chef du pouvoir ex\u00e9cutif.",
+    "Contexte droite": ". chef* de l'"
+  },
+  "Entite72": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": ". chef* de l'",
+    "Contexte droite": ".Et, d\u00e8s demain"
+  },
+  "Entite73": {
+    "entite": "Pr\u00e9sident de la R\u00e9publique",
+    "label": "PER",
+    "Contexte gauche": "je vais vous annoncer au",
+    "Contexte droite": "(Mirbeau, Journal femme"
+  },
+  "Entite74": {
+    "entite": "Journal femme ch",
+    "label": "MISC",
+    "Contexte gauche": "la R\u00e9publique (Mirbeau,",
+    "Contexte droite": "., 1900, p.294).M."
+  },
+  "Entite75": {
+    "entite": "Edgar Faure",
+    "label": "PER",
+    "Contexte gauche": "., 1900, p.294).M.",
+    "Contexte droite": "(...) a commenc\u00e9"
+  },
+  "Entite76": {
+    "entite": "Pr\u00e9sident de la R\u00e9publique",
+    "label": "PER",
+    "Contexte gauche": "plat: visites protocolaires au",
+    "Contexte droite": ", \u00e0 MM. \u00c9douard Herriot"
+  },
+  "Entite77": {
+    "entite": "MM.",
+    "label": "PER",
+    "Contexte gauche": "de la R\u00e9publique, \u00e0",
+    "Contexte droite": "\u00c9douard Herriot, Gaston de"
+  },
+  "Entite78": {
+    "entite": "\u00c9douard Herriot",
+    "label": "PER",
+    "Contexte gauche": "la R\u00e9publique, \u00e0 MM.",
+    "Contexte droite": ", Gaston de Monnerville ("
+  },
+  "Entite79": {
+    "entite": "Gaston de Monnerville",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 MM. \u00c9douard Herriot,",
+    "Contexte droite": "(Le Figaro, 19"
+  },
+  "Entite80": {
+    "entite": "Le Figaro",
+    "label": "ORG",
+    "Contexte gauche": ", Gaston de Monnerville (",
+    "Contexte droite": ", 19-20 janv."
+  },
+  "Entite81": {
+    "entite": "DR",
+    "label": "ORG",
+    "Contexte gauche": "1).\n\u2212",
+    "Contexte droite": ". COMM.\n\u2666"
+  },
+  "Entite82": {
+    "entite": "\u2666 Pr\u00e9sident",
+    "label": "PER",
+    "Contexte gauche": "DR. COMM.\n",
+    "Contexte droite": "directeur g\u00e9n\u00e9ral, pr\u00e9sidente directrice"
+  },
+  "Entite83": {
+    "entite": "usuelle P.D.G.",
+    "label": "PER",
+    "Contexte gauche": "rare. (abr\u00e9v.",
+    "Contexte droite": "). Titre d\u00e9volu,"
+  },
+  "Entite84": {
+    "entite": "T\u00e9zenas",
+    "label": "LOC",
+    "Contexte gauche": "une soci\u00e9t\u00e9 (d'apr.",
+    "Contexte droite": "1972, Col. Comptab"
+  },
+  "Entite85": {
+    "entite": "Col.",
+    "label": "MISC",
+    "Contexte gauche": "d'apr. T\u00e9zenas 1972,",
+    "Contexte droite": "Comptab. 1975)."
+  },
+  "Entite86": {
+    "entite": "Francine Gomez",
+    "label": "PER",
+    "Contexte gauche": "Lorsque vous \u00eates, comme",
+    "Contexte droite": ", Pr\u00e9sidente Directrice G\u00e9n\u00e9rale de"
+  },
+  "Entite87": {
+    "entite": "Pr\u00e9sidente Directrice G\u00e9n\u00e9rale de Waterman",
+    "label": "ORG",
+    "Contexte gauche": ", comme Francine Gomez,",
+    "Contexte droite": ", l'une des entreprises"
+  },
+  "Entite88": {
+    "entite": "American Express",
+    "label": "ORG",
+    "Contexte gauche": "d\u00e9placez jamais sans votre carte",
+    "Contexte droite": "(L'Express, 11"
+  },
+  "Entite89": {
+    "entite": "L'Express",
+    "label": "ORG",
+    "Contexte gauche": "votre carte American Express (",
+    "Contexte droite": ", 11 sept. 1981,"
+  },
+  "Entite90": {
+    "entite": "T\u00e9zenas",
+    "label": "LOC",
+    "Contexte gauche": "une soci\u00e9t\u00e9 (d'apr.",
+    "Contexte droite": "1972, Col. Comptab"
+  },
+  "Entite91": {
+    "entite": "Col.",
+    "label": "MISC",
+    "Contexte gauche": "d'apr. T\u00e9zenas 1972,",
+    "Contexte droite": "Comptab. 1975, Gestion"
+  },
+  "Entite92": {
+    "entite": "Gestion",
+    "label": "MISC",
+    "Contexte gauche": ". Comptab. 1975,",
+    "Contexte droite": "fin. 1982)."
+  },
+  "Entite93": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "fin. 1982).",
+    "Contexte droite": ". pr\u00e9sident directeur g\u00e9n\u00e9ral."
+  },
+  "Entite94": {
+    "entite": "Madame",
+    "label": "PER",
+    "Contexte gauche": "\u00c9pouse d'un pr\u00e9sident.",
+    "Contexte droite": "la premi\u00e8re pr\u00e9sidente (Ac.).J'"
+  },
+  "Entite95": {
+    "entite": "Italie",
+    "label": "LOC",
+    "Contexte gauche": "conversation qui roulait sur l'",
+    "Contexte droite": ", jusqu'au moment o\u00f9"
+  },
+  "Entite96": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "un si\u00e8ge (Del\u00e9cluze,",
+    "Contexte droite": ", 1825, p.225).Fr\u00e9d\u00e9ric Brunner"
+  },
+  "Entite97": {
+    "entite": "p.225).Fr\u00e9d\u00e9ric Brunner",
+    "label": "PER",
+    "Contexte gauche": ", Journal, 1825,",
+    "Contexte droite": "(...) revint saluer"
+  },
+  "Entite98": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": ", et se retira (",
+    "Contexte droite": ", Cous. Pons,"
+  },
+  "Entite99": {
+    "entite": "Pr\u00e9sidente de la R\u00e9publique",
+    "label": "LOC",
+    "Contexte gauche": "diverses notabilit\u00e9s, notamment la",
+    "Contexte droite": ", une grande femme tr\u00e8s"
+  },
+  "Entite100": {
+    "entite": "Marianne",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 l'image conventionnelle de",
+    "Contexte droite": ". \u00c9luard, Donner,"
+  },
+  "Entite101": {
+    "entite": "\u00c9luard",
+    "label": "PER",
+    "Contexte gauche": "image conventionnelle de Marianne.",
+    "Contexte droite": ", Donner, 1939,"
+  },
+  "Entite102": {
+    "entite": "\u00c9lys\u00e9e",
+    "label": "LOC",
+    "Contexte gauche": ". Ces conseillers de l'",
+    "Contexte droite": "symbolisent l'\u00e9volution du pouvoir"
+  },
+  "Entite103": {
+    "entite": "Le Point",
+    "label": "ORG",
+    "Contexte gauche": "triomphe de la technocratie (",
+    "Contexte droite": ", 23 f\u00e9vr. 1976,"
+  },
+  "Entite104": {
+    "entite": "Jacques Chancel",
+    "label": "PER",
+    "Contexte gauche": "lors de l'entretien avec",
+    "Contexte droite": "): la \u00abpr\u00e9sidentialisation\u00bb"
+  },
+  "Entite105": {
+    "entite": "Le Nouvel Observateur",
+    "label": "ORG",
+    "Contexte gauche": "la \u00abpr\u00e9sidentialisation\u00bb (",
+    "Contexte droite": ", 28 juin 1976,"
+  },
+  "Entite106": {
+    "entite": "R\u00e9publique",
+    "label": "MISC",
+    "Contexte gauche": "pr\u00e9sident (notamment de la",
+    "Contexte droite": "). Mais \u00e0 l'"
+  },
+  "Entite107": {
+    "entite": "Le Point",
+    "label": "ORG",
+    "Contexte gauche": "technocratiser le r\u00e9gime demeurent (",
+    "Contexte droite": ", 23 f\u00e9vr. 1976,"
+  },
+  "Entite108": {
+    "entite": "Val\u00e9ry Giscard d'Estaing",
+    "label": "PER",
+    "Contexte gauche": ", col. 2).VGE [",
+    "Contexte droite": "] pourrait trouver dans ce"
+  },
+  "Entite109": {
+    "entite": "Le Point",
+    "label": "ORG",
+    "Contexte gauche": "par d'autres moyens (",
+    "Contexte droite": ", 23 ao\u00fbt 1976,"
+  },
+  "Entite110": {
+    "entite": "Parti",
+    "label": "ORG",
+    "Contexte gauche": "du secr\u00e9taire g\u00e9n\u00e9ral: le",
+    "Contexte droite": "se \u00abpr\u00e9sidentialise\u00bb ("
+  },
+  "Entite111": {
+    "entite": "Le Nouvel Observateur",
+    "label": "ORG",
+    "Contexte gauche": "se \u00abpr\u00e9sidentialise\u00bb (",
+    "Contexte droite": ", 16 f\u00e9vr. 1976,"
+  },
+  "Entite112": {
+    "entite": "Giscard",
+    "label": "PER",
+    "Contexte gauche": ", gaulliste, use contre",
+    "Contexte droite": "d'armes \u2212session extraordinaire,"
+  },
+  "Entite113": {
+    "entite": "Le Point",
+    "label": "ORG",
+    "Contexte gauche": "cess\u00e9 de se pr\u00e9sidentialiser (",
+    "Contexte droite": ", 5 mars 1979,"
+  },
+  "Entite114": {
+    "entite": "Jacques Chirac",
+    "label": "PER",
+    "Contexte gauche": "signifier un red\u00e9marrage mais avec",
+    "Contexte droite": "confirm\u00e9 \u00e0 la t\u00eate de"
+  },
+  "Entite115": {
+    "entite": "Le Nouvel Observateur",
+    "label": "ORG",
+    "Contexte gauche": "de ce gouvernement pr\u00e9sidentialis\u00e9 (",
+    "Contexte droite": ", 2 ao\u00fbt 1976,"
+  },
+  "Entite116": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [p\u0280ezid\u0251 \u0303"
+  },
+  "Entite117": {
+    "entite": "\u0303:t]. Ac",
+    "label": "ORG",
+    "Contexte gauche": ", f\u00e9m. [-\u0251",
+    "Contexte droite": ". 1694, 1718:"
+  },
+  "Entite118": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "pr\u00e9-. \u00c9tymol. et",
+    "Contexte droite": ". A. 1. a"
+  },
+  "Entite119": {
+    "entite": "Ca",
+    "label": "LOC",
+    "Contexte gauche": "A. 1. a)",
+    "Contexte droite": "1296 \u00abcelui qui pr\u00e9side"
+  },
+  "Entite120": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "(Ordonn. parlem.",
+    "Contexte droite": "Ch.-V. Langlois, Textes rel"
+  },
+  "Entite121": {
+    "entite": "Langlois",
+    "label": "LOC",
+    "Contexte gauche": ". parlem. ds Ch.-V.",
+    "Contexte droite": ", Textes rel. \u00e0"
+  },
+  "Entite122": {
+    "entite": "Textes",
+    "label": "PER",
+    "Contexte gauche": ". ds Ch.-V. Langlois,",
+    "Contexte droite": "rel. \u00e0 l'hist"
+  },
+  "Entite123": {
+    "entite": "Parlement",
+    "label": "ORG",
+    "Contexte gauche": "\u00e0 l'hist. du",
+    "Contexte droite": ", p.162 ds Gdf."
+  },
+  "Entite124": {
+    "entite": "li",
+    "label": "PER",
+    "Contexte gauche": "Gdf. Compl.:",
+    "Contexte droite": "president ordeneront...);"
+  },
+  "Entite125": {
+    "entite": "Arr\u00eat\u00e9 ds B. des Lois de la R\u00e9publique fr.",
+    "label": "MISC",
+    "Contexte gauche": ". pr\u00e9sident du tribunal (",
+    "Contexte droite": ", 3es\u00e9rie, t.8,"
+  },
+  "Entite126": {
+    "entite": "Baradat",
+    "label": "LOC",
+    "Contexte gauche": "1907 pr\u00e9sident de s\u00e9ance (",
+    "Contexte droite": ", Organ. pr\u00e9fect."
+  },
+  "Entite127": {
+    "entite": "Soci\u00e9t\u00e9 Royale",
+    "label": "ORG",
+    "Contexte gauche": "d\u00e9cision du pr\u00e9sident de votre",
+    "Contexte droite": "); b) 1887"
+  },
+  "Entite128": {
+    "entite": "Villiers de L'I.-A.",
+    "label": "PER",
+    "Contexte gauche": "du conseil d'administration (",
+    "Contexte droite": ", Corresp., p.201"
+  },
+  "Entite129": {
+    "entite": "Corresp.",
+    "label": "ORG",
+    "Contexte gauche": "Villiers de L'I.-A.,",
+    "Contexte droite": ", p.201); c"
+  },
+  "Entite130": {
+    "entite": "Brunerie",
+    "label": "LOC",
+    "Contexte gauche": "-directeur-g\u00e9n\u00e9ral (",
+    "Contexte droite": ", Industr. alim."
+  },
+  "Entite131": {
+    "entite": "Industr",
+    "label": "LOC",
+    "Contexte gauche": "-g\u00e9n\u00e9ral (Brunerie,",
+    "Contexte droite": ". alim., p.127"
+  },
+  "Entite132": {
+    "entite": "L. P. Manuel",
+    "label": "PER",
+    "Contexte gauche": "de l'\u00c9tat\u00bb (",
+    "Contexte droite": ", Conv., 21"
+  },
+  "Entite133": {
+    "entite": "Conv",
+    "label": "LOC",
+    "Contexte gauche": "(L. P. Manuel,",
+    "Contexte droite": "., 21 sept. ds"
+  },
+  "Entite134": {
+    "entite": "Buchez",
+    "label": "LOC",
+    "Contexte gauche": "., 21 sept. ds",
+    "Contexte droite": "et Roux, Hist."
+  },
+  "Entite135": {
+    "entite": "Roux, Hist",
+    "label": "MISC",
+    "Contexte gauche": "21 sept. ds Buchez et",
+    "Contexte droite": ". Parlementaire de la R\u00e9volution"
+  },
+  "Entite136": {
+    "entite": "R\u00e9volution fr.",
+    "label": "MISC",
+    "Contexte gauche": "Hist. Parlementaire de la",
+    "Contexte droite": ", t.XIX, pp.9"
+  },
+  "Entite137": {
+    "entite": "t.XIX",
+    "label": "LOC",
+    "Contexte gauche": "la R\u00e9volution fr.,",
+    "Contexte droite": ", pp.9 sqq. ds"
+  },
+  "Entite138": {
+    "entite": "ds Brunot",
+    "label": "PER",
+    "Contexte gauche": "XIX, pp.9 sqq.",
+    "Contexte droite": "t.9, p.736: Pr\u00e9sident"
+  },
+  "Entite139": {
+    "entite": "Pr\u00e9sident de la France",
+    "label": "PER",
+    "Contexte gauche": "Brunot t.9, p.736:",
+    "Contexte droite": "); 1801 (Cr\u00e8vecoeur"
+  },
+  "Entite140": {
+    "entite": "\u00c9tats-Unis",
+    "label": "LOC",
+    "Contexte gauche": ", p.306: pr\u00e9sident des",
+    "Contexte droite": "; 1821 (Latouche,"
+  },
+  "Entite141": {
+    "entite": "L'H\u00e9ritier, Lettres",
+    "label": "MISC",
+    "Contexte gauche": "; 1821 (Latouche,",
+    "Contexte droite": "amans, p.40: president"
+  },
+  "Entite142": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "v\u00e9n\u00e9zu\u00e9lienne); 1848 (",
+    "Contexte droite": "., M\u00e9m.,"
+  },
+  "Entite143": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "1848 (Chateaubr.,",
+    "Contexte droite": ", t.2, p.597:"
+  },
+  "Entite144": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "de la r\u00e9publique [en",
+    "Contexte droite": "]); b)"
+  },
+  "Entite145": {
+    "entite": "Conseil",
+    "label": "ORG",
+    "Contexte gauche": "b) 1824 pr\u00e9sident du",
+    "Contexte droite": "des ministres (Ordonnance,"
+  },
+  "Entite146": {
+    "entite": "Ordonnance",
+    "label": "LOC",
+    "Contexte gauche": "du Conseil des ministres (",
+    "Contexte droite": ", 6 juin, ibid"
+  },
+  "Entite147": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "1843 pr\u00e9sident du conseil (",
+    "Contexte droite": ", Illus. perdues,"
+  },
+  "Entite148": {
+    "entite": "B. F\u00e9m",
+    "label": "ORG",
+    "Contexte gauche": "perdues, p.50).",
+    "Contexte droite": ". 1. ca 1485"
+  },
+  "Entite149": {
+    "entite": "Mistere du",
+    "label": "MISC",
+    "Contexte gauche": "femme qui pr\u00e9side\u00bb (",
+    "Contexte droite": "Viel Testament, \u00e9d."
+  },
+  "Entite150": {
+    "entite": "Viel Testament",
+    "label": "MISC",
+    "Contexte gauche": "pr\u00e9side\u00bb (Mistere du",
+    "Contexte droite": ", \u00e9d. J. de"
+  },
+  "Entite151": {
+    "entite": "J. de Rothschild",
+    "label": "PER",
+    "Contexte gauche": "Viel Testament, \u00e9d.",
+    "Contexte droite": ", 3021); 2"
+  },
+  "Entite152": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r.:",
+    "Contexte droite": ".: a) 6676"
+  },
+  "Entite153": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": ", b) 6382;",
+    "Contexte droite": ".: a) 7957"
+  },
+  "Entite154": {
+    "entite": "R\u00e9publique",
+    "label": "MISC",
+    "Contexte gauche": "la pr\u00e9sidence (de la",
+    "Contexte droite": "). Chirac, qui"
+  },
+  "Entite155": {
+    "entite": "Chirac",
+    "label": "PER",
+    "Contexte gauche": "de la R\u00e9publique).",
+    "Contexte droite": ", qui avait pass\u00e9 Mitterrand"
+  },
+  "Entite156": {
+    "entite": "Mitterrand",
+    "label": "PER",
+    "Contexte gauche": "Chirac, qui avait pass\u00e9",
+    "Contexte droite": "en janvier, double maintenant"
+  },
+  "Entite157": {
+    "entite": "Rocard",
+    "label": "PER",
+    "Contexte gauche": "en janvier, double maintenant",
+    "Contexte droite": "et se trouve d\u00e9sormais qualifi\u00e9"
+  },
+  "Entite158": {
+    "entite": "PC",
+    "label": "ORG",
+    "Contexte gauche": "les \u00e9lectorats, ceux du",
+    "Contexte droite": "et du PS compris ("
+  },
+  "Entite159": {
+    "entite": "PS",
+    "label": "ORG",
+    "Contexte gauche": "ceux du PC et du",
+    "Contexte droite": "compris (Le Point,"
+  },
+  "Entite160": {
+    "entite": "Le Point",
+    "label": "ORG",
+    "Contexte gauche": "et du PS compris (",
+    "Contexte droite": ", 28 avr. 1980,"
+  },
+  "Entite161": {
+    "entite": "Parti socialiste",
+    "label": "ORG",
+    "Contexte gauche": "p.69, col. 1).Le",
+    "Contexte droite": ", qui, en principe"
+  },
+  "Entite162": {
+    "entite": "Le Nouvel Observateur",
+    "label": "ORG",
+    "Contexte gauche": "de les avoir utilis\u00e9s (",
+    "Contexte droite": ", 27 sept., 1980"
+  },
+  "Entite163": {
+    "entite": "L'Express",
+    "label": "ORG",
+    "Contexte gauche": "les \u00abpr\u00e9sidentiables\u00bb (",
+    "Contexte droite": ", 1eroct. 1982,"
+  },
+  "Entite164": {
+    "entite": "\u0303sjabl\u0325].",
+    "label": "MISC",
+    "Contexte gauche": "col. 3).\u2212 [p\u0280esid\u0251",
+    "Contexte droite": "\u2212 1resattest. 1965 subst"
+  },
+  "Entite165": {
+    "entite": "Le Monde",
+    "label": "ORG",
+    "Contexte gauche": ". 1965 subst. (",
+    "Contexte droite": ", 24 juill., p.4c"
+  },
+  "Entite166": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": ", 24 juill., p.4c",
+    "Contexte droite": "Blochw.-Runk. 1971, p.111"
+  },
+  "Entite167": {
+    "entite": "Le Point, loc",
+    "label": "ORG",
+    "Contexte gauche": ", 1980 adj. (",
+    "Contexte droite": ". cit.);"
+  },
+  "Entite168": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": ", papable).\n",
+    "Contexte droite": ". \u2212Barb. Loan-"
+  },
+  "Entite169": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "p.140. _Quem.",
+    "Contexte droite": "t.11, 17."
+  }
+}

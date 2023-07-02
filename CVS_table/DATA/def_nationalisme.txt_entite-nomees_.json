@@ -1,0 +1,326 @@
+{
+  "Entite0": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "- Nationalisme, subst.",
+    "Contexte droite": ". \n\nA. \u2212 HIST"
+  },
+  "Entite1": {
+    "entite": "R\u00e9volution fran\u00e7aise]",
+    "label": "MISC",
+    "Contexte gauche": "HIST. [Apr\u00e8s la",
+    "Contexte droite": "Courant de pens\u00e9e fond\u00e9 sur"
+  },
+  "Entite2": {
+    "entite": "Courant",
+    "label": "MISC",
+    "Contexte gauche": "Apr\u00e8s la R\u00e9volution fran\u00e7aise]",
+    "Contexte droite": "de pens\u00e9e fond\u00e9 sur la"
+  },
+  "Entite3": {
+    "entite": "R. Martelli",
+    "label": "PER",
+    "Contexte gauche": "la R\u00e9volution elle-m\u00eame) (",
+    "Contexte droite": ",La Nation,Paris"
+  },
+  "Entite4": {
+    "entite": "La Nation",
+    "label": "ORG",
+    "Contexte gauche": ") (R. Martelli,",
+    "Contexte droite": ",Paris, \u00c9d."
+  },
+  "Entite5": {
+    "entite": "\u00c9d",
+    "label": "LOC",
+    "Contexte gauche": "La Nation,Paris,",
+    "Contexte droite": ". soc., 1979"
+  },
+  "Entite6": {
+    "entite": "P. ext.",
+    "label": "MISC",
+    "Contexte gauche": "p.105).\n\u2212",
+    "Contexte droite": ", mod. Doctrine,"
+  },
+  "Entite7": {
+    "entite": "N\u00e9o-Destour",
+    "label": "MISC",
+    "Contexte gauche": "peuples colonis\u00e9s. Pr\u00e9sident au",
+    "Contexte droite": ", il [Bourguiba]"
+  },
+  "Entite8": {
+    "entite": "Tunisie",
+    "label": "LOC",
+    "Contexte gauche": "] r\u00e9side assez peu en",
+    "Contexte droite": ", s'employant de pr\u00e9f\u00e9rence"
+  },
+  "Entite9": {
+    "entite": "Courant",
+    "label": "LOC",
+    "Contexte gauche": "partir du xixes.]",
+    "Contexte droite": "de pens\u00e9e qui exalte les"
+  },
+  "Entite10": {
+    "entite": "p.266).Jean-Jacques",
+    "label": "LOC",
+    "Contexte gauche": ". trav.,1893,",
+    "Contexte droite": "est (...) l'"
+  },
+  "Entite11": {
+    "entite": "Jean-Jacques",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 toutes les pages.",
+    "Contexte droite": "l'emploie avec une ferveur"
+  },
+  "Entite12": {
+    "entite": "Gu\u00e9henno",
+    "label": "PER",
+    "Contexte gauche": "et qui fait peur (",
+    "Contexte droite": ",Jean-Jacques,1952,"
+  },
+  "Entite13": {
+    "entite": "Jean-Jacques,1952",
+    "label": "PER",
+    "Contexte gauche": "fait peur (Gu\u00e9henno,",
+    "Contexte droite": ", p.293):\n1"
+  },
+  "Entite14": {
+    "entite": "Martin du G.,Thib",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9fense sacr\u00e9e du sol...",
+    "Contexte droite": ".,\u00c9t\u00e9 14, 1936"
+  },
+  "Entite15": {
+    "entite": "Doctrine",
+    "label": "PER",
+    "Contexte gauche": "p.495.\n2.",
+    "Contexte droite": "qui fonde son principe d'"
+  },
+  "Entite16": {
+    "entite": "Jaur\u00e8s,\u00c9t",
+    "label": "MISC",
+    "Contexte gauche": "st\u00e9rile et avilissant nationalisme (",
+    "Contexte droite": ". soc.,1901,"
+  },
+  "Entite17": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "opposent au salut de l'",
+    "Contexte droite": "... Il ne se pr\u00e9sente"
+  },
+  "Entite18": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "cadre de la politique d'",
+    "Contexte droite": "). R. Martelli,"
+  },
+  "Entite19": {
+    "entite": "R. Martelli",
+    "label": "PER",
+    "Contexte gauche": "politique d'\u00c9tat).",
+    "Contexte droite": ",La Nation,Paris"
+  },
+  "Entite20": {
+    "entite": "La Nation",
+    "label": "ORG",
+    "Contexte gauche": "). R. Martelli,",
+    "Contexte droite": ",Paris, \u00c9d."
+  },
+  "Entite21": {
+    "entite": "\u00c9d",
+    "label": "LOC",
+    "Contexte gauche": "La Nation,Paris,",
+    "Contexte droite": ". soc., 1979p.106"
+  },
+  "Entite22": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [nasj\u0254nalism\u032d]. Att"
+  },
+  "Entite23": {
+    "entite": "nasj\u0254nalism\u032d].",
+    "label": "MISC",
+    "Contexte gauche": "et Orth.: [",
+    "Contexte droite": "Att. ds Ac."
+  },
+  "Entite24": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": ": [nasj\u0254nalism\u032d]. Att.",
+    "Contexte droite": "Ac. 1935. \u00c9tymol"
+  },
+  "Entite25": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "1935. \u00c9tymol. et",
+    "Contexte droite": ". 1. 1798 \u00ab"
+  },
+  "Entite26": {
+    "entite": "Abb\u00e9 Barruel",
+    "label": "PER",
+    "Contexte gauche": "chauvinisme, x\u00e9nophobie) (",
+    "Contexte droite": ", M\u00e9m. pour servir"
+  },
+  "Entite27": {
+    "entite": "t.III",
+    "label": "PER",
+    "Contexte gauche": "hist. du jacobinisme,",
+    "Contexte droite": ", p.184 ds Brunot t.9"
+  },
+  "Entite28": {
+    "entite": "Brunot",
+    "label": "PER",
+    "Contexte gauche": "t.III, p.184 ds",
+    "Contexte droite": "t.9, p.639, note"
+  },
+  "Entite29": {
+    "entite": "Proudhon",
+    "label": "LOC",
+    "Contexte gauche": "6); 1849 (",
+    "Contexte droite": ", Confess., p.346"
+  },
+  "Entite30": {
+    "entite": "Confess",
+    "label": "LOC",
+    "Contexte gauche": "; 1849 (Proudhon,",
+    "Contexte droite": "., p.346: D\u00e9faisons"
+  },
+  "Entite31": {
+    "entite": "Romains",
+    "label": "LOC",
+    "Contexte gauche": "de ce nationalisme renouvel\u00e9 des",
+    "Contexte droite": ", des Grecs, des"
+  },
+  "Entite32": {
+    "entite": "Grecs",
+    "label": "MISC",
+    "Contexte gauche": "renouvel\u00e9 des Romains, des",
+    "Contexte droite": ", des Arabes...)"
+  },
+  "Entite33": {
+    "entite": "Arabes",
+    "label": "MISC",
+    "Contexte gauche": ", des Grecs, des",
+    "Contexte droite": "...); 2.1834 \u00ab"
+  },
+  "Entite34": {
+    "entite": "Lamart",
+    "label": "LOC",
+    "Contexte gauche": "avec connotation valorisante) (",
+    "Contexte droite": "., Corresp.,"
+  },
+  "Entite35": {
+    "entite": "Corresp.",
+    "label": "ORG",
+    "Contexte gauche": ") (Lamart.,",
+    "Contexte droite": ", p.81: [le"
+  },
+  "Entite36": {
+    "entite": "Proudhon ds Lar",
+    "label": "LOC",
+    "Contexte gauche": "une nation opprim\u00e9e\u00bb (",
+    "Contexte droite": ". 19e). D\u00e9r"
+  },
+  "Entite37": {
+    "entite": "Fr\u00e9q",
+    "label": "LOC",
+    "Contexte gauche": "*; suff. -isme*.",
+    "Contexte droite": ". abs. litt\u00e9r."
+  },
+  "Entite38": {
+    "entite": "Ch",
+    "label": "ORG",
+    "Contexte gauche": "Fr.). Le",
+    "Contexte droite": ". notionnel de fascisme ..."
+  },
+  "Entite39": {
+    "entite": "Congr\u00e8s Internat",
+    "label": "PER",
+    "Contexte gauche": ". notionnel de fascisme ...",
+    "Contexte droite": ". de Ling. et"
+  },
+  "Entite40": {
+    "entite": "Ling",
+    "label": "LOC",
+    "Contexte gauche": "... Congr\u00e8s Internat. de",
+    "Contexte droite": ". et Philol. Rom"
+  },
+  "Entite41": {
+    "entite": "Naples",
+    "label": "LOC",
+    "Contexte gauche": ". 14. 1974.",
+    "Contexte droite": ". Atti, 1981,"
+  },
+  "Entite42": {
+    "entite": "Atti",
+    "label": "PER",
+    "Contexte gauche": ". 1974. Naples.",
+    "Contexte droite": ", 1981, t.5,"
+  },
+  "Entite43": {
+    "entite": "pp.81-87",
+    "label": "LOC",
+    "Contexte gauche": ", 1981, t.5,",
+    "Contexte droite": ". \u2212Carofiglion (V.)"
+  },
+  "Entite44": {
+    "entite": "Boschetti",
+    "label": "PER",
+    "Contexte gauche": "\u2212Carofiglion (V.),",
+    "Contexte droite": "(A.). Pour"
+  },
+  "Entite45": {
+    "entite": "Maulnier",
+    "label": "PER",
+    "Contexte gauche": "1973, passim. _",
+    "Contexte droite": "(Th.)."
+  },
+  "Entite46": {
+    "entite": "Sens",
+    "label": "LOC",
+    "Contexte gauche": "Th.). Le",
+    "Contexte droite": "des mots. Paris,"
+  },
+  "Entite47": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "Le Sens des mots.",
+    "Contexte droite": ", 1976, pp.155-"
+  },
+  "Entite48": {
+    "entite": "pp.155-157",
+    "label": "LOC",
+    "Contexte gauche": ". Paris, 1976,",
+    "Contexte droite": ". \u2212Siccardo (Fr."
+  },
+  "Entite49": {
+    "entite": "\u2212Siccardo",
+    "label": "LOC",
+    "Contexte gauche": ", pp.155-157.",
+    "Contexte droite": "(Fr.)."
+  },
+  "Entite50": {
+    "entite": "Defeatists and their",
+    "label": "ORG",
+    "Contexte gauche": "\u2212Slater (C.).",
+    "Contexte droite": "enemies: political invective in"
+  },
+  "Entite51": {
+    "entite": "in France",
+    "label": "LOC",
+    "Contexte gauche": "their enemies: political invective",
+    "Contexte droite": "1914-1918. Oxford"
+  },
+  "Entite52": {
+    "entite": "Oxford",
+    "label": "LOC",
+    "Contexte gauche": "France 1914-1918.",
+    "Contexte droite": ", 1981, pp.128-"
+  },
+  "Entite53": {
+    "entite": "pp.128-134",
+    "label": "MISC",
+    "Contexte gauche": ". Oxford, 1981,",
+    "Contexte droite": "."
+  }
+}

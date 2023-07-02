@@ -1,0 +1,500 @@
+{
+  "Entite0": {
+    "entite": "A.\u2212 DR",
+    "label": "PER",
+    "Contexte gauche": "Fonctionnaire, subst.\n",
+    "Contexte droite": ". ADMIN. Agent de"
+  },
+  "Entite1": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "ADMIN. Agent de l'",
+    "Contexte droite": "ou d'une autre personne"
+  },
+  "Entite2": {
+    "entite": "R\u00e9au-Rond",
+    "label": "LOC",
+    "Contexte gauche": "une administration (d'apr.",
+    "Contexte droite": ". 1951); p."
+  },
+  "Entite3": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": ") d'une administration.",
+    "Contexte droite": ". p\u00e9j. budg\u00e9tivore,"
+  },
+  "Entite4": {
+    "entite": "Boh\u00eame",
+    "label": "LOC",
+    "Contexte gauche": "de Moli\u00e8re. Fille de",
+    "Contexte droite": "partout ailleurs, l\u00e0 seulement"
+  },
+  "Entite5": {
+    "entite": "Vog\u00fc\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "par le sceau administratif (",
+    "Contexte droite": ", Morts,1899, p. 171).\u00c0"
+  },
+  "Entite6": {
+    "entite": "Morts,1899",
+    "label": "LOC",
+    "Contexte gauche": "sceau administratif (Vog\u00fc\u00e9,",
+    "Contexte droite": ", p. 171).\u00c0 quoi bon"
+  },
+  "Entite7": {
+    "entite": "Aragon",
+    "label": "PER",
+    "Contexte gauche": "cause d'une femme (",
+    "Contexte droite": ", Beaux quart.,1936"
+  },
+  "Entite8": {
+    "entite": "Beaux",
+    "label": "PER",
+    "Contexte gauche": "une femme (Aragon,",
+    "Contexte droite": "quart.,1936, p."
+  },
+  "Entite9": {
+    "entite": "Myst",
+    "label": "MISC",
+    "Contexte gauche": "vie besogneuse. Mauriac,",
+    "Contexte droite": ". Frontenac,1933, p. 82"
+  },
+  "Entite10": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "que les sentiments officiels (",
+    "Contexte droite": ", Lys rouge,1894, p."
+  },
+  "Entite11": {
+    "entite": "Lys",
+    "label": "LOC",
+    "Contexte gauche": "sentiments officiels (France,",
+    "Contexte droite": "rouge,1894, p. 249)"
+  },
+  "Entite12": {
+    "entite": "xixeet",
+    "label": "LOC",
+    "Contexte gauche": "dans la litt. du",
+    "Contexte droite": "du xxes.] Au"
+  },
+  "Entite13": {
+    "entite": "\u00c9rik Satie",
+    "label": "PER",
+    "Contexte gauche": "physique, c'\u00e9tait [",
+    "Contexte droite": "] un fonctionnaire \u00e0 barbiche"
+  },
+  "Entite14": {
+    "entite": "Cocteau",
+    "label": "LOC",
+    "Contexte gauche": ", \u00e0 chapeau melon (",
+    "Contexte droite": ", Diff. d'\u00eatre,1947"
+  },
+  "Entite15": {
+    "entite": "Diff",
+    "label": "LOC",
+    "Contexte gauche": "chapeau melon (Cocteau,",
+    "Contexte droite": ". d'\u00eatre,1947, p."
+  },
+  "Entite16": {
+    "entite": "Green",
+    "label": "PER",
+    "Contexte gauche": "chose comme un fonctionnaire (",
+    "Contexte droite": ", Chaque homme,1960, p."
+  },
+  "Entite17": {
+    "entite": "Chaque homme,1960",
+    "label": "MISC",
+    "Contexte gauche": "un fonctionnaire (Green,",
+    "Contexte droite": ", p. 403):\n"
+  },
+  "Entite18": {
+    "entite": "Jean",
+    "label": "PER",
+    "Contexte gauche": "403):\n2.",
+    "Contexte droite": "pronon\u00e7a le mot fonctionnaire sur"
+  },
+  "Entite19": {
+    "entite": "Barnery",
+    "label": "LOC",
+    "Contexte gauche": "ton qui \u00e9tait particulier aux",
+    "Contexte droite": "et aux Pommerel, r\u00e9flexe"
+  },
+  "Entite20": {
+    "entite": "Dest",
+    "label": "LOC",
+    "Contexte gauche": "autre race... Chardonne,",
+    "Contexte droite": ". sent. II,1934,"
+  },
+  "Entite21": {
+    "entite": "B.\u2212 P.",
+    "label": "PER",
+    "Contexte gauche": "vie de fonctionnaire.\n",
+    "Contexte droite": "ext.\n1."
+  },
+  "Entite22": {
+    "entite": "Proudhon",
+    "label": "LOC",
+    "Contexte gauche": "existe avant la fonction (",
+    "Contexte droite": ", Propri\u00e9t\u00e9,1840, p. 226"
+  },
+  "Entite23": {
+    "entite": "Propri\u00e9t\u00e9,1840",
+    "label": "LOC",
+    "Contexte gauche": "la fonction (Proudhon,",
+    "Contexte droite": ", p. 226):\n"
+  },
+  "Entite24": {
+    "entite": "Divis.",
+    "label": "MISC",
+    "Contexte gauche": "et l\u00e9gislatives... Durkheim,",
+    "Contexte droite": "trav.,1893, p."
+  },
+  "Entite25": {
+    "entite": "Individu",
+    "label": "PER",
+    "Contexte gauche": "33.\n2.",
+    "Contexte droite": "qui dans un corps,"
+  },
+  "Entite26": {
+    "entite": "Comte",
+    "label": "PER",
+    "Contexte gauche": "de ses propres fonctionnaires (",
+    "Contexte droite": ", Philos. posit."
+  },
+  "Entite27": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "propres fonctionnaires (Comte,",
+    "Contexte droite": ". posit.,t."
+  },
+  "Entite28": {
+    "entite": "La Laurencie, \u00c9c",
+    "label": "MISC",
+    "Contexte gauche": "corps de fonctionnaires musicaux (",
+    "Contexte droite": ". fr. violon,1924,"
+  },
+  "Entite29": {
+    "entite": "Linotypiste``",
+    "label": "MISC",
+    "Contexte gauche": ". Fam. ,,",
+    "Contexte droite": "(Chautard 1937)."
+  },
+  "Entite30": {
+    "entite": "Chautard",
+    "label": "LOC",
+    "Contexte gauche": ",Linotypiste`` (",
+    "Contexte droite": "1937).\n3"
+  },
+  "Entite31": {
+    "entite": "Individu",
+    "label": "PER",
+    "Contexte gauche": "fig.\na)",
+    "Contexte droite": "qui est responsable des formalit\u00e9s"
+  },
+  "Entite32": {
+    "entite": "Vialar",
+    "label": "MISC",
+    "Contexte gauche": "fonctionnaire de la mort (",
+    "Contexte droite": ", Morts viv.,1947"
+  },
+  "Entite33": {
+    "entite": "Morts viv",
+    "label": "ORG",
+    "Contexte gauche": "la mort (Vialar,",
+    "Contexte droite": ".,1947, p. 413"
+  },
+  "Entite34": {
+    "entite": "Individu",
+    "label": "PER",
+    "Contexte gauche": "\nb) P\u00e9j.",
+    "Contexte droite": "qui a la pr\u00e9tention d'"
+  },
+  "Entite35": {
+    "entite": "Martin du G.",
+    "label": "PER",
+    "Contexte gauche": "penser et d'\u00e9crire (",
+    "Contexte droite": ", J. Barois,1913, p."
+  },
+  "Entite36": {
+    "entite": "J. Barois,1913",
+    "label": "PER",
+    "Contexte gauche": "(Martin du G.,",
+    "Contexte droite": ", p. 321)."
+  },
+  "Entite37": {
+    "entite": "\u0303ksj\u0254n\u03b5",
+    "label": "MISC",
+    "Contexte gauche": "Prononc. : [f\u0254",
+    "Contexte droite": ":\u0280]. \u00c9tymol. et"
+  },
+  "Entite38": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": ":\u0280]. \u00c9tymol. et",
+    "Contexte droite": ". 1770 (Turgot,"
+  },
+  "Entite39": {
+    "entite": "Turgot",
+    "label": "PER",
+    "Contexte gauche": "et Hist. 1770 (",
+    "Contexte droite": ", \u00e9d. Schelle,"
+  },
+  "Entite40": {
+    "entite": "Schelle",
+    "label": "LOC",
+    "Contexte gauche": "(Turgot, \u00e9d.",
+    "Contexte droite": ", III, p. 252"
+  },
+  "Entite41": {
+    "entite": "Brunot",
+    "label": "PER",
+    "Contexte gauche": "III, p. 252 ds",
+    "Contexte droite": "t. 6, p. 445"
+  },
+  "Entite42": {
+    "entite": "Fr\u00e9q",
+    "label": "LOC",
+    "Contexte gauche": "*; suff. -aire*.",
+    "Contexte droite": ". abs. litt\u00e9r."
+  },
+  "Entite43": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 832"
+  },
+  "Entite44": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 1 675;",
+    "Contexte droite": ". : a) 1"
+  },
+  "Entite45": {
+    "entite": "Fonctionnariat",
+    "label": "LOC",
+    "Contexte gauche": "D\u00c9R. 1.\n",
+    "Contexte droite": ", subst. masc."
+  },
+  "Entite46": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "\nFonctionnariat, subst.",
+    "Contexte droite": ".\u00c9tat, profession de"
+  },
+  "Entite47": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": ", subst. masc.",
+    "Contexte droite": ", profession de fonctionnaire."
+  },
+  "Entite48": {
+    "entite": "Actes",
+    "label": "MISC",
+    "Contexte gauche": "classe moyenne (Bourget,",
+    "Contexte droite": "suivent,1926, p. 72).L'officier"
+  },
+  "Entite49": {
+    "entite": "Jeux et sp.",
+    "label": "MISC",
+    "Contexte gauche": "applique \u00e0 son fonctionnariat (",
+    "Contexte droite": ",1967, p. 1177).\u2212 ["
+  },
+  "Entite50": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "f\u0254 \u0303ksj\u0254na\u0280ja]. Aucune transcr.",
+    "Contexte droite": "les dict. \u2212 1reattest"
+  },
+  "Entite51": {
+    "entite": "Maurras",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 1reattest. 1914 (",
+    "Contexte droite": ", Kiel et Tanger,"
+  },
+  "Entite52": {
+    "entite": "Kiel",
+    "label": "LOC",
+    "Contexte gauche": ". 1914 (Maurras,",
+    "Contexte droite": "et Tanger, p. 84"
+  },
+  "Entite53": {
+    "entite": "Tanger",
+    "label": "LOC",
+    "Contexte gauche": "(Maurras, Kiel et",
+    "Contexte droite": ", p. 84);"
+  },
+  "Entite54": {
+    "entite": "Fr\u00e9q",
+    "label": "LOC",
+    "Contexte gauche": ", suff. -at*. \u2212",
+    "Contexte droite": ". abs. litt\u00e9r."
+  },
+  "Entite55": {
+    "entite": "Pouquet",
+    "label": "LOC",
+    "Contexte gauche": "voix discordante, celle de",
+    "Contexte droite": "(Aix), aux"
+  },
+  "Entite56": {
+    "entite": "Aix",
+    "label": "LOC",
+    "Contexte gauche": ", celle de Pouquet (",
+    "Contexte droite": "), aux yeux de"
+  },
+  "Entite57": {
+    "entite": "Colloque",
+    "label": "LOC",
+    "Contexte gauche": "par la voie administrative (",
+    "Contexte droite": "g\u00e9ogr. appl.,1962"
+  },
+  "Entite58": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "p. 149).Rem. On rel\u00e8ve",
+    "Contexte droite": "la docum.\nfonctionnarisation"
+  },
+  "Entite59": {
+    "entite": "Action de fonctionnariser",
+    "label": "ORG",
+    "Contexte gauche": ". subst. f\u00e9m.",
+    "Contexte droite": ", mesure consistant \u00e0 fonctionnariser"
+  },
+  "Entite60": {
+    "entite": "Combat",
+    "label": "MISC",
+    "Contexte gauche": "du savant (Duhamel,",
+    "Contexte droite": "ombres,1939, p. 104).Le projet"
+  },
+  "Entite61": {
+    "entite": "Groupes pression Fr",
+    "label": "ORG",
+    "Contexte gauche": "la m\u00e9decine (Meynaud,",
+    "Contexte droite": ".,1958, p. 241"
+  },
+  "Entite62": {
+    "entite": "\u0303ksj\u0254na\u0280ize],",
+    "label": "MISC",
+    "Contexte gauche": ".\n\u2212 [f\u0254",
+    "Contexte droite": "(il) fonctionnarise :"
+  },
+  "Entite63": {
+    "entite": "D\u00e9at ds L'\u0152uvre",
+    "label": "PER",
+    "Contexte gauche": "1941 adj. (M.",
+    "Contexte droite": ", 16 mai : sottise"
+  },
+  "Entite64": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": ", subst. masc.a)",
+    "Contexte droite": ", profession de fonctionnaire."
+  },
+  "Entite65": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": ", profession de fonctionnaire.",
+    "Contexte droite": ". fonctionnariat.L'arm\u00e9e"
+  },
+  "Entite66": {
+    "entite": "Goncourt",
+    "label": "MISC",
+    "Contexte gauche": "et de la magistrature (",
+    "Contexte droite": ", Journal,1887, p. 629).Les"
+  },
+  "Entite67": {
+    "entite": "Journal,1887",
+    "label": "MISC",
+    "Contexte gauche": "la magistrature (Goncourt,",
+    "Contexte droite": ", p. 629).Les Anglais ont"
+  },
+  "Entite68": {
+    "entite": "Anglais",
+    "label": "MISC",
+    "Contexte gauche": ", Journal,1887, p. 629).Les",
+    "Contexte droite": "ont en effet, par"
+  },
+  "Entite69": {
+    "entite": "A. Daudet",
+    "label": "PER",
+    "Contexte gauche": "hi\u00e9rarchie, du fonctionnarisme (",
+    "Contexte droite": ", Port-Tarascon,1890,"
+  },
+  "Entite70": {
+    "entite": "Port-Tarascon,1890",
+    "label": "LOC",
+    "Contexte gauche": "fonctionnarisme (A. Daudet,",
+    "Contexte droite": ", p. 232).L'\u00e9piscopat se"
+  },
+  "Entite71": {
+    "entite": "\u0152uvres posth",
+    "label": "MISC",
+    "Contexte gauche": "contraintes mesquines (Verlaine,",
+    "Contexte droite": ".,t. 2,"
+  },
+  "Entite72": {
+    "entite": "Voy",
+    "label": "MISC",
+    "Contexte gauche": ".,t. 2,",
+    "Contexte droite": ". Fr. 1896,"
+  },
+  "Entite73": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "nombre des fonctionnaires de l'",
+    "Contexte droite": ", et dans leurs m\u00e9thodes"
+  },
+  "Entite74": {
+    "entite": "R\u00e9publique",
+    "label": "MISC",
+    "Contexte gauche": "malfaisant, en qui la",
+    "Contexte droite": "croit s'assurer une client\u00e8le"
+  },
+  "Entite75": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "nourrit pour sa ruine (",
+    "Contexte droite": ", Orme,1897, p. 151).\u2212"
+  },
+  "Entite76": {
+    "entite": "Bastiat ds Lar",
+    "label": "PER",
+    "Contexte gauche": "av. 1850 (Fr.",
+    "Contexte droite": ". 19e); 1867"
+  },
+  "Entite77": {
+    "entite": "Goncourt, Man",
+    "label": "MISC",
+    "Contexte gauche": "19e); 1867 (",
+    "Contexte droite": ". Salomon, p. 140"
+  },
+  "Entite78": {
+    "entite": "Fr\u00e9q",
+    "label": "LOC",
+    "Contexte gauche": ", suff. -isme*. \u2212",
+    "Contexte droite": ". abs. litt\u00e9r."
+  },
+  "Entite79": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": ". : 4.\n",
+    "Contexte droite": ". \u2212 Dub. D\u00e9r"
+  },
+  "Entite80": {
+    "entite": "Greimas",
+    "label": "MISC",
+    "Contexte gauche": ". fonctionnarisation). \u2212",
+    "Contexte droite": "(A.-J.). Nouv"
+  },
+  "Entite81": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "303. \u2212 Quem.",
+    "Contexte droite": "t. 13 (s.v."
+  },
+  "Entite82": {
+    "entite": "\u2212 Schmidt",
+    "label": "PER",
+    "Contexte gauche": "fonctionnarisation). 15.",
+    "Contexte droite": "(H.). Fr"
+  }
+}

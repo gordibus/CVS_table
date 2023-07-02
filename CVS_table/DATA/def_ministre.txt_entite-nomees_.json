@@ -1,0 +1,1262 @@
+{
+  "Entite0": {
+    "entite": "- Ministre",
+    "label": "PER",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. masc."
+  },
+  "Entite1": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "ministre de la bont\u00e9 de",
+    "Contexte droite": "sur les hommes, et"
+  },
+  "Entite2": {
+    "entite": "Bonald",
+    "label": "PER",
+    "Contexte gauche": "instrument de sa justice (",
+    "Contexte droite": ",L\u00e9gisl. primit."
+  },
+  "Entite3": {
+    "entite": "L\u00e9gisl",
+    "label": "PER",
+    "Contexte gauche": "sa justice (Bonald,",
+    "Contexte droite": ". primit., t.1"
+  },
+  "Entite4": {
+    "entite": "p.147).Ma",
+    "label": "LOC",
+    "Contexte gauche": ", t.1, 1802,",
+    "Contexte droite": "visite fut un trait de"
+  },
+  "Entite5": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "des vengeances du comte (",
+    "Contexte droite": ",Gobseck, 1830,"
+  },
+  "Entite6": {
+    "entite": "p.427).Un",
+    "label": "LOC",
+    "Contexte gauche": ",Gobseck, 1830,",
+    "Contexte droite": "officier accourut \u00e9levant un papier"
+  },
+  "Entite7": {
+    "entite": "Faux D\u00e9m\u00e9trius",
+    "label": "PER",
+    "Contexte gauche": "la justice (M\u00e9rim\u00e9e,",
+    "Contexte droite": ", 1853, p.196):"
+  },
+  "Entite8": {
+    "entite": "Vari\u00e9t\u00e9 V",
+    "label": "PER",
+    "Contexte gauche": "faites trembler. Val\u00e9ry,",
+    "Contexte droite": ", 1944, p.44."
+  },
+  "Entite9": {
+    "entite": "Mahomet",
+    "label": "PER",
+    "Contexte gauche": "culte. Dieu a \u00e9tabli",
+    "Contexte droite": "son ministre sur la terre"
+  },
+  "Entite10": {
+    "entite": "p.167).Les",
+    "label": "LOC",
+    "Contexte gauche": ",Ruines, 1791,",
+    "Contexte droite": "pr\u00eatres sont, \u00e0 proprement"
+  },
+  "Entite11": {
+    "entite": "Providence",
+    "label": "LOC",
+    "Contexte gauche": ", les ministres de la",
+    "Contexte droite": ", interpr\u00e8tes tour \u00e0 tour"
+  },
+  "Entite12": {
+    "entite": "J. Simon",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9sirs aupr\u00e8s d'elle (",
+    "Contexte droite": ",Relig. natur."
+  },
+  "Entite13": {
+    "entite": "Relig",
+    "label": "PER",
+    "Contexte gauche": "elle (J. Simon,",
+    "Contexte droite": ". natur., 1856"
+  },
+  "Entite14": {
+    "entite": "pasteur",
+    "label": "PER",
+    "Contexte gauche": "du culte (cur\u00e9,",
+    "Contexte droite": "ou rabbin) (Encyclop"
+  },
+  "Entite15": {
+    "entite": "Encyclop.",
+    "label": "MISC",
+    "Contexte gauche": "pasteur ou rabbin) (",
+    "Contexte droite": "\u00e9duc., 1960,"
+  },
+  "Entite16": {
+    "entite": "Christ",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 titre de serviteur du",
+    "Contexte droite": "et de l'\u00c9glise."
+  },
+  "Entite17": {
+    "entite": "\u00c9glise",
+    "label": "MISC",
+    "Contexte gauche": "du Christ et de l'",
+    "Contexte droite": ". Ministres des autels."
+  },
+  "Entite18": {
+    "entite": "\u00c9glise",
+    "label": "MISC",
+    "Contexte gauche": "Ministres des autels. L'",
+    "Contexte droite": "dont je suis le ministre"
+  },
+  "Entite19": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "le ministre (Dupanloup,",
+    "Contexte droite": ", 1876, p.45).Il ["
+  },
+  "Entite20": {
+    "entite": "p.45).Il",
+    "label": "MISC",
+    "Contexte gauche": ",Journal, 1876,",
+    "Contexte droite": "[le cur\u00e9 de Lourdes"
+  },
+  "Entite21": {
+    "entite": "Lourdes",
+    "label": "LOC",
+    "Contexte gauche": "p.45).Il [le cur\u00e9 de",
+    "Contexte droite": "] se prit \u00e0 croire"
+  },
+  "Entite22": {
+    "entite": "Zola",
+    "label": "LOC",
+    "Contexte gauche": "populations enti\u00e8res s'agenouillaient (",
+    "Contexte droite": ",Lourdes, 1894,"
+  },
+  "Entite23": {
+    "entite": "Lourdes",
+    "label": "LOC",
+    "Contexte gauche": "s'agenouillaient (Zola,",
+    "Contexte droite": ", 1894, p.35):"
+  },
+  "Entite24": {
+    "entite": "ministre de Dieu",
+    "label": "ORG",
+    "Contexte gauche": "):\n2. Le",
+    "Contexte droite": ", qui t'attend au"
+  },
+  "Entite25": {
+    "entite": "Ma\u00eetre de la bont\u00e9 infinie",
+    "label": "MISC",
+    "Contexte gauche": "il tient son pouvoir du",
+    "Contexte droite": ", qui, sur le"
+  },
+  "Entite26": {
+    "entite": "larron",
+    "label": "LOC",
+    "Contexte gauche": "le Calvaire, pardonnait au",
+    "Contexte droite": "repenti et lui ouvrait,"
+  },
+  "Entite27": {
+    "entite": "Paradis",
+    "label": "LOC",
+    "Contexte gauche": ", le splendide chemin du",
+    "Contexte droite": "et de la vie \u00e9ternelle"
+  },
+  "Entite28": {
+    "entite": "Bonne",
+    "label": "PER",
+    "Contexte gauche": "vie \u00e9ternelle. Copp\u00e9e,",
+    "Contexte droite": "souffr., 1898,"
+  },
+  "Entite29": {
+    "entite": "J\u00e9sus-Christ",
+    "label": "PER",
+    "Contexte gauche": "\nSYNT. Ministre de",
+    "Contexte droite": ", de l'\u00c9vangile,"
+  },
+  "Entite30": {
+    "entite": "parole de Dieu",
+    "label": "MISC",
+    "Contexte gauche": "l'\u00c9vangile, de la",
+    "Contexte droite": "; ministre de la religion"
+  },
+  "Entite31": {
+    "entite": "ministre de l'\u00c9glise",
+    "label": "ORG",
+    "Contexte gauche": "ministre de la religion;",
+    "Contexte droite": ".\nAbsol. L'"
+  },
+  "Entite32": {
+    "entite": "Senancour,Obermann",
+    "label": "MISC",
+    "Contexte gauche": "ce qu'ils ont (",
+    "Contexte droite": ", t.2, 1840,"
+  },
+  "Entite33": {
+    "entite": "Sartre",
+    "label": "PER",
+    "Contexte gauche": "robe et du c\u00e9libat.",
+    "Contexte droite": ",Mots, 1964,"
+  },
+  "Entite34": {
+    "entite": "Saint \u00c9vangile",
+    "label": "PER",
+    "Contexte gauche": "PROTESTANTE. Ministre (du",
+    "Contexte droite": "), (de la"
+  },
+  "Entite35": {
+    "entite": "parole de Dieu",
+    "label": "MISC",
+    "Contexte gauche": "), (de la",
+    "Contexte droite": "). Celui qui fait"
+  },
+  "Entite36": {
+    "entite": "docteur Young",
+    "label": "PER",
+    "Contexte gauche": "anglican. [Le]",
+    "Contexte droite": ", ministre de l'\u00c9glise"
+  },
+  "Entite37": {
+    "entite": "\u00c9glise anglicane",
+    "label": "ORG",
+    "Contexte gauche": "Young, ministre de l'",
+    "Contexte droite": ", dont la fille mourut"
+  },
+  "Entite38": {
+    "entite": "Montpellier",
+    "label": "LOC",
+    "Contexte gauche": "dont la fille mourut \u00e0",
+    "Contexte droite": "(Cr\u00e8vecoeur,Voyage,"
+  },
+  "Entite39": {
+    "entite": "Hugo",
+    "label": "PER",
+    "Contexte gauche": "ronde des ministres luth\u00e9riens (",
+    "Contexte droite": ",Han d'Isl."
+  },
+  "Entite40": {
+    "entite": "Han d'Isl",
+    "label": "PER",
+    "Contexte gauche": "ministres luth\u00e9riens (Hugo,",
+    "Contexte droite": "., 1823, p.147"
+  },
+  "Entite41": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "d'avoir quitt\u00e9 le d\u00e9licieux",
+    "Contexte droite": "d'\u00e9t\u00e9...? Bourget"
+  },
+  "Entite42": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "\nB. \u2212 Homme d'",
+    "Contexte droite": "charg\u00e9 d'administrer les affaires"
+  },
+  "Entite43": {
+    "entite": "Sully",
+    "label": "PER",
+    "Contexte gauche": ". Les ministres sont toujours",
+    "Contexte droite": "et Colbert (Chateaubr."
+  },
+  "Entite44": {
+    "entite": "Colbert",
+    "label": "PER",
+    "Contexte gauche": "ministres sont toujours Sully et",
+    "Contexte droite": "(Chateaubr.,M\u00e9m."
+  },
+  "Entite45": {
+    "entite": "p.285).V.",
+    "label": "ORG",
+    "Contexte gauche": ", t.3, 1848,",
+    "Contexte droite": "minist\u00e9riel ex. 3."
+  },
+  "Entite46": {
+    "entite": "Ancien",
+    "label": "MISC",
+    "Contexte gauche": ". HIST. Sous l'",
+    "Contexte droite": "R\u00e9gime, d\u00e9l\u00e9gu\u00e9 de l'"
+  },
+  "Entite47": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": "du gouvernement du pays.",
+    "Contexte droite": ". principal* ministre:"
+  },
+  "Entite48": {
+    "entite": "Richelieu",
+    "label": "PER",
+    "Contexte gauche": "et les plus envenim\u00e9es.",
+    "Contexte droite": ", devenu cardinal et ministre"
+  },
+  "Entite49": {
+    "entite": "Urbain Grandier",
+    "label": "PER",
+    "Contexte gauche": "vif, comme sorcier,",
+    "Contexte droite": ", pour lui avoir disput\u00e9"
+  },
+  "Entite50": {
+    "entite": "Sorbonne",
+    "label": "LOC",
+    "Contexte gauche": "th\u00e8se dans sa licence de",
+    "Contexte droite": ". Bern. de St"
+  },
+  "Entite51": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "administrer les affaires de l'",
+    "Contexte droite": "\u00e0 la t\u00eate d'un"
+  },
+  "Entite52": {
+    "entite": "Parlement",
+    "label": "ORG",
+    "Contexte gauche": "responsable ou non devant le",
+    "Contexte droite": "selon que le r\u00e9gime est"
+  },
+  "Entite53": {
+    "entite": "Ministre de l'\u00c9ducation Nationale",
+    "label": "ORG",
+    "Contexte gauche": ", pr\u00e9sidentiel ou conventionnel.",
+    "Contexte droite": ", de la Marine,"
+  },
+  "Entite54": {
+    "entite": "Marine",
+    "label": "ORG",
+    "Contexte gauche": "\u00c9ducation Nationale, de la",
+    "Contexte droite": ", de la Guerre,"
+  },
+  "Entite55": {
+    "entite": "Guerre",
+    "label": "MISC",
+    "Contexte gauche": "la Marine, de la",
+    "Contexte droite": ", des Affaires \u00c9trang\u00e8res,"
+  },
+  "Entite56": {
+    "entite": "Affaires \u00c9trang\u00e8res",
+    "label": "ORG",
+    "Contexte gauche": "de la Guerre, des",
+    "Contexte droite": ", des Finances. V."
+  },
+  "Entite57": {
+    "entite": "Finances",
+    "label": "MISC",
+    "Contexte gauche": "des Affaires \u00c9trang\u00e8res, des",
+    "Contexte droite": ". V. minist\u00e8re ex."
+  },
+  "Entite58": {
+    "entite": "Italie",
+    "label": "LOC",
+    "Contexte gauche": "...) la bourgeoisie d'",
+    "Contexte droite": ", d'Allemagne, de"
+  },
+  "Entite59": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": "bourgeoisie d'Italie, d'",
+    "Contexte droite": ", de Belgique, soit"
+  },
+  "Entite60": {
+    "entite": "Belgique",
+    "label": "LOC",
+    "Contexte gauche": ", d'Allemagne, de",
+    "Contexte droite": ", soit conduite \u00e0 \u00e9tendre"
+  },
+  "Entite61": {
+    "entite": "Parlement",
+    "label": "ORG",
+    "Contexte gauche": "responsabilit\u00e9 des ministres devant le",
+    "Contexte droite": ". Jaur\u00e8s,\u00c9t."
+  },
+  "Entite62": {
+    "entite": "Madame le Ministre",
+    "label": "PER",
+    "Contexte gauche": "\nRem. On dit",
+    "Contexte droite": "\u00e0 une femme ministre,"
+  },
+  "Entite63": {
+    "entite": "Monsieur",
+    "label": "PER",
+    "Contexte gauche": "une femme ministre, et",
+    "Contexte droite": "le Ministre \u00e0 un secr\u00e9taire"
+  },
+  "Entite64": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "Ministre \u00e0 un secr\u00e9taire d'",
+    "Contexte droite": ".\n\u2666 Conseil des"
+  },
+  "Entite65": {
+    "entite": "Conseil",
+    "label": "ORG",
+    "Contexte gauche": "d'\u00c9tat.\n\u2666",
+    "Contexte droite": "des ministres. S\u00e9ance p\u00e9riodiquement"
+  },
+  "Entite66": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "et du chef de l'",
+    "Contexte droite": "depuis 1958. (Ds"
+  },
+  "Entite67": {
+    "entite": "Ds Ac",
+    "label": "PER",
+    "Contexte gauche": "\u00c9tat depuis 1958. (",
+    "Contexte droite": ". 1935, Lar."
+  },
+  "Entite68": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "Ds Ac. 1935,",
+    "Contexte droite": ". Lang. fr."
+  },
+  "Entite69": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ", Lar. Lang.",
+    "Contexte droite": ".).\n\u2666"
+  },
+  "Entite70": {
+    "entite": "Ministre d'\u00c9tat",
+    "label": "ORG",
+    "Contexte gauche": ".).\n\u2666",
+    "Contexte droite": ", ministre sans portefeuille."
+  },
+  "Entite71": {
+    "entite": "Restauration",
+    "label": "MISC",
+    "Contexte gauche": "et qui, sous la",
+    "Contexte droite": ", l'Empire et la"
+  },
+  "Entite72": {
+    "entite": "Chambres",
+    "label": "LOC",
+    "Contexte gauche": "rapports du gouvernement avec les",
+    "Contexte droite": ". Tout \u00e9tait pris,"
+  },
+  "Entite73": {
+    "entite": "Cour des comptes",
+    "label": "ORG",
+    "Contexte gauche": "m\u00eame la pr\u00e9sidence de la",
+    "Contexte droite": ", et les ministres d'"
+  },
+  "Entite74": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": ", et les ministres d'",
+    "Contexte droite": "n'\u00e9taient point encore imagin\u00e9s"
+  },
+  "Entite75": {
+    "entite": "Reybaud",
+    "label": "PER",
+    "Contexte gauche": "\u00e9taient point encore imagin\u00e9s (",
+    "Contexte droite": ",J.Paturot, 1842,"
+  },
+  "Entite76": {
+    "entite": "J.Paturot",
+    "label": "PER",
+    "Contexte gauche": "encore imagin\u00e9s (Reybaud,",
+    "Contexte droite": ", 1842, p.387).Le titre"
+  },
+  "Entite77": {
+    "entite": "p.387).Le",
+    "label": "LOC",
+    "Contexte gauche": ",J.Paturot, 1842,",
+    "Contexte droite": "titre de \u00abministre d'"
+  },
+  "Entite78": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "titre de \u00abministre d'",
+    "Contexte droite": "\u00bb rev\u00eat un caract\u00e8re honorifique"
+  },
+  "Entite79": {
+    "entite": "Gouvern",
+    "label": "PER",
+    "Contexte gauche": "du gouvernement (Belorgey,",
+    "Contexte droite": ". et admin. Fr"
+  },
+  "Entite80": {
+    "entite": "Madame de Montcalm",
+    "label": "PER",
+    "Contexte gauche": "p.86):\n7.",
+    "Contexte droite": "m'avait dit de la"
+  },
+  "Entite81": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "au conseil comme ministres d'",
+    "Contexte droite": "sans portefeuille, le Roi"
+  },
+  "Entite82": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "\u00c9tat sans portefeuille, le",
+    "Contexte droite": "en serait charm\u00e9, promettant"
+  },
+  "Entite83": {
+    "entite": "Constitution de 1958",
+    "label": "MISC",
+    "Contexte gauche": "de gouvernement; sous la",
+    "Contexte droite": ", celui qui, nomm\u00e9"
+  },
+  "Entite84": {
+    "entite": "Pr\u00e9sident de la R\u00e9publique",
+    "label": "PER",
+    "Contexte gauche": "qui, nomm\u00e9 par le",
+    "Contexte droite": ", est charg\u00e9 de constituer"
+  },
+  "Entite85": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "g\u00e9n\u00e9rale des affaires de l'",
+    "Contexte droite": ". Synon. (sous"
+  },
+  "Entite86": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "affaires de l'\u00c9tat.",
+    "Contexte droite": ". (sous les iiieet"
+  },
+  "Entite87": {
+    "entite": "Conseil",
+    "label": "ORG",
+    "Contexte gauche": "iveR\u00e9publiques) Pr\u00e9sident* du",
+    "Contexte droite": ":\n8. Un"
+  },
+  "Entite88": {
+    "entite": "Reybaud",
+    "label": "PER",
+    "Contexte gauche": "ce chef de file...",
+    "Contexte droite": ",J. Paturot, 1842"
+  },
+  "Entite89": {
+    "entite": "J. Paturot",
+    "label": "PER",
+    "Contexte gauche": "de file... Reybaud,",
+    "Contexte droite": ", 1842, p.385."
+  },
+  "Entite90": {
+    "entite": "Grandet",
+    "label": "PER",
+    "Contexte gauche": "qualit\u00e9 de premier ministre de",
+    "Contexte droite": "prenait parfois une importance \u00e9norme"
+  },
+  "Entite91": {
+    "entite": "d'Eug\u00e9nie",
+    "label": "PER",
+    "Contexte gauche": "une importance \u00e9norme aux yeux",
+    "Contexte droite": "et de sa m\u00e8re ("
+  },
+  "Entite92": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "et de sa m\u00e8re (",
+    "Contexte droite": ",E. Grandet, 1834"
+  },
+  "Entite93": {
+    "entite": "E. Grandet",
+    "label": "PER",
+    "Contexte gauche": "sa m\u00e8re (Balzac,",
+    "Contexte droite": ", 1834, p.85)"
+  },
+  "Entite94": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": "\n\u2666 R\u00e9gion. (",
+    "Contexte droite": "). Sous*-ministre.\n"
+  },
+  "Entite95": {
+    "entite": "Ath\u00e8nes",
+    "label": "LOC",
+    "Contexte gauche": "assur\u00e9ment de belles connaissances \u00e0",
+    "Contexte droite": "? \u2212 Je connais le"
+  },
+  "Entite96": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "Je connais le ministre d'",
+    "Contexte droite": "(About,Roi mont"
+  },
+  "Entite97": {
+    "entite": "Roi mont.",
+    "label": "LOC",
+    "Contexte gauche": "d'Angleterre (About,",
+    "Contexte droite": ", 1857, p.100).Le 5"
+  },
+  "Entite98": {
+    "entite": "p.100).Le",
+    "label": "LOC",
+    "Contexte gauche": "mont., 1857,",
+    "Contexte droite": "5 juin, j'ai"
+  },
+  "Entite99": {
+    "entite": "au Caire",
+    "label": "LOC",
+    "Contexte gauche": "remis au ministre des \u00c9tats-Unis",
+    "Contexte droite": "une note destin\u00e9e \u00e0 son"
+  },
+  "Entite100": {
+    "entite": "De Gaulle,M\u00e9m",
+    "label": "PER",
+    "Contexte gauche": "destin\u00e9e \u00e0 son gouvernement (",
+    "Contexte droite": ". guerre, 1954,"
+  },
+  "Entite101": {
+    "entite": "Ministre",
+    "label": "LOC",
+    "Contexte gauche": "p.421).\n\u2666",
+    "Contexte droite": "pl\u00e9nipotentiaire. Agent diplomatique de"
+  },
+  "Entite102": {
+    "entite": "Bade",
+    "label": "LOC",
+    "Contexte gauche": "crois, ministre pl\u00e9nipotentiaire \u00e0",
+    "Contexte droite": "(Dumas p\u00e8re, Ang\u00e8le"
+  },
+  "Entite103": {
+    "entite": "Ang\u00e8le",
+    "label": "MISC",
+    "Contexte gauche": "Bade (Dumas p\u00e8re,",
+    "Contexte droite": ", 1834, iii,"
+  },
+  "Entite104": {
+    "entite": "marquis de Norpois",
+    "label": "PER",
+    "Contexte gauche": "\n9. ... le",
+    "Contexte droite": "(...) avait \u00e9t\u00e9"
+  },
+  "Entite105": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": ", depuis, de repr\u00e9senter",
+    "Contexte droite": "dans des missions extraordinaires..."
+  },
+  "Entite106": {
+    "entite": "J.",
+    "label": "PER",
+    "Contexte gauche": "missions extraordinaires... Proust,",
+    "Contexte droite": "filles en fleurs, 1918"
+  },
+  "Entite107": {
+    "entite": "Ministre",
+    "label": "PER",
+    "Contexte gauche": ", p.434.\n\u2666",
+    "Contexte droite": "r\u00e9sident. Agent diplomatique de"
+  },
+  "Entite108": {
+    "entite": "Chazelle",
+    "label": "LOC",
+    "Contexte gauche": "aux charg\u00e9s d'affaires (",
+    "Contexte droite": ",Diplom., 1962"
+  },
+  "Entite109": {
+    "entite": "Diplom",
+    "label": "LOC",
+    "Contexte gauche": "d'affaires (Chazelle,",
+    "Contexte droite": "., 1962, 25"
+  },
+  "Entite110": {
+    "entite": "Ministraille",
+    "label": "LOC",
+    "Contexte gauche": "REM. 1.\n",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite111": {
+    "entite": "Jean-Jacques",
+    "label": "PER",
+    "Contexte gauche": ". Ensemble des ministres.",
+    "Contexte droite": "(...) croyait triompher"
+  },
+  "Entite112": {
+    "entite": "Voltaire",
+    "label": "PER",
+    "Contexte gauche": "\u00bb allait faire naufrage,",
+    "Contexte droite": "aussi, qui, bien"
+  },
+  "Entite113": {
+    "entite": "Jean-Jacques",
+    "label": "PER",
+    "Contexte gauche": "ces mis\u00e8res (Gu\u00e9henno,",
+    "Contexte droite": ", 1952, p.171)"
+  },
+  "Entite114": {
+    "entite": "Bureau-ministre",
+    "label": "PER",
+    "Contexte gauche": ")\nBureau(-)ministre,(Bureau ministre,",
+    "Contexte droite": ") subst. masc."
+  },
+  "Entite115": {
+    "entite": "Barr\u00e8s,Enn",
+    "label": "LOC",
+    "Contexte gauche": "descendaient jusqu'\u00e0 terre (",
+    "Contexte droite": ". Lois, 1893,"
+  },
+  "Entite116": {
+    "entite": "p.140).Un",
+    "label": "LOC",
+    "Contexte gauche": ". Lois, 1893,",
+    "Contexte droite": "grand bureau-ministre surcharg\u00e9"
+  },
+  "Entite117": {
+    "entite": "Gend",
+    "label": "LOC",
+    "Contexte gauche": "de paperasses (Courteline,",
+    "Contexte droite": ". sans piti\u00e9, 1899"
+  },
+  "Entite118": {
+    "entite": "Green,Malfaiteur",
+    "label": "MISC",
+    "Contexte gauche": "de ce meuble \u00e9l\u00e9gant (",
+    "Contexte droite": ", 1955, p.230)"
+  },
+  "Entite119": {
+    "entite": "Papier-ministre",
+    "label": "LOC",
+    "Contexte gauche": ")\nPapier(-)ministre,(Papier ministre,",
+    "Contexte droite": ") subst. masc."
+  },
+  "Entite120": {
+    "entite": "Sand",
+    "label": "LOC",
+    "Contexte gauche": "avec enveloppe ad hoc (",
+    "Contexte droite": ",Corresp., t.4"
+  },
+  "Entite121": {
+    "entite": "A. Daudet",
+    "label": "PER",
+    "Contexte gauche": "feuille de papier ministre (",
+    "Contexte droite": ", Lettres moulin, 1869"
+  },
+  "Entite122": {
+    "entite": "Lettres",
+    "label": "PER",
+    "Contexte gauche": "ministre (A. Daudet,",
+    "Contexte droite": "moulin, 1869, p.133).Il"
+  },
+  "Entite123": {
+    "entite": "p.133).Il",
+    "label": "LOC",
+    "Contexte gauche": "Lettres moulin, 1869,",
+    "Contexte droite": "\u00e9crivit quelques lignes sur du"
+  },
+  "Entite124": {
+    "entite": "Verlaine",
+    "label": "PER",
+    "Contexte gauche": "enveloppe ministre et suscrivit (",
+    "Contexte droite": ", \u0152uvres posth.,"
+  },
+  "Entite125": {
+    "entite": "\u0152uvres posth.",
+    "label": "MISC",
+    "Contexte gauche": "et suscrivit (Verlaine,",
+    "Contexte droite": ", t.1, Hist."
+  },
+  "Entite126": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "posth., t.1,",
+    "Contexte droite": ". comme \u00e7a, 1896"
+  },
+  "Entite127": {
+    "entite": "p.359).Le",
+    "label": "LOC",
+    "Contexte gauche": "comme \u00e7a, 1896,",
+    "Contexte droite": "papier telli\u00e8re ou papier ministre"
+  },
+  "Entite128": {
+    "entite": "Letellier",
+    "label": "PER",
+    "Contexte gauche": "fois pour les bureaux de",
+    "Contexte droite": ", ministre de Louis XIV"
+  },
+  "Entite129": {
+    "entite": "Louis XIV",
+    "label": "PER",
+    "Contexte gauche": "de Letellier, ministre de",
+    "Contexte droite": ", et employ\u00e9 pour l'"
+  },
+  "Entite130": {
+    "entite": "E. Leclerc",
+    "label": "PER",
+    "Contexte gauche": "imprim\u00e9s des grands bureaux (",
+    "Contexte droite": ",Nouv. manuel typogr"
+  },
+  "Entite131": {
+    "entite": "Nouv",
+    "label": "PER",
+    "Contexte gauche": "bureaux (E. Leclerc,",
+    "Contexte droite": ". manuel typogr.,"
+  },
+  "Entite132": {
+    "entite": "manuel typogr",
+    "label": "PER",
+    "Contexte gauche": "E. Leclerc,Nouv.",
+    "Contexte droite": "., 1932, p.550"
+  },
+  "Entite133": {
+    "entite": "Ministre(-),(Ministre",
+    "label": "PER",
+    "Contexte gauche": ".\n3.\n",
+    "Contexte droite": ", Ministre-) (-)ministre,(ministre"
+  },
+  "Entite134": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": "constr. de subst.",
+    "Contexte droite": "., l'autre \u00e9l\u00e9m"
+  },
+  "Entite135": {
+    "entite": "Ve?",
+    "label": "MISC",
+    "Contexte gauche": "s\u00e9nateurs ministres pendant cette sombre",
+    "Contexte droite": "Pisani, Faure. Ah"
+  },
+  "Entite136": {
+    "entite": "Faure",
+    "label": "LOC",
+    "Contexte gauche": "sombre Ve? Pisani,",
+    "Contexte droite": ". Ah, ce cher"
+  },
+  "Entite137": {
+    "entite": "Edgar!",
+    "label": "PER",
+    "Contexte gauche": ". Ah, ce cher",
+    "Contexte droite": "(Le Nouvel Observateur,"
+  },
+  "Entite138": {
+    "entite": "Le Nouvel Observateur",
+    "label": "ORG",
+    "Contexte gauche": "ce cher Edgar! (",
+    "Contexte droite": ", 19 mai 1969,"
+  },
+  "Entite139": {
+    "entite": "Jean Royer",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9alis\u00e9s sous l'impulsion de",
+    "Contexte droite": ", le ministre-maire"
+  },
+  "Entite140": {
+    "entite": "Le Point",
+    "label": "ORG",
+    "Contexte gauche": "maire de la ville (",
+    "Contexte droite": ", 22 oct. 1973,"
+  },
+  "Entite141": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": ". masc.,ornith.",
+    "Contexte droite": ". de passerine bleue ("
+  },
+  "Entite142": {
+    "entite": "passerine bleue",
+    "label": "PER",
+    "Contexte gauche": ",ornith. Synon. de",
+    "Contexte droite": "(v. passerine B).Le Ministre"
+  },
+  "Entite143": {
+    "entite": "B).Le Ministre",
+    "label": "PER",
+    "Contexte gauche": "passerine bleue (v. passerine",
+    "Contexte droite": "(...) Cet oiseau"
+  },
+  "Entite144": {
+    "entite": "Veuve bleue",
+    "label": "MISC",
+    "Contexte gauche": ") Cet oiseau, appel\u00e9",
+    "Contexte droite": "ou Linotte bleue, vit"
+  },
+  "Entite145": {
+    "entite": "Linotte",
+    "label": "PER",
+    "Contexte gauche": ", appel\u00e9 Veuve bleue ou",
+    "Contexte droite": "bleue, vit en Am\u00e9rique"
+  },
+  "Entite146": {
+    "entite": "Am\u00e9rique du Nord",
+    "label": "LOC",
+    "Contexte gauche": "Linotte bleue, vit en",
+    "Contexte droite": "(...). Le"
+  },
+  "Entite147": {
+    "entite": "Ministre m\u00e2le",
+    "label": "ORG",
+    "Contexte gauche": "(...). Le",
+    "Contexte droite": "a un plumage brillant,"
+  },
+  "Entite148": {
+    "entite": "brun clair",
+    "label": "PER",
+    "Contexte gauche": "de bleu; les pattes",
+    "Contexte droite": "(Ph. de Wailly"
+  },
+  "Entite149": {
+    "entite": "Wailly",
+    "label": "LOC",
+    "Contexte gauche": "clair (Ph. de",
+    "Contexte droite": ", L'Amateur des oiseaux"
+  },
+  "Entite150": {
+    "entite": "L'Amateur des oiseaux de cage",
+    "label": "MISC",
+    "Contexte gauche": "Ph. de Wailly,",
+    "Contexte droite": "et de voli\u00e8re, Paris"
+  },
+  "Entite151": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "cage et de voli\u00e8re,",
+    "Contexte droite": ", J.-B. Bailli\u00e8re et fils"
+  },
+  "Entite152": {
+    "entite": "J.-B. Bailli\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "de voli\u00e8re, Paris,",
+    "Contexte droite": "et fils, 1964,"
+  },
+  "Entite153": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [minist\u0280 \u032d]."
+  },
+  "Entite154": {
+    "entite": "Att",
+    "label": "MISC",
+    "Contexte gauche": ".: [minist\u0280 \u032d].",
+    "Contexte droite": ". ds Ac. dep"
+  },
+  "Entite155": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": "[minist\u0280 \u032d]. Att.",
+    "Contexte droite": ". dep. 1694."
+  },
+  "Entite156": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "1694. \u00c9tymol. et",
+    "Contexte droite": ". 1. 1remoiti\u00e9 xiies"
+  },
+  "Entite157": {
+    "entite": "Psautier Oxford",
+    "label": "ORG",
+    "Contexte gauche": "de quelqu'un\u00bb (",
+    "Contexte droite": ", \u00e9d. Fr."
+  },
+  "Entite158": {
+    "entite": "Guernes de Pont-Ste-Maxence, St Thomas",
+    "label": "LOC",
+    "Contexte gauche": "d\u00e9tient quelque chose\u00bb (",
+    "Contexte droite": ", \u00e9d. E. Walberg"
+  },
+  "Entite159": {
+    "entite": "E. Walberg",
+    "label": "PER",
+    "Contexte gauche": "St Thomas, \u00e9d.",
+    "Contexte droite": ", 2432); d'"
+  },
+  "Entite160": {
+    "entite": "Lemaire de Belges",
+    "label": "PER",
+    "Contexte gauche": "d'un souverain\u00bb (",
+    "Contexte droite": ", L\u00e9gende des V\u00e9nitiens,"
+  },
+  "Entite161": {
+    "entite": "J. Stecher",
+    "label": "PER",
+    "Contexte gauche": "des V\u00e9nitiens, \u00e9d.",
+    "Contexte droite": ", t.3, p.400)"
+  },
+  "Entite162": {
+    "entite": "Roy",
+    "label": "LOC",
+    "Contexte gauche": "); 1611 ministres du",
+    "Contexte droite": "(Cotgr.);"
+  },
+  "Entite163": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "); 1671 ministre d'",
+    "Contexte droite": "(Pomey); 1861"
+  },
+  "Entite164": {
+    "entite": "Marie-Th\u00e9r\u00e8se d'Autriche",
+    "label": "PER",
+    "Contexte gauche": "\u00e9tranger\u00bb (Bossuet,",
+    "Contexte droite": ", \u00e9d. J. Truchet"
+  },
+  "Entite165": {
+    "entite": "J. Truchet",
+    "label": "PER",
+    "Contexte gauche": "d'Autriche, \u00e9d.",
+    "Contexte droite": ", p.216); 1834"
+  },
+  "Entite166": {
+    "entite": "Dumas p\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "; 1834 ministre pl\u00e9nipotentiaire (",
+    "Contexte droite": ", loc. cit."
+  },
+  "Entite167": {
+    "entite": "Dieu\u00bb",
+    "label": "MISC",
+    "Contexte gauche": "qui est au service de",
+    "Contexte droite": "(Guernes de Pont-Ste-Maxence,"
+  },
+  "Entite168": {
+    "entite": "Guernes de Pont-Ste-Maxence",
+    "label": "LOC",
+    "Contexte gauche": "service de Dieu\u00bb (",
+    "Contexte droite": ", op. cit."
+  },
+  "Entite169": {
+    "entite": "ca 1250",
+    "label": "MISC",
+    "Contexte gauche": "., 5483);",
+    "Contexte droite": "menistre \u00abcelui qui a"
+  },
+  "Entite170": {
+    "entite": "R\u00e8gle",
+    "label": "LOC",
+    "Contexte gauche": "du culte divin\u00bb (",
+    "Contexte droite": "cistercienne, 416 ds T.-L."
+  },
+  "Entite171": {
+    "entite": "ds T.-L.",
+    "label": "PER",
+    "Contexte gauche": "(R\u00e8gle cistercienne, 416",
+    "Contexte droite": "); sp\u00e9c. dans"
+  },
+  "Entite172": {
+    "entite": "ministre de l'\u00c9vangile",
+    "label": "ORG",
+    "Contexte gauche": "la relig. protestante 1527",
+    "Contexte droite": "(Herminjard, II,"
+  },
+  "Entite173": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "l'\u00c9vangile (Herminjard,",
+    "Contexte droite": ", p.59 d'apr. W."
+  },
+  "Entite174": {
+    "entite": "W. Richard ds Romanica Helvetica",
+    "label": "PER",
+    "Contexte gauche": "II, p.59 d'apr.",
+    "Contexte droite": "t.57, p.118);"
+  },
+  "Entite175": {
+    "entite": "Piaget",
+    "label": "PER",
+    "Contexte gauche": "); 1536 ministre (",
+    "Contexte droite": ", p.288, ibid."
+  },
+  "Entite176": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "plur. \u00abserviteurs de",
+    "Contexte droite": "(des anges)\u00bb"
+  },
+  "Entite177": {
+    "entite": "Blaise Lat",
+    "label": "PER",
+    "Contexte gauche": "(d\u00e9but ives. ds",
+    "Contexte droite": ". chr\u00e9t.),"
+  },
+  "Entite178": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "), \u00abserviteurs de",
+    "Contexte droite": ", de la religion\u00bb"
+  },
+  "Entite179": {
+    "entite": "viiie-ixes",
+    "label": "LOC",
+    "Contexte gauche": "\u00abofficier public\u00bb (",
+    "Contexte droite": ". ds St. Scoones,"
+  },
+  "Entite180": {
+    "entite": "ds St. Scoones",
+    "label": "MISC",
+    "Contexte gauche": "(viiie-ixes.",
+    "Contexte droite": ", Les Noms de quelques"
+  },
+  "Entite181": {
+    "entite": "Les Noms de quelques officiers",
+    "label": "MISC",
+    "Contexte gauche": ". ds St. Scoones,",
+    "Contexte droite": "f\u00e9odaux, p.132, note"
+  },
+  "Entite182": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r.:",
+    "Contexte droite": ".: a) 20137"
+  },
+  "Entite183": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": ", b) 8375;",
+    "Contexte droite": ".: a) 11266"
+  },
+  "Entite184": {
+    "entite": "b)9653",
+    "label": "LOC",
+    "Contexte gauche": ": a) 11266,",
+    "Contexte droite": ".\nD\u00c9R.\n"
+  },
+  "Entite185": {
+    "entite": "L. Leuwen",
+    "label": "PER",
+    "Contexte gauche": "l'admire (Stendhal,",
+    "Contexte droite": ", t.2, 1836,"
+  },
+  "Entite186": {
+    "entite": "p.303).Pas",
+    "label": "MISC",
+    "Contexte gauche": ", t.2, 1836,",
+    "Contexte droite": "plus tard qu'il y"
+  },
+  "Entite187": {
+    "entite": "Lohengrin",
+    "label": "LOC",
+    "Contexte gauche": "huit jours je mets sur",
+    "Contexte droite": "la ministresse de l'Instruction"
+  },
+  "Entite188": {
+    "entite": "ministresse de l'Instruction",
+    "label": "MISC",
+    "Contexte gauche": "je mets sur Lohengrin la",
+    "Contexte droite": "Publique. Elle me r\u00e9pond"
+  },
+  "Entite189": {
+    "entite": "Folies-Berg\u00e8res",
+    "label": "LOC",
+    "Contexte gauche": ", la derni\u00e8re revue des",
+    "Contexte droite": ", il para\u00eet que c'"
+  },
+  "Entite190": {
+    "entite": "J.",
+    "label": "PER",
+    "Contexte gauche": "tordant\u00bb (Proust,",
+    "Contexte droite": "filles en fleurs, 1918"
+  },
+  "Entite191": {
+    "entite": "Jehan des Preis",
+    "label": "MISC",
+    "Contexte gauche": "1380 \u00abservante\u00bb (",
+    "Contexte droite": ", Geste de Liege,"
+  },
+  "Entite192": {
+    "entite": "Geste de Liege",
+    "label": "PER",
+    "Contexte gauche": "(Jehan des Preis,",
+    "Contexte droite": ", 20424 d'apr. A."
+  },
+  "Entite193": {
+    "entite": "A. Scheler",
+    "label": "PER",
+    "Contexte gauche": "Liege, 20424 d'apr.",
+    "Contexte droite": ", Glossaire philologique ds M\u00e9m"
+  },
+  "Entite194": {
+    "entite": "Glossaire",
+    "label": "PER",
+    "Contexte gauche": "d'apr. A. Scheler,",
+    "Contexte droite": "philologique ds M\u00e9m. de"
+  },
+  "Entite195": {
+    "entite": "Ac. royale des sciences, t.44, p.201",
+    "label": "ORG",
+    "Contexte gauche": "ds M\u00e9m. de l'",
+    "Contexte droite": "), 1660 (Oudin"
+  },
+  "Entite196": {
+    "entite": "Oudin",
+    "label": "PER",
+    "Contexte gauche": "p.201), 1660 (",
+    "Contexte droite": "Fr.-Esp.), b)1619"
+  },
+  "Entite197": {
+    "entite": "b)1619",
+    "label": "ORG",
+    "Contexte gauche": "Oudin Fr.-Esp.),",
+    "Contexte droite": "\u00abfemme d'un ministre"
+  },
+  "Entite198": {
+    "entite": "F. Garasse]",
+    "label": "PER",
+    "Contexte gauche": "ministre protestant\u00bb ([",
+    "Contexte droite": ", Le Rabelais reform\u00e9 par"
+  },
+  "Entite199": {
+    "entite": "Le Rabelais",
+    "label": "MISC",
+    "Contexte gauche": "[F. Garasse],",
+    "Contexte droite": "reform\u00e9 par les ministres,"
+  },
+  "Entite200": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "par les ministres, 205",
+    "Contexte droite": "Quem. DDL t.20)"
+  },
+  "Entite201": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": ", 205 ds Quem.",
+    "Contexte droite": "t.20), att."
+  },
+  "Entite202": {
+    "entite": "Guemadeuc]",
+    "label": "ORG",
+    "Contexte gauche": "\u00bb ([B. de",
+    "Contexte droite": ", L'Espion d\u00e9valis\u00e9,"
+  },
+  "Entite203": {
+    "entite": "L'Espion",
+    "label": "MISC",
+    "Contexte gauche": "B. de Guemadeuc],",
+    "Contexte droite": "d\u00e9valis\u00e9, 62-63"
+  },
+  "Entite204": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9valis\u00e9, 62-63",
+    "Contexte droite": "Quem. DDL t.26)"
+  },
+  "Entite205": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "-63 ds Quem.",
+    "Contexte droite": "t.26); de ministre"
+  },
+  "Entite206": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": ", suff. -esse*.\n",
+    "Contexte droite": ". \u2212Mack. t.1 1939"
+  },
+  "Entite207": {
+    "entite": "t.1",
+    "label": "PER",
+    "Contexte gauche": "\nBBG. \u2212Mack.",
+    "Contexte droite": "1939, p.68. _"
+  },
+  "Entite208": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "p.68. _ Quem.",
+    "Contexte droite": "t.1, 5 (s.v"
+  },
+  "Entite209": {
+    "entite": "Richard",
+    "label": "PER",
+    "Contexte gauche": "); 11. _",
+    "Contexte droite": "(W.) 1959,"
+  }
+}

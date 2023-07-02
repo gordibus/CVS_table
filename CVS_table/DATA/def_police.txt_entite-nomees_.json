@@ -1,0 +1,1184 @@
+{
+  "Entite0": {
+    "entite": "- Police",
+    "label": "ORG",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite1": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "une soci\u00e9t\u00e9, d'un",
+    "Contexte droite": "). Ce peuple ["
+  },
+  "Entite2": {
+    "entite": "Chine",
+    "label": "LOC",
+    "Contexte gauche": ". Ce peuple [la",
+    "Contexte droite": "], dont on vante"
+  },
+  "Entite3": {
+    "entite": "P\u00e9rouse",
+    "label": "LOC",
+    "Contexte gauche": "muraille (Voy. La",
+    "Contexte droite": ",t.3, 1797,"
+  },
+  "Entite4": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "surface de la soci\u00e9t\u00e9 (",
+    "Contexte droite": ".,Pol\u00e9m.,1818-"
+  },
+  "Entite5": {
+    "entite": "p.20).Un",
+    "label": "MISC",
+    "Contexte gauche": ".,1818-27,",
+    "Contexte droite": "homme, quelque pudibond que"
+  },
+  "Entite6": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "une fois par jour (",
+    "Contexte droite": ", OEuvres div.,t.2"
+  },
+  "Entite7": {
+    "entite": "OEuvres",
+    "label": "MISC",
+    "Contexte gauche": "par jour (Balzac,",
+    "Contexte droite": "div.,t.2, 1830"
+  },
+  "Entite8": {
+    "entite": "Alain",
+    "label": "PER",
+    "Contexte gauche": "on s'en doute (",
+    "Contexte droite": ", Propos,1929, p.878)"
+  },
+  "Entite9": {
+    "entite": "Discours,Guerre",
+    "label": "MISC",
+    "Contexte gauche": "populaire (Robesp.,",
+    "Contexte droite": ", t.8, 1792,"
+  },
+  "Entite10": {
+    "entite": "Amiens",
+    "label": "LOC",
+    "Contexte gauche": "et jour le guet \u00e0",
+    "Contexte droite": "(Barante, Hist."
+  },
+  "Entite11": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "le guet \u00e0 Amiens (",
+    "Contexte droite": ", Hist. ducs Bourg"
+  },
+  "Entite12": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 Amiens (Barante,",
+    "Contexte droite": ". ducs Bourg.,t.2"
+  },
+  "Entite13": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante, Hist.",
+    "Contexte droite": ".,t.2, 1821-"
+  },
+  "Entite14": {
+    "entite": "Giraud",
+    "label": "PER",
+    "Contexte gauche": "vient d'\u00eatre charg\u00e9 par",
+    "Contexte droite": "des pouvoirs de police \u00e0"
+  },
+  "Entite15": {
+    "entite": "Alger",
+    "label": "LOC",
+    "Contexte gauche": "des pouvoirs de police \u00e0",
+    "Contexte droite": "(De Gaulle, M\u00e9m"
+  },
+  "Entite16": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "de police \u00e0 Alger (",
+    "Contexte droite": ", M\u00e9m. guerre,1956,"
+  },
+  "Entite17": {
+    "entite": "Police administrative",
+    "label": "ORG",
+    "Contexte gauche": "En partic.\n\u2666",
+    "Contexte droite": ". V. infra C 1"
+  },
+  "Entite18": {
+    "entite": "C 1",
+    "label": "MISC",
+    "Contexte gauche": "Police administrative. V. infra",
+    "Contexte droite": "a.\n\u2666 Police municipale"
+  },
+  "Entite19": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "C 1 a.\n\u2666",
+    "Contexte droite": "municipale. Ensemble des ,"
+  },
+  "Entite20": {
+    "entite": "R\u00e9au-Rond",
+    "label": "LOC",
+    "Contexte gauche": "la commune`` (",
+    "Contexte droite": ". 1951); pour"
+  },
+  "Entite21": {
+    "entite": "C 3",
+    "label": "MISC",
+    "Contexte gauche": "autre sens, v. infra",
+    "Contexte droite": "a.\n\u2666 Police rurale"
+  },
+  "Entite22": {
+    "entite": "Police rurale",
+    "label": "ORG",
+    "Contexte gauche": "C 3 a.\n\u2666",
+    "Contexte droite": ". Ensemble des ,,"
+  },
+  "Entite23": {
+    "entite": "R\u00e9au-Rond",
+    "label": "LOC",
+    "Contexte gauche": "des animaux`` (",
+    "Contexte droite": ". 1951); pour"
+  },
+  "Entite24": {
+    "entite": "C 3",
+    "label": "MISC",
+    "Contexte gauche": "autre sens, v. infra",
+    "Contexte droite": "c).\n\u2666"
+  },
+  "Entite25": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "c).\n\u2666",
+    "Contexte droite": "sanitaire v\u00e9t\u00e9rinaire. ,,"
+  },
+  "Entite26": {
+    "entite": "Ensemble des textes",
+    "label": "ORG",
+    "Contexte gauche": "sanitaire v\u00e9t\u00e9rinaire. ,,",
+    "Contexte droite": "r\u00e9glementant la lutte contre les"
+  },
+  "Entite27": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "ou incommodes`` (",
+    "Contexte droite": ". agric. 1981)"
+  },
+  "Entite28": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "ce lieu de r\u00e9union (",
+    "Contexte droite": ", Hist. ducs Bourg"
+  },
+  "Entite29": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante, Hist.",
+    "Contexte droite": ".,t.3, 1821-"
+  },
+  "Entite30": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "police de son salon (",
+    "Contexte droite": ", Caus. lundi,"
+  },
+  "Entite31": {
+    "entite": "Caus.",
+    "label": "MISC",
+    "Contexte gauche": "son salon (Sainte-Beuve,",
+    "Contexte droite": "lundi,t.2, 1850"
+  },
+  "Entite32": {
+    "entite": "Mademoiselle",
+    "label": "LOC",
+    "Contexte gauche": "aigres. \u2212Assez! crie",
+    "Contexte droite": ". Croyez-vous que j'"
+  },
+  "Entite33": {
+    "entite": "Cl",
+    "label": "MISC",
+    "Contexte gauche": "la police? Colette,",
+    "Contexte droite": ". \u00e9cole,1900, p.288."
+  },
+  "Entite34": {
+    "entite": "Notaire",
+    "label": "LOC",
+    "Contexte gauche": "la concierge (Duhamel,",
+    "Contexte droite": "Havre,1933, p.221).Et voil\u00e0 que"
+  },
+  "Entite35": {
+    "entite": "p.221).Et",
+    "label": "LOC",
+    "Contexte gauche": "Duhamel, Notaire Havre,1933,",
+    "Contexte droite": "voil\u00e0 que la police vient"
+  },
+  "Entite36": {
+    "entite": "Universit\u00e9!",
+    "label": "ORG",
+    "Contexte gauche": "perquisition monstre rue de l'",
+    "Contexte droite": "(Triolet, Prem."
+  },
+  "Entite37": {
+    "entite": "Triolet",
+    "label": "PER",
+    "Contexte gauche": "de l'Universit\u00e9! (",
+    "Contexte droite": ", Prem. accroc,1945,"
+  },
+  "Entite38": {
+    "entite": "p.337).V. brigade",
+    "label": "MISC",
+    "Contexte gauche": ", Prem. accroc,1945,",
+    "Contexte droite": "ex. 4 et infra"
+  },
+  "Entite39": {
+    "entite": "Ensemble des moyens",
+    "label": "MISC",
+    "Contexte gauche": "Haute police. ,,",
+    "Contexte droite": "employ\u00e9s, des dispositions prises"
+  },
+  "Entite40": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "dans l'int\u00e9r\u00eat de l'",
+    "Contexte droite": "et de la s\u00e9curit\u00e9 des"
+  },
+  "Entite41": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "des citoyens`` (",
+    "Contexte droite": "). Translation \u00e0 Blois"
+  },
+  "Entite42": {
+    "entite": "Blois",
+    "label": "LOC",
+    "Contexte gauche": "Littr\u00e9). Translation \u00e0",
+    "Contexte droite": ", o\u00f9 il habiterait sous"
+  },
+  "Entite43": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "de la haute police (",
+    "Contexte droite": ", Volupt\u00e9,t.2,"
+  },
+  "Entite44": {
+    "entite": "Volupt\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "haute police (Sainte-Beuve,",
+    "Contexte droite": ",t.2, 1834,"
+  },
+  "Entite45": {
+    "entite": "p.7).Juge",
+    "label": "LOC",
+    "Contexte gauche": ",t.2, 1834,",
+    "Contexte droite": "de police. Synon."
+  },
+  "Entite46": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": ", p.7).Juge de police.",
+    "Contexte droite": ". de juge* de"
+  },
+  "Entite47": {
+    "entite": "Dict.xixeet xxes",
+    "label": "PER",
+    "Contexte gauche": "* de paix. (",
+    "Contexte droite": ".).\n1"
+  },
+  "Entite48": {
+    "entite": "Finalit\u00e9s",
+    "label": "LOC",
+    "Contexte gauche": ".\n1. [",
+    "Contexte droite": "de la police]\n"
+  },
+  "Entite49": {
+    "entite": "Police administrative",
+    "label": "ORG",
+    "Contexte gauche": ") DR. ADMIN.",
+    "Contexte droite": ". ,,Ensemble des"
+  },
+  "Entite50": {
+    "entite": "Ensemble des pouvoirs",
+    "label": "MISC",
+    "Contexte gauche": "Police administrative. ,,",
+    "Contexte droite": "et des r\u00e8glements tendant \u00e0"
+  },
+  "Entite51": {
+    "entite": "Barr",
+    "label": "LOC",
+    "Contexte gauche": "des libert\u00e9s`` (",
+    "Contexte droite": ". 1967):\n2"
+  },
+  "Entite52": {
+    "entite": "Police judiciaire",
+    "label": "ORG",
+    "Contexte gauche": ") DR. P\u00c9NAL.",
+    "Contexte droite": "(abr\u00e9v. P.J.*"
+  },
+  "Entite53": {
+    "entite": "Organisation",
+    "label": "ORG",
+    "Contexte gauche": "*). ,,",
+    "Contexte droite": "qui a pour mission de"
+  },
+  "Entite54": {
+    "entite": "Proc\u00e9der",
+    "label": "ORG",
+    "Contexte gauche": "1970, p.79).",
+    "Contexte droite": "ou faire proc\u00e9der \u00e0 toutes"
+  },
+  "Entite55": {
+    "entite": "code d'instruction criminelle",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 l'article 10 du",
+    "Contexte droite": "(De Gaulle, M\u00e9m"
+  },
+  "Entite56": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "code d'instruction criminelle (",
+    "Contexte droite": ", M\u00e9m. guerre,1956,"
+  },
+  "Entite57": {
+    "entite": "p.554).V. supra ex",
+    "label": "MISC",
+    "Contexte gauche": ", M\u00e9m. guerre,1956,",
+    "Contexte droite": ". 2.(Tribunal de) police"
+  },
+  "Entite58": {
+    "entite": "2.(Tribunal",
+    "label": "ORG",
+    "Contexte gauche": ", p.554).V. supra ex.",
+    "Contexte droite": "de) police correctionnelle*"
+  },
+  "Entite59": {
+    "entite": "Capitainerie",
+    "label": "LOC",
+    "Contexte gauche": "du bord. ,,",
+    "Contexte droite": "d'armes du bord,"
+  },
+  "Entite60": {
+    "entite": "Domaine",
+    "label": "PER",
+    "Contexte gauche": ").\nd)",
+    "Contexte droite": "milit.\n\u2666 Bonnet"
+  },
+  "Entite61": {
+    "entite": "V. poste2",
+    "label": "PER",
+    "Contexte gauche": ". Poste de police.",
+    "Contexte droite": ".\n\u2666 Salle de"
+  },
+  "Entite62": {
+    "entite": "Barr\u00e8s",
+    "label": "LOC",
+    "Contexte gauche": "des logis...\u00bb (",
+    "Contexte droite": ", Cahiers,t.11,"
+  },
+  "Entite63": {
+    "entite": "Cahiers,t.11",
+    "label": "MISC",
+    "Contexte gauche": "...\u00bb (Barr\u00e8s,",
+    "Contexte droite": ", 1915, p.121).V. apprendre"
+  },
+  "Entite64": {
+    "entite": "p.121).V.",
+    "label": "MISC",
+    "Contexte gauche": ",t.11, 1915,",
+    "Contexte droite": "apprendre ex. 14."
+  },
+  "Entite65": {
+    "entite": "Police militaire",
+    "label": "ORG",
+    "Contexte gauche": ". 14.\n\u2666",
+    "Contexte droite": "(abr\u00e9v. P.M.)"
+  },
+  "Entite66": {
+    "entite": "C 4",
+    "label": "MISC",
+    "Contexte gauche": "autre sens, v. infra",
+    "Contexte droite": "b).\n\u2666"
+  },
+  "Entite67": {
+    "entite": "Police judiciaire militaire",
+    "label": "ORG",
+    "Contexte gauche": "b).\n\u2666",
+    "Contexte droite": ". Institution charg\u00e9e de rechercher"
+  },
+  "Entite68": {
+    "entite": "Institution",
+    "label": "ORG",
+    "Contexte gauche": "\u2666 Police judiciaire militaire.",
+    "Contexte droite": "charg\u00e9e de rechercher les crimes"
+  },
+  "Entite69": {
+    "entite": "Services",
+    "label": "PER",
+    "Contexte gauche": ".\n2. [",
+    "Contexte droite": "particuliers de la police]"
+  },
+  "Entite70": {
+    "entite": "Police de l'air et des fronti\u00e8res",
+    "label": "ORG",
+    "Contexte gauche": "police]\na)",
+    "Contexte droite": ". Forces de police charg\u00e9es"
+  },
+  "Entite71": {
+    "entite": "Forces de police",
+    "label": "ORG",
+    "Contexte gauche": "air et des fronti\u00e8res.",
+    "Contexte droite": "charg\u00e9es de veiller sur le"
+  },
+  "Entite72": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "d\u00e9placement des personnes d'un",
+    "Contexte droite": "\u00e0 un autre. La"
+  },
+  "Entite73": {
+    "entite": "PAF",
+    "label": "MISC",
+    "Contexte gauche": "les 170 hommes de la",
+    "Contexte droite": "(police de l'air"
+  },
+  "Entite74": {
+    "entite": "Renseignements g\u00e9n\u00e9raux\u00bb) du",
+    "label": "ORG",
+    "Contexte gauche": ", au service des \u00ab",
+    "Contexte droite": "commissaire Hansemann (L'\u00c9v\u00e9nement"
+  },
+  "Entite75": {
+    "entite": "commissaire Hansemann",
+    "label": "PER",
+    "Contexte gauche": "Renseignements g\u00e9n\u00e9raux\u00bb) du",
+    "Contexte droite": "(L'\u00c9v\u00e9nement du jeudi,22"
+  },
+  "Entite76": {
+    "entite": "L'\u00c9v\u00e9nement du jeudi,22-28",
+    "label": "MISC",
+    "Contexte gauche": ") du commissaire Hansemann (",
+    "Contexte droite": "nov. 1984, no3,"
+  },
+  "Entite77": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": ").\nb)",
+    "Contexte droite": "des moeurs*, police"
+  },
+  "Entite78": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "police mondaine*.\nc)",
+    "Contexte droite": "mont\u00e9e. Corps de policiers"
+  },
+  "Entite79": {
+    "entite": "II B 1",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 cheval. V. mont\u00e9",
+    "Contexte droite": "ex. de Bernanos."
+  },
+  "Entite80": {
+    "entite": "Bernanos",
+    "label": "PER",
+    "Contexte gauche": "B 1 ex. de",
+    "Contexte droite": ".\n\u2212 En partic"
+  },
+  "Entite81": {
+    "entite": "Gendarmerie royale du Canada",
+    "label": "ORG",
+    "Contexte gauche": "\n\u2212 En partic.",
+    "Contexte droite": ". Du Canada, les"
+  },
+  "Entite82": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": "royale du Canada. Du",
+    "Contexte droite": ", les livres fran\u00e7ais connaissent"
+  },
+  "Entite83": {
+    "entite": "Hollywood",
+    "label": "LOC",
+    "Contexte gauche": "de la guerre (via",
+    "Contexte droite": ") et la cabane au"
+  },
+  "Entite84": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": ") et la cabane au",
+    "Contexte droite": "(F. Leclerc, Moi"
+  },
+  "Entite85": {
+    "entite": "F. Leclerc",
+    "label": "PER",
+    "Contexte gauche": "la cabane au Canada (",
+    "Contexte droite": ", Moi, mes souliers,1955"
+  },
+  "Entite86": {
+    "entite": "Richesses Qu\u00e9bec",
+    "label": "PER",
+    "Contexte gauche": "mes souliers,1955, p.130 ds",
+    "Contexte droite": "1982, p.1857)."
+  },
+  "Entite87": {
+    "entite": "Police de la route",
+    "label": "ORG",
+    "Contexte gauche": ").\nd)",
+    "Contexte droite": ". Forces de police charg\u00e9es"
+  },
+  "Entite88": {
+    "entite": "Forces de police",
+    "label": "ORG",
+    "Contexte gauche": "Police de la route.",
+    "Contexte droite": "charg\u00e9es de la circulation routi\u00e8re"
+  },
+  "Entite89": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "routi\u00e8re.\ne)",
+    "Contexte droite": "secr\u00e8te. V. secret1."
+  },
+  "Entite90": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "secret1.\nf)",
+    "Contexte droite": "scientifique. Synon. de"
+  },
+  "Entite91": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "f) Police scientifique.",
+    "Contexte droite": ". de criminalistique.P."
+  },
+  "Entite92": {
+    "entite": "Le Monde",
+    "label": "ORG",
+    "Contexte gauche": "de la police judiciaire (",
+    "Contexte droite": ", 9 mars 1985,"
+  },
+  "Entite93": {
+    "entite": "p.11, col",
+    "label": "MISC",
+    "Contexte gauche": ", 9 mars 1985,",
+    "Contexte droite": ". 3).\n"
+  },
+  "Entite94": {
+    "entite": "Inspection g\u00e9n\u00e9rale des services de la police nationale",
+    "label": "ORG",
+    "Contexte gauche": "police des polices. L'",
+    "Contexte droite": ". L'IGS, la"
+  },
+  "Entite95": {
+    "entite": "Le Canard",
+    "label": "MISC",
+    "Contexte gauche": "des chapeaux de roue (",
+    "Contexte droite": "encha\u00een\u00e9,24 avr. 1985, p.4"
+  },
+  "Entite96": {
+    "entite": "Comp\u00e9tence territoriale des diff\u00e9rents",
+    "label": "MISC",
+    "Contexte gauche": ".\n3. [",
+    "Contexte droite": "services]\na)"
+  },
+  "Entite97": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "services]\na)",
+    "Contexte droite": "municipale. Ensemble des forces"
+  },
+  "Entite98": {
+    "entite": "Martin du G.",
+    "label": "PER",
+    "Contexte gauche": "un coup de couteau (",
+    "Contexte droite": ", Thib.,\u00c9t\u00e9 14"
+  },
+  "Entite99": {
+    "entite": "B",
+    "label": "LOC",
+    "Contexte gauche": "autre sens, v. supra",
+    "Contexte droite": "1.\nb)"
+  },
+  "Entite100": {
+    "entite": "Police nationale",
+    "label": "ORG",
+    "Contexte gauche": "1.\nb)",
+    "Contexte droite": ". Ensemble des forces de"
+  },
+  "Entite101": {
+    "entite": "ministre de l'Int\u00e9rieur",
+    "label": "ORG",
+    "Contexte gauche": "habitants et qui rel\u00e8vent du",
+    "Contexte droite": ". V. infra ex."
+  },
+  "Entite102": {
+    "entite": "La France",
+    "label": "LOC",
+    "Contexte gauche": "4:\n3.",
+    "Contexte droite": "dispose de trois organes diff\u00e9rents"
+  },
+  "Entite103": {
+    "entite": "S\u00fbret\u00e9 nationale",
+    "label": "ORG",
+    "Contexte gauche": "diff\u00e9rents de police: la",
+    "Contexte droite": ", police civile de tous"
+  },
+  "Entite104": {
+    "entite": "Seine",
+    "label": "LOC",
+    "Contexte gauche": "les d\u00e9partements fran\u00e7ais sauf la",
+    "Contexte droite": ", la Pr\u00e9fecture de police"
+  },
+  "Entite105": {
+    "entite": "Pr\u00e9fecture de police",
+    "label": "LOC",
+    "Contexte gauche": "sauf la Seine, la",
+    "Contexte droite": "(le \u00abQuai des"
+  },
+  "Entite106": {
+    "entite": "Quai des Orf\u00e8vres\u00bb)",
+    "label": "MISC",
+    "Contexte gauche": "de police (le \u00ab",
+    "Contexte droite": ", comp\u00e9tente dans les seules"
+  },
+  "Entite107": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "dans les seules limites de",
+    "Contexte droite": "et de ses d\u00e9partements p\u00e9riph\u00e9riques"
+  },
+  "Entite108": {
+    "entite": "Gendarmerie nationale",
+    "label": "ORG",
+    "Contexte gauche": "ses d\u00e9partements p\u00e9riph\u00e9riques, la",
+    "Contexte droite": ", police militaire charg\u00e9e de"
+  },
+  "Entite109": {
+    "entite": "S\u00fbret\u00e9 nationale",
+    "label": "ORG",
+    "Contexte gauche": "Depuis janvier 1968, la",
+    "Contexte droite": "et la pr\u00e9fecture de police"
+  },
+  "Entite110": {
+    "entite": "Police nationale",
+    "label": "ORG",
+    "Contexte gauche": "un corps unique: la",
+    "Contexte droite": ". Yam.-Kell.1970.\nc"
+  },
+  "Entite111": {
+    "entite": "Police",
+    "label": "MISC",
+    "Contexte gauche": "Yam.-Kell.1970.\nc)",
+    "Contexte droite": "rurale. Ensemble des forces"
+  },
+  "Entite112": {
+    "entite": "Gendarmerie nationale",
+    "label": "ORG",
+    "Contexte gauche": "dans le cas de la",
+    "Contexte droite": ", du ministre des Arm\u00e9es"
+  },
+  "Entite113": {
+    "entite": "ministre des Arm\u00e9es",
+    "label": "ORG",
+    "Contexte gauche": "la Gendarmerie nationale, du",
+    "Contexte droite": ":\n4. ..."
+  },
+  "Entite114": {
+    "entite": "Monde,6",
+    "label": "MISC",
+    "Contexte gauche": "fois moins importants. Le",
+    "Contexte droite": "nov. 1984, p.12,"
+  },
+  "Entite115": {
+    "entite": "Rattachement",
+    "label": "ORG",
+    "Contexte gauche": ".\n4. [",
+    "Contexte droite": "administratif des services de police"
+  },
+  "Entite116": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "police]\na)",
+    "Contexte droite": "civile. Police rattach\u00e9e au"
+  },
+  "Entite117": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "a) Police civile.",
+    "Contexte droite": "rattach\u00e9e au ministre de l'"
+  },
+  "Entite118": {
+    "entite": "ministre de l'Int\u00e9rieur",
+    "label": "ORG",
+    "Contexte gauche": "civile. Police rattach\u00e9e au",
+    "Contexte droite": ". V. supra ex."
+  },
+  "Entite119": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "b) Police militaire.",
+    "Contexte droite": "rattach\u00e9e au ministre des arm\u00e9es"
+  },
+  "Entite120": {
+    "entite": "C 1",
+    "label": "MISC",
+    "Contexte gauche": "autre sens, v. supra",
+    "Contexte droite": "d.\n5. Loc"
+  },
+  "Entite121": {
+    "entite": "Hommes bonne vol",
+    "label": "MISC",
+    "Contexte gauche": "livrerais pas (Romains,",
+    "Contexte droite": ".,1932, p.222).Qui aurait"
+  },
+  "Entite122": {
+    "entite": "p.222).Qui",
+    "label": "MISC",
+    "Contexte gauche": "bonne vol.,1932,",
+    "Contexte droite": "aurait pu croire tout de"
+  },
+  "Entite123": {
+    "entite": "Police!",
+    "label": "ORG",
+    "Contexte gauche": "En empl. interj.",
+    "Contexte droite": "[Empl. par les"
+  },
+  "Entite124": {
+    "entite": "Empl",
+    "label": "LOC",
+    "Contexte gauche": "interj. Police! [",
+    "Contexte droite": ". par les policiers pour"
+  },
+  "Entite125": {
+    "entite": "Martin du G.",
+    "label": "PER",
+    "Contexte gauche": "carton de sa poche (",
+    "Contexte droite": ", Thib.,\u00c9t\u00e9 14"
+  },
+  "Entite126": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": "7. R\u00e9gion. (",
+    "Contexte droite": "). Policier. Y'"
+  },
+  "Entite127": {
+    "entite": "J. Barbeau",
+    "label": "PER",
+    "Contexte gauche": "piss\u00e9 dans l'front (",
+    "Contexte droite": ", Le Chemin,1971, p.23"
+  },
+  "Entite128": {
+    "entite": "Le Chemin,1971, p.23 ds Richesses Qu\u00e9bec",
+    "label": "MISC",
+    "Contexte gauche": "front (J. Barbeau,",
+    "Contexte droite": "1982, p.1857)."
+  },
+  "Entite129": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "anal.\n1.",
+    "Contexte droite": "parall\u00e8le*.\n2. Police"
+  },
+  "Entite130": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": "Police parall\u00e8le*.\n2.",
+    "Contexte droite": "politique. ,,Appareil"
+  },
+  "Entite131": {
+    "entite": "Appareil",
+    "label": "LOC",
+    "Contexte gauche": "Police politique. ,,",
+    "Contexte droite": "policier \u00e9tabli par le r\u00e9gime"
+  },
+  "Entite132": {
+    "entite": "Debb.-Daudet Pol",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9gimes totalitaires`` (",
+    "Contexte droite": ". 1978). Le"
+  },
+  "Entite133": {
+    "entite": "NKVD",
+    "label": "ORG",
+    "Contexte gauche": ". 1978). Le",
+    "Contexte droite": "et les polices politiques en"
+  },
+  "Entite134": {
+    "entite": "Camus, Homme r\u00e9v.",
+    "label": "MISC",
+    "Contexte gauche": "polices politiques en g\u00e9n\u00e9ral (",
+    "Contexte droite": ",1951, p.295)."
+  },
+  "Entite135": {
+    "entite": "Police",
+    "label": "ORG",
+    "Contexte gauche": ").\n3.",
+    "Contexte droite": "priv\u00e9e\na) Organisation"
+  },
+  "Entite136": {
+    "entite": "Florence",
+    "label": "LOC",
+    "Contexte gauche": "priv\u00e9e l'a envoy\u00e9e \u00e0",
+    "Contexte droite": "(Larbaud, Barnabooth,1913,"
+  },
+  "Entite137": {
+    "entite": "Larbaud",
+    "label": "LOC",
+    "Contexte gauche": "a envoy\u00e9e \u00e0 Florence (",
+    "Contexte droite": ", Barnabooth,1913, p.163):"
+  },
+  "Entite138": {
+    "entite": "Barnabooth,1913",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 Florence (Larbaud,",
+    "Contexte droite": ", p.163):\n5"
+  },
+  "Entite139": {
+    "entite": "Petit-Pouce",
+    "label": "LOC",
+    "Contexte gauche": "p.163):\n5.",
+    "Contexte droite": "se pencha vers lui et"
+  },
+  "Entite140": {
+    "entite": "M\u00e9sange",
+    "label": "PER",
+    "Contexte gauche": "\u2212Je fais une enqu\u00eate.",
+    "Contexte droite": "s'est \u00e9galement pench\u00e9 pour"
+  },
+  "Entite141": {
+    "entite": "Pierrot",
+    "label": "PER",
+    "Contexte gauche": "dans la secr\u00e8te? demanda",
+    "Contexte droite": ". \u2212Non. Non."
+  },
+  "Entite142": {
+    "entite": "Police",
+    "label": "MISC",
+    "Contexte gauche": ". \u2212Non. Non.",
+    "Contexte droite": "priv\u00e9e. Queneau, Pierrot,1942"
+  },
+  "Entite143": {
+    "entite": "Entreprise de surveillance",
+    "label": "ORG",
+    "Contexte gauche": "p.174.\nb)",
+    "Contexte droite": "ou de protection utilisant les"
+  },
+  "Entite144": {
+    "entite": "Ds Rob",
+    "label": "PER",
+    "Contexte gauche": "que la police. (",
+    "Contexte droite": ". 1985).\n"
+  },
+  "Entite145": {
+    "entite": "S.A.M.U. [",
+    "label": "PER",
+    "Contexte gauche": ". \u2212Police-secours,",
+    "Contexte droite": "Service d'aide m\u00e9dicale d'"
+  },
+  "Entite146": {
+    "entite": "Pierre Balladur",
+    "label": "PER",
+    "Contexte gauche": "nouveau patient? s'interroge",
+    "Contexte droite": "en s'\u00e9lan\u00e7ant dans les"
+  },
+  "Entite147": {
+    "entite": "urgences]. Dehors",
+    "label": "ORG",
+    "Contexte gauche": "\u00abPorte\u00bb [aux",
+    "Contexte droite": ", sous la pluie,"
+  },
+  "Entite148": {
+    "entite": "S.A.M.U.",
+    "label": "PER",
+    "Contexte gauche": "pluie, le gyrophare du",
+    "Contexte droite": "tourne toujours. Sur un"
+  },
+  "Entite149": {
+    "entite": "Le Figaro Magazine,9 mars",
+    "label": "ORG",
+    "Contexte gauche": ", un homme geint (",
+    "Contexte droite": "1983, p.79).Un fourgon de"
+  },
+  "Entite150": {
+    "entite": "p.79).Un",
+    "label": "MISC",
+    "Contexte gauche": "Figaro Magazine,9 mars 1983,",
+    "Contexte droite": "fourgon de Police-Secours"
+  },
+  "Entite151": {
+    "entite": "Police-Secours",
+    "label": "LOC",
+    "Contexte gauche": "1983, p.79).Un fourgon de",
+    "Contexte droite": "attendait, le gyrophare lan\u00e7ait"
+  },
+  "Entite152": {
+    "entite": "La B\u00eate et la belle,1985, p.70",
+    "label": "MISC",
+    "Contexte gauche": "(Th. Jonquet,",
+    "Contexte droite": ").\nPrononc."
+  },
+  "Entite153": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [p\u0254lis]. Homon"
+  },
+  "Entite154": {
+    "entite": "Homon.",
+    "label": "MISC",
+    "Contexte gauche": "Orth.: [p\u0254lis].",
+    "Contexte droite": "et homogr.: formes"
+  },
+  "Entite155": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": "de policer. Att.",
+    "Contexte droite": ". dep. 1694."
+  },
+  "Entite156": {
+    "entite": "\u00c9tymol.",
+    "label": "LOC",
+    "Contexte gauche": ". dep. 1694.",
+    "Contexte droite": "et Hist.1. [Ca"
+  },
+  "Entite157": {
+    "entite": "Ca",
+    "label": "LOC",
+    "Contexte gauche": ". et Hist.1. [",
+    "Contexte droite": "1250 (copie du dernier"
+  },
+  "Entite158": {
+    "entite": "ds G. Espinas",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9glementation\u00bb (doc.",
+    "Contexte droite": ", La Vie urbaine de"
+  },
+  "Entite159": {
+    "entite": "La Vie urbaine de Douai",
+    "label": "MISC",
+    "Contexte gauche": ". ds G. Espinas,",
+    "Contexte droite": "au Moy. \u00c2ge,"
+  },
+  "Entite160": {
+    "entite": "Moy",
+    "label": "LOC",
+    "Contexte gauche": "Vie urbaine de Douai au",
+    "Contexte droite": ". \u00c2ge, t.3,"
+  },
+  "Entite161": {
+    "entite": "N. Oresme",
+    "label": "PER",
+    "Contexte gauche": ", bonne administration\u00bb (",
+    "Contexte droite": ", Traicti\u00e9 des monnoies,"
+  },
+  "Entite162": {
+    "entite": "Traicti\u00e9 des monnoies",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb (N. Oresme,",
+    "Contexte droite": ", \u00e9d. L. Wolowski"
+  },
+  "Entite163": {
+    "entite": "L. Wolowski",
+    "label": "PER",
+    "Contexte gauche": "des monnoies, \u00e9d.",
+    "Contexte droite": ", p.LXXIX);"
+  },
+  "Entite164": {
+    "entite": "Chambre de police",
+    "label": "ORG",
+    "Contexte gauche": "); sp\u00e9c. 1690",
+    "Contexte droite": "(Fur.);"
+  },
+  "Entite165": {
+    "entite": "Le Roman comique, \u00e9d",
+    "label": "MISC",
+    "Contexte gauche": "publique\u00bb (Scarron,",
+    "Contexte droite": ". E. Magne, 1955"
+  },
+  "Entite166": {
+    "entite": "E. Magne",
+    "label": "PER",
+    "Contexte gauche": "Roman comique, \u00e9d.",
+    "Contexte droite": ", 1955, p.25 d'"
+  },
+  "Entite167": {
+    "entite": "F. Siccardo",
+    "label": "PER",
+    "Contexte gauche": "1955, p.25 d'apr.",
+    "Contexte droite": ", \u00abPolice\u00bb,"
+  },
+  "Entite168": {
+    "entite": "Sganarelle",
+    "label": "LOC",
+    "Contexte gauche": "de police (Moli\u00e8re,",
+    "Contexte droite": ", 17, \u00e9d."
+  },
+  "Entite169": {
+    "entite": "R. Bray",
+    "label": "PER",
+    "Contexte gauche": ", 17, \u00e9d.",
+    "Contexte droite": ", p.317); 1667"
+  },
+  "Entite170": {
+    "entite": "F. Siccardo",
+    "label": "PER",
+    "Contexte gauche": "\u00e9dit 15 mars d'apr.",
+    "Contexte droite": ", op. cit."
+  },
+  "Entite171": {
+    "entite": "Laffon-Ladebat",
+    "label": "LOC",
+    "Contexte gauche": "1797 agent de police (",
+    "Contexte droite": ", Journal de ma d\u00e9portation"
+  },
+  "Entite172": {
+    "entite": "Journal de ma d\u00e9portation",
+    "label": "MISC",
+    "Contexte gauche": "(Laffon-Ladebat,",
+    "Contexte droite": "\u00e0 la Guyane fr."
+  },
+  "Entite173": {
+    "entite": "Guyane",
+    "label": "LOC",
+    "Contexte gauche": "de ma d\u00e9portation \u00e0 la",
+    "Contexte droite": "fr., 18 fructidor"
+  },
+  "Entite174": {
+    "entite": "pp.89-90 ds Quem",
+    "label": "LOC",
+    "Contexte gauche": "., 18 fructidor,",
+    "Contexte droite": ". DDL t.15, s.v"
+  },
+  "Entite175": {
+    "entite": "DDL t.15",
+    "label": "MISC",
+    "Contexte gauche": "-90 ds Quem.",
+    "Contexte droite": ", s.v. agent)"
+  },
+  "Entite176": {
+    "entite": "police priv\u00e9e",
+    "label": "ORG",
+    "Contexte gauche": "); 1913 p.ext.",
+    "Contexte droite": "(Larbaud, loc."
+  },
+  "Entite177": {
+    "entite": "Larbaud",
+    "label": "PER",
+    "Contexte gauche": "p.ext. police priv\u00e9e (",
+    "Contexte droite": ", loc. cit."
+  },
+  "Entite178": {
+    "entite": "Le Couturier",
+    "label": "PER",
+    "Contexte gauche": ". salle de police (",
+    "Contexte droite": ", Dict. portatif et"
+  },
+  "Entite179": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "police (Le Couturier,",
+    "Contexte droite": ". portatif et raisonn\u00e9 des"
+  },
+  "Entite180": {
+    "entite": "politia",
+    "label": "MISC",
+    "Contexte gauche": ". au lat. tardif",
+    "Contexte droite": "\u00aborganisation politique, gouvernement"
+  },
+  "Entite181": {
+    "entite": "St Ambroise ds",
+    "label": "LOC",
+    "Contexte gauche": "politique, gouvernement\u00bb (",
+    "Contexte droite": "Blaise Lat. chr\u00e9t."
+  },
+  "Entite182": {
+    "entite": "Blaise Lat",
+    "label": "PER",
+    "Contexte gauche": "\u00bb (St Ambroise ds",
+    "Contexte droite": ". chr\u00e9t.; d\u00e9signe"
+  },
+  "Entite183": {
+    "entite": "Cic\u00e9ron la R\u00e9publique",
+    "label": "PER",
+    "Contexte gauche": ".; d\u00e9signe d\u00e9j\u00e0 chez",
+    "Contexte droite": ", trait\u00e9 de Platon,"
+  },
+  "Entite184": {
+    "entite": "Platon",
+    "label": "PER",
+    "Contexte gauche": "la R\u00e9publique, trait\u00e9 de",
+    "Contexte droite": ", v. De Divinatione,"
+  },
+  "Entite185": {
+    "entite": "De Divinatione",
+    "label": "PER",
+    "Contexte gauche": "trait\u00e9 de Platon, v.",
+    "Contexte droite": ", 1, 60 ds"
+  },
+  "Entite186": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "Divinatione, 1, 60",
+    "Contexte droite": "OLD) accentu\u00e9 sur le"
+  },
+  "Entite187": {
+    "entite": "gr.",
+    "label": "LOC",
+    "Contexte gauche": "le rad., du",
+    "Contexte droite": "\u03c0 \u03bf \u03bb \u03b9 \u03c4"
+  },
+  "Entite188": {
+    "entite": "\u0301",
+    "label": "LOC",
+    "Contexte gauche": "\u03bb \u03b9 \u03c4 \u03b5 \u03b9",
+    "Contexte droite": "\u03b1 \u00absituation de citoyen"
+  },
+  "Entite189": {
+    "entite": "v. Chantraine",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9publicaine ou d\u00e9mocratique\u00bb (",
+    "Contexte droite": "), d\u00e9r. de"
+  },
+  "Entite190": {
+    "entite": "Oresme",
+    "label": "PER",
+    "Contexte gauche": ". du xives. (",
+    "Contexte droite": ") au xviiies. ("
+  },
+  "Entite191": {
+    "entite": "FEW",
+    "label": "MISC",
+    "Contexte gauche": "le suff. (v.",
+    "Contexte droite": "t.9, p.129)."
+  },
+  "Entite192": {
+    "entite": "L\u00f6tmarker",
+    "label": "PER",
+    "Contexte gauche": "p.129). Bbg.",
+    "Contexte droite": "(R.). Policier"
+  },
+  "Entite193": {
+    "entite": "St. neophilol.",
+    "label": "MISC",
+    "Contexte gauche": "adj. de relation.",
+    "Contexte droite": "1978, t.50, pp.81"
+  },
+  "Entite194": {
+    "entite": "pp.81-99",
+    "label": "LOC",
+    "Contexte gauche": ". 1978, t.50,",
+    "Contexte droite": ". _Quem. DDL"
+  },
+  "Entite195": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "99. _Quem.",
+    "Contexte droite": "t.3, 11, 15"
+  },
+  "Entite196": {
+    "entite": "Siccardo",
+    "label": "PER",
+    "Contexte gauche": "15, 21. _",
+    "Contexte droite": "(F.). Police"
+  }
+}

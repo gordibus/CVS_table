@@ -1,0 +1,206 @@
+{
+  "Entite0": {
+    "entite": "- \u00c9conomie",
+    "label": "LOC",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite1": {
+    "entite": "Nouv.",
+    "label": "MISC",
+    "Contexte gauche": "fortune nationale. Sismondi,",
+    "Contexte droite": "principes d'\u00e9con. pol"
+  },
+  "Entite2": {
+    "entite": "A.\u2212",
+    "label": "PER",
+    "Contexte gauche": ", p. 11.\n",
+    "Contexte droite": "Vieilli. Art de g\u00e9rer"
+  },
+  "Entite3": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "et son \u00e9conomie d\u00e9testable (",
+    "Contexte droite": ", Livre ami,1885, p."
+  },
+  "Entite4": {
+    "entite": "Livre ami,1885",
+    "label": "PER",
+    "Contexte gauche": "\u00e9conomie d\u00e9testable (France,",
+    "Contexte droite": ", p. 51):\n"
+  },
+  "Entite5": {
+    "entite": "Anne d'Orgel",
+    "label": "PER",
+    "Contexte gauche": "ma\u00eetre de maison qui poussait",
+    "Contexte droite": "\u00e0 d\u00e9plorer que Naroumof d\u00e9barqu\u00e2t"
+  },
+  "Entite6": {
+    "entite": "Naroumof",
+    "label": "PER",
+    "Contexte gauche": "d'Orgel \u00e0 d\u00e9plorer que",
+    "Contexte droite": "d\u00e9barqu\u00e2t sans crier gare."
+  },
+  "Entite7": {
+    "entite": "Le Bal du comte d'Orgel,1923",
+    "label": "MISC",
+    "Contexte gauche": "crier gare. Radiguet,",
+    "Contexte droite": ", p. 179.\n"
+  },
+  "Entite8": {
+    "entite": "brasser1, ex",
+    "label": "MISC",
+    "Contexte gauche": "cf. ex. 1 et",
+    "Contexte droite": ". 1; cf. aussi"
+  },
+  "Entite9": {
+    "entite": "Becquet",
+    "label": "PER",
+    "Contexte gauche": ". 1; cf. aussi",
+    "Contexte droite": ", Organ. loisirs travaill"
+  },
+  "Entite10": {
+    "entite": "Organ",
+    "label": "MISC",
+    "Contexte gauche": "; cf. aussi Becquet,",
+    "Contexte droite": ". loisirs travaill.,"
+  },
+  "Entite11": {
+    "entite": "Pradelle",
+    "label": "LOC",
+    "Contexte gauche": "p. 31).\u00c9conomie priv\u00e9e (cf.",
+    "Contexte droite": ", Serv. P.T.T. France"
+  },
+  "Entite12": {
+    "entite": "Serv",
+    "label": "PER",
+    "Contexte gauche": "priv\u00e9e (cf. Pradelle,",
+    "Contexte droite": ". P.T.T. France, 1903"
+  },
+  "Entite13": {
+    "entite": "P.T.T. France",
+    "label": "LOC",
+    "Contexte gauche": "cf. Pradelle, Serv.",
+    "Contexte droite": ", 1903, p. 122"
+  },
+  "Entite14": {
+    "entite": "Univers \u00e9con.",
+    "label": "MISC",
+    "Contexte gauche": "1903, p. 122 et",
+    "Contexte droite": "et soc., 1960"
+  },
+  "Entite15": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": ". \u00c9conomie rurale (cf.",
+    "Contexte droite": "., G\u00e9nie, t."
+  },
+  "Entite16": {
+    "entite": "G\u00e9nie, t. 2",
+    "label": "MISC",
+    "Contexte gauche": "(cf. Chateaubr.,",
+    "Contexte droite": ", 1803, p. 543"
+  },
+  "Entite17": {
+    "entite": "Wolkowitsch",
+    "label": "PER",
+    "Contexte gauche": "1803, p. 543 et",
+    "Contexte droite": ", \u00c9lev. 1966,"
+  },
+  "Entite18": {
+    "entite": "\u00c9lev",
+    "label": "MISC",
+    "Contexte gauche": "p. 543 et Wolkowitsch,",
+    "Contexte droite": ". 1966, p. 164"
+  },
+  "Entite19": {
+    "entite": "B.\u2212 \u00c9conomie",
+    "label": "MISC",
+    "Contexte gauche": "p. 164).\n",
+    "Contexte droite": "politique et p. ell."
+  },
+  "Entite20": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "d\u00e9ploient \u00e0 cet effet.",
+    "Contexte droite": ". r\u00e9cent science \u00e9conomique(cf."
+  },
+  "Entite21": {
+    "entite": "Trait\u00e9 de sociol",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9chappe bien souvent).",
+    "Contexte droite": ".,1967, p. 22"
+  },
+  "Entite22": {
+    "entite": "Gds",
+    "label": "MISC",
+    "Contexte gauche": "monnaie \u00e9tait donc insignifiant (",
+    "Contexte droite": "cour. pens\u00e9e math."
+  },
+  "Entite23": {
+    "entite": "Trait\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "516).\u00c9conomie socialiste ou planifi\u00e9e (",
+    "Contexte droite": "sociol.,1968, p."
+  },
+  "Entite24": {
+    "entite": "Orient",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 des clients nombreux en",
+    "Contexte droite": "et en Am\u00e9rique, dont"
+  },
+  "Entite25": {
+    "entite": "Am\u00e9rique",
+    "label": "LOC",
+    "Contexte gauche": "nombreux en Orient et en",
+    "Contexte droite": ", dont les app\u00e9tits s'"
+  },
+  "Entite26": {
+    "entite": "Attachements,1943",
+    "label": "LOC",
+    "Contexte gauche": "chefs \u00e9prouv\u00e9s. Chardonne,",
+    "Contexte droite": ", p. 173.\n"
+  },
+  "Entite27": {
+    "entite": "Lesourd",
+    "label": "PER",
+    "Contexte gauche": "concert\u00e9e, dirig\u00e9e (cf.",
+    "Contexte droite": ", G\u00e9rard, Hist."
+  },
+  "Entite28": {
+    "entite": "G\u00e9rard, Hist",
+    "label": "MISC",
+    "Contexte gauche": "dirig\u00e9e (cf. Lesourd,",
+    "Contexte droite": ". \u00e9con., 1968"
+  },
+  "Entite29": {
+    "entite": "Soci\u00e9t\u00e9 d'",
+    "label": "ORG",
+    "Contexte gauche": "p. 171). (",
+    "Contexte droite": ") \u00e9conomie mixte (cf."
+  },
+  "Entite30": {
+    "entite": "Gouvern",
+    "label": "PER",
+    "Contexte gauche": "mixte (cf. Belorgey,",
+    "Contexte droite": ". et admin. Fr"
+  },
+  "Entite31": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ". : [ek\u0254n\u0254mi]. Ds"
+  },
+  "Entite32": {
+    "entite": "Ds",
+    "label": "MISC",
+    "Contexte gauche": "Orth. : [ek\u0254n\u0254mi].",
+    "Contexte droite": "Ac. 1694 et 1718"
+  },
+  "Entite33": {
+    "entite": "Ds",
+    "label": "MISC",
+    "Contexte gauche": "anc. forme \u0153conomie.",
+    "Contexte droite": "Ac. 1740-1932"
+  }
+}

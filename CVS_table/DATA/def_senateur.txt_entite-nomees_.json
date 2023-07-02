@@ -1,0 +1,626 @@
+{
+  "Entite0": {
+    "entite": "- S\u00e9nateur",
+    "label": "PER",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst masc.\n"
+  },
+  "Entite1": {
+    "entite": "subst masc",
+    "label": "PER",
+    "Contexte gauche": "- S\u00e9nateur,",
+    "Contexte droite": ".\nA. \u2212 HIST"
+  },
+  "Entite2": {
+    "entite": "Antiq.",
+    "label": "ORG",
+    "Contexte gauche": "1. [Dans l'",
+    "Contexte droite": "et sous l'Anc."
+  },
+  "Entite3": {
+    "entite": "Anc",
+    "label": "LOC",
+    "Contexte gauche": "Antiq. et sous l'",
+    "Contexte droite": ". R\u00e9gime; corresp."
+  },
+  "Entite4": {
+    "entite": "A 1",
+    "label": "LOC",
+    "Contexte gauche": "; corresp. \u00e0 s\u00e9nat",
+    "Contexte droite": "et 2 a] Magon"
+  },
+  "Entite5": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "s\u00e9nateurs romains (Michelet,",
+    "Contexte droite": ". romaine, t. 2"
+  },
+  "Entite6": {
+    "entite": "Thierry",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9tait tout le patriotisme (",
+    "Contexte droite": ", R\u00e9cits m\u00e9rov.,"
+  },
+  "Entite7": {
+    "entite": "R\u00e9cits m\u00e9rov.",
+    "label": "MISC",
+    "Contexte gauche": "le patriotisme (Thierry,",
+    "Contexte droite": ", t. 2, 1840"
+  },
+  "Entite8": {
+    "entite": "Consulat",
+    "label": "MISC",
+    "Contexte gauche": "2. [Sous le",
+    "Contexte droite": "et l'Empire; corresp"
+  },
+  "Entite9": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "; corresp. \u00e0 s\u00e9nat",
+    "Contexte droite": "3] M. de Talleyrand"
+  },
+  "Entite10": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 s\u00e9nat A 3]",
+    "Contexte droite": "de Talleyrand, tout puissant"
+  },
+  "Entite11": {
+    "entite": "Talleyrand",
+    "label": "PER",
+    "Contexte gauche": "A 3] M. de",
+    "Contexte droite": ", tout puissant alors,"
+  },
+  "Entite12": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ", Consid. R\u00e9vol.",
+    "Contexte droite": "., t. 2,"
+  },
+  "Entite13": {
+    "entite": "t. 2",
+    "label": "MISC",
+    "Contexte gauche": "R\u00e9vol. fr.,",
+    "Contexte droite": ", 1817, p. 187).Mon"
+  },
+  "Entite14": {
+    "entite": "Villefort",
+    "label": "PER",
+    "Contexte gauche": "avant toute chose, reprit",
+    "Contexte droite": "emport\u00e9 par son \u00e9motion hors"
+  },
+  "Entite15": {
+    "entite": "Napol\u00e9on",
+    "label": "PER",
+    "Contexte gauche": "la robe de s\u00e9nateur que",
+    "Contexte droite": "lui avait jet\u00e9e sur les"
+  },
+  "Entite16": {
+    "entite": "Dumas p\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "sans l'avoir chang\u00e9 (",
+    "Contexte droite": ", Monte-Cristo,"
+  },
+  "Entite17": {
+    "entite": "Monte-Cristo",
+    "label": "PER",
+    "Contexte gauche": "chang\u00e9 (Dumas p\u00e8re,",
+    "Contexte droite": ", t. 2, 1846"
+  },
+  "Entite18": {
+    "entite": "B",
+    "label": "LOC",
+    "Contexte gauche": "; corresp. \u00e0 s\u00e9nat",
+    "Contexte droite": "] Parlementaire \u00e9lu ou nomm\u00e9"
+  },
+  "Entite19": {
+    "entite": "Parlementaire",
+    "label": "LOC",
+    "Contexte gauche": ". \u00e0 s\u00e9nat B]",
+    "Contexte droite": "\u00e9lu ou nomm\u00e9 au S\u00e9nat"
+  },
+  "Entite20": {
+    "entite": "S\u00e9nat.",
+    "label": "MISC",
+    "Contexte gauche": "Parlementaire \u00e9lu ou nomm\u00e9 au",
+    "Contexte droite": "Mandat, fauteuil de s\u00e9nateur"
+  },
+  "Entite21": {
+    "entite": "Tourne",
+    "label": "LOC",
+    "Contexte gauche": ", fauteuil de s\u00e9nateur.",
+    "Contexte droite": "que tourne et lors m\u00eame"
+  },
+  "Entite22": {
+    "entite": "p. 62).Le S\u00e9nat am\u00e9ricain",
+    "label": "MISC",
+    "Contexte gauche": "t. 5, 1906,",
+    "Contexte droite": "d\u00e9cida de cr\u00e9er alors une"
+  },
+  "Entite23": {
+    "entite": "Commission",
+    "label": "ORG",
+    "Contexte gauche": "d\u00e9cida de cr\u00e9er alors une",
+    "Contexte droite": "d'enqu\u00eate compos\u00e9e de s\u00e9nateurs"
+  },
+  "Entite24": {
+    "entite": "Brien Mac Mahon",
+    "label": "PER",
+    "Contexte gauche": "et pr\u00e9sid\u00e9e par le s\u00e9nateur",
+    "Contexte droite": "(Goldschmidt, Avent."
+  },
+  "Entite25": {
+    "entite": "Mardi",
+    "label": "PER",
+    "Contexte gauche": "simultan\u00e9ment les deux mandats.",
+    "Contexte droite": "soir, d\u00eener offert \u00e0"
+  },
+  "Entite26": {
+    "entite": "Metz",
+    "label": "LOC",
+    "Contexte gauche": "soir, d\u00eener offert \u00e0",
+    "Contexte droite": "par le s\u00e9nateur et maire"
+  },
+  "Entite27": {
+    "entite": "Le Monde",
+    "label": "ORG",
+    "Contexte gauche": "s\u00e9nateur et maire centriste (",
+    "Contexte droite": ", 30 sept. 1986,"
+  },
+  "Entite28": {
+    "entite": "s\u00e9nateur-maire...",
+    "label": "LOC",
+    "Contexte gauche": "(...), du",
+    "Contexte droite": "(L'Est R\u00e9publicain,"
+  },
+  "Entite29": {
+    "entite": "L'Est R\u00e9publicain",
+    "label": "MISC",
+    "Contexte gauche": "s\u00e9nateur-maire... (",
+    "Contexte droite": ", 20 oct. 1987,"
+  },
+  "Entite30": {
+    "entite": "iveR\u00e9publique",
+    "label": "MISC",
+    "Contexte gauche": "\nRem. Sous la",
+    "Contexte droite": ", en France, le"
+  },
+  "Entite31": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "Sous la iveR\u00e9publique, en",
+    "Contexte droite": ", le terme de s\u00e9nateur"
+  },
+  "Entite32": {
+    "entite": "Conseiller de la R\u00e9publique",
+    "label": "MISC",
+    "Contexte gauche": "fut remplac\u00e9 par celui de",
+    "Contexte droite": ": Les membres du Conseil"
+  },
+  "Entite33": {
+    "entite": "Conseil",
+    "label": "ORG",
+    "Contexte gauche": "R\u00e9publique: Les membres du",
+    "Contexte droite": "furent tout d'abord d\u00e9sign\u00e9s"
+  },
+  "Entite34": {
+    "entite": "Conseillers de la R\u00e9publique",
+    "label": "LOC",
+    "Contexte gauche": "d'abord d\u00e9sign\u00e9s comme \u00ab",
+    "Contexte droite": "\u00bb. Le 16 d\u00e9cembre"
+  },
+  "Entite35": {
+    "entite": "Conseil de la R\u00e9publique",
+    "label": "ORG",
+    "Contexte gauche": "\u00ab s\u00e9nateurs, membres du",
+    "Contexte droite": "\u00bb (Lidderdale, Parlement"
+  },
+  "Entite36": {
+    "entite": "Lidderdale",
+    "label": "LOC",
+    "Contexte gauche": "de la R\u00e9publique \u00bb (",
+    "Contexte droite": ", Parlement fr.,"
+  },
+  "Entite37": {
+    "entite": "Parlement fr",
+    "label": "ORG",
+    "Contexte gauche": "R\u00e9publique \u00bb (Lidderdale,",
+    "Contexte droite": "., 1954, p."
+  },
+  "Entite38": {
+    "entite": "R\u00e9publique",
+    "label": "LOC",
+    "Contexte gauche": "pouvoirs occultes. Comme la",
+    "Contexte droite": "politique, la R\u00e9publique des"
+  },
+  "Entite39": {
+    "entite": "R\u00e9publique des lettres",
+    "label": "LOC",
+    "Contexte gauche": "la R\u00e9publique politique, la",
+    "Contexte droite": "comporte ses s\u00e9nateurs, ses"
+  },
+  "Entite40": {
+    "entite": "Arts et litt",
+    "label": "MISC",
+    "Contexte gauche": "s\u00e9nateurs, ses octog\u00e9naires (",
+    "Contexte droite": "., 1936, p."
+  },
+  "Entite41": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "bien habill\u00e9 (d'apr.",
+    "Contexte droite": "1907).\n\u2212"
+  },
+  "Entite42": {
+    "entite": "Habitu\u00e9",
+    "label": "LOC",
+    "Contexte gauche": ". \u00e0 s\u00e9nat D]",
+    "Contexte droite": "d'un s\u00e9nat corporatif ("
+  },
+  "Entite43": {
+    "entite": "\u2666 Arg",
+    "label": "ORG",
+    "Contexte gauche": ". 1966).\n",
+    "Contexte droite": ". Ivrogne, mendiant."
+  },
+  "Entite44": {
+    "entite": "D ex",
+    "label": "MISC",
+    "Contexte gauche": ", mendiant. V. s\u00e9nat",
+    "Contexte droite": ". de Delesalle.\n"
+  },
+  "Entite45": {
+    "entite": "Delesalle",
+    "label": "LOC",
+    "Contexte gauche": "s\u00e9nat D ex. de",
+    "Contexte droite": ".\n3. Expr"
+  },
+  "Entite46": {
+    "entite": "Empl",
+    "label": "LOC",
+    "Contexte gauche": "s\u00e9nateur.\n4.",
+    "Contexte droite": ". adj., p."
+  },
+  "Entite47": {
+    "entite": "Hugo",
+    "label": "PER",
+    "Contexte gauche": "de mot roturier! (",
+    "Contexte droite": ", Contempl., t."
+  },
+  "Entite48": {
+    "entite": "P\u00e9guy, \u00c9ve",
+    "label": "MISC",
+    "Contexte gauche": "d'un peuple s\u00e9nateur (",
+    "Contexte droite": ", 1913, p. 853"
+  },
+  "Entite49": {
+    "entite": "N.",
+    "label": "LOC",
+    "Contexte gauche": "D. \u2212 ZOOL. [",
+    "Contexte droite": "vulgaire de la mouette blanche"
+  },
+  "Entite50": {
+    "entite": "S\u00e9nateur, Mouette blanche",
+    "label": "MISC",
+    "Contexte gauche": "de la mouette blanche]",
+    "Contexte droite": "(...) Rare en"
+  },
+  "Entite51": {
+    "entite": "Rare",
+    "label": "ORG",
+    "Contexte gauche": "Mouette blanche (...)",
+    "Contexte droite": "en France (Coupin,"
+  },
+  "Entite52": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "(...) Rare en",
+    "Contexte droite": "(Coupin, Animaux de"
+  },
+  "Entite53": {
+    "entite": "Animaux",
+    "label": "PER",
+    "Contexte gauche": "en France (Coupin,",
+    "Contexte droite": "de nos pays, 1909"
+  },
+  "Entite54": {
+    "entite": "S\u00e9nateur",
+    "label": "LOC",
+    "Contexte gauche": ").\nRem.",
+    "Contexte droite": "ne s'emploie qu'au"
+  },
+  "Entite55": {
+    "entite": "H\u00e9l\u00e8ne Luc",
+    "label": "PER",
+    "Contexte gauche": "v. infra rem.):",
+    "Contexte droite": ", qui abandonne rarement son"
+  },
+  "Entite56": {
+    "entite": "Palais du Luxembourg",
+    "label": "LOC",
+    "Contexte gauche": ") la plus \u00e9l\u00e9gante du",
+    "Contexte droite": "(Lib\u00e9ration, 29 sept."
+  },
+  "Entite57": {
+    "entite": "Pologne",
+    "label": "LOC",
+    "Contexte gauche": "dans certains pays comme la",
+    "Contexte droite": ", la Su\u00e8de. ("
+  },
+  "Entite58": {
+    "entite": "Su\u00e8de",
+    "label": "LOC",
+    "Contexte gauche": "comme la Pologne, la",
+    "Contexte droite": ". (Dict. xixeet"
+  },
+  "Entite59": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": ", la Su\u00e8de. (",
+    "Contexte droite": ". xixeet xxes.)"
+  },
+  "Entite60": {
+    "entite": "xixeet xxes",
+    "label": "PER",
+    "Contexte gauche": "Su\u00e8de. (Dict.",
+    "Contexte droite": ".). [En"
+  },
+  "Entite61": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": ".). [En",
+    "Contexte droite": "] G\u00e9n. p. plaisant"
+  },
+  "Entite62": {
+    "entite": "G\u00e9n.",
+    "label": "MISC",
+    "Contexte gauche": ". [En France]",
+    "Contexte droite": "p. plaisant.: Ces"
+  },
+  "Entite63": {
+    "entite": "MmePluvignec",
+    "label": "MISC",
+    "Contexte gauche": "ils eussent \u00e9t\u00e9 envoy\u00e9s par",
+    "Contexte droite": "\u2212 il para\u00eet qu'il"
+  },
+  "Entite64": {
+    "entite": "Morbihan",
+    "label": "LOC",
+    "Contexte gauche": "l'encore belle s\u00e9natrice du",
+    "Contexte droite": "(H. Bazin, Vip\u00e8re"
+  },
+  "Entite65": {
+    "entite": "H. Bazin",
+    "label": "PER",
+    "Contexte gauche": "belle s\u00e9natrice du Morbihan (",
+    "Contexte droite": ", Vip\u00e8re, 1948,"
+  },
+  "Entite66": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [senat\u0153:"
+  },
+  "Entite67": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "s\u00e9-. \u00c9tymol. et",
+    "Contexte droite": ". Ca 1160 senator ("
+  },
+  "Entite68": {
+    "entite": "Salverda de Grave",
+    "label": "PER",
+    "Contexte gauche": "Eneas, \u00e9d. J.-J.",
+    "Contexte droite": ", 531); 1668"
+  },
+  "Entite69": {
+    "entite": "La Fontaine",
+    "label": "PER",
+    "Contexte gauche": "son train de s\u00e9nateur (",
+    "Contexte droite": ", Fables, VI,"
+  },
+  "Entite70": {
+    "entite": "VI",
+    "label": "LOC",
+    "Contexte gauche": "La Fontaine, Fables,",
+    "Contexte droite": ", 10, \u00e9d."
+  },
+  "Entite71": {
+    "entite": "H. Regnier",
+    "label": "PER",
+    "Contexte gauche": ", 10, \u00e9d.",
+    "Contexte droite": ", t. 2, p."
+  },
+  "Entite72": {
+    "entite": "Vie Ste Febronne",
+    "label": "MISC",
+    "Contexte gauche": "[ms.] (",
+    "Contexte droite": ", Richel. 2096,"
+  },
+  "Entite73": {
+    "entite": "Richel",
+    "label": "LOC",
+    "Contexte gauche": "(Vie Ste Febronne,",
+    "Contexte droite": ". 2096, f o24"
+  },
+  "Entite74": {
+    "entite": "f o24 r",
+    "label": "MISC",
+    "Contexte gauche": ", Richel. 2096,",
+    "Contexte droite": "ods Gdf.) et"
+  },
+  "Entite75": {
+    "entite": "Sales",
+    "label": "LOC",
+    "Contexte gauche": "1622 (Fr. de",
+    "Contexte droite": ", Lettres, 1009 \u2212"
+  },
+  "Entite76": {
+    "entite": "Lettres",
+    "label": "LOC",
+    "Contexte gauche": "Fr. de Sales,",
+    "Contexte droite": ", 1009 \u2212 XVI,"
+  },
+  "Entite77": {
+    "entite": "Hug",
+    "label": "LOC",
+    "Contexte gauche": "XVI, 250 \u2212 ds",
+    "Contexte droite": ".), lat."
+  },
+  "Entite78": {
+    "entite": "senatorissa",
+    "label": "LOC",
+    "Contexte gauche": ", lat. m\u00e9di\u00e9v.",
+    "Contexte droite": "\u00ab id. \u00bb d\u00e9b"
+  },
+  "Entite79": {
+    "entite": "xes",
+    "label": "LOC",
+    "Contexte gauche": "id. \u00bb d\u00e9b.",
+    "Contexte droite": ". ds Nierm.,"
+  },
+  "Entite80": {
+    "entite": "ds Nierm.",
+    "label": "PER",
+    "Contexte gauche": "\u00bb d\u00e9b. xes.",
+    "Contexte droite": ", b. lat. senatrix"
+  },
+  "Entite81": {
+    "entite": "b. lat",
+    "label": "ORG",
+    "Contexte gauche": ". ds Nierm.,",
+    "Contexte droite": ". senatrix, -tricis \u00ab"
+  },
+  "Entite82": {
+    "entite": "Blaise Lat",
+    "label": "PER",
+    "Contexte gauche": "s\u00e9natrice \u00bb vies. ds",
+    "Contexte droite": ". chr\u00e9t. Fr\u00e9q."
+  },
+  "Entite83": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r.:",
+    "Contexte droite": ".: a) 1"
+  },
+  "Entite84": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 1 151;",
+    "Contexte droite": ".: a) 1"
+  },
+  "Entite85": {
+    "entite": "S\u00e9natorerie, subst. f\u00e9m",
+    "label": "MISC",
+    "Contexte gauche": ".\nD\u00c9R.\n",
+    "Contexte droite": ".,hist. [Sous"
+  },
+  "Entite86": {
+    "entite": "Consulat",
+    "label": "MISC",
+    "Contexte gauche": ",hist. [Sous le",
+    "Contexte droite": "et le Premier Empire]"
+  },
+  "Entite87": {
+    "entite": "Premier Empire",
+    "label": "MISC",
+    "Contexte gauche": "Sous le Consulat et le",
+    "Contexte droite": "] a) Dotation fonci\u00e8re"
+  },
+  "Entite88": {
+    "entite": "Dotation fonci\u00e8re",
+    "label": "MISC",
+    "Contexte gauche": "Premier Empire] a)",
+    "Contexte droite": "viag\u00e8re accord\u00e9e \u00e0 certains s\u00e9nateurs"
+  },
+  "Entite89": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": "jettent des s\u00e9natoreries de 50,000",
+    "Contexte droite": "de rente \u00e0 la t\u00eate"
+  },
+  "Entite90": {
+    "entite": "Nouv.",
+    "label": "MISC",
+    "Contexte gauche": "100,000 \u00e9cus (Fourier,",
+    "Contexte droite": "monde industr., 1830"
+  },
+  "Entite91": {
+    "entite": "District",
+    "label": "LOC",
+    "Contexte gauche": "1830, p. 66).b)",
+    "Contexte droite": "dans lequel un s\u00e9nateur jouissait"
+  },
+  "Entite92": {
+    "entite": "conseil des cinq-cents favorable",
+    "label": "ORG",
+    "Contexte gauche": "empire, ancien membre du",
+    "Contexte droite": "au dix-huit brumaire et pourvu"
+  },
+  "Entite93": {
+    "entite": "Digne",
+    "label": "LOC",
+    "Contexte gauche": "pr\u00e8s de la ville de",
+    "Contexte droite": "d'une s\u00e9natorerie magnifique,"
+  },
+  "Entite94": {
+    "entite": "M. Bigot de Pr\u00e9ameneu",
+    "label": "PER",
+    "Contexte gauche": "au ministre des cultes,",
+    "Contexte droite": ", un petit billet irrit\u00e9"
+  },
+  "Entite95": {
+    "entite": "Mis\u00e9r",
+    "label": "LOC",
+    "Contexte gauche": "et confidentiel (Hugo,",
+    "Contexte droite": "., t. 1,"
+  },
+  "Entite96": {
+    "entite": "rri]. Att",
+    "label": "PER",
+    "Contexte gauche": ", p. 14).\u2212 [senat\u0254",
+    "Contexte droite": ". ds Ac. 1878"
+  },
+  "Entite97": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": "[senat\u0254 rri]. Att.",
+    "Contexte droite": ". 1878. \u2212 1resattest"
+  },
+  "Entite98": {
+    "entite": "Boiste: S\u00e9natorerie",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 1resattest. 1803 (",
+    "Contexte droite": ", s. f. fonctions,"
+  },
+  "Entite99": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "sous le premier empire en",
+    "Contexte droite": "\u00bb (S\u00e9natus-consulte"
+  },
+  "Entite100": {
+    "entite": "XI",
+    "label": "MISC",
+    "Contexte gauche": "consulte du 14 niv\u00f4se an",
+    "Contexte droite": "\u2212 4 janv. 1804 \u2212"
+  },
+  "Entite101": {
+    "entite": "I ds B. des lois",
+    "label": "MISC",
+    "Contexte gauche": "4 janv. 1804 \u2212 titre",
+    "Contexte droite": ", 3es\u00e9rie, t. 7"
+  },
+  "Entite102": {
+    "entite": "senatorium",
+    "label": "LOC",
+    "Contexte gauche": "le lat. m\u00e9di\u00e9v.",
+    "Contexte droite": "\u00ab rang; classe s\u00e9natoriale"
+  },
+  "Entite103": {
+    "entite": "ds Latham",
+    "label": "PER",
+    "Contexte gauche": "classe s\u00e9natoriale \u00bb ca 1362",
+    "Contexte droite": "."
+  }
+}

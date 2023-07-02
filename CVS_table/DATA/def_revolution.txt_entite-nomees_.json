@@ -1,0 +1,1502 @@
+{
+  "Entite0": {
+    "entite": "- R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite1": {
+    "entite": "I. \u2212 Mouvement",
+    "label": "PER",
+    "Contexte gauche": "subst. f\u00e9m. \n\n",
+    "Contexte droite": "en courbe ferm\u00e9e autour d'"
+  },
+  "Entite2": {
+    "entite": "R\u00e9volution de la lune",
+    "label": "MISC",
+    "Contexte gauche": "par le m\u00eame point.",
+    "Contexte droite": ", des plan\u00e8tes; dur\u00e9e"
+  },
+  "Entite3": {
+    "entite": "Jupiter",
+    "label": "PER",
+    "Contexte gauche": "Pendant les douze ann\u00e9es que",
+    "Contexte droite": "emploie \u00e0 faire sa r\u00e9volution"
+  },
+  "Entite4": {
+    "entite": "soleil",
+    "label": "LOC",
+    "Contexte gauche": "faire sa r\u00e9volution autour du",
+    "Contexte droite": ", la terre a fait"
+  },
+  "Entite5": {
+    "entite": "Flammarion,Astron.",
+    "label": "MISC",
+    "Contexte gauche": "autour du m\u00eame astre (",
+    "Contexte droite": "pop., 1880,"
+  },
+  "Entite6": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "5).\n\u2212",
+    "Contexte droite": ". Temps n\u00e9cessaire pour effectuer"
+  },
+  "Entite7": {
+    "entite": "Flammarion",
+    "label": "LOC",
+    "Contexte gauche": "nomme la r\u00e9volution sid\u00e9rale (",
+    "Contexte droite": ",Astron. pop."
+  },
+  "Entite8": {
+    "entite": "R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "125).\n\u2212",
+    "Contexte droite": "draconitique*.\n2. P."
+  },
+  "Entite9": {
+    "entite": "Trajectoire",
+    "label": "LOC",
+    "Contexte gauche": "2. P. anal.",
+    "Contexte droite": "effectu\u00e9e par un satellite artificiel"
+  },
+  "Entite10": {
+    "entite": "Telstar I",
+    "label": "PER",
+    "Contexte gauche": "Vitesse de r\u00e9volution. \u00ab",
+    "Contexte droite": "\u00bb, le premier ["
+  },
+  "Entite11": {
+    "entite": "R\u00e9volution des si\u00e8cles",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9termin\u00e9e par un cycle.",
+    "Contexte droite": ", des temps, des"
+  },
+  "Entite12": {
+    "entite": "Ac.",
+    "label": "MISC",
+    "Contexte gauche": "temps, des saisons (",
+    "Contexte droite": "1798-1935)."
+  },
+  "Entite13": {
+    "entite": "Si",
+    "label": "MISC",
+    "Contexte gauche": "1798-1935).",
+    "Contexte droite": "une r\u00e9volution d'heures am\u00e8ne"
+  },
+  "Entite14": {
+    "entite": "Bern",
+    "label": "LOC",
+    "Contexte gauche": "celles de la vie (",
+    "Contexte droite": ". de St-P.,Harm"
+  },
+  "Entite15": {
+    "entite": "\u00c9gypte",
+    "label": "LOC",
+    "Contexte gauche": "302).Une race nouvelle r\u00e9gnera en",
+    "Contexte droite": "et b\u00e2tira des temples pour"
+  },
+  "Entite16": {
+    "entite": "M\u00e9nard,R\u00eav",
+    "label": "MISC",
+    "Contexte gauche": "temples tomberont en poussi\u00e8re (",
+    "Contexte droite": ". pa\u00efen, 1876,"
+  },
+  "Entite17": {
+    "entite": "SYLVIC",
+    "label": "MISC",
+    "Contexte gauche": ". 11.\n\u2212",
+    "Contexte droite": ". ,,Intervalle de"
+  },
+  "Entite18": {
+    "entite": "Intervalle",
+    "label": "PER",
+    "Contexte gauche": "\u2212 SYLVIC. ,,",
+    "Contexte droite": "de temps compris entre deux"
+  },
+  "Entite19": {
+    "entite": "Lizerand ds F\u00e9n",
+    "label": "MISC",
+    "Contexte gauche": "m\u00eame bois`` (",
+    "Contexte droite": ". 1970). P."
+  },
+  "Entite20": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "F\u00e9n. 1970).",
+    "Contexte droite": ". ,,La r\u00e9volution"
+  },
+  "Entite21": {
+    "entite": "La r\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "P. m\u00e9ton. ,,",
+    "Contexte droite": "est parfois confondue avec ("
+  },
+  "Entite22": {
+    "entite": "M\u00e9tro",
+    "label": "LOC",
+    "Contexte gauche": "d'exploitation`` (",
+    "Contexte droite": "1975). [Le"
+  },
+  "Entite23": {
+    "entite": "D'Esparb\u00e8s,Printemps",
+    "label": "ORG",
+    "Contexte gauche": "il y avait faites (",
+    "Contexte droite": ", 1906, p. 262"
+  },
+  "Entite24": {
+    "entite": "Bois",
+    "label": "LOC",
+    "Contexte gauche": "de r\u00e9g\u00e9n\u00e9ration. Cochet,",
+    "Contexte droite": ", 1963, p. 120"
+  },
+  "Entite25": {
+    "entite": "Gramm",
+    "label": "LOC",
+    "Contexte gauche": "(Ch. Blanc,",
+    "Contexte droite": ". arts dessin, 1876"
+  },
+  "Entite26": {
+    "entite": "ACD",
+    "label": "MISC",
+    "Contexte gauche": "engendr\u00e9 par la r\u00e9volution de",
+    "Contexte droite": "autour de OX, la"
+  },
+  "Entite27": {
+    "entite": "OX",
+    "label": "MISC",
+    "Contexte gauche": "r\u00e9volution de ACD autour de",
+    "Contexte droite": ", la formule bien connue"
+  },
+  "Entite28": {
+    "entite": "Green",
+    "label": "PER",
+    "Contexte gauche": "la formule bien connue de",
+    "Contexte droite": "(H. Poincar\u00e9,Hyp"
+  },
+  "Entite29": {
+    "entite": "H. Poincar\u00e9",
+    "label": "PER",
+    "Contexte gauche": "bien connue de Green (",
+    "Contexte droite": ",Hyp. cosmogon."
+  },
+  "Entite30": {
+    "entite": "Hyp",
+    "label": "PER",
+    "Contexte gauche": "Green (H. Poincar\u00e9,",
+    "Contexte droite": ". cosmogon., 1911"
+  },
+  "Entite31": {
+    "entite": "cosmogon.",
+    "label": "MISC",
+    "Contexte gauche": "H. Poincar\u00e9,Hyp.",
+    "Contexte droite": ", 1911, p. 22"
+  },
+  "Entite32": {
+    "entite": "C\u00f4ne",
+    "label": "LOC",
+    "Contexte gauche": "22).\n\u2666",
+    "Contexte droite": "de r\u00e9volution. ,,"
+  },
+  "Entite33": {
+    "entite": "Surface",
+    "label": "MISC",
+    "Contexte gauche": "de r\u00e9volution. ,,",
+    "Contexte droite": "de r\u00e9volution dont une directrice"
+  },
+  "Entite34": {
+    "entite": "Bouvier-George Math",
+    "label": "LOC",
+    "Contexte gauche": "une quadrique`` (",
+    "Contexte droite": ". 1979). Les"
+  },
+  "Entite35": {
+    "entite": "E. Borel",
+    "label": "PER",
+    "Contexte gauche": "des quadriques de r\u00e9volution (",
+    "Contexte droite": ",Paradoxes de l'infini"
+  },
+  "Entite36": {
+    "entite": "Paradoxes de l'infini",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9volution (E. Borel,",
+    "Contexte droite": ", 1946, p. 62"
+  },
+  "Entite37": {
+    "entite": "Solide",
+    "label": "MISC",
+    "Contexte gauche": "62).\n\u2666",
+    "Contexte droite": "de r\u00e9volution. Volume tel"
+  },
+  "Entite38": {
+    "entite": "Poisson,M\u00e9can",
+    "label": "MISC",
+    "Contexte gauche": "inertie du solide entier (",
+    "Contexte droite": "., t. 2,"
+  },
+  "Entite39": {
+    "entite": "Surface",
+    "label": "MISC",
+    "Contexte gauche": "84).\n\u2666",
+    "Contexte droite": "de r\u00e9volution. ,,"
+  },
+  "Entite40": {
+    "entite": "Surface",
+    "label": "MISC",
+    "Contexte gauche": "de r\u00e9volution. ,,",
+    "Contexte droite": "engendr\u00e9e par une courbe,"
+  },
+  "Entite41": {
+    "entite": "Bouvier-George Math",
+    "label": "LOC",
+    "Contexte gauche": "de r\u00e9volution`` (",
+    "Contexte droite": ". 1979). Pseudo-sph\u00e8re"
+  },
+  "Entite42": {
+    "entite": "Gds",
+    "label": "MISC",
+    "Contexte gauche": "courbe aux tangentes \u00e9gales (",
+    "Contexte droite": "cour. pens\u00e9e math."
+  },
+  "Entite43": {
+    "entite": "So\u00e9-Dup",
+    "label": "LOC",
+    "Contexte gauche": "un moteur`` (",
+    "Contexte droite": ". 1906). R\u00e9volution"
+  },
+  "Entite44": {
+    "entite": "R\u00e9volution de la roue",
+    "label": "MISC",
+    "Contexte gauche": "Dup. 1906).",
+    "Contexte droite": ". L'effort \u00e0 la"
+  },
+  "Entite45": {
+    "entite": "Bailleul,Mat\u00e9r.",
+    "label": "MISC",
+    "Contexte gauche": "compl\u00e8te des essieux moteurs (",
+    "Contexte droite": "roulant ch. de fer"
+  },
+  "Entite46": {
+    "entite": "Mouvement ample",
+    "label": "PER",
+    "Contexte gauche": "\n\u2212 P. m\u00e9taph.",
+    "Contexte droite": "d\u00e9crivant un cercle ou un"
+  },
+  "Entite47": {
+    "entite": "Sagan",
+    "label": "PER",
+    "Contexte gauche": "...) le prince de",
+    "Contexte droite": "(...) se d\u00e9couvrant"
+  },
+  "Entite48": {
+    "entite": "Duchesse",
+    "label": "PER",
+    "Contexte gauche": "pr\u00e9senter ses hommages \u00e0 la",
+    "Contexte droite": ", avec une si ample"
+  },
+  "Entite49": {
+    "entite": "Arnoux,Solde",
+    "label": "MISC",
+    "Contexte gauche": "double et vive r\u00e9volution (",
+    "Contexte droite": ", 1958, p. 266"
+  },
+  "Entite50": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "3. P. anal.",
+    "Contexte droite": ", forme de ce qui"
+  },
+  "Entite51": {
+    "entite": "R\u00e9volution d'escalier",
+    "label": "MISC",
+    "Contexte gauche": "-m\u00eame.\n\u2666",
+    "Contexte droite": ". ,,I Parcours"
+  },
+  "Entite52": {
+    "entite": "I Parcours",
+    "label": "PER",
+    "Contexte gauche": "d'escalier. ,,",
+    "Contexte droite": "complet accompli en plan par"
+  },
+  "Entite53": {
+    "entite": "No\u00ebl",
+    "label": "MISC",
+    "Contexte gauche": "tour complet`` (",
+    "Contexte droite": "1968). La marche"
+  },
+  "Entite54": {
+    "entite": "Robinot,V\u00e9rif",
+    "label": "LOC",
+    "Contexte gauche": "la r\u00e9volution d'escalier (",
+    "Contexte droite": "., m\u00e9tr\u00e9 et prat"
+  },
+  "Entite55": {
+    "entite": "trav",
+    "label": "LOC",
+    "Contexte gauche": ", m\u00e9tr\u00e9 et prat.",
+    "Contexte droite": ". b\u00e2t., t."
+  },
+  "Entite56": {
+    "entite": "t. 2",
+    "label": "MISC",
+    "Contexte gauche": "trav. b\u00e2t.,",
+    "Contexte droite": ", 1928, p. 47"
+  },
+  "Entite57": {
+    "entite": "Escalier",
+    "label": "LOC",
+    "Contexte gauche": "47).\n\u2666",
+    "Contexte droite": "\u00e0 double r\u00e9volution. ,"
+  },
+  "Entite58": {
+    "entite": "Escalier",
+    "label": "PER",
+    "Contexte gauche": "double r\u00e9volution. ,,",
+    "Contexte droite": "monumental \u00e0 deux vol\u00e9es sym\u00e9triques"
+  },
+  "Entite59": {
+    "entite": "Constr",
+    "label": "PER",
+    "Contexte gauche": "axe m\u00e9dian`` (",
+    "Contexte droite": ". m\u00e9tall. 1975)"
+  },
+  "Entite60": {
+    "entite": "m\u00e9tall",
+    "label": "LOC",
+    "Contexte gauche": "`` (Constr.",
+    "Contexte droite": ". 1975). Un"
+  },
+  "Entite61": {
+    "entite": "Arnoux",
+    "label": "MISC",
+    "Contexte gauche": "gagner le premier \u00e9tage (",
+    "Contexte droite": ",Double chance, 1958"
+  },
+  "Entite62": {
+    "entite": "Double",
+    "label": "MISC",
+    "Contexte gauche": "premier \u00e9tage (Arnoux,",
+    "Contexte droite": "chance, 1958, p."
+  },
+  "Entite63": {
+    "entite": "hist",
+    "label": "PER",
+    "Contexte gauche": ",Esq. tabl.",
+    "Contexte droite": "., 1794, p."
+  },
+  "Entite64": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "l'oc\u00e9an (Ozanam,",
+    "Contexte droite": ". Dante, 1838,"
+  },
+  "Entite65": {
+    "entite": "Dante",
+    "label": "PER",
+    "Contexte gauche": "(Ozanam,Philos.",
+    "Contexte droite": ", 1838, p. 264).Les"
+  },
+  "Entite66": {
+    "entite": "G\u00e9ophys",
+    "label": "LOC",
+    "Contexte gauche": "d'ann\u00e9es (Roth\u00e9,",
+    "Contexte droite": "., 1943, p."
+  },
+  "Entite67": {
+    "entite": "M\u00c9D.",
+    "label": "LOC",
+    "Contexte gauche": ").\n2.",
+    "Contexte droite": ", PHYSIOL. R\u00e9volution d'"
+  },
+  "Entite68": {
+    "entite": "PHYSIOL",
+    "label": "ORG",
+    "Contexte gauche": "2. M\u00c9D.,",
+    "Contexte droite": ". R\u00e9volution d'humeurs."
+  },
+  "Entite69": {
+    "entite": "R\u00e9volution d'humeurs",
+    "label": "MISC",
+    "Contexte gauche": "M\u00c9D., PHYSIOL.",
+    "Contexte droite": ". ,,Mouvement extraordinaire"
+  },
+  "Entite70": {
+    "entite": "Mouvement extraordinaire dans les humeurs``",
+    "label": "ORG",
+    "Contexte gauche": "d'humeurs. ,,",
+    "Contexte droite": "(Ac. 1798-"
+  },
+  "Entite71": {
+    "entite": "R\u00e9volution int\u00e9rieure",
+    "label": "MISC",
+    "Contexte gauche": "intervenant dans la sant\u00e9.",
+    "Contexte droite": ". En supposant que le"
+  },
+  "Entite72": {
+    "entite": "Saint-Martin",
+    "label": "PER",
+    "Contexte gauche": "quand elle est d\u00e9termin\u00e9e (",
+    "Contexte droite": ",Homme d\u00e9sir, 1790"
+  },
+  "Entite73": {
+    "entite": "Homme d\u00e9sir",
+    "label": "ORG",
+    "Contexte gauche": "(Saint-Martin,",
+    "Contexte droite": ", 1790, p. 92).[La"
+  },
+  "Entite74": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "garde \u00e9ternellement la trace (",
+    "Contexte droite": ",Cous. Bette,"
+  },
+  "Entite75": {
+    "entite": "Absol",
+    "label": "LOC",
+    "Contexte gauche": "275).\n\u2666",
+    "Contexte droite": ". H\u00e9las! la mort"
+  },
+  "Entite76": {
+    "entite": "Balzac,Interd",
+    "label": "MISC",
+    "Contexte gauche": "eu la petite v\u00e9role (",
+    "Contexte droite": "., 1836, p."
+  },
+  "Entite77": {
+    "entite": "Martin du G.,Thib",
+    "label": "PER",
+    "Contexte gauche": "tortures de l'enfer (",
+    "Contexte droite": "., \u00c9pil.,"
+  },
+  "Entite78": {
+    "entite": "\u00c9pil.",
+    "label": "MISC",
+    "Contexte gauche": "Martin du G.,Thib.,",
+    "Contexte droite": ", 1940, p. 911).Nous"
+  },
+  "Entite79": {
+    "entite": "Stalingrad].",
+    "label": "PER",
+    "Contexte gauche": "p\u00e9rip\u00e9ties du combat [de",
+    "Contexte droite": "Quelle r\u00e9volution dans nos c\u0153urs"
+  },
+  "Entite80": {
+    "entite": "Paulus",
+    "label": "PER",
+    "Contexte gauche": "quand la reddition de von",
+    "Contexte droite": "et de ses troupes nous"
+  },
+  "Entite81": {
+    "entite": "Gdes",
+    "label": "PER",
+    "Contexte gauche": "connue! (Ambri\u00e8re,",
+    "Contexte droite": "vac., 1946,"
+  },
+  "Entite82": {
+    "entite": "\u00c9volution des opinions",
+    "label": "MISC",
+    "Contexte gauche": "Sans id\u00e9e de violence]",
+    "Contexte droite": ", des courants de pens\u00e9e"
+  },
+  "Entite83": {
+    "entite": "Tocqueville,",
+    "label": "MISC",
+    "Contexte gauche": "devoirs et aux droits (",
+    "Contexte droite": "Corresp.[avec Gobineau], 1843"
+  },
+  "Entite84": {
+    "entite": "Gobineau",
+    "label": "PER",
+    "Contexte gauche": "droits (Tocqueville,Corresp.[avec",
+    "Contexte droite": "], 1843, p."
+  },
+  "Entite85": {
+    "entite": "45).V.",
+    "label": "LOC",
+    "Contexte gauche": "], 1843, p.",
+    "Contexte droite": "r\u00e9volutionnaire I C ex."
+  },
+  "Entite86": {
+    "entite": "I C",
+    "label": "MISC",
+    "Contexte gauche": "1843, p. 45).V. r\u00e9volutionnaire",
+    "Contexte droite": "ex. de Wilbois:"
+  },
+  "Entite87": {
+    "entite": "Wilbois",
+    "label": "LOC",
+    "Contexte gauche": "I C ex. de",
+    "Contexte droite": ":\n2. Lorsque"
+  },
+  "Entite88": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "esprit r\u00e9volution [it.",
+    "Contexte droite": "le texte]. S'il y"
+  },
+  "Entite89": {
+    "entite": "Ptol\u00e9m\u00e9e",
+    "label": "PER",
+    "Contexte gauche": ". Ainsi le syst\u00e8me de",
+    "Contexte droite": "fut un progr\u00e8s en astronomie"
+  },
+  "Entite90": {
+    "entite": "Copernic",
+    "label": "PER",
+    "Contexte gauche": "en astronomie, celui de",
+    "Contexte droite": "fit r\u00e9volution. Proudhon,"
+  },
+  "Entite91": {
+    "entite": "Propri\u00e9t\u00e9",
+    "label": "PER",
+    "Contexte gauche": "fit r\u00e9volution. Proudhon,",
+    "Contexte droite": ", 1840, p. 148"
+  },
+  "Entite92": {
+    "entite": "R\u00e9volution +",
+    "label": "MISC",
+    "Contexte gauche": "p. 148.\n\u2212",
+    "Contexte droite": "adj., r\u00e9volution de"
+  },
+  "Entite93": {
+    "entite": "r\u00e9volution de +",
+    "label": "MISC",
+    "Contexte gauche": "R\u00e9volution + adj.,",
+    "Contexte droite": "subst., r\u00e9volution dans"
+  },
+  "Entite94": {
+    "entite": "R\u00e9volution +",
+    "label": "MISC",
+    "Contexte gauche": "la r\u00e9volution\na)",
+    "Contexte droite": "adj.R\u00e9volution agricole,"
+  },
+  "Entite95": {
+    "entite": "R\u00e9volution agricole",
+    "label": "ORG",
+    "Contexte gauche": ") R\u00e9volution + adj.",
+    "Contexte droite": ", scientifique, technique;"
+  },
+  "Entite96": {
+    "entite": "Baudel",
+    "label": "PER",
+    "Contexte gauche": "\u00e9cole du paysage moderne (",
+    "Contexte droite": ".,Salon, 1846,"
+  },
+  "Entite97": {
+    "entite": "Pt Pierre",
+    "label": "MISC",
+    "Contexte gauche": "humides (A. France,",
+    "Contexte droite": ", 1918, p. 82"
+  },
+  "Entite98": {
+    "entite": "R\u00e9volution culturelle",
+    "label": "MISC",
+    "Contexte gauche": "82).\n\u2666",
+    "Contexte droite": ". R\u00e9volution dans le domaine"
+  },
+  "Entite99": {
+    "entite": "XXesi\u00e8cle",
+    "label": "MISC",
+    "Contexte gauche": "appel\u00e9e par la crise du",
+    "Contexte droite": "(Mounier,Trait\u00e9 caract"
+  },
+  "Entite100": {
+    "entite": "Trait\u00e9 caract.",
+    "label": "MISC",
+    "Contexte gauche": "du XXesi\u00e8cle (Mounier,",
+    "Contexte droite": ", 1946, p. 11"
+  },
+  "Entite101": {
+    "entite": "Mao-Ts\u00e9-Toung",
+    "label": "PER",
+    "Contexte gauche": "chinois lanc\u00e9 par le pr\u00e9sident",
+    "Contexte droite": "en 1966 et tendant \u00e0"
+  },
+  "Entite102": {
+    "entite": "Mao",
+    "label": "PER",
+    "Contexte gauche": "assimiler la pens\u00e9e du pr\u00e9sident",
+    "Contexte droite": "\u00bb (Antoine, Passeron"
+  },
+  "Entite103": {
+    "entite": "R\u00e9forme Univ",
+    "label": "MISC",
+    "Contexte gauche": "(Antoine, Passeron,",
+    "Contexte droite": "., 1966, p."
+  },
+  "Entite104": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "du milieu du xviiiesi\u00e8cle en",
+    "Contexte droite": "et du d\u00e9but du xixesi\u00e8cle"
+  },
+  "Entite105": {
+    "entite": "Europe",
+    "label": "LOC",
+    "Contexte gauche": "du d\u00e9but du xixesi\u00e8cle en",
+    "Contexte droite": "continentale, jusqu'au milieu"
+  },
+  "Entite106": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "milieu du xixesi\u00e8cle. En",
+    "Contexte droite": "(...) apr\u00e8s la"
+  },
+  "Entite107": {
+    "entite": "Urban",
+    "label": "LOC",
+    "Contexte gauche": "d'urbanisme (Lavedan,",
+    "Contexte droite": "., 1926, p."
+  },
+  "Entite108": {
+    "entite": "R\u00e9volution de +",
+    "label": "MISC",
+    "Contexte gauche": ").\nb)",
+    "Contexte droite": "subst.R\u00e9volution des arts"
+  },
+  "Entite109": {
+    "entite": "R\u00e9volution des arts",
+    "label": "MISC",
+    "Contexte gauche": "R\u00e9volution de + subst.",
+    "Contexte droite": ", des m\u0153urs. Les"
+  },
+  "Entite110": {
+    "entite": "Lamennais",
+    "label": "LOC",
+    "Contexte gauche": "l'expression du dogme (",
+    "Contexte droite": ",Indiff\u00e9rence, t. 1"
+  },
+  "Entite111": {
+    "entite": "Indiff\u00e9rence, t. 1",
+    "label": "MISC",
+    "Contexte gauche": "du dogme (Lamennais,",
+    "Contexte droite": ", 1817-23,"
+  },
+  "Entite112": {
+    "entite": "R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": ").\nc)",
+    "Contexte droite": "dans + subst.La"
+  },
+  "Entite113": {
+    "entite": "Las Cases",
+    "label": "LOC",
+    "Contexte gauche": "r\u00e9volution dans le commerce (",
+    "Contexte droite": ",M\u00e9mor. Ste-"
+  },
+  "Entite114": {
+    "entite": "Renversement soudain du r\u00e9gime politique d'une",
+    "label": "MISC",
+    "Contexte gauche": "Avec id\u00e9e de violence]",
+    "Contexte droite": "nation, du gouvernement d'"
+  },
+  "Entite115": {
+    "entite": "R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "fondamentales de la civilisation.",
+    "Contexte droite": "politique; r\u00e9volution bourgeoise,"
+  },
+  "Entite116": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "en conservant (Ch\u00eanedoll\u00e9,",
+    "Contexte droite": ", 1818, p. 98).Il"
+  },
+  "Entite117": {
+    "entite": "Journal des D\u00e9bats",
+    "label": "MISC",
+    "Contexte gauche": "eut \u00e0 subir [le",
+    "Contexte droite": "] une r\u00e9volution int\u00e9rieure,"
+  },
+  "Entite118": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": ", un vrai coup d'",
+    "Contexte droite": ". MM. Bertin, propri\u00e9taires"
+  },
+  "Entite119": {
+    "entite": "MM. Bertin",
+    "label": "PER",
+    "Contexte gauche": "vrai coup d'\u00c9tat.",
+    "Contexte droite": ", propri\u00e9taires du journal,"
+  },
+  "Entite120": {
+    "entite": "Sainte-Beuve",
+    "label": "PER",
+    "Contexte gauche": "journal, furent \u00e9vinc\u00e9s (",
+    "Contexte droite": ",Caus. lundi,"
+  },
+  "Entite121": {
+    "entite": "Caus",
+    "label": "LOC",
+    "Contexte gauche": "(Sainte-Beuve,",
+    "Contexte droite": ". lundi, t. 1"
+  },
+  "Entite122": {
+    "entite": "Balzac,D\u00e9but vie",
+    "label": "MISC",
+    "Contexte gauche": "la Cerisaie en r\u00e9volution (",
+    "Contexte droite": ", 1842, p. 419).Le"
+  },
+  "Entite123": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "histoires affreuses qui circulent (",
+    "Contexte droite": ",V\u00e9rit\u00e9, 1902,"
+  },
+  "Entite124": {
+    "entite": "HIST.",
+    "label": "ORG",
+    "Contexte gauche": ").\n3.",
+    "Contexte droite": "(souvent avec une majuscule"
+  },
+  "Entite125": {
+    "entite": "R\u00e9volution fran\u00e7aise",
+    "label": "MISC",
+    "Contexte gauche": "une majuscule). La",
+    "Contexte droite": ", ou absol.,"
+  },
+  "Entite126": {
+    "entite": "La R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": ", ou absol.,",
+    "Contexte droite": ". [Nom donn\u00e9 aux"
+  },
+  "Entite127": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "qui se sont succ\u00e9d\u00e9 en",
+    "Contexte droite": "depuis la r\u00e9union des \u00c9tats"
+  },
+  "Entite128": {
+    "entite": "\u00c9tats g\u00e9n\u00e9raux",
+    "label": "MISC",
+    "Contexte gauche": "France depuis la r\u00e9union des",
+    "Contexte droite": "(5 mai 1789)"
+  },
+  "Entite129": {
+    "entite": "coup d'\u00c9tat du 18 brumaire",
+    "label": "MISC",
+    "Contexte gauche": "mai 1789) jusqu'au",
+    "Contexte droite": "1799; p\u00e9riode et r\u00e9gime"
+  },
+  "Entite130": {
+    "entite": "R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "Il y avait dans la",
+    "Contexte droite": "et l'Empire quelque chose"
+  },
+  "Entite131": {
+    "entite": "Barr\u00e8s,Cahiers,",
+    "label": "MISC",
+    "Contexte gauche": "quelque chose d'excellent (",
+    "Contexte droite": "t. 11, 1917,"
+  },
+  "Entite132": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "223).\n\u2212",
+    "Contexte droite": ". Ensemble des \u00e9v\u00e9nements,"
+  },
+  "Entite133": {
+    "entite": "Chiens",
+    "label": "LOC",
+    "Contexte gauche": "la bourgeoisie (Nizan,",
+    "Contexte droite": "garde, 1932, p."
+  },
+  "Entite134": {
+    "entite": "Empl",
+    "label": "LOC",
+    "Contexte gauche": "211).\n\u2212",
+    "Contexte droite": ". g\u00e9n\u00e9rique. Changement des"
+  },
+  "Entite135": {
+    "entite": "Marx",
+    "label": "PER",
+    "Contexte gauche": "en voie de progr\u00e8s.",
+    "Contexte droite": "ne semble pas s'\u00eatre"
+  },
+  "Entite136": {
+    "entite": "R\u00e9flex",
+    "label": "PER",
+    "Contexte gauche": "de d\u00e9cadence... Sorel,",
+    "Contexte droite": ". violence, 1908,"
+  },
+  "Entite137": {
+    "entite": "Trotsky",
+    "label": "PER",
+    "Contexte gauche": "R\u00e9volution permanente. Th\u00e9orie de",
+    "Contexte droite": "selon laquelle la r\u00e9volution,"
+  },
+  "Entite138": {
+    "entite": "URSS",
+    "label": "ORG",
+    "Contexte gauche": "d'abord ses positions en",
+    "Contexte droite": "avant de s'efforcer de"
+  },
+  "Entite139": {
+    "entite": "Trotsky",
+    "label": "PER",
+    "Contexte gauche": "tandis que la th\u00e8se de",
+    "Contexte droite": "\u00e9tait celle de la \u00ab"
+  },
+  "Entite140": {
+    "entite": "R\u00e9volution de Palais",
+    "label": "MISC",
+    "Contexte gauche": "211).\n\u2666",
+    "Contexte droite": ". V. palais1A 2."
+  },
+  "Entite141": {
+    "entite": "Marcel Schwob",
+    "label": "PER",
+    "Contexte gauche": "Petite r\u00e9volution. [\u00c0",
+    "Contexte droite": "] Et cette r\u00e9volutionnette?"
+  },
+  "Entite142": {
+    "entite": "L'\u00c9cho de Paris] pour la suivre",
+    "label": "MISC",
+    "Contexte gauche": "aux premi\u00e8res loges [\u00e0",
+    "Contexte droite": "(Renard,Corresp."
+  },
+  "Entite143": {
+    "entite": "Renard,Corresp.",
+    "label": "MISC",
+    "Contexte gauche": "] pour la suivre (",
+    "Contexte droite": ", 1893, p. 126).Il"
+  },
+  "Entite144": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "y aura des r\u00e9volutionnettes en",
+    "Contexte droite": ". Il n'y aura"
+  },
+  "Entite145": {
+    "entite": "L. Daudet",
+    "label": "PER",
+    "Contexte gauche": "pas une nouvelle r\u00e9volution (",
+    "Contexte droite": ",Temps Juda, 1920"
+  },
+  "Entite146": {
+    "entite": "Temps Juda",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9volution (L. Daudet,",
+    "Contexte droite": ", 1920, p. 206"
+  },
+  "Entite147": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [\u0280ev\u0254lysj\u0254 \u0303]."
+  },
+  "Entite148": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9-. \u00c9tymol. et",
+    "Contexte droite": ". I. 1. a"
+  },
+  "Entite149": {
+    "entite": "I. 1",
+    "label": "PER",
+    "Contexte gauche": "\u00c9tymol. et Hist.",
+    "Contexte droite": ". a) D\u00e9b."
+  },
+  "Entite150": {
+    "entite": "D\u00e9b.",
+    "label": "MISC",
+    "Contexte gauche": "I. 1. a)",
+    "Contexte droite": "xiiies. astron. \u00ab"
+  },
+  "Entite151": {
+    "entite": "Sapientia ds Dialogue Gr\u00e9goire",
+    "label": "PER",
+    "Contexte gauche": "de son orbite \u00bb (",
+    "Contexte droite": ", \u00e9d. W. Foerster"
+  },
+  "Entite152": {
+    "entite": "W. Foerster",
+    "label": "PER",
+    "Contexte gauche": "Dialogue Gr\u00e9goire, \u00e9d.",
+    "Contexte droite": ", p. 286, 39"
+  },
+  "Entite153": {
+    "entite": "Gdf",
+    "label": "ORG",
+    "Contexte gauche": ", ch. 5 ds",
+    "Contexte droite": ". Compl.: revolucion"
+  },
+  "Entite154": {
+    "entite": "Vies des hommes illustres",
+    "label": "MISC",
+    "Contexte gauche": "; 1559 (Amyot,",
+    "Contexte droite": ", Lucullus, 77 ds"
+  },
+  "Entite155": {
+    "entite": "Lucullus",
+    "label": "LOC",
+    "Contexte gauche": "Vies des hommes illustres,",
+    "Contexte droite": ", 77 ds Littr\u00e9:"
+  },
+  "Entite156": {
+    "entite": "Chirurgie Henri de Mondeville",
+    "label": "LOC",
+    "Contexte gauche": "fil, n\u0153ud \u00bb (",
+    "Contexte droite": ", \u00e9d. A. Bos"
+  },
+  "Entite157": {
+    "entite": "A. Bos",
+    "label": "PER",
+    "Contexte gauche": "de Mondeville, \u00e9d.",
+    "Contexte droite": ", \u00a7 741: soit"
+  },
+  "Entite158": {
+    "entite": "Eloge de Newton ds Brunot",
+    "label": "PER",
+    "Contexte gauche": "axe \u00bb (Fontenelle,",
+    "Contexte droite": "t. 6, p. 1170"
+  },
+  "Entite159": {
+    "entite": "Monge",
+    "label": "MISC",
+    "Contexte gauche": "1799 surface de r\u00e9volution (",
+    "Contexte droite": ", G\u00e9om. descr."
+  },
+  "Entite160": {
+    "entite": "G\u00e9om",
+    "label": "LOC",
+    "Contexte gauche": "de r\u00e9volution (Monge,",
+    "Contexte droite": ". descr., p."
+  },
+  "Entite161": {
+    "entite": "Poisson, M\u00e9can.",
+    "label": "MISC",
+    "Contexte gauche": "1811 solide de r\u00e9volution (",
+    "Contexte droite": ", t. 1, p."
+  },
+  "Entite162": {
+    "entite": "Manuel menuisier",
+    "label": "PER",
+    "Contexte gauche": "menuis. (Nosban,",
+    "Contexte droite": ", t. 2, p."
+  },
+  "Entite163": {
+    "entite": "r\u00e9volution d'escalier",
+    "label": "MISC",
+    "Contexte gauche": "2, p. 267:",
+    "Contexte droite": "); 1883 (Zola"
+  },
+  "Entite164": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "escalier); 1883 (",
+    "Contexte droite": ", Bonh. dames,"
+  },
+  "Entite165": {
+    "entite": "Bonh",
+    "label": "PER",
+    "Contexte gauche": "; 1883 (Zola,",
+    "Contexte droite": ". dames, p. 626"
+  },
+  "Entite166": {
+    "entite": "Littr\u00e9",
+    "label": "LOC",
+    "Contexte gauche": ". 1870 sylvic. (",
+    "Contexte droite": "); 4. 1946"
+  },
+  "Entite167": {
+    "entite": "Fr.",
+    "label": "ORG",
+    "Contexte gauche": "cardiaque (Ce que la",
+    "Contexte droite": "a apport\u00e9 \u00e0 la m\u00e9d"
+  },
+  "Entite168": {
+    "entite": "Vies des hommes illustres",
+    "label": "MISC",
+    "Contexte gauche": "bouleversement \u00bb (Amyot,",
+    "Contexte droite": ", D\u00e9mosth\u00e8nes, \u00e9d."
+  },
+  "Entite169": {
+    "entite": "D\u00e9mosth\u00e8nes",
+    "label": "MISC",
+    "Contexte gauche": "Vies des hommes illustres,",
+    "Contexte droite": ", \u00e9d. J. Normand"
+  },
+  "Entite170": {
+    "entite": "J. Normand",
+    "label": "PER",
+    "Contexte gauche": ", D\u00e9mosth\u00e8nes, \u00e9d.",
+    "Contexte droite": ", p. 26: quelque"
+  },
+  "Entite171": {
+    "entite": "Les Quatre Facardins",
+    "label": "MISC",
+    "Contexte gauche": "effervescence \u00bb (Hamilton,",
+    "Contexte droite": ", Paris, 1730,"
+  },
+  "Entite172": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": ", Les Quatre Facardins,",
+    "Contexte droite": ", 1730, p. 10"
+  },
+  "Entite173": {
+    "entite": "Le Spectateur fr.",
+    "label": "MISC",
+    "Contexte gauche": "trouble \u00bb (Marivaux,",
+    "Contexte droite": ", 10 nov., \u00e9d"
+  },
+  "Entite174": {
+    "entite": "Deloffre",
+    "label": "PER",
+    "Contexte gauche": "nov., \u00e9d. F.",
+    "Contexte droite": "et M. Gilot, p."
+  },
+  "Entite175": {
+    "entite": "M. Gilot",
+    "label": "PER",
+    "Contexte gauche": "\u00e9d. F. Deloffre et",
+    "Contexte droite": ", p. 167: les"
+  },
+  "Entite176": {
+    "entite": "Ac",
+    "label": "LOC",
+    "Contexte gauche": "alt\u00e8re la sant\u00e9 \u00bb (",
+    "Contexte droite": ".); 3."
+  },
+  "Entite177": {
+    "entite": "Buffon",
+    "label": "LOC",
+    "Contexte gauche": "la surface terrestre \u00bb (",
+    "Contexte droite": ", Hist. et th\u00e9orie"
+  },
+  "Entite178": {
+    "entite": "ca 1615 pol.",
+    "label": "LOC",
+    "Contexte gauche": "). B. 1.",
+    "Contexte droite": "(Nicolas Pasquier, Remonstrances"
+  },
+  "Entite179": {
+    "entite": "Nicolas Pasquier",
+    "label": "PER",
+    "Contexte gauche": "ca 1615 pol. (",
+    "Contexte droite": ", Remonstrances tr\u00e8s humbles au"
+  },
+  "Entite180": {
+    "entite": "Remonstrances tr\u00e8s humbles",
+    "label": "MISC",
+    "Contexte gauche": ". (Nicolas Pasquier,",
+    "Contexte droite": "au Roy ds E. Pasquier"
+  },
+  "Entite181": {
+    "entite": "Roy ds E. Pasquier",
+    "label": "PER",
+    "Contexte gauche": ", Remonstrances tr\u00e8s humbles au",
+    "Contexte droite": ", \u0152uvres compl\u00e8tes, Gen\u00e8ve"
+  },
+  "Entite182": {
+    "entite": "\u0152uvres",
+    "label": "MISC",
+    "Contexte gauche": "Roy ds E. Pasquier,",
+    "Contexte droite": "compl\u00e8tes, Gen\u00e8ve, 1971"
+  },
+  "Entite183": {
+    "entite": "Gen\u00e8ve",
+    "label": "LOC",
+    "Contexte gauche": "Pasquier, \u0152uvres compl\u00e8tes,",
+    "Contexte droite": ", 1971, t. 2"
+  },
+  "Entite184": {
+    "entite": "ds K. H. Bender",
+    "label": "PER",
+    "Contexte gauche": "t. 2, p. 1210",
+    "Contexte droite": ", Revolutionen, M\u00fcnchen,"
+  },
+  "Entite185": {
+    "entite": "Revolutionen",
+    "label": "LOC",
+    "Contexte gauche": "ds K. H. Bender,",
+    "Contexte droite": ", M\u00fcnchen, 1977,"
+  },
+  "Entite186": {
+    "entite": "M\u00fcnchen",
+    "label": "MISC",
+    "Contexte gauche": "H. Bender, Revolutionen,",
+    "Contexte droite": ", 1977, p. 29"
+  },
+  "Entite187": {
+    "entite": "Estats",
+    "label": "MISC",
+    "Contexte gauche": "29: certaines revolutions des",
+    "Contexte droite": ", pendant lesquelles toutes choses"
+  },
+  "Entite188": {
+    "entite": "coup d'\u00c9tat \u00bb",
+    "label": "MISC",
+    "Contexte gauche": "ruyne); 1636 \u00ab",
+    "Contexte droite": "(Monet: Revolution d'"
+  },
+  "Entite189": {
+    "entite": "Annales",
+    "label": "LOC",
+    "Contexte gauche": ") 1789 r\u00e9volution fran\u00e7aise (",
+    "Contexte droite": "patriotiques, 18 d\u00e9c.,"
+  },
+  "Entite190": {
+    "entite": "Fonds Barbier",
+    "label": "ORG",
+    "Contexte gauche": "18 d\u00e9c., 1/2 ds",
+    "Contexte droite": "); 1789 absol."
+  },
+  "Entite191": {
+    "entite": "r\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "; 1789 absol. la",
+    "Contexte droite": "(R\u00e9impression de l'Ancien"
+  },
+  "Entite192": {
+    "entite": "R\u00e9impression de l'Ancien Moniteur",
+    "label": "MISC",
+    "Contexte gauche": "absol. la r\u00e9volution (",
+    "Contexte droite": ", t. 2, p."
+  },
+  "Entite193": {
+    "entite": "Lamennais",
+    "label": "LOC",
+    "Contexte gauche": "1831 r\u00e9volution de palais (",
+    "Contexte droite": "ds L'Avenir, 1erjuill"
+  },
+  "Entite194": {
+    "entite": "L'Avenir",
+    "label": "ORG",
+    "Contexte gauche": "de palais (Lamennais ds",
+    "Contexte droite": ", 1erjuill., p."
+  },
+  "Entite195": {
+    "entite": "Journal, p. 1257",
+    "label": "MISC",
+    "Contexte gauche": "ext. (Goncourt,",
+    "Contexte droite": "); c) 1839"
+  },
+  "Entite196": {
+    "entite": "Comte",
+    "label": "PER",
+    "Contexte gauche": ") 1839 r\u00e9volution industrielle (",
+    "Contexte droite": ", Philos. posit."
+  },
+  "Entite197": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9volution industrielle (Comte,",
+    "Contexte droite": ". posit., t."
+  },
+  "Entite198": {
+    "entite": "Le Petit Parisien",
+    "label": "MISC",
+    "Contexte gauche": ") 1917 r\u00e9volution russe (",
+    "Contexte droite": ", 9 nov. ds Hist"
+  },
+  "Entite199": {
+    "entite": "de France",
+    "label": "LOC",
+    "Contexte gauche": "9 nov. ds Hist.",
+    "Contexte droite": "\u00e0 travers les journaux du"
+  },
+  "Entite200": {
+    "entite": "Malraux",
+    "label": "PER",
+    "Contexte gauche": "1928 r\u00e9volution d'octobre (",
+    "Contexte droite": ", Conqu\u00e9r., p."
+  },
+  "Entite201": {
+    "entite": "F. Bertaux",
+    "label": "PER",
+    "Contexte gauche": ") 1920 r\u00e9volution continue (",
+    "Contexte droite": ", L'utopie de Rathenau"
+  },
+  "Entite202": {
+    "entite": "L'utopie de Rathenau in Nouv",
+    "label": "MISC",
+    "Contexte gauche": "continue (F. Bertaux,",
+    "Contexte droite": ". r. fr.,"
+  },
+  "Entite203": {
+    "entite": "o80",
+    "label": "LOC",
+    "Contexte gauche": "r. fr., n",
+    "Contexte droite": ", mai, 789 ds"
+  },
+  "Entite204": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "o80, mai, 789",
+    "Contexte droite": "Quem. DDL t. 12"
+  },
+  "Entite205": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": ", 789 ds Quem.",
+    "Contexte droite": "t. 12); 1938"
+  },
+  "Entite206": {
+    "entite": "Le Populaire, 2 mars ds Hist",
+    "label": "MISC",
+    "Contexte gauche": "; 1938 r\u00e9volution permanente (",
+    "Contexte droite": ". de France \u00e0 travers"
+  },
+  "Entite207": {
+    "entite": "de France",
+    "label": "LOC",
+    "Contexte gauche": "2 mars ds Hist.",
+    "Contexte droite": "\u00e0 travers les journaux du"
+  },
+  "Entite208": {
+    "entite": "E. Armand",
+    "label": "PER",
+    "Contexte gauche": ") 1934 r\u00e9volution sexuelle (",
+    "Contexte droite": ", La R\u00e9volution sexuelle et"
+  },
+  "Entite209": {
+    "entite": "La R\u00e9volution sexuelle",
+    "label": "MISC",
+    "Contexte gauche": "sexuelle (E. Armand,",
+    "Contexte droite": "et la camaraderie amoureuse,"
+  },
+  "Entite210": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "et la camaraderie amoureuse,",
+    "Contexte droite": ", s. d. ds Quem"
+  },
+  "Entite211": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "s. d. ds Quem.",
+    "Contexte droite": "t. 14); g"
+  },
+  "Entite212": {
+    "entite": "Chine",
+    "label": "LOC",
+    "Contexte gauche": "1966 r\u00e9volution culturelle (en",
+    "Contexte droite": ") (Antoine, Passeron"
+  },
+  "Entite213": {
+    "entite": "Antoine",
+    "label": "LOC",
+    "Contexte gauche": "(en Chine) (",
+    "Contexte droite": ", Passeron, loc."
+  },
+  "Entite214": {
+    "entite": "Sorbonne",
+    "label": "LOC",
+    "Contexte gauche": "ext. (\u00e0 la",
+    "Contexte droite": ") (Le Monde,"
+  },
+  "Entite215": {
+    "entite": "Le Monde, 10",
+    "label": "ORG",
+    "Contexte gauche": "\u00e0 la Sorbonne) (",
+    "Contexte droite": "janv. ds Gilb. 1980"
+  },
+  "Entite216": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "Le Monde, 10 janv.",
+    "Contexte droite": "Gilb. 1980);"
+  },
+  "Entite217": {
+    "entite": "L'Aurore",
+    "label": "MISC",
+    "Contexte gauche": ") 1970 r\u00e9volution verte (",
+    "Contexte droite": ", 11 d\u00e9c., p."
+  },
+  "Entite218": {
+    "entite": "b. lat.",
+    "label": "ORG",
+    "Contexte gauche": "). Empr. au",
+    "Contexte droite": "et lat. chr\u00e9t.revolutio \u00ab"
+  },
+  "Entite219": {
+    "entite": "Blaise Lat",
+    "label": "PER",
+    "Contexte gauche": "la m\u00e9tempsychose) \u00bb (",
+    "Contexte droite": ". chr\u00e9t.);"
+  },
+  "Entite220": {
+    "entite": "r\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "lat. m\u00e9di\u00e9v. \u00ab",
+    "Contexte droite": "(astron.) \u00bb"
+  },
+  "Entite221": {
+    "entite": "Latham",
+    "label": "PER",
+    "Contexte gauche": ") \u00bb (1086 ds",
+    "Contexte droite": "); d\u00e9r. du"
+  },
+  "Entite222": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r.:",
+    "Contexte droite": ".: a) 17"
+  },
+  "Entite223": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 12 971;",
+    "Contexte droite": ".: a) 8"
+  },
+  "Entite224": {
+    "entite": "Baldinger",
+    "label": "PER",
+    "Contexte gauche": ", p. 38. \u2212",
+    "Contexte droite": "(K.). Z."
+  },
+  "Entite225": {
+    "entite": "Bender",
+    "label": "ORG",
+    "Contexte gauche": "676-677. \u2212",
+    "Contexte droite": "(K.-H.). Revolutionen"
+  },
+  "Entite226": {
+    "entite": "Bouverot",
+    "label": "PER",
+    "Contexte gauche": "1977, 216 p. \u2212",
+    "Contexte droite": "(D.). Le"
+  },
+  "Entite227": {
+    "entite": "Mot R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "(D.). Le",
+    "Contexte droite": "dans les dict. av."
+  },
+  "Entite228": {
+    "entite": "t. 57",
+    "label": "MISC",
+    "Contexte gauche": ". mod. 1989,",
+    "Contexte droite": ", pp. 3-12"
+  },
+  "Entite229": {
+    "entite": "\u2212 Gall",
+    "label": "PER",
+    "Contexte gauche": "pp. 407-410.",
+    "Contexte droite": ". 1955, p. 49"
+  },
+  "Entite230": {
+    "entite": "Gohin",
+    "label": "LOC",
+    "Contexte gauche": "493-494. \u2212",
+    "Contexte droite": "1903, p. 291."
+  },
+  "Entite231": {
+    "entite": "Hasselrot",
+    "label": "PER",
+    "Contexte gauche": ", p. 291. \u2212",
+    "Contexte droite": "(B.). Petit"
+  },
+  "Entite232": {
+    "entite": "St. neophilol.",
+    "label": "LOC",
+    "Contexte gauche": "de dimin. fr.",
+    "Contexte droite": "1959, t. 31,"
+  },
+  "Entite233": {
+    "entite": "L\u00fcsebrink",
+    "label": "MISC",
+    "Contexte gauche": ", p. 39. \u2212",
+    "Contexte droite": "(H.-J.), Reichardt"
+  },
+  "Entite234": {
+    "entite": "Reichardt",
+    "label": "LOC",
+    "Contexte gauche": "L\u00fcsebrink (H.-J.),",
+    "Contexte droite": "(R.). R\u00e9volution"
+  },
+  "Entite235": {
+    "entite": "Maulnier",
+    "label": "PER",
+    "Contexte gauche": "35-68. \u2212",
+    "Contexte droite": "(Th.)."
+  },
+  "Entite236": {
+    "entite": "Sens",
+    "label": "LOC",
+    "Contexte gauche": "Th.). Le",
+    "Contexte droite": "des mots. Paris,"
+  },
+  "Entite237": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "Le Sens des mots.",
+    "Contexte droite": ", 1976, pp. 204"
+  },
+  "Entite238": {
+    "entite": "Moraz\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "204-207. \u2212",
+    "Contexte droite": "(Ch.)."
+  },
+  "Entite239": {
+    "entite": "Greimas",
+    "label": "MISC",
+    "Contexte gauche": "In: [M\u00e9l.",
+    "Contexte droite": "(A. J.)]. Amsterdam,"
+  },
+  "Entite240": {
+    "entite": "A. J.)].",
+    "label": "PER",
+    "Contexte gauche": "[M\u00e9l. Greimas (",
+    "Contexte droite": "Amsterdam, 1985, pp."
+  },
+  "Entite241": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "1021. \u2212 Quem.",
+    "Contexte droite": "t. 9 (s.v."
+  },
+  "Entite242": {
+    "entite": "S\u00e9guin",
+    "label": "LOC",
+    "Contexte gauche": "14, 21. \u2212",
+    "Contexte droite": "(J. P.)."
+  },
+  "Entite243": {
+    "entite": "J. P.",
+    "label": "PER",
+    "Contexte gauche": "21. \u2212 S\u00e9guin (",
+    "Contexte droite": "). Lexicogr. et"
+  },
+  "Entite244": {
+    "entite": "Lexicogr",
+    "label": "LOC",
+    "Contexte gauche": "(J. P.).",
+    "Contexte droite": ". et conformisme en 1798"
+  },
+  "Entite245": {
+    "entite": "Licorne",
+    "label": "LOC",
+    "Contexte gauche": "conformisme en 1798. La",
+    "Contexte droite": ". 1978, n o2"
+  },
+  "Entite246": {
+    "entite": "Tournier",
+    "label": "PER",
+    "Contexte gauche": ", p. 97. \u2212",
+    "Contexte droite": "(M.). Un"
+  },
+  "Entite247": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "en 1848... Th\u00e8se,",
+    "Contexte droite": ", 1975, pp. 92"
+  },
+  "Entite248": {
+    "entite": "\u2212 Tracc",
+    "label": "PER",
+    "Contexte gauche": "pp. 92-100.",
+    "Contexte droite": ". 1907, p. 165"
+  },
+  "Entite249": {
+    "entite": "Vardar Soc",
+    "label": "PER",
+    "Contexte gauche": ", p. 165. \u2212",
+    "Contexte droite": ". pol. 1973 ["
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "Entite0": {
+    "entite": "- \u00c9lecteur",
+    "label": "PER",
+    "Contexte gauche": "",
+    "Contexte droite": ", -trice, subst."
+  },
+  "Entite1": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9lection (voir ce mot",
+    "Contexte droite": ").\nA.\u2212 Domaine"
+  },
+  "Entite2": {
+    "entite": "Domaine",
+    "label": "LOC",
+    "Contexte gauche": "A).\nA.\u2212",
+    "Contexte droite": "pol.\u00c9lecteur rural,"
+  },
+  "Entite3": {
+    "entite": "Reybaud",
+    "label": "PER",
+    "Contexte gauche": "est toujours fort r\u00e9serv\u00e9 (",
+    "Contexte droite": ", J. Paturot,1842, p."
+  },
+  "Entite4": {
+    "entite": "J. Paturot,1842",
+    "label": "PER",
+    "Contexte gauche": "fort r\u00e9serv\u00e9 (Reybaud,",
+    "Contexte droite": ", p. 323).Le cinqui\u00e8me des"
+  },
+  "Entite5": {
+    "entite": "Meynaud",
+    "label": "ORG",
+    "Contexte gauche": "pour le parti communiste (",
+    "Contexte droite": ", Groupes pression Fr."
+  },
+  "Entite6": {
+    "entite": "Groupes pression",
+    "label": "ORG",
+    "Contexte gauche": "parti communiste (Meynaud,",
+    "Contexte droite": "Fr.,1958, p."
+  },
+  "Entite7": {
+    "entite": "Fr",
+    "label": "LOC",
+    "Contexte gauche": "(Meynaud, Groupes pression",
+    "Contexte droite": ".,1958, p. 175"
+  },
+  "Entite8": {
+    "entite": "De Gaulle",
+    "label": "PER",
+    "Contexte gauche": "et leurs conseils g\u00e9n\u00e9raux.",
+    "Contexte droite": ", M\u00e9moires de guerre,1959,"
+  },
+  "Entite9": {
+    "entite": "M\u00e9moires de guerre,1959, p. 452.\n\u2666",
+    "label": "MISC",
+    "Contexte gauche": "g\u00e9n\u00e9raux. De Gaulle,",
+    "Contexte droite": "Au sing. avec valeur"
+  },
+  "Entite10": {
+    "entite": "Conspir",
+    "label": "LOC",
+    "Contexte gauche": "si pr\u00e8s (Nizan,",
+    "Contexte droite": ".,1938, p. 140"
+  },
+  "Entite11": {
+    "entite": "HISTOIRE\nPrince du Saint Empire",
+    "label": "PER",
+    "Contexte gauche": "Grand) \u00e9lecteur\n\u2666",
+    "Contexte droite": "qui avait le droit d'"
+  },
+  "Entite12": {
+    "entite": "Empereur d'Allemagne",
+    "label": "PER",
+    "Contexte gauche": "le droit d'\u00e9lire l'",
+    "Contexte droite": ". Il [Hassler]"
+  },
+  "Entite13": {
+    "entite": "\u00e9lecteur de Saxe",
+    "label": "LOC",
+    "Contexte gauche": "ma\u00eetre de musique de l'",
+    "Contexte droite": "(Vincent d'Indy,"
+  },
+  "Entite14": {
+    "entite": "Vincent d'Indy",
+    "label": "PER",
+    "Contexte gauche": "l'\u00e9lecteur de Saxe (",
+    "Contexte droite": ", Compos. mus."
+  },
+  "Entite15": {
+    "entite": "Compos",
+    "label": "PER",
+    "Contexte gauche": "(Vincent d'Indy,",
+    "Contexte droite": ". mus.,t."
+  },
+  "Entite16": {
+    "entite": "\u00e9lecteur de Brandebourg",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9lecteur pour d\u00e9signer sp\u00e9cialement l'",
+    "Contexte droite": ". 2. \u00c9lectrice d\u00e9signe"
+  },
+  "Entite17": {
+    "entite": "l'Empire",
+    "label": "LOC",
+    "Contexte gauche": "femme d'un \u00e9lecteur de",
+    "Contexte droite": ". C'est lui qui"
+  },
+  "Entite18": {
+    "entite": "Giraudoux",
+    "label": "PER",
+    "Contexte gauche": "annulation de son mariage (",
+    "Contexte droite": ", Ondine, 1939,"
+  },
+  "Entite19": {
+    "entite": "Ondine",
+    "label": "PER",
+    "Contexte gauche": "son mariage (Giraudoux,",
+    "Contexte droite": ", 1939, III,"
+  },
+  "Entite20": {
+    "entite": "Grand",
+    "label": "LOC",
+    "Contexte gauche": "p. 190).\n",
+    "Contexte droite": "dignitaire de l'\u00e9tat sous"
+  },
+  "Entite21": {
+    "entite": "Premier Empire",
+    "label": "LOC",
+    "Contexte gauche": "de l'\u00e9tat sous le",
+    "Contexte droite": ". Au sortir du cabinet"
+  },
+  "Entite22": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "grand \u00e9lecteur serait arr\u00eat\u00e9 (",
+    "Contexte droite": "., M\u00e9m.,t"
+  },
+  "Entite23": {
+    "entite": "Reboul",
+    "label": "MISC",
+    "Contexte gauche": ". Le marchand de meubles",
+    "Contexte droite": ", (...) un"
+  },
+  "Entite24": {
+    "entite": "Aragon",
+    "label": "PER",
+    "Contexte gauche": "les maires \u00e0 volont\u00e9 (",
+    "Contexte droite": ", Beaux quart.,1936"
+  },
+  "Entite25": {
+    "entite": "Beaux",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 volont\u00e9 (Aragon,",
+    "Contexte droite": "quart.,1936, p."
+  },
+  "Entite26": {
+    "entite": "Gautier",
+    "label": "PER",
+    "Contexte gauche": "de la garde civique (",
+    "Contexte droite": ", Tra los montes,1843,"
+  },
+  "Entite27": {
+    "entite": "Tra los montes,1843",
+    "label": "PER",
+    "Contexte gauche": "garde civique (Gautier,",
+    "Contexte droite": ", p. 179).Cette nation industrielle"
+  },
+  "Entite28": {
+    "entite": "Journ",
+    "label": "PER",
+    "Contexte gauche": "et \u00e9lectrice (Vigny,",
+    "Contexte droite": ". po\u00e8te,1851, p. 1282"
+  },
+  "Entite29": {
+    "entite": "C'est, pour le soldat",
+    "label": "MISC",
+    "Contexte gauche": "en \u00e9lecteur. ,,",
+    "Contexte droite": ", rev\u00eatir des habits civils"
+  },
+  "Entite30": {
+    "entite": "Fustier",
+    "label": "ORG",
+    "Contexte gauche": "habits civils`` (",
+    "Contexte droite": ", Suppl. dict."
+  },
+  "Entite31": {
+    "entite": "de France",
+    "label": "LOC",
+    "Contexte gauche": "tuteures, d\u00e9put\u00e9es, paires",
+    "Contexte droite": "(J. Janin, Fran\u00e7ais"
+  },
+  "Entite32": {
+    "entite": "J. Janin",
+    "label": "PER",
+    "Contexte gauche": ", paires de France (",
+    "Contexte droite": ", Fran\u00e7ais peints par eux"
+  },
+  "Entite33": {
+    "entite": "Fran\u00e7ais",
+    "label": "LOC",
+    "Contexte gauche": "France (J. Janin,",
+    "Contexte droite": "peints par eux-m\u00eames"
+  },
+  "Entite34": {
+    "entite": "Bas Bleu",
+    "label": "PER",
+    "Contexte gauche": "par eux-m\u00eames,",
+    "Contexte droite": ", 1842, p. 226"
+  },
+  "Entite35": {
+    "entite": "Un certain nombre de professeurs de la Sorbonne",
+    "label": "MISC",
+    "Contexte gauche": "un conseil, etc.]",
+    "Contexte droite": ", futurs \u00e9lecteurs de M."
+  },
+  "Entite36": {
+    "entite": "M. Lanson",
+    "label": "PER",
+    "Contexte gauche": "Sorbonne, futurs \u00e9lecteurs de",
+    "Contexte droite": "(P\u00e9guy, Argent,1913,"
+  },
+  "Entite37": {
+    "entite": "professeur Lartois",
+    "label": "PER",
+    "Contexte gauche": "):\n2. Le",
+    "Contexte droite": ", membre de l'Acad\u00e9mie"
+  },
+  "Entite38": {
+    "entite": "Acad\u00e9mie de m\u00e9decine",
+    "label": "ORG",
+    "Contexte gauche": "Lartois, membre de l'",
+    "Contexte droite": ", et qui allait perdre"
+  },
+  "Entite39": {
+    "entite": "Jean de la Monnerie",
+    "label": "PER",
+    "Contexte gauche": "perdre en la personne de",
+    "Contexte droite": "un de ses \u00e9lecteurs les"
+  },
+  "Entite40": {
+    "entite": "Acad\u00e9mie Fran\u00e7aise",
+    "label": "ORG",
+    "Contexte gauche": "sa prochaine candidature \u00e0 l'",
+    "Contexte droite": ", regarda autour de lui"
+  },
+  "Entite41": {
+    "entite": "Les Grandes familles,",
+    "label": "MISC",
+    "Contexte gauche": "meilleurs t\u00e9moins. Druon,",
+    "Contexte droite": "t. 1, 1948,"
+  },
+  "Entite42": {
+    "entite": "Cri de Paris",
+    "label": "LOC",
+    "Contexte gauche": "supra). \u00ab Le",
+    "Contexte droite": "\u00bb pr\u00e9tendait l'autre jour"
+  },
+  "Entite43": {
+    "entite": "Descaves",
+    "label": "LOC",
+    "Contexte gauche": "des prix Goncourt] \u00e9tait",
+    "Contexte droite": "(L\u00e9autaud, Journal litt\u00e9r"
+  },
+  "Entite44": {
+    "entite": "Journal",
+    "label": "PER",
+    "Contexte gauche": "\u00e9tait Descaves (L\u00e9autaud,",
+    "Contexte droite": "litt\u00e9r.,t. 1"
+  },
+  "Entite45": {
+    "entite": "Gide",
+    "label": "PER",
+    "Contexte gauche": "admirateur de quelqu'un.",
+    "Contexte droite": "se fermait chaque fois qu'"
+  },
+  "Entite46": {
+    "entite": "Cocteau",
+    "label": "LOC",
+    "Contexte gauche": "lui retirasse des \u00e9lecteurs (",
+    "Contexte droite": ", Po\u00e9s. crit."
+  },
+  "Entite47": {
+    "entite": "Po\u00e9s",
+    "label": "LOC",
+    "Contexte gauche": "des \u00e9lecteurs (Cocteau,",
+    "Contexte droite": ". crit. I,1959,"
+  },
+  "Entite48": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ". : [el\u03b5kt\u0153:"
+  },
+  "Entite49": {
+    "entite": "Enq",
+    "label": "PER",
+    "Contexte gauche": ", f\u00e9m. [-t\u0280is].",
+    "Contexte droite": ". /elekt\u00f8\u0280/. \u00c9tymol. et"
+  },
+  "Entite50": {
+    "entite": "/elekt\u00f8\u0280/. \u00c9tymol.",
+    "label": "PER",
+    "Contexte gauche": ". [-t\u0280is]. Enq.",
+    "Contexte droite": "et Hist. [xiiies"
+  },
+  "Entite51": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": ". /elekt\u00f8\u0280/. \u00c9tymol. et",
+    "Contexte droite": ". [xiiies. eslictor"
+  },
+  "Entite52": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "[xiiies. eslictor (",
+    "Contexte droite": ". occid. des croisades"
+  },
+  "Entite53": {
+    "entite": "t. I",
+    "label": "PER",
+    "Contexte gauche": "occid. des croisades,",
+    "Contexte droite": ", p. 205 ds Littr\u00e9"
+  },
+  "Entite54": {
+    "entite": "Oresme",
+    "label": "PER",
+    "Contexte gauche": "]; 1371 electeur (",
+    "Contexte droite": ", Politiq., foIIIads"
+  },
+  "Entite55": {
+    "entite": "Politiq",
+    "label": "PER",
+    "Contexte gauche": "1371 electeur (Oresme,",
+    "Contexte droite": "., foIIIads Gdf."
+  },
+  "Entite56": {
+    "entite": "Gdf",
+    "label": "ORG",
+    "Contexte gauche": ", Politiq., foIIIads",
+    "Contexte droite": ". Compl.);"
+  },
+  "Entite57": {
+    "entite": "Saint Empire",
+    "label": "LOC",
+    "Contexte gauche": "\u00ab personne qui dans le",
+    "Contexte droite": "germanique participait \u00e0 l'\u00e9lection"
+  },
+  "Entite58": {
+    "entite": "l'Empereur",
+    "label": "PER",
+    "Contexte gauche": "participait \u00e0 l'\u00e9lection de",
+    "Contexte droite": "(par voie de suffrage"
+  },
+  "Entite59": {
+    "entite": "R\u00e9cits d'un bourgeois",
+    "label": "MISC",
+    "Contexte gauche": "de suffrage) \u00bb (",
+    "Contexte droite": "de Valenciennes, 208,"
+  },
+  "Entite60": {
+    "entite": "Valenciennes",
+    "label": "LOC",
+    "Contexte gauche": "R\u00e9cits d'un bourgeois de",
+    "Contexte droite": ", 208, Kervyn ds"
+  },
+  "Entite61": {
+    "entite": "Kervyn ds R. Hist",
+    "label": "PER",
+    "Contexte gauche": "de Valenciennes, 208,",
+    "Contexte droite": ". litt. Fr."
+  },
+  "Entite62": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 2"
+  },
+  "Entite63": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": ", b) 714;",
+    "Contexte droite": ". : a) 954"
+  }
+}

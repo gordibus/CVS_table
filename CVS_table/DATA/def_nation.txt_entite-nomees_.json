@@ -1,0 +1,932 @@
+{
+  "Entite0": {
+    "entite": "- Nation",
+    "label": "ORG",
+    "Contexte gauche": "",
+    "Contexte droite": ", subst. f\u00e9m."
+  },
+  "Entite1": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": "primitivement sur un territoire.",
+    "Contexte droite": ". gent1, tribu."
+  },
+  "Entite2": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": "nations, comme celles du",
+    "Contexte droite": ", changent de nom et"
+  },
+  "Entite3": {
+    "entite": "P\u00e9rouse",
+    "label": "LOC",
+    "Contexte gauche": "bourgade (Voy. La",
+    "Contexte droite": ", t.3, 1797,"
+  },
+  "Entite4": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "de nation [it.",
+    "Contexte droite": "le texte]. Elle ne signifie"
+  },
+  "Entite5": {
+    "entite": "Loz",
+    "label": "LOC",
+    "Contexte gauche": "moins consid\u00e9rables. Baudry des",
+    "Contexte droite": ".,Voy. Louisiane,"
+  },
+  "Entite6": {
+    "entite": "pp.20-21",
+    "label": "MISC",
+    "Contexte gauche": ". Louisiane, 1802,",
+    "Contexte droite": ".\nB. \u2212\n"
+  },
+  "Entite7": {
+    "entite": "Groupe humain",
+    "label": "ORG",
+    "Contexte gauche": "1.\na)",
+    "Contexte droite": ", g\u00e9n\u00e9ralement assez vaste,"
+  },
+  "Entite8": {
+    "entite": "J. de Maistre",
+    "label": "PER",
+    "Contexte gauche": "des caract\u00e8res \u00e9minemment distinctifs (",
+    "Contexte droite": ",Corresp., t.3"
+  },
+  "Entite9": {
+    "entite": "Corresp",
+    "label": "LOC",
+    "Contexte gauche": "(J. de Maistre,",
+    "Contexte droite": "., t.3, 1810"
+  },
+  "Entite10": {
+    "entite": "Merleau-Ponty",
+    "label": "PER",
+    "Contexte gauche": "de la vie? (",
+    "Contexte droite": ",Ph\u00e9nom\u00e9nol. perception,"
+  },
+  "Entite11": {
+    "entite": "Val\u00e9ry,Regards sur monde act",
+    "label": "MISC",
+    "Contexte gauche": "une agglom\u00e9ration humaine organis\u00e9e.",
+    "Contexte droite": "., 1931, p.37"
+  },
+  "Entite12": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "de communaut\u00e9 d'origine.",
+    "Contexte droite": "implique une id\u00e9e d'organisation"
+  },
+  "Entite13": {
+    "entite": "Bonald",
+    "label": "LOC",
+    "Contexte gauche": "la communaut\u00e9 de lois (",
+    "Contexte droite": ", L\u00e9gisl. primit."
+  },
+  "Entite14": {
+    "entite": "L\u00e9gisl",
+    "label": "LOC",
+    "Contexte gauche": "de lois (Bonald,",
+    "Contexte droite": ". primit., t.2"
+  },
+  "Entite15": {
+    "entite": "p.74",
+    "label": "PER",
+    "Contexte gauche": ", t.2, 1802,",
+    "Contexte droite": ").\nb)"
+  },
+  "Entite16": {
+    "entite": "Moy",
+    "label": "MISC",
+    "Contexte gauche": ".\n\u2212 [Au",
+    "Contexte droite": ". \u00c2ge] Groupement de"
+  },
+  "Entite17": {
+    "entite": "Groupement de ma\u00eetres et d'\u00e9tudiants \u00e0 l'int\u00e9rieur",
+    "label": "MISC",
+    "Contexte gauche": "Au Moy. \u00c2ge]",
+    "Contexte droite": "des universit\u00e9s, selon un"
+  },
+  "Entite18": {
+    "entite": "universit\u00e9 de Paris",
+    "label": "ORG",
+    "Contexte gauche": "facult\u00e9 des arts de l'",
+    "Contexte droite": "comprenait quatre nations: anglaise"
+  },
+  "Entite19": {
+    "entite": "Allemands",
+    "label": "LOC",
+    "Contexte gauche": ": anglaise (incluant les",
+    "Contexte droite": "), fran\u00e7aise (incluant"
+  },
+  "Entite20": {
+    "entite": "Italiens",
+    "label": "LOC",
+    "Contexte gauche": "), fran\u00e7aise (incluant",
+    "Contexte droite": "et Espagnols), picarde"
+  },
+  "Entite21": {
+    "entite": "Espagnols",
+    "label": "LOC",
+    "Contexte gauche": "fran\u00e7aise (incluant Italiens et",
+    "Contexte droite": "), picarde (incluant"
+  },
+  "Entite22": {
+    "entite": "Flamands",
+    "label": "LOC",
+    "Contexte gauche": ", picarde (incluant les",
+    "Contexte droite": "), normande (F\u00e9douMoy"
+  },
+  "Entite23": {
+    "entite": "Peuples idol\u00e2tres",
+    "label": "MISC",
+    "Contexte gauche": "Dans l'Ancien Testament]",
+    "Contexte droite": ", ceux qui ne font"
+  },
+  "Entite24": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "partie du peuple \u00e9lu.",
+    "Contexte droite": ". gentil1.Toute (...)"
+  },
+  "Entite25": {
+    "entite": "gentil1.Toute",
+    "label": "MISC",
+    "Contexte gauche": "peuple \u00e9lu. Synon.",
+    "Contexte droite": "(...) guerre est"
+  },
+  "Entite26": {
+    "entite": "Jahv\u00e9",
+    "label": "PER",
+    "Contexte gauche": "une guerre sainte dans laquelle",
+    "Contexte droite": "intervient n\u00e9cessairement pour porter secours"
+  },
+  "Entite27": {
+    "entite": "B",
+    "label": "LOC",
+    "Contexte gauche": "nationalit\u00e9 (v. ce mot",
+    "Contexte droite": "1).Le port est encombr\u00e9 de"
+  },
+  "Entite28": {
+    "entite": "Gautier",
+    "label": "PER",
+    "Contexte gauche": "et de diff\u00e9rents tonnages (",
+    "Contexte droite": ",Tra los montes,1843,"
+  },
+  "Entite29": {
+    "entite": "Tra los montes,1843",
+    "label": "PER",
+    "Contexte gauche": "diff\u00e9rents tonnages (Gautier,",
+    "Contexte droite": ", p.12).Dans l'intimit\u00e9 les"
+  },
+  "Entite30": {
+    "entite": "Am\u00e9ricains",
+    "label": "LOC",
+    "Contexte gauche": ", p.12).Dans l'intimit\u00e9 les",
+    "Contexte droite": "se laissent aller quelquefois \u00e0"
+  },
+  "Entite31": {
+    "entite": "Goncourt",
+    "label": "MISC",
+    "Contexte gauche": "blanches comme des n\u00e8gres (",
+    "Contexte droite": ",Journal,1879, p.53)"
+  },
+  "Entite32": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "corne des navires. (",
+    "Contexte droite": ". xixeet xxes.)"
+  },
+  "Entite33": {
+    "entite": "xixeet xxes",
+    "label": "PER",
+    "Contexte gauche": "navires. (Dict.",
+    "Contexte droite": ".).\n2"
+  },
+  "Entite34": {
+    "entite": "Groupe humain",
+    "label": "ORG",
+    "Contexte gauche": ").\n2.",
+    "Contexte droite": "stable, \u00e9tabli sur un"
+  },
+  "Entite35": {
+    "entite": "Madame de B\u00e9ranger",
+    "label": "PER",
+    "Contexte gauche": "bruyamment (...).",
+    "Contexte droite": "avait peur de ces rencontres"
+  },
+  "Entite36": {
+    "entite": "Vive",
+    "label": "PER",
+    "Contexte gauche": ". Les volontaires criaient souvent",
+    "Contexte droite": "la nation! et elle"
+  },
+  "Entite37": {
+    "entite": "Sand,Hist",
+    "label": "MISC",
+    "Contexte gauche": "se croyait en 93 (",
+    "Contexte droite": ". vie, t.2,"
+  },
+  "Entite38": {
+    "entite": "Jaur\u00e8s,\u00c9t",
+    "label": "MISC",
+    "Contexte gauche": ", trouve sa garantie (",
+    "Contexte droite": ". soc., 1901"
+  },
+  "Entite39": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "d\u00e9velopp\u00e9e, unification politique,",
+    "Contexte droite": "centralis\u00e9) se trouvaient en"
+  },
+  "Entite40": {
+    "entite": "R. Martelli",
+    "label": "PER",
+    "Contexte gauche": "directe des masses populaires.",
+    "Contexte droite": ",La Nation, Paris"
+  },
+  "Entite41": {
+    "entite": "La Nation",
+    "label": "ORG",
+    "Contexte gauche": "populaires. R. Martelli,",
+    "Contexte droite": ", Paris, \u00c9d."
+  },
+  "Entite42": {
+    "entite": "Paris,",
+    "label": "ORG",
+    "Contexte gauche": "Martelli,La Nation,",
+    "Contexte droite": "\u00c9d. soc.,"
+  },
+  "Entite43": {
+    "entite": "\u00c9d",
+    "label": "LOC",
+    "Contexte gauche": "La Nation, Paris,",
+    "Contexte droite": ". soc., 1979"
+  },
+  "Entite44": {
+    "entite": "la R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": "Rem. \u00c0 partir de",
+    "Contexte droite": "nation prend un sens politique"
+  },
+  "Entite45": {
+    "entite": "royaume de France",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 leur int\u00e9gration dans le",
+    "Contexte droite": "avant 1789. Ces organisations"
+  },
+  "Entite46": {
+    "entite": "Ancien",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 la fin de l'",
+    "Contexte droite": "R\u00e9gime \u00e9tait d\u00e9sign\u00e9 par province"
+  },
+  "Entite47": {
+    "entite": "R\u00e9gime",
+    "label": "ORG",
+    "Contexte gauche": "la fin de l'Ancien",
+    "Contexte droite": "\u00e9tait d\u00e9sign\u00e9 par province."
+  },
+  "Entite48": {
+    "entite": "Avignonois",
+    "label": "LOC",
+    "Contexte gauche": "n'auroit pu c\u00e9der les",
+    "Contexte droite": "au pape. La reine"
+  },
+  "Entite49": {
+    "entite": "Jeanne le pouvoit",
+    "label": "PER",
+    "Contexte gauche": "au pape. La reine",
+    "Contexte droite": "-elle, contre les r\u00e9clamations"
+  },
+  "Entite50": {
+    "entite": "Avignonois",
+    "label": "LOC",
+    "Contexte gauche": "proven\u00e7ale? Non; les",
+    "Contexte droite": "sont donc toujours rest\u00e9s de"
+  },
+  "Entite51": {
+    "entite": "Provence",
+    "label": "LOC",
+    "Contexte gauche": "une portion int\u00e9grante de la",
+    "Contexte droite": ", et par cons\u00e9quent,"
+  },
+  "Entite52": {
+    "entite": "la Provence",
+    "label": "LOC",
+    "Contexte gauche": "la nation fran\u00e7oise \u00e0 laquelle",
+    "Contexte droite": "a \u00e9t\u00e9 incorpor\u00e9e (Robesp"
+  },
+  "Entite53": {
+    "entite": "Discours, P\u00e9tit.",
+    "label": "MISC",
+    "Contexte gauche": "incorpor\u00e9e (Robesp.,",
+    "Contexte droite": "peuple avign., t.6"
+  },
+  "Entite54": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "international et stipulant que l'",
+    "Contexte droite": "signataire s'engage \u00e0 accorder"
+  },
+  "Entite55": {
+    "entite": "Angleterre",
+    "label": "LOC",
+    "Contexte gauche": "accord aux termes duquel l'",
+    "Contexte droite": "jouissait de la clause de"
+  },
+  "Entite56": {
+    "entite": "Le Monde",
+    "label": "ORG",
+    "Contexte gauche": "nation la plus favoris\u00e9e (",
+    "Contexte droite": ", 19 janv. 1952,"
+  },
+  "Entite57": {
+    "entite": "Soci\u00e9t\u00e9* des Nations",
+    "label": "ORG",
+    "Contexte gauche": "Bouv.-Ibarr.1975).\n\u2666",
+    "Contexte droite": ". Organisation* des Nations"
+  },
+  "Entite58": {
+    "entite": "Nations Unies",
+    "label": "ORG",
+    "Contexte gauche": "Nations. Organisation* des",
+    "Contexte droite": ".\n3. P."
+  },
+  "Entite59": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "par ce groupe humain.",
+    "Contexte droite": ". patrie, pays."
+  },
+  "Entite60": {
+    "entite": "D\u00e9signe",
+    "label": "LOC",
+    "Contexte gauche": ".\nC. \u2212 [",
+    "Contexte droite": "un ensemble de pers."
+  },
+  "Entite61": {
+    "entite": "p.176).Quand",
+    "label": "LOC",
+    "Contexte gauche": ", t.1, 1795,",
+    "Contexte droite": "on n'a pas pour"
+  },
+  "Entite62": {
+    "entite": "Bertrand",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9volutions! (Scribe,",
+    "Contexte droite": ", 1833, i,"
+  },
+  "Entite63": {
+    "entite": "p.134).Il",
+    "label": "PER",
+    "Contexte gauche": ", i, 6,",
+    "Contexte droite": "tenait en profond m\u00e9pris le"
+  },
+  "Entite64": {
+    "entite": "Nez",
+    "label": "LOC",
+    "Contexte gauche": "vile multitude (About,",
+    "Contexte droite": "notaire, 1862, p.8"
+  },
+  "Entite65": {
+    "entite": "D\u00e9signe",
+    "label": "LOC",
+    "Contexte gauche": ".\n2. [",
+    "Contexte droite": "un ensemble de pers."
+  },
+  "Entite66": {
+    "entite": "Vieilli",
+    "label": "PER",
+    "Contexte gauche": "partic.]\n\u2212",
+    "Contexte droite": "ou litt\u00e9r. Ensemble des"
+  },
+  "Entite67": {
+    "entite": "Danube",
+    "label": "LOC",
+    "Contexte gauche": "sur les gazons dont le",
+    "Contexte droite": "entretient la verdure (Sta\u00ebl"
+  },
+  "Entite68": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": "la verdure (Sta\u00ebl,",
+    "Contexte droite": ", t.1, 1810,"
+  },
+  "Entite69": {
+    "entite": "place Royale",
+    "label": "LOC",
+    "Contexte gauche": "rang\u00e9es de maisons de la",
+    "Contexte droite": "furent-elles dress\u00e9es ("
+  },
+  "Entite70": {
+    "entite": "Nouv.",
+    "label": "MISC",
+    "Contexte gauche": "place enti\u00e8re (Nerval,",
+    "Contexte droite": "et fantais., 1855"
+  },
+  "Entite71": {
+    "entite": "Vari\u00e9t\u00e9 IV",
+    "label": "PER",
+    "Contexte gauche": "la nature (Val\u00e9ry,",
+    "Contexte droite": ", 1938, p.12)"
+  },
+  "Entite72": {
+    "entite": "R\u00e9volution fran\u00e7aise]",
+    "label": "MISC",
+    "Contexte gauche": "HIST. [Pendant la",
+    "Contexte droite": "Ensemble des personnes formant le"
+  },
+  "Entite73": {
+    "entite": "Tiers \u00c9tat",
+    "label": "ORG",
+    "Contexte gauche": "Ensemble des personnes formant le",
+    "Contexte droite": ". Le Tiers embrasse donc"
+  },
+  "Entite74": {
+    "entite": "Tiers",
+    "label": "LOC",
+    "Contexte gauche": "le Tiers \u00c9tat. Le",
+    "Contexte droite": "embrasse donc tout ce qui"
+  },
+  "Entite75": {
+    "entite": "Tiers",
+    "label": "LOC",
+    "Contexte gauche": "qui n'est pas le",
+    "Contexte droite": "ne peut pas se regarder"
+  },
+  "Entite76": {
+    "entite": "Tiers \u00e9tat",
+    "label": "MISC",
+    "Contexte gauche": "la nation (Siey\u00e8s,",
+    "Contexte droite": ", 1789, p.32).Au fur"
+  },
+  "Entite77": {
+    "entite": "p.32).Au",
+    "label": "ORG",
+    "Contexte gauche": "Tiers \u00e9tat, 1789,",
+    "Contexte droite": "fur et \u00e0 mesure que"
+  },
+  "Entite78": {
+    "entite": "R. Martelli",
+    "label": "PER",
+    "Contexte gauche": "a abattu la monarchie (",
+    "Contexte droite": ",La Nation, Paris"
+  },
+  "Entite79": {
+    "entite": "La Nation",
+    "label": "ORG",
+    "Contexte gauche": "monarchie (R. Martelli,",
+    "Contexte droite": ", Paris, \u00c9d."
+  },
+  "Entite80": {
+    "entite": "Paris,",
+    "label": "ORG",
+    "Contexte gauche": "Martelli,La Nation,",
+    "Contexte droite": "\u00c9d. soc.,"
+  },
+  "Entite81": {
+    "entite": "\u00c9d",
+    "label": "LOC",
+    "Contexte gauche": "La Nation, Paris,",
+    "Contexte droite": ". soc., 1979"
+  },
+  "Entite82": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "dans un pays \u00e9tranger.",
+    "Contexte droite": ". colonie.Toutes les"
+  },
+  "Entite83": {
+    "entite": "Barr\u00e8s",
+    "label": "LOC",
+    "Contexte gauche": "montrent beaucoup de gentillesses (",
+    "Contexte droite": ",Amit. fr."
+  },
+  "Entite84": {
+    "entite": "D\u00e9signe",
+    "label": "LOC",
+    "Contexte gauche": "\u2212\n1. [",
+    "Contexte droite": "une collectivit\u00e9 p. oppos."
+  },
+  "Entite85": {
+    "entite": "Collectivit\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "classe, un groupe]",
+    "Contexte droite": "nationale. Int\u00e9r\u00eats de la"
+  },
+  "Entite86": {
+    "entite": "la France",
+    "label": "LOC",
+    "Contexte gauche": "plus nous dire continuellement:",
+    "Contexte droite": "est un \u00e9tat monarchique;"
+  },
+  "Entite87": {
+    "entite": "Contre veto, t.6, 1789",
+    "label": "MISC",
+    "Contexte gauche": "(Robesp.,Discours,",
+    "Contexte droite": ", p.88).Pour lui, il"
+  },
+  "Entite88": {
+    "entite": "p.88).Pour",
+    "label": "MISC",
+    "Contexte gauche": ", t.6, 1789,",
+    "Contexte droite": "lui, il n'\u00e9tait"
+  },
+  "Entite89": {
+    "entite": "Aym\u00e9,Jument",
+    "label": "MISC",
+    "Contexte gauche": "vives de la nation (",
+    "Contexte droite": ", 1933, p.89).La nation"
+  },
+  "Entite90": {
+    "entite": "p.89).La",
+    "label": "MISC",
+    "Contexte gauche": ",Jument, 1933,",
+    "Contexte droite": "nation garantit l'\u00e9gal acc\u00e8s"
+  },
+  "Entite91": {
+    "entite": "Constitution",
+    "label": "MISC",
+    "Contexte gauche": "et \u00e0 la culture (",
+    "Contexte droite": "du 27 oct.1946,pr\u00e9ambule)."
+  },
+  "Entite92": {
+    "entite": "\u00c9l\u00e9ment de l'\u00c9tat constitu\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "\na) ,,",
+    "Contexte droite": "par le groupement des individus"
+  },
+  "Entite93": {
+    "entite": "\u00c9tat`` (Cap",
+    "label": "LOC",
+    "Contexte gauche": "la substance humaine de l'",
+    "Contexte droite": ". 1936). L'"
+  },
+  "Entite94": {
+    "entite": "Bainville,Hist",
+    "label": "MISC",
+    "Contexte gauche": "l'id\u00e9e de libert\u00e9 (",
+    "Contexte droite": ". Fr., t.2"
+  },
+  "Entite95": {
+    "entite": "R\u00e9volution fran\u00e7aise",
+    "label": "MISC",
+    "Contexte gauche": "th\u00e9orie classique issue de la",
+    "Contexte droite": "] ,,Personne juridique"
+  },
+  "Entite96": {
+    "entite": "Personne juridique constitu\u00e9e",
+    "label": "MISC",
+    "Contexte gauche": "R\u00e9volution fran\u00e7aise] ,,",
+    "Contexte droite": "par l'ensemble des individus"
+  },
+  "Entite97": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "ensemble des individus composant l'",
+    "Contexte droite": ", mais distincte de ceux"
+  },
+  "Entite98": {
+    "entite": "Lamennais",
+    "label": "LOC",
+    "Contexte gauche": "de la nation enti\u00e8re (",
+    "Contexte droite": "dsL'Avenir,, 1831"
+  },
+  "Entite99": {
+    "entite": "p.277).Il",
+    "label": "PER",
+    "Contexte gauche": "Avenir,, 1831,",
+    "Contexte droite": "tordait dans sa main le"
+  },
+  "Entite100": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "un d\u00e9partement\u00bb (A.",
+    "Contexte droite": ",Lys rouge, 1894"
+  },
+  "Entite101": {
+    "entite": "Lys",
+    "label": "LOC",
+    "Contexte gauche": "\u00bb (A. France,",
+    "Contexte droite": "rouge, 1894, p.42).Dans"
+  },
+  "Entite102": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "r\u00e9alit\u00e9, distincte de l'",
+    "Contexte droite": "; elle lui est ant\u00e9rieure"
+  },
+  "Entite103": {
+    "entite": "L. Duguit",
+    "label": "PER",
+    "Contexte gauche": "elle lui est ant\u00e9rieure (",
+    "Contexte droite": ",Trait\u00e9 de dr."
+  },
+  "Entite104": {
+    "entite": "Trait\u00e9 de dr",
+    "label": "MISC",
+    "Contexte gauche": "ant\u00e9rieure (L. Duguit,",
+    "Contexte droite": ". constit., t.1"
+  },
+  "Entite105": {
+    "entite": "p.607 ds Rob",
+    "label": "PER",
+    "Contexte gauche": ", t.1, 1927,",
+    "Contexte droite": ".).\nPrononc"
+  },
+  "Entite106": {
+    "entite": "n\u0251-]. Martinet-Walter",
+    "label": "MISC",
+    "Contexte gauche": "nasj\u0254 \u0303], [",
+    "Contexte droite": "1973 [-a-],"
+  },
+  "Entite107": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "). \u00c9tymol. et",
+    "Contexte droite": ". 1. a)"
+  },
+  "Entite108": {
+    "entite": "juifs",
+    "label": "MISC",
+    "Contexte gauche": ", p. oppos. aux",
+    "Contexte droite": "(dans la Bible)"
+  },
+  "Entite109": {
+    "entite": "Bible",
+    "label": "MISC",
+    "Contexte gauche": "aux juifs (dans la",
+    "Contexte droite": ")\u00bb (Psautier Oxford"
+  },
+  "Entite110": {
+    "entite": "Psautier Oxford",
+    "label": "ORG",
+    "Contexte gauche": "la Bible)\u00bb (",
+    "Contexte droite": ", \u00e9d. F. Michel"
+  },
+  "Entite111": {
+    "entite": "[=",
+    "label": "MISC",
+    "Contexte gauche": "ps. 109, 7",
+    "Contexte droite": "110, 6],"
+  },
+  "Entite112": {
+    "entite": "Chronique Ducs Normandie",
+    "label": "MISC",
+    "Contexte gauche": "culture, etc.\u00bb (",
+    "Contexte droite": ", \u00e9d. C. Fahlin"
+  },
+  "Entite113": {
+    "entite": "C. Fahlin",
+    "label": "PER",
+    "Contexte gauche": "Ducs Normandie, \u00e9d.",
+    "Contexte droite": ", 11969); 2"
+  },
+  "Entite114": {
+    "entite": "universit\u00e9 de Paris\u00bb",
+    "label": "ORG",
+    "Contexte gauche": "nation \u00abdivision de l'",
+    "Contexte droite": "(Georges Chastellain, Chron"
+  },
+  "Entite115": {
+    "entite": "Georges Chastellain",
+    "label": "PER",
+    "Contexte gauche": "universit\u00e9 de Paris\u00bb (",
+    "Contexte droite": ", Chron., \u00e9d"
+  },
+  "Entite116": {
+    "entite": "J. Kervyn de Lettenhove",
+    "label": "PER",
+    "Contexte gauche": "Chron., \u00e9d.",
+    "Contexte droite": ", t.1, p.347:"
+  },
+  "Entite117": {
+    "entite": "Id.",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9tranger, colonie\u00bb (",
+    "Contexte droite": ", ibid., t.2"
+  },
+  "Entite118": {
+    "entite": "Bruges",
+    "label": "LOC",
+    "Contexte gauche": "marchans de la ville de",
+    "Contexte droite": "); c) 1765"
+  },
+  "Entite119": {
+    "entite": "ordre de Malte\u00bb",
+    "label": "ORG",
+    "Contexte gauche": "\u00abdivision territoriale de l'",
+    "Contexte droite": "(Encyclop. t.9,"
+  },
+  "Entite120": {
+    "entite": "Roman com",
+    "label": "ORG",
+    "Contexte gauche": "engeance\u00bb (Scarron,",
+    "Contexte droite": "., \u00e9d. E."
+  },
+  "Entite121": {
+    "entite": "E. Magne",
+    "label": "PER",
+    "Contexte gauche": "com., \u00e9d.",
+    "Contexte droite": ", p.25: [les"
+  },
+  "Entite122": {
+    "entite": "La Fontaine",
+    "label": "PER",
+    "Contexte gauche": "\u00abesp\u00e8ce animale\u00bb (",
+    "Contexte droite": ", Fables, IV,"
+  },
+  "Entite123": {
+    "entite": "IV",
+    "label": "LOC",
+    "Contexte gauche": "La Fontaine, Fables,",
+    "Contexte droite": ", 6); 4"
+  },
+  "Entite124": {
+    "entite": "R\u00e9volution",
+    "label": "MISC",
+    "Contexte gauche": ") 1789 dep. la",
+    "Contexte droite": ": \u00abpersonne juridique constitu\u00e9e"
+  },
+  "Entite125": {
+    "entite": "Arr\u00eat\u00e9",
+    "label": "LOC",
+    "Contexte gauche": ". 1936)\u00bb (",
+    "Contexte droite": "du 23 juil. ds"
+  },
+  "Entite126": {
+    "entite": "ds R\u00e9impr",
+    "label": "PER",
+    "Contexte gauche": "Arr\u00eat\u00e9 du 23 juil.",
+    "Contexte droite": ". de l'anc."
+  },
+  "Entite127": {
+    "entite": "Moniteur",
+    "label": "LOC",
+    "Contexte gauche": ". de l'anc.",
+    "Contexte droite": ", t.I, p.197b"
+  },
+  "Entite128": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "anc. Moniteur, t.",
+    "Contexte droite": ", p.197b ds Ranft,"
+  },
+  "Entite129": {
+    "entite": "Ranft",
+    "label": "LOC",
+    "Contexte gauche": "t.I, p.197b ds",
+    "Contexte droite": ", p.99: crime de"
+  },
+  "Entite130": {
+    "entite": "Gde Encyclop",
+    "label": "PER",
+    "Contexte gauche": "nation la plus favoris\u00e9e (",
+    "Contexte droite": ".). Empr."
+  },
+  "Entite131": {
+    "entite": "natio",
+    "label": "MISC",
+    "Contexte gauche": "Empr. au lat.",
+    "Contexte droite": "(d\u00e9r. de nasci"
+  },
+  "Entite132": {
+    "entite": "nationes",
+    "label": "LOC",
+    "Contexte gauche": ", lat. chr\u00e9t.",
+    "Contexte droite": "plur. \u00ables nations"
+  },
+  "Entite133": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "p.oppos. au peuple de",
+    "Contexte droite": ")\u00bb, lat."
+  },
+  "Entite134": {
+    "entite": "ds Nierm",
+    "label": "PER",
+    "Contexte gauche": "sens 2 a (1245",
+    "Contexte droite": ".). Fr\u00e9q."
+  },
+  "Entite135": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r.:",
+    "Contexte droite": ".: a) 26999"
+  },
+  "Entite136": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": ", b) 7144;",
+    "Contexte droite": ".: a) 6332"
+  },
+  "Entite137": {
+    "entite": "Peuple",
+    "label": "LOC",
+    "Contexte gauche": "Eskenazi (A.).",
+    "Contexte droite": "et nation ds l'Esprit"
+  },
+  "Entite138": {
+    "entite": "Esprit",
+    "label": "ORG",
+    "Contexte gauche": "Peuple et nation ds l'",
+    "Contexte droite": "des lois. \u00c9t."
+  },
+  "Entite139": {
+    "entite": "Merk",
+    "label": "ORG",
+    "Contexte gauche": "pp.41-45. _",
+    "Contexte droite": "(G.). L'"
+  },
+  "Entite140": {
+    "entite": "Race",
+    "label": "MISC",
+    "Contexte gauche": ". L'\u00c9tymol. de",
+    "Contexte droite": ". Rapp. entre generatio"
+  },
+  "Entite141": {
+    "entite": "Strasbourg",
+    "label": "LOC",
+    "Contexte gauche": ". Ling. Litt.",
+    "Contexte droite": ". 1969, t.7,"
+  },
+  "Entite142": {
+    "entite": "Muller",
+    "label": "PER",
+    "Contexte gauche": "pp.177-188. _",
+    "Contexte droite": "(Fr. W.)"
+  },
+  "Entite143": {
+    "entite": "Zur Geschichte des Wortes und Begriffes",
+    "label": "PER",
+    "Contexte gauche": "Fr. W.).",
+    "Contexte droite": "\u00abnation\u00bb im frz"
+  },
+  "Entite144": {
+    "entite": "Forsch",
+    "label": "PER",
+    "Contexte gauche": "im frz... Rom.",
+    "Contexte droite": ". 1947, t.58-"
+  },
+  "Entite145": {
+    "entite": "t.58-59",
+    "label": "LOC",
+    "Contexte gauche": ". Forsch. 1947,",
+    "Contexte droite": ", pp.247-321."
+  },
+  "Entite146": {
+    "entite": "pp.247-321",
+    "label": "MISC",
+    "Contexte gauche": ", t.58-59,",
+    "Contexte droite": ". _Quem. DDL"
+  },
+  "Entite147": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "321. _Quem.",
+    "Contexte droite": "t.11, 14. _"
+  },
+  "Entite148": {
+    "entite": "Rabotin",
+    "label": "PER",
+    "Contexte gauche": "t.11, 14. _",
+    "Contexte droite": "(M.). Le"
+  },
+  "Entite149": {
+    "entite": "Montr\u00e9al",
+    "label": "LOC",
+    "Contexte gauche": "pol. et socio-ethnique \u00e0",
+    "Contexte droite": "de 1829 \u00e0 1842."
+  },
+  "Entite150": {
+    "entite": "Contributo",
+    "label": "PER",
+    "Contexte gauche": ".). Nationalisme.",
+    "Contexte droite": "linguistico. Contributo storico-"
+  },
+  "Entite151": {
+    "entite": "Contributo storico-letterario",
+    "label": "PER",
+    "Contexte gauche": "Nationalisme. Contributo linguistico.",
+    "Contexte droite": ". G\u00eanes, 1984,"
+  },
+  "Entite152": {
+    "entite": "G\u00eanes",
+    "label": "LOC",
+    "Contexte gauche": "Contributo storico-letterario.",
+    "Contexte droite": ", 1984, pp.23-"
+  },
+  "Entite153": {
+    "entite": "pp.23-45",
+    "label": "LOC",
+    "Contexte gauche": ". G\u00eanes, 1984,",
+    "Contexte droite": ". _Vardar Soc."
+  },
+  "Entite154": {
+    "entite": "Vardar Soc",
+    "label": "PER",
+    "Contexte gauche": "pp.23-45. _",
+    "Contexte droite": ". pol. 1973 ["
+  }
+}

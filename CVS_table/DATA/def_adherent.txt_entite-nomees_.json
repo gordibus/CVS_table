@@ -1,0 +1,686 @@
+{
+  "Entite0": {
+    "entite": "- Adh\u00e8rent",
+    "label": "ORG",
+    "Contexte gauche": "",
+    "Contexte droite": ", -ente, adj."
+  },
+  "Entite1": {
+    "entite": "adj.",
+    "label": "ORG",
+    "Contexte gauche": "- Adh\u00e8rent, -ente,",
+    "Contexte droite": "et subst. \nI.\u2212"
+  },
+  "Entite2": {
+    "entite": "A.\u2212",
+    "label": "PER",
+    "Contexte gauche": "I.\u2212 Emploi adj.\n",
+    "Contexte droite": "[En parlant d'une"
+  },
+  "Entite3": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": ". (Cf. adh\u00e9rer",
+    "Contexte droite": ").\n1."
+  },
+  "Entite4": {
+    "entite": "Voyage de La P\u00e9rouse",
+    "label": "MISC",
+    "Contexte gauche": "les en d\u00e9tacher; ...",
+    "Contexte droite": "autour du monde,t."
+  },
+  "Entite5": {
+    "entite": "R. Martin du Gard",
+    "label": "PER",
+    "Contexte gauche": "Le jour \u00e9tait lev\u00e9.",
+    "Contexte droite": ", Les Thibault,La"
+  },
+  "Entite6": {
+    "entite": "Les Thibault",
+    "label": "PER",
+    "Contexte gauche": "R. Martin du Gard,",
+    "Contexte droite": ",La Sorellina, 1928"
+  },
+  "Entite7": {
+    "entite": "La Sorellina",
+    "label": "PER",
+    "Contexte gauche": "Gard, Les Thibault,",
+    "Contexte droite": ", 1928, p. 1197"
+  },
+  "Entite8": {
+    "entite": "\u00c7a",
+    "label": "MISC",
+    "Contexte gauche": "moi sur la t\u00eate...",
+    "Contexte droite": "se d\u00e9tachait pas du tout"
+  },
+  "Entite9": {
+    "entite": "L.-F. C\u00e9line",
+    "label": "PER",
+    "Contexte gauche": "adh\u00e9rent bien de trop...",
+    "Contexte droite": ", Mort \u00e0 cr\u00e9dit,1936,"
+  },
+  "Entite10": {
+    "entite": "Mort \u00e0 cr\u00e9dit,1936, p. 633",
+    "label": "MISC",
+    "Contexte gauche": "trop... L.-F. C\u00e9line,",
+    "Contexte droite": ".\n2. Emplois"
+  },
+  "Entite11": {
+    "entite": "Emplois",
+    "label": "LOC",
+    "Contexte gauche": "633.\n2.",
+    "Contexte droite": "sp\u00e9c.\na)"
+  },
+  "Entite12": {
+    "entite": "G. Cuvier",
+    "label": "PER",
+    "Contexte gauche": "peut l'en s\u00e9parer.",
+    "Contexte droite": ", Le\u00e7ons d'anatomie compar\u00e9e"
+  },
+  "Entite13": {
+    "entite": "Le\u00e7ons d'anatomie",
+    "label": "MISC",
+    "Contexte gauche": "s\u00e9parer. G. Cuvier,",
+    "Contexte droite": "compar\u00e9e,t. 2,"
+  },
+  "Entite14": {
+    "entite": "Kulix",
+    "label": "MISC",
+    "Contexte gauche": ", ainsi nomm\u00e9 du grec",
+    "Contexte droite": ", coupe, quoiqu'il"
+  },
+  "Entite15": {
+    "entite": "J.-H. Bernardin",
+    "label": "PER",
+    "Contexte gauche": "adh\u00e9rent \u00e0 l'ovaire.",
+    "Contexte droite": "de Saint-Pierre, Harmonies de"
+  },
+  "Entite16": {
+    "entite": "Saint-Pierre",
+    "label": "PER",
+    "Contexte gauche": "ovaire. J.-H. Bernardin de",
+    "Contexte droite": ", Harmonies de la nature,1814"
+  },
+  "Entite17": {
+    "entite": "Harmonies de la nature,1814, p. 324",
+    "label": "MISC",
+    "Contexte gauche": "J.-H. Bernardin de Saint-Pierre,",
+    "Contexte droite": ".\n6. La"
+  },
+  "Entite18": {
+    "entite": "S. de La Madelaine",
+    "label": "PER",
+    "Contexte gauche": "par sa partie moyenne ...",
+    "Contexte droite": ", Th\u00e9ories compl\u00e8tes du chant,1852"
+  },
+  "Entite19": {
+    "entite": "Th\u00e9ories",
+    "label": "LOC",
+    "Contexte gauche": "S. de La Madelaine,",
+    "Contexte droite": "compl\u00e8tes du chant,1852, p."
+  },
+  "Entite20": {
+    "entite": "E.-A. Carri\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "avec l'ovaire, etc.",
+    "Contexte droite": ", Encyclop\u00e9die horticole,1862, p."
+  },
+  "Entite21": {
+    "entite": "Encyclop\u00e9die",
+    "label": "MISC",
+    "Contexte gauche": ", etc. E.-A. Carri\u00e8re,",
+    "Contexte droite": "horticole,1862, p. 7."
+  },
+  "Entite22": {
+    "entite": "Locomotives",
+    "label": "LOC",
+    "Contexte gauche": "poids adh\u00e9rent. Herdner,",
+    "Contexte droite": ",p. 40.\n"
+  },
+  "Entite23": {
+    "entite": "MUSIQUE",
+    "label": "MISC",
+    "Contexte gauche": "40.\nc)",
+    "Contexte droite": ":\n9. Simoutre"
+  },
+  "Entite24": {
+    "entite": "Simoutre",
+    "label": "PER",
+    "Contexte gauche": "MUSIQUE :\n9.",
+    "Contexte droite": "(Nicolas-Eug\u00e8ne)"
+  },
+  "Entite25": {
+    "entite": "Nicolas-Eug\u00e8ne",
+    "label": "PER",
+    "Contexte gauche": "\n9. Simoutre (",
+    "Contexte droite": ") [Luthier] ("
+  },
+  "Entite26": {
+    "entite": "Luthier]",
+    "label": "MISC",
+    "Contexte gauche": "Nicolas-Eug\u00e8ne) [",
+    "Contexte droite": "(...) est l'"
+  },
+  "Entite27": {
+    "entite": "L. Grillet",
+    "label": "PER",
+    "Contexte gauche": "la sonorit\u00e9 [du violon].",
+    "Contexte droite": ", Les Anc\u00eatres du violon"
+  },
+  "Entite28": {
+    "entite": "Les Anc\u00eatres du violon",
+    "label": "MISC",
+    "Contexte gauche": "du violon]. L. Grillet,",
+    "Contexte droite": ",t. 2, 1901"
+  },
+  "Entite29": {
+    "entite": "G. Schmitt",
+    "label": "PER",
+    "Contexte gauche": "s'entendre jouer \u00bb.",
+    "Contexte droite": ", C. Simon, Nouveau"
+  },
+  "Entite30": {
+    "entite": "C. Simon",
+    "label": "PER",
+    "Contexte gauche": "\u00bb. G. Schmitt,",
+    "Contexte droite": ", Nouveau manuel complet de"
+  },
+  "Entite31": {
+    "entite": "Nouveau manuel complet de l'",
+    "label": "ORG",
+    "Contexte gauche": "Schmitt, C. Simon,",
+    "Contexte droite": "organiste(encyclop\u00e9die Roret), 1905"
+  },
+  "Entite32": {
+    "entite": "cardinal d'Amiens",
+    "label": "PER",
+    "Contexte gauche": ":\n11. Le",
+    "Contexte droite": "prit la parole et dit"
+  },
+  "Entite33": {
+    "entite": "Mes chers Seigneurs",
+    "label": "MISC",
+    "Contexte gauche": "parole et dit : \u00ab",
+    "Contexte droite": ", il nous faudra,"
+  },
+  "Entite34": {
+    "entite": "de France",
+    "label": "LOC",
+    "Contexte gauche": "gr\u00e9, ob\u00e9ir aux rois",
+    "Contexte droite": "et d'Allemagne, puisque"
+  },
+  "Entite35": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": "rois de France et d'",
+    "Contexte droite": ", puisque les voil\u00e0 adh\u00e9rens"
+  },
+  "Entite36": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "; ... \u00bb P. de",
+    "Contexte droite": ", Hist. des ducs"
+  },
+  "Entite37": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "\u00bb P. de Barante,",
+    "Contexte droite": ". des ducs de Bourgogne"
+  },
+  "Entite38": {
+    "entite": "ducs de",
+    "label": "LOC",
+    "Contexte gauche": "Barante, Hist. des",
+    "Contexte droite": "Bourgogne,t. 2,"
+  },
+  "Entite39": {
+    "entite": "V. Hugo",
+    "label": "PER",
+    "Contexte gauche": "il n'est attendu?",
+    "Contexte droite": ", Le Rhin,pr\u00e9f"
+  },
+  "Entite40": {
+    "entite": "Le Rhin,pr\u00e9f",
+    "label": "MISC",
+    "Contexte gauche": "attendu? V. Hugo,",
+    "Contexte droite": "., 1842, p."
+  },
+  "Entite41": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "etc.) (cf. adh\u00e9rer",
+    "Contexte droite": ") :\n13."
+  },
+  "Entite42": {
+    "entite": "Pr\u00e9vost",
+    "label": "PER",
+    "Contexte gauche": "voiture qui l'emmenait chez",
+    "Contexte droite": "il n'\u00e9tait plus le"
+  },
+  "Entite43": {
+    "entite": "Proust",
+    "label": "PER",
+    "Contexte gauche": "paraissait plus int\u00e9ressante. M.",
+    "Contexte droite": ", \u00c0 la recherche du"
+  },
+  "Entite44": {
+    "entite": "\u00c0 la recherche du temps perdu",
+    "label": "MISC",
+    "Contexte gauche": "int\u00e9ressante. M. Proust,",
+    "Contexte droite": ",Du c\u00f4t\u00e9 de chez"
+  },
+  "Entite45": {
+    "entite": "Swann",
+    "label": "PER",
+    "Contexte gauche": ",Du c\u00f4t\u00e9 de chez",
+    "Contexte droite": ", 1913, pp. 228"
+  },
+  "Entite46": {
+    "entite": "Proust",
+    "label": "PER",
+    "Contexte gauche": "emporter la peau. M.",
+    "Contexte droite": ", \u00c0 la recherche du"
+  },
+  "Entite47": {
+    "entite": "\u00c0 la recherche du temps perdu",
+    "label": "MISC",
+    "Contexte gauche": "peau. M. Proust,",
+    "Contexte droite": ",La Prisonni\u00e8re, 1922"
+  },
+  "Entite48": {
+    "entite": "La Prisonni\u00e8re, 1922",
+    "label": "MISC",
+    "Contexte gauche": "recherche du temps perdu,",
+    "Contexte droite": ", pp. 149-150"
+  },
+  "Entite49": {
+    "entite": "II.\u2212",
+    "label": "MISC",
+    "Contexte gauche": "149-150.\n",
+    "Contexte droite": "Emploi subst. [G\u00e9n"
+  },
+  "Entite50": {
+    "entite": "A.\u2212 Personne(s",
+    "label": "PER",
+    "Contexte gauche": "au plur.]\n",
+    "Contexte droite": ") que lient des int\u00e9r\u00eats"
+  },
+  "Entite51": {
+    "entite": "V. Hugo",
+    "label": "PER",
+    "Contexte gauche": "famille; et alors ...",
+    "Contexte droite": ", Le Dernier jour d'"
+  },
+  "Entite52": {
+    "entite": "Le Dernier jour d'un",
+    "label": "MISC",
+    "Contexte gauche": "alors ... V. Hugo,",
+    "Contexte droite": "condamn\u00e9,1829, p. 18."
+  },
+  "Entite53": {
+    "entite": "Grassins",
+    "label": "MISC",
+    "Contexte gauche": "\n16. Monsieur des",
+    "Contexte droite": "le banquier favorisait vigoureusement les"
+  },
+  "Entite54": {
+    "entite": "Grassins",
+    "label": "LOC",
+    "Contexte gauche": "bataille. Ces trois des",
+    "Contexte droite": "avaient \u00e9galement leurs adh\u00e9rents,"
+  },
+  "Entite55": {
+    "entite": "H. de Balzac",
+    "label": "PER",
+    "Contexte gauche": ", leurs alli\u00e9s fid\u00e8les.",
+    "Contexte droite": ", Eug\u00e9nie Grandet,1834, p."
+  },
+  "Entite56": {
+    "entite": "Eug\u00e9nie Grandet,1834",
+    "label": "PER",
+    "Contexte gauche": ". H. de Balzac,",
+    "Contexte droite": ", p. 22.\n"
+  },
+  "Entite57": {
+    "entite": "A. Comte",
+    "label": "PER",
+    "Contexte gauche": "adversaires que d'adh\u00e9rents.",
+    "Contexte droite": ", Cat\u00e9chisme positiviste,1852, p."
+  },
+  "Entite58": {
+    "entite": "Cat\u00e9chisme",
+    "label": "PER",
+    "Contexte gauche": "adh\u00e9rents. A. Comte,",
+    "Contexte droite": "positiviste,1852, p. 41."
+  },
+  "Entite59": {
+    "entite": "Port-Royal",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9vots ou des d\u00e9votes \u00e0",
+    "Contexte droite": ", des m\u00e8res de l'"
+  },
+  "Entite60": {
+    "entite": "Port-Royal",
+    "label": "LOC",
+    "Contexte gauche": ";... Ch.-A. Sainte-Beuve,",
+    "Contexte droite": ",t. 4, 1859"
+  },
+  "Entite61": {
+    "entite": "B.\u2212 Sp\u00e9c",
+    "label": "MISC",
+    "Contexte gauche": ", p. 409.\n",
+    "Contexte droite": ". Membre d'une association"
+  },
+  "Entite62": {
+    "entite": "G. Sand",
+    "label": "PER",
+    "Contexte gauche": "\u00e9tait une v\u00e9ritable f\u00eate.",
+    "Contexte droite": ", Histoire de ma vie"
+  },
+  "Entite63": {
+    "entite": "Histoire de ma vie",
+    "label": "MISC",
+    "Contexte gauche": "f\u00eate. G. Sand,",
+    "Contexte droite": ",t. 3, 1855"
+  },
+  "Entite64": {
+    "entite": "Douze",
+    "label": "LOC",
+    "Contexte gauche": ".\n20. \u00ab",
+    "Contexte droite": "millions peut-\u00eatre, mais dont"
+  },
+  "Entite65": {
+    "entite": "R. Martin du Gard",
+    "label": "PER",
+    "Contexte gauche": ", actifs?... \u00bb",
+    "Contexte droite": ", Les Thibault,L'"
+  },
+  "Entite66": {
+    "entite": "Les Thibault",
+    "label": "MISC",
+    "Contexte gauche": "R. Martin du Gard,",
+    "Contexte droite": ",L'\u00e9t\u00e9 1914,"
+  },
+  "Entite67": {
+    "entite": "II A",
+    "label": "MISC",
+    "Contexte gauche": "\nRem. Le sens",
+    "Contexte droite": "semble en net recul devant"
+  },
+  "Entite68": {
+    "entite": "II B.\nPrononc",
+    "label": "MISC",
+    "Contexte gauche": "net recul devant le sens",
+    "Contexte droite": ". \u2212 1. Forme"
+  },
+  "Entite69": {
+    "entite": "\u0303:t]. Enq",
+    "label": "ORG",
+    "Contexte gauche": ", f\u00e9m. [-\u0251",
+    "Contexte droite": ". : /ade\u0280a\u0303, -t/."
+  },
+  "Entite70": {
+    "entite": "Quillet 1965) adh\u00e9sif, adh\u00e9sion, adh\u00e9sionnel, adh\u00e9sivit\u00e9, inadh\u00e9rent",
+    "label": "MISC",
+    "Contexte gauche": "adh\u00e9rer, adh\u00e9riser (cf.",
+    "Contexte droite": ".\n\u00c9tymol. ET"
+  },
+  "Entite71": {
+    "entite": "I.\u2212 Subst",
+    "label": "PER",
+    "Contexte gauche": "\u00c9tymol. ET HIST.",
+    "Contexte droite": ". 1. 1331 \u00ab"
+  },
+  "Entite72": {
+    "entite": "Relations",
+    "label": "LOC",
+    "Contexte gauche": "qqn \u00bb (Finot,",
+    "Contexte droite": "commerciales entre la France et"
+  },
+  "Entite73": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": ", Relations commerciales entre la",
+    "Contexte droite": "et la Flandre, 353"
+  },
+  "Entite74": {
+    "entite": "Flandre",
+    "label": "LOC",
+    "Contexte gauche": "entre la France et la",
+    "Contexte droite": ", 353 ds Quem."
+  },
+  "Entite75": {
+    "entite": "Quem",
+    "label": "LOC",
+    "Contexte gauche": "la Flandre, 353 ds",
+    "Contexte droite": ". t. 1 1959 :"
+  },
+  "Entite76": {
+    "entite": "Ceulx",
+    "label": "PER",
+    "Contexte gauche": ". t. 1 1959 :",
+    "Contexte droite": "qui aus dis bourgeois,"
+  },
+  "Entite77": {
+    "entite": "Archives",
+    "label": "LOC",
+    "Contexte gauche": ") \u00bb (Varin,",
+    "Contexte droite": "adm. de Reims,"
+  },
+  "Entite78": {
+    "entite": "Reims",
+    "label": "LOC",
+    "Contexte gauche": ", Archives adm. de",
+    "Contexte droite": ", II, 1021 ds"
+  },
+  "Entite79": {
+    "entite": "II",
+    "label": "LOC",
+    "Contexte gauche": "adm. de Reims,",
+    "Contexte droite": ", 1021 ds DG :"
+  },
+  "Entite80": {
+    "entite": "ds DG",
+    "label": "MISC",
+    "Contexte gauche": "Reims, II, 1021",
+    "Contexte droite": ": Leurs complices... et"
+  },
+  "Entite81": {
+    "entite": "Froissart",
+    "label": "PER",
+    "Contexte gauche": "li\u00e9, sujet \u00bb (",
+    "Contexte droite": ", Chron. V,"
+  },
+  "Entite82": {
+    "entite": "II.\u2212",
+    "label": "MISC",
+    "Contexte gauche": ".II. ans).",
+    "Contexte droite": "Adj. 1680, Rich"
+  },
+  "Entite83": {
+    "entite": "Rich",
+    "label": "PER",
+    "Contexte gauche": "II.\u2212 Adj. 1680,",
+    "Contexte droite": ". t. 1 : Adh\u00e9rent"
+  },
+  "Entite84": {
+    "entite": "Draperie",
+    "label": "LOC",
+    "Contexte gauche": ". Qui tient fort [",
+    "Contexte droite": "adh\u00e9rante, mati\u00e8re adh\u00e9rante]. Empr"
+  },
+  "Entite85": {
+    "entite": "Empr",
+    "label": "MISC",
+    "Contexte gauche": "Draperie adh\u00e9rante, mati\u00e8re adh\u00e9rante].",
+    "Contexte droite": ". au lat. m\u00e9di\u00e9v"
+  },
+  "Entite86": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "-1280 Const.,",
+    "Contexte droite": ", 161, 6 ds"
+  },
+  "Entite87": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "II, 161, 6",
+    "Contexte droite": "Mittellat. W. s.v."
+  },
+  "Entite88": {
+    "entite": "W. s.v",
+    "label": "PER",
+    "Contexte gauche": ", 6 ds Mittellat.",
+    "Contexte droite": ". : fiat restitutio..."
+  },
+  "Entite89": {
+    "entite": "fiat",
+    "label": "ORG",
+    "Contexte gauche": ". W. s.v. :",
+    "Contexte droite": "restitutio... adherentibus domno imperatori"
+  },
+  "Entite90": {
+    "entite": "adherentibus",
+    "label": "LOC",
+    "Contexte gauche": ". : fiat restitutio...",
+    "Contexte droite": "domno imperatori... et adherentibus"
+  },
+  "Entite91": {
+    "entite": "adherentibus eis",
+    "label": "PER",
+    "Contexte gauche": "adherentibus domno imperatori... et",
+    "Contexte droite": "(Lombardis) a domno"
+  },
+  "Entite92": {
+    "entite": "adherentibus",
+    "label": "LOC",
+    "Contexte gauche": "a domno imperatore vel ab",
+    "Contexte droite": "ei (cf. avec I"
+  },
+  "Entite93": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "adherentibus ei (cf. avec",
+    "Contexte droite": "2) et de \u00ab"
+  },
+  "Entite94": {
+    "entite": "Thangmar",
+    "label": "LOC",
+    "Contexte gauche": "\u00bb : 950-1024",
+    "Contexte droite": ", Vita Bernwardi, 6"
+  },
+  "Entite95": {
+    "entite": "Vita Bernwardi",
+    "label": "PER",
+    "Contexte gauche": "950-1024 Thangmar,",
+    "Contexte droite": ", 6, ibid."
+  },
+  "Entite96": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "ibid. (cf. avec",
+    "Contexte droite": "3); Il n'"
+  },
+  "Entite97": {
+    "entite": "STAT",
+    "label": "ORG",
+    "Contexte gauche": "lat. m\u00e9di\u00e9v.\n",
+    "Contexte droite": ". \u2212 Fr\u00e9q. abs"
+  },
+  "Entite98": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt. :",
+    "Contexte droite": ". : a) 503"
+  },
+  "Entite99": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": ", b) 293;",
+    "Contexte droite": ". : a) 183"
+  },
+  "Entite100": {
+    "entite": "BBG",
+    "label": "ORG",
+    "Contexte gauche": "b) 289.\n",
+    "Contexte droite": ". \u2212 Bailly (R."
+  },
+  "Entite101": {
+    "entite": "\u2212 Bailly",
+    "label": "PER",
+    "Contexte gauche": "289.\nBBG.",
+    "Contexte droite": "(R.) 1969."
+  },
+  "Entite102": {
+    "entite": "Bar",
+    "label": "LOC",
+    "Contexte gauche": "R.) 1969. \u2212",
+    "Contexte droite": "1960. \u2212 Barb.-Card."
+  },
+  "Entite103": {
+    "entite": "B\u00e9l",
+    "label": "LOC",
+    "Contexte gauche": "Barb.-Card. 1963. \u2212",
+    "Contexte droite": ". 1957. \u2212 B\u00e9nac"
+  },
+  "Entite104": {
+    "entite": "B\u00e9nac",
+    "label": "LOC",
+    "Contexte gauche": "B\u00e9l. 1957. \u2212",
+    "Contexte droite": "1956. \u2212 Bonnaire 1835"
+  },
+  "Entite105": {
+    "entite": "Bonnaire 1835",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 B\u00e9nac 1956. \u2212",
+    "Contexte droite": ". \u2212 Chamb. 1970"
+  },
+  "Entite106": {
+    "entite": "\u2212 Chamb",
+    "label": "PER",
+    "Contexte gauche": ". \u2212 Bonnaire 1835.",
+    "Contexte droite": ". 1970. \u2212 Guizot"
+  },
+  "Entite107": {
+    "entite": "Guizot",
+    "label": "PER",
+    "Contexte gauche": "Chamb. 1970. \u2212",
+    "Contexte droite": "1864. \u2212 Laf."
+  },
+  "Entite108": {
+    "entite": "Lav",
+    "label": "MISC",
+    "Contexte gauche": "Suppl. 1878. \u2212",
+    "Contexte droite": ". Diffic. 1846."
+  },
+  "Entite109": {
+    "entite": "Marcel",
+    "label": "PER",
+    "Contexte gauche": "-Robin 1865. \u2212",
+    "Contexte droite": "1938. \u2212 Sardou 1877"
+  },
+  "Entite110": {
+    "entite": "Sardou",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 Marcel 1938. \u2212",
+    "Contexte droite": "1877. \u2212 Sommer 1882"
+  },
+  "Entite111": {
+    "entite": "Sommer",
+    "label": "PER",
+    "Contexte gauche": "\u2212 Sardou 1877. \u2212",
+    "Contexte droite": "1882. \u2212 Spr."
+  },
+  "Entite112": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": "Spr. 1967. \u2212",
+    "Contexte droite": ". 1818. \u2212 Vachek"
+  },
+  "Entite113": {
+    "entite": "Vachek",
+    "label": "PER",
+    "Contexte gauche": "Synon. 1818. \u2212",
+    "Contexte droite": "1960."
+  }
+}

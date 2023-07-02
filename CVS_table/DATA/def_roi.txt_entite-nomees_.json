@@ -1,0 +1,3506 @@
+{
+  "Entite0": {
+    "entite": "I.\n",
+    "label": "PER",
+    "Contexte gauche": "subst. masc. \n",
+    "Contexte droite": "A. \u2212\n1."
+  },
+  "Entite1": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "r\u00e8gne (politiquement).",
+    "Contexte droite": "absolu, l\u00e9gitime; jeune"
+  },
+  "Entite2": {
+    "entite": "David",
+    "label": "PER",
+    "Contexte gauche": "feu roi; le roi",
+    "Contexte droite": "; le roi d'Angleterre"
+  },
+  "Entite3": {
+    "entite": "S.M. l'empereur",
+    "label": "PER",
+    "Contexte gauche": "le roi d'Angleterre;",
+    "Contexte droite": "et roi; sacre d'"
+  },
+  "Entite4": {
+    "entite": "Belges",
+    "label": "LOC",
+    "Contexte gauche": "roi et la reine des",
+    "Contexte droite": "(Joffre, M\u00e9m."
+  },
+  "Entite5": {
+    "entite": "Joffre",
+    "label": "PER",
+    "Contexte gauche": "la reine des Belges (",
+    "Contexte droite": ", M\u00e9m., t."
+  },
+  "Entite6": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "n'est plus roi de",
+    "Contexte droite": ", mais, comme en"
+  },
+  "Entite7": {
+    "entite": "Fran\u00e7ais",
+    "label": "LOC",
+    "Contexte gauche": "1791, \u00ab roi des",
+    "Contexte droite": "\u00bb (Vedel, Dr."
+  },
+  "Entite8": {
+    "entite": "Dr.",
+    "label": "LOC",
+    "Contexte gauche": "Fran\u00e7ais \u00bb (Vedel,",
+    "Contexte droite": "constit., 1949,"
+  },
+  "Entite9": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "77).\n\u2666",
+    "Contexte droite": "constitutionnel. Roi exer\u00e7ant le"
+  },
+  "Entite10": {
+    "entite": "Tocqueville,",
+    "label": "MISC",
+    "Contexte gauche": "l'appui des bayonnettes (",
+    "Contexte droite": "Corresp.[avec Reeve], 1846"
+  },
+  "Entite11": {
+    "entite": "Corresp.[avec Reeve]",
+    "label": "MISC",
+    "Contexte gauche": "des bayonnettes (Tocqueville,",
+    "Contexte droite": ", 1846, p. 96"
+  },
+  "Entite12": {
+    "entite": "J. de Maistre",
+    "label": "PER",
+    "Contexte gauche": "cri de la nue (",
+    "Contexte droite": ", Soir\u00e9es St-P\u00e9tersb"
+  },
+  "Entite13": {
+    "entite": "Soir\u00e9es St-P\u00e9tersb",
+    "label": "LOC",
+    "Contexte gauche": "(J. de Maistre,",
+    "Contexte droite": "., t. 1,"
+  },
+  "Entite14": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "L'homme-roi est envoy\u00e9 de",
+    "Contexte droite": "pour le bien de l'"
+  },
+  "Entite15": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "pour le bien de l'",
+    "Contexte droite": "(Bonald, L\u00e9gisl."
+  },
+  "Entite16": {
+    "entite": "Bonald",
+    "label": "LOC",
+    "Contexte gauche": "bien de l'\u00c9tat (",
+    "Contexte droite": ", L\u00e9gisl. primit."
+  },
+  "Entite17": {
+    "entite": "L\u00e9gisl",
+    "label": "LOC",
+    "Contexte gauche": "l'\u00c9tat (Bonald,",
+    "Contexte droite": ". primit., t."
+  },
+  "Entite18": {
+    "entite": "Temple",
+    "label": "LOC",
+    "Contexte gauche": "enfant-roi mourut au",
+    "Contexte droite": ", le 20 prairial ("
+  },
+  "Entite19": {
+    "entite": "Lefebvre",
+    "label": "LOC",
+    "Contexte gauche": "(8 juin) (",
+    "Contexte droite": ", R\u00e9vol. fr."
+  },
+  "Entite20": {
+    "entite": "R\u00e9vol",
+    "label": "LOC",
+    "Contexte gauche": "juin) (Lefebvre,",
+    "Contexte droite": ". fr., 1963"
+  },
+  "Entite21": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": "(Lefebvre, R\u00e9vol.",
+    "Contexte droite": "., 1963, p."
+  },
+  "Entite22": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "]\n\u2212 [En",
+    "Contexte droite": "] Les rois fain\u00e9ants."
+  },
+  "Entite23": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ". V. fain\u00e9ant.Le",
+    "Contexte droite": "Tr\u00e8s(-)Chr\u00e9tien. V. chr\u00e9tien I"
+  },
+  "Entite24": {
+    "entite": "I A",
+    "label": "MISC",
+    "Contexte gauche": "Roi Tr\u00e8s(-)Chr\u00e9tien. V. chr\u00e9tien",
+    "Contexte droite": "hist.\n\u2666 Les"
+  },
+  "Entite25": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "...) donne raison \u00e0",
+    "Contexte droite": "Renan, en nous r\u00e9v\u00e9lant"
+  },
+  "Entite26": {
+    "entite": "Renan",
+    "label": "PER",
+    "Contexte gauche": ") donne raison \u00e0 M.",
+    "Contexte droite": ", en nous r\u00e9v\u00e9lant le"
+  },
+  "Entite27": {
+    "entite": "A. France",
+    "label": "PER",
+    "Contexte gauche": "existence des rois chevelus (",
+    "Contexte droite": ", Vie litt\u00e9r.,"
+  },
+  "Entite28": {
+    "entite": "Vie litt\u00e9r.",
+    "label": "MISC",
+    "Contexte gauche": "chevelus (A. France,",
+    "Contexte droite": ", 1888, p. 296"
+  },
+  "Entite29": {
+    "entite": "Louis XIV",
+    "label": "PER",
+    "Contexte gauche": ", le grand roi.",
+    "Contexte droite": ". Jusque sous le grand"
+  },
+  "Entite30": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ". Jusque sous le grand",
+    "Contexte droite": ", les po\u00e8tes \u00e0 perruques"
+  },
+  "Entite31": {
+    "entite": "Moli\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "perruques avaient leur franc-parler.",
+    "Contexte droite": "n'\u00e9pargnait rien. La"
+  },
+  "Entite32": {
+    "entite": "La Fontaine",
+    "label": "PER",
+    "Contexte gauche": "Moli\u00e8re n'\u00e9pargnait rien.",
+    "Contexte droite": "raillait tout (Rolland,"
+  },
+  "Entite33": {
+    "entite": "J.-Chr",
+    "label": "LOC",
+    "Contexte gauche": "raillait tout (Rolland,",
+    "Contexte droite": "., R\u00e9volte, 1907"
+  },
+  "Entite34": {
+    "entite": "M\u00e9moires [de Saint-Simon",
+    "label": "MISC",
+    "Contexte gauche": "525).L'\u00e9tonnante lumi\u00e8re que les",
+    "Contexte droite": "] nous ouvrent sur la"
+  },
+  "Entite35": {
+    "entite": "Roi Soleil",
+    "label": "PER",
+    "Contexte gauche": "seigneur \u00e0 la cour du",
+    "Contexte droite": "(M. Bloch, Apol"
+  },
+  "Entite36": {
+    "entite": "Bloch",
+    "label": "PER",
+    "Contexte gauche": "du Roi Soleil (M.",
+    "Contexte droite": ", Apol. pour hist"
+  },
+  "Entite37": {
+    "entite": "Apol",
+    "label": "LOC",
+    "Contexte gauche": "Soleil (M. Bloch,",
+    "Contexte droite": ". pour hist.,"
+  },
+  "Entite38": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "cachait ses gros sous (",
+    "Contexte droite": ", Ventre Paris, 1873"
+  },
+  "Entite39": {
+    "entite": "Ventre Paris",
+    "label": "MISC",
+    "Contexte gauche": "gros sous (Zola,",
+    "Contexte droite": ", 1873, p. 661).Lorsque"
+  },
+  "Entite40": {
+    "entite": "duc d'Orl\u00e9ans",
+    "label": "PER",
+    "Contexte gauche": "n'\u00e9tait encore que le",
+    "Contexte droite": "(Grandjean, Orf\u00e8vr."
+  },
+  "Entite41": {
+    "entite": "Grandjean",
+    "label": "LOC",
+    "Contexte gauche": "le duc d'Orl\u00e9ans (",
+    "Contexte droite": ", Orf\u00e8vr. XIXes."
+  },
+  "Entite42": {
+    "entite": "Orf\u00e8vr",
+    "label": "ORG",
+    "Contexte gauche": "d'Orl\u00e9ans (Grandjean,",
+    "Contexte droite": ". XIXes., 1962"
+  },
+  "Entite43": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "\n\u2666 Le roi de",
+    "Contexte droite": ". [Titre donn\u00e9 par"
+  },
+  "Entite44": {
+    "entite": "Napol\u00e9on",
+    "label": "MISC",
+    "Contexte gauche": ". [Titre donn\u00e9 par",
+    "Contexte droite": "Ier\u00e0 son fils] Napol\u00e9on"
+  },
+  "Entite45": {
+    "entite": "Napol\u00e9on II",
+    "label": "PER",
+    "Contexte gauche": "Napol\u00e9on Ier\u00e0 son fils]",
+    "Contexte droite": ", l'Aiglon. J'"
+  },
+  "Entite46": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "vu aussi le roi de",
+    "Contexte droite": "enfant dans les bras de"
+  },
+  "Entite47": {
+    "entite": "Sand, Hist",
+    "label": "MISC",
+    "Contexte gauche": "bras de sa nourrice (",
+    "Contexte droite": ". vie, t. 2"
+  },
+  "Entite48": {
+    "entite": "Le roi des",
+    "label": "PER",
+    "Contexte gauche": "l'\u00e9tranger]\n\u2666",
+    "Contexte droite": "rois. Agammemnon. ["
+  },
+  "Entite49": {
+    "entite": "Allemagne",
+    "label": "LOC",
+    "Contexte gauche": "des rois (Sta\u00ebl,",
+    "Contexte droite": ", t. 2, 1810"
+  },
+  "Entite50": {
+    "entite": "deus",
+    "label": "MISC",
+    "Contexte gauche": "des Perses. Principem dat",
+    "Contexte droite": "formoit tout le droit politique"
+  },
+  "Entite51": {
+    "entite": "Perse",
+    "label": "LOC",
+    "Contexte gauche": "le droit politique de la",
+    "Contexte droite": "(...). Cependant"
+  },
+  "Entite52": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "Cependant l'autorit\u00e9 du grand",
+    "Contexte droite": "n'\u00e9toit pas aussi absolue"
+  },
+  "Entite53": {
+    "entite": "Constantinople",
+    "label": "LOC",
+    "Contexte gauche": "que celle des sultans de",
+    "Contexte droite": "de nos jours (Chateaubr"
+  },
+  "Entite54": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "Constantinople de nos jours (",
+    "Contexte droite": "., Essai R\u00e9vol."
+  },
+  "Entite55": {
+    "entite": "Essai R\u00e9vol.",
+    "label": "MISC",
+    "Contexte gauche": "jours (Chateaubr.,",
+    "Contexte droite": ", t. 1, 1797"
+  },
+  "Entite56": {
+    "entite": "323).Ce",
+    "label": "LOC",
+    "Contexte gauche": "1, 1797, p.",
+    "Contexte droite": "n'est pas notre propos"
+  },
+  "Entite57": {
+    "entite": "Roi des Rois",
+    "label": "LOC",
+    "Contexte gauche": "bien l'image vari\u00e9e du",
+    "Contexte droite": "qui appara\u00eet sur les dariques"
+  },
+  "Entite58": {
+    "entite": "L'Hist.",
+    "label": "MISC",
+    "Contexte gauche": "sur les dariques perses (",
+    "Contexte droite": "et ses m\u00e9th.,"
+  },
+  "Entite59": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "358).\n\u2666",
+    "Contexte droite": "catholique. Le roi d'"
+  },
+  "Entite60": {
+    "entite": "roi d'Espagne",
+    "label": "LOC",
+    "Contexte gauche": "Le roi catholique. Le",
+    "Contexte droite": ". La plus grande puissance"
+  },
+  "Entite61": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "c'\u00e9tait sa flotte.",
+    "Contexte droite": "catholique, qui avait les"
+  },
+  "Entite62": {
+    "entite": "Rhin",
+    "label": "PER",
+    "Contexte gauche": "de mer (Hugo,",
+    "Contexte droite": ", 1842, p. 431"
+  },
+  "Entite63": {
+    "entite": "Ferdinand II d'Aragon",
+    "label": "PER",
+    "Contexte gauche": "la prise de Grenade]",
+    "Contexte droite": "et Isabelle de Castille."
+  },
+  "Entite64": {
+    "entite": "Isabelle de Castille",
+    "label": "PER",
+    "Contexte gauche": "Ferdinand II d'Aragon et",
+    "Contexte droite": ". Le fils de Jeanne"
+  },
+  "Entite65": {
+    "entite": "Jeanne La Folle",
+    "label": "PER",
+    "Contexte gauche": "Castille. Le fils de",
+    "Contexte droite": "et de Philippe Le Beau"
+  },
+  "Entite66": {
+    "entite": "Philippe Le Beau",
+    "label": "PER",
+    "Contexte gauche": "Jeanne La Folle et de",
+    "Contexte droite": ", h\u00e9ritier des rois catholiques"
+  },
+  "Entite67": {
+    "entite": "A. de Broglie",
+    "label": "PER",
+    "Contexte gauche": "saint-empire par son p\u00e8re (",
+    "Contexte droite": ", Diplom. et dr"
+  },
+  "Entite68": {
+    "entite": "Diplom",
+    "label": "PER",
+    "Contexte gauche": "(A. de Broglie,",
+    "Contexte droite": ". et dr. nouv"
+  },
+  "Entite69": {
+    "entite": "Roi des Romains",
+    "label": "PER",
+    "Contexte gauche": "252).\n\u2666",
+    "Contexte droite": ". Dans le Saint Empire"
+  },
+  "Entite70": {
+    "entite": "Saint Empire",
+    "label": "LOC",
+    "Contexte gauche": "des Romains. Dans le",
+    "Contexte droite": ", empereur \u00e9lu mais non"
+  },
+  "Entite71": {
+    "entite": "Romains",
+    "label": "LOC",
+    "Contexte gauche": "se laissa \u00e9lire roi des",
+    "Contexte droite": "\u00e0 la di\u00e8te de Francfort"
+  },
+  "Entite72": {
+    "entite": "di\u00e8te de Francfort",
+    "label": "MISC",
+    "Contexte gauche": "roi des Romains \u00e0 la",
+    "Contexte droite": "en 1246, et fut"
+  },
+  "Entite73": {
+    "entite": "Ste \u00c9lisabeth",
+    "label": "PER",
+    "Contexte gauche": "ann\u00e9e suivante (Montalembert,",
+    "Contexte droite": ", 1836, p. 328"
+  },
+  "Entite74": {
+    "entite": "David",
+    "label": "PER",
+    "Contexte gauche": ". Roi-proph\u00e8te.",
+    "Contexte droite": "ou Salomon. Les autres"
+  },
+  "Entite75": {
+    "entite": "Salomon",
+    "label": "PER",
+    "Contexte gauche": "-proph\u00e8te. David ou",
+    "Contexte droite": ". Les autres [des"
+  },
+  "Entite76": {
+    "entite": "Religieux",
+    "label": "LOC",
+    "Contexte gauche": ". Les autres [des",
+    "Contexte droite": "] r\u00e9p\u00e9toient, dans un"
+  },
+  "Entite77": {
+    "entite": "Job",
+    "label": "PER",
+    "Contexte gauche": ", ou les soupirs de",
+    "Contexte droite": ", ou les plaintes de"
+  },
+  "Entite78": {
+    "entite": "J\u00e9r\u00e9mie",
+    "label": "PER",
+    "Contexte gauche": ", ou les plaintes de",
+    "Contexte droite": ", ou les p\u00e9nitences du"
+  },
+  "Entite79": {
+    "entite": "\u0152uvres compl.",
+    "label": "MISC",
+    "Contexte gauche": "proph\u00e8te (Chateaubr.,",
+    "Contexte droite": ", t. 14, Lettre"
+  },
+  "Entite80": {
+    "entite": "Lettre",
+    "label": "PER",
+    "Contexte gauche": "., t. 14,",
+    "Contexte droite": "[\u00e0 M. de Fontanes"
+  },
+  "Entite81": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "14, Lettre [\u00e0",
+    "Contexte droite": "de Fontanes], Paris"
+  },
+  "Entite82": {
+    "entite": "Paris",
+    "label": "LOC",
+    "Contexte gauche": "M. de Fontanes],",
+    "Contexte droite": ", Ladvocat, 1827,"
+  },
+  "Entite83": {
+    "entite": "Ladvocat",
+    "label": "LOC",
+    "Contexte gauche": "Fontanes], Paris,",
+    "Contexte droite": ", 1827, p. 298).La"
+  },
+  "Entite84": {
+    "entite": "298).La",
+    "label": "MISC",
+    "Contexte gauche": "Ladvocat, 1827, p.",
+    "Contexte droite": "haute stature du Roi-"
+  },
+  "Entite85": {
+    "entite": "Roi-proph\u00e8te",
+    "label": "LOC",
+    "Contexte gauche": "p. 298).La haute stature du",
+    "Contexte droite": ", de l'\u00e9poux du"
+  },
+  "Entite86": {
+    "entite": "Cantique des Cantiques",
+    "label": "MISC",
+    "Contexte gauche": ", de l'\u00e9poux du",
+    "Contexte droite": "(Villiers de l'I.-A."
+  },
+  "Entite87": {
+    "entite": "Villiers de l'I.-A.",
+    "label": "PER",
+    "Contexte gauche": "du Cantique des Cantiques (",
+    "Contexte droite": ", Contes cruels, 1883"
+  },
+  "Entite88": {
+    "entite": "Contes cruels",
+    "label": "MISC",
+    "Contexte gauche": "Villiers de l'I.-A.,",
+    "Contexte droite": ", 1883, p. 401"
+  },
+  "Entite89": {
+    "entite": "JUD",
+    "label": "MISC",
+    "Contexte gauche": ").\nc)",
+    "Contexte droite": ". Livre(s) des Rois"
+  },
+  "Entite90": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "JUD. Livre(s) des",
+    "Contexte droite": ". Partie de l'Ancien"
+  },
+  "Entite91": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "Testament comprenant deux livres (",
+    "Contexte droite": "et II Rois) dans"
+  },
+  "Entite92": {
+    "entite": "II Rois",
+    "label": "LOC",
+    "Contexte gauche": "deux livres (I et",
+    "Contexte droite": ") dans le texte h\u00e9breu"
+  },
+  "Entite93": {
+    "entite": "histoire d'Isra\u00ebl",
+    "label": "MISC",
+    "Contexte gauche": "texte h\u00e9breu, racontant l'",
+    "Contexte droite": "et de ses rois,"
+  },
+  "Entite94": {
+    "entite": "Salomon",
+    "label": "LOC",
+    "Contexte gauche": "de ses rois, de",
+    "Contexte droite": "\u00e0 la destruction de J\u00e9rusalem"
+  },
+  "Entite95": {
+    "entite": "J\u00e9rusalem",
+    "label": "LOC",
+    "Contexte gauche": "Salomon \u00e0 la destruction de",
+    "Contexte droite": "par Nabuchodonosor; partie de"
+  },
+  "Entite96": {
+    "entite": "Nabuchodonosor",
+    "label": "PER",
+    "Contexte gauche": "la destruction de J\u00e9rusalem par",
+    "Contexte droite": "; partie de l'Ancien"
+  },
+  "Entite97": {
+    "entite": "l'Ancien Testament",
+    "label": "MISC",
+    "Contexte gauche": "par Nabuchodonosor; partie de",
+    "Contexte droite": "comprenant quatre livres dans la"
+  },
+  "Entite98": {
+    "entite": "Septante",
+    "label": "MISC",
+    "Contexte gauche": "livres dans la version des",
+    "Contexte droite": "et dans celle de la"
+  },
+  "Entite99": {
+    "entite": "Vulgate",
+    "label": "MISC",
+    "Contexte gauche": "et dans celle de la",
+    "Contexte droite": ", c'est-\u00e0"
+  },
+  "Entite100": {
+    "entite": "Samuel",
+    "label": "PER",
+    "Contexte gauche": "-dire deux livres de",
+    "Contexte droite": "(I et II Rois"
+  },
+  "Entite101": {
+    "entite": "II Rois",
+    "label": "LOC",
+    "Contexte gauche": "de Samuel (I et",
+    "Contexte droite": ") et deux livres des"
+  },
+  "Entite102": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": ") et deux livres des",
+    "Contexte droite": "(III et IV Rois"
+  },
+  "Entite103": {
+    "entite": "IV Rois",
+    "label": "LOC",
+    "Contexte gauche": "des Rois (III et",
+    "Contexte droite": "\u00e9quivalant aux I et II"
+  },
+  "Entite104": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "et IV Rois \u00e9quivalant aux",
+    "Contexte droite": "et II Rois du texte"
+  },
+  "Entite105": {
+    "entite": "II Rois",
+    "label": "MISC",
+    "Contexte gauche": "Rois \u00e9quivalant aux I et",
+    "Contexte droite": "du texte h\u00e9breu) racontant"
+  },
+  "Entite106": {
+    "entite": "histoire d'Isra\u00ebl",
+    "label": "MISC",
+    "Contexte gauche": "texte h\u00e9breu) racontant l'",
+    "Contexte droite": "depuis la fin de la"
+  },
+  "Entite107": {
+    "entite": "Juges",
+    "label": "MISC",
+    "Contexte gauche": "fin de la p\u00e9riode des",
+    "Contexte droite": "jusqu'\u00e0 la destruction de"
+  },
+  "Entite108": {
+    "entite": "J\u00e9rusalem",
+    "label": "LOC",
+    "Contexte gauche": "jusqu'\u00e0 la destruction de",
+    "Contexte droite": ". Les allusions de la"
+  },
+  "Entite109": {
+    "entite": "Bible",
+    "label": "MISC",
+    "Contexte gauche": ". Les allusions de la",
+    "Contexte droite": "\u00e0 l'usage de sceller"
+  },
+  "Entite110": {
+    "entite": "Livre des Rois",
+    "label": "MISC",
+    "Contexte gauche": "(Gen\u00e8se, Exode,",
+    "Contexte droite": ", J\u00e9r\u00e9mie) (L'"
+  },
+  "Entite111": {
+    "entite": "J\u00e9r\u00e9mie",
+    "label": "PER",
+    "Contexte gauche": ", Livre des Rois,",
+    "Contexte droite": ") (L'Hist."
+  },
+  "Entite112": {
+    "entite": "L'Hist.",
+    "label": "MISC",
+    "Contexte gauche": "Rois, J\u00e9r\u00e9mie) (",
+    "Contexte droite": "et ses m\u00e9th.,"
+  },
+  "Entite113": {
+    "entite": "la Bible",
+    "label": "MISC",
+    "Contexte gauche": "p. 397).Pendant les travaux,",
+    "Contexte droite": "n'est plus ouverte \u00e0"
+  },
+  "Entite114": {
+    "entite": "\u00c9vangile de saint Jean",
+    "label": "MISC",
+    "Contexte gauche": "est plus ouverte \u00e0 l'",
+    "Contexte droite": ", mais aux livres des"
+  },
+  "Entite115": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": ", mais aux livres des",
+    "Contexte droite": "(I, 6)"
+  },
+  "Entite116": {
+    "entite": "I",
+    "label": "LOC",
+    "Contexte gauche": "aux livres des Rois (",
+    "Contexte droite": ", 6) ou des"
+  },
+  "Entite117": {
+    "entite": "Chroniques",
+    "label": "MISC",
+    "Contexte gauche": ", 6) ou des",
+    "Contexte droite": "(II, 2,"
+  },
+  "Entite118": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": ") ou des Chroniques (",
+    "Contexte droite": ", 2, 3)"
+  },
+  "Entite119": {
+    "entite": "Naudon",
+    "label": "MISC",
+    "Contexte gauche": "2, 3) (",
+    "Contexte droite": ", Fr.-ma\u00e7onn., 1963"
+  },
+  "Entite120": {
+    "entite": "Pr\u00e9c\u00e9d\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 Au sing. [",
+    "Contexte droite": "d'un ordinal] Les"
+  },
+  "Entite121": {
+    "entite": "Salomon",
+    "label": "PER",
+    "Contexte gauche": "] Les navires du roi",
+    "Contexte droite": "avaient pareillement ramen\u00e9 du pays"
+  },
+  "Entite122": {
+    "entite": "pays d'Ophir",
+    "label": "LOC",
+    "Contexte gauche": "Salomon avaient pareillement ramen\u00e9 du",
+    "Contexte droite": "des singes et des paons"
+  },
+  "Entite123": {
+    "entite": "troisi\u00e8me Livre des Rois",
+    "label": "MISC",
+    "Contexte gauche": "qu'il est dit au",
+    "Contexte droite": "(X. 22) ("
+  },
+  "Entite124": {
+    "entite": "Puits ste Claire",
+    "label": "ORG",
+    "Contexte gauche": ") (A. France,",
+    "Contexte droite": ", 1895, p. 121"
+  },
+  "Entite125": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "121).\n\u2212",
+    "Contexte droite": ". [Abr\u00e9v. utilis\u00e9e"
+  },
+  "Entite126": {
+    "entite": "E\u00e7yon-G\u00e8ber",
+    "label": "MISC",
+    "Contexte gauche": "ces livres] La biblique",
+    "Contexte droite": ", (...) la"
+  },
+  "Entite127": {
+    "entite": "Salomon",
+    "label": "LOC",
+    "Contexte gauche": "...) la ville que",
+    "Contexte droite": "avait choisie comme (..."
+  },
+  "Entite128": {
+    "entite": "Ophir",
+    "label": "LOC",
+    "Contexte gauche": "d\u00e9part des exp\u00e9ditions maritimes vers",
+    "Contexte droite": "(voir I Rois IX"
+  },
+  "Entite129": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "Rois IX 26) (",
+    "Contexte droite": "., Relig.,"
+  },
+  "Entite130": {
+    "entite": "Relig",
+    "label": "MISC",
+    "Contexte gauche": ") (Philos.,",
+    "Contexte droite": "., 1957, p."
+  },
+  "Entite131": {
+    "entite": "COUTUMES",
+    "label": "ORG",
+    "Contexte gauche": "tradition]\na)",
+    "Contexte droite": "et RELIG. [Souvent"
+  },
+  "Entite132": {
+    "entite": "Les Rois mages",
+    "label": "MISC",
+    "Contexte gauche": "majuscule]\n\u03b1)",
+    "Contexte droite": ". V. mage1A.\n\u2666"
+  },
+  "Entite133": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "\u2666 Sous la forme les",
+    "Contexte droite": ", les trois Rois."
+  },
+  "Entite134": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "les Rois, les trois",
+    "Contexte droite": ". L'\u00e9toile \u00e9clairait mon"
+  },
+  "Entite135": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "chemin Qui mena les trois",
+    "Contexte droite": "au Berceau surhumain (Leconte"
+  },
+  "Entite136": {
+    "entite": "Berceau",
+    "label": "LOC",
+    "Contexte gauche": "mena les trois Rois au",
+    "Contexte droite": "surhumain (Leconte de Lisle"
+  },
+  "Entite137": {
+    "entite": "Leconte de Lisle",
+    "label": "PER",
+    "Contexte gauche": "Rois au Berceau surhumain (",
+    "Contexte droite": ", Po\u00e8mes trag.,"
+  },
+  "Entite138": {
+    "entite": "Po\u00e8mes trag",
+    "label": "MISC",
+    "Contexte gauche": "(Leconte de Lisle,",
+    "Contexte droite": "., 1886, p."
+  },
+  "Entite139": {
+    "entite": "Les P\u00e8res de l'\u00c9glise",
+    "label": "MISC",
+    "Contexte gauche": "96):\n1.",
+    "Contexte droite": "s'accordent avec la tradition"
+  },
+  "Entite140": {
+    "entite": "Mages",
+    "label": "LOC",
+    "Contexte gauche": "en a fait [des",
+    "Contexte droite": "] trois rois. ("
+  },
+  "Entite141": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "seulement de la venue des",
+    "Contexte droite": ", mais de leur d\u00e9part"
+  },
+  "Entite142": {
+    "entite": "D\u00e9vigne",
+    "label": "PER",
+    "Contexte gauche": "mais de leur d\u00e9part.",
+    "Contexte droite": ", L\u00e9gend. de Fr"
+  },
+  "Entite143": {
+    "entite": "L\u00e9gend",
+    "label": "PER",
+    "Contexte gauche": "leur d\u00e9part. D\u00e9vigne,",
+    "Contexte droite": ". de Fr.,"
+  },
+  "Entite144": {
+    "entite": "Fr",
+    "label": "LOC",
+    "Contexte gauche": "D\u00e9vigne, L\u00e9gend. de",
+    "Contexte droite": "., 1942, p."
+  },
+  "Entite145": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 F\u00eate, jour des",
+    "Contexte droite": "et, p. ell."
+  },
+  "Entite146": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "p. ell., les",
+    "Contexte droite": ". F\u00eate comm\u00e9morant l'adoration"
+  },
+  "Entite147": {
+    "entite": "Bethl\u00e9em",
+    "label": "LOC",
+    "Contexte gauche": "J\u00e9sus par les mages \u00e0",
+    "Contexte droite": "(le 6 janvier ou"
+  },
+  "Entite148": {
+    "entite": "No\u00ebl",
+    "label": "MISC",
+    "Contexte gauche": "ou le deuxi\u00e8me dimanche apr\u00e8s",
+    "Contexte droite": "dans la liturgie catholique)"
+  },
+  "Entite149": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "de tirer les rois.",
+    "Contexte droite": ". relig. \u00c9piphanie."
+  },
+  "Entite150": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "\u00c9piphanie.Le jour des",
+    "Contexte droite": "\u00e9tant arriv\u00e9, l'envie"
+  },
+  "Entite151": {
+    "entite": "Sara me",
+    "label": "MISC",
+    "Contexte gauche": ", l'envie d'amuser",
+    "Contexte droite": "fit offrir une collation pour"
+  },
+  "Entite152": {
+    "entite": "Restif de La Bret",
+    "label": "LOC",
+    "Contexte gauche": "pour tirer le g\u00e2teau (",
+    "Contexte droite": "., M. Nicolas,"
+  },
+  "Entite153": {
+    "entite": "M.",
+    "label": "PER",
+    "Contexte gauche": "de La Bret.,",
+    "Contexte droite": "Nicolas, 1796, p."
+  },
+  "Entite154": {
+    "entite": "Nicolas",
+    "label": "MISC",
+    "Contexte gauche": "La Bret., M.",
+    "Contexte droite": ", 1796, p. 19).Cette"
+  },
+  "Entite155": {
+    "entite": "Contes",
+    "label": "LOC",
+    "Contexte gauche": "semaine (Maupass.,",
+    "Contexte droite": "et nouv., t."
+  },
+  "Entite156": {
+    "entite": "MllePerle",
+    "label": "MISC",
+    "Contexte gauche": "., t. 2,",
+    "Contexte droite": ", 1886, p. 632).V."
+  },
+  "Entite157": {
+    "entite": "II A 2",
+    "label": "MISC",
+    "Contexte gauche": "1886, p. 632).V. infra",
+    "Contexte droite": "a ex. de D\u00e9vigne"
+  },
+  "Entite158": {
+    "entite": "D\u00e9vigne",
+    "label": "PER",
+    "Contexte gauche": "2 a ex. de",
+    "Contexte droite": ".\n\u2212 Galette*"
+  },
+  "Entite159": {
+    "entite": "Galette",
+    "label": "PER",
+    "Contexte gauche": "de D\u00e9vigne.\n\u2212",
+    "Contexte droite": "*, g\u00e2teau* des"
+  },
+  "Entite160": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "*, g\u00e2teau* des",
+    "Contexte droite": ".\n\u2212 Faire les"
+  },
+  "Entite161": {
+    "entite": "Faire les Rois",
+    "label": "ORG",
+    "Contexte gauche": "des Rois.\n\u2212",
+    "Contexte droite": "(vieilli), tirer"
+  },
+  "Entite162": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "vieilli), tirer les",
+    "Contexte droite": ". Se r\u00e9unir pour une"
+  },
+  "Entite163": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "\u00e0 partager la galette des",
+    "Contexte droite": "contenant la f\u00e8ve qui rend"
+  },
+  "Entite164": {
+    "entite": "Rouault",
+    "label": "PER",
+    "Contexte gauche": "la trouve. [M.",
+    "Contexte droite": "] s'\u00e9tait cass\u00e9 la"
+  },
+  "Entite165": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "en revenant de faire les",
+    "Contexte droite": ", chez un voisin ("
+  },
+  "Entite166": {
+    "entite": "MmeBovary",
+    "label": "MISC",
+    "Contexte gauche": "voisin (Flaub.,",
+    "Contexte droite": ", t. 1, 1857"
+  },
+  "Entite167": {
+    "entite": "\u00c9piphanie",
+    "label": "MISC",
+    "Contexte gauche": "p. 13).Au jour de l'",
+    "Contexte droite": ", MmeBavretel conviait les amis"
+  },
+  "Entite168": {
+    "entite": "MmeBavretel",
+    "label": "MISC",
+    "Contexte gauche": "jour de l'\u00c9piphanie,",
+    "Contexte droite": "conviait les amis d'Armand"
+  },
+  "Entite169": {
+    "entite": "Armand",
+    "label": "PER",
+    "Contexte gauche": "MmeBavretel conviait les amis d'",
+    "Contexte droite": "\u00e0 venir \u00ab tirer les"
+  },
+  "Entite170": {
+    "entite": "Si le grain, 1924",
+    "label": "MISC",
+    "Contexte gauche": "rois \u00bb (Gide,",
+    "Contexte droite": ", p. 474)."
+  },
+  "Entite171": {
+    "entite": "Grosse chandelle",
+    "label": "MISC",
+    "Contexte gauche": ". Chandelle des Rois.",
+    "Contexte droite": "cannel\u00e9e que les marchands de"
+  },
+  "Entite172": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "leurs clients le jour des",
+    "Contexte droite": ". (Dict. xixes"
+  },
+  "Entite173": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "jour des Rois. (",
+    "Contexte droite": ". xixes.)."
+  },
+  "Entite174": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "Rois. (Dict.",
+    "Contexte droite": ".).\n\u03b2"
+  },
+  "Entite175": {
+    "entite": "Les Trois Rois",
+    "label": "MISC",
+    "Contexte gauche": "aux trois rois mages]",
+    "Contexte droite": ". Synon. de baudrier"
+  },
+  "Entite176": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": "] Les Trois Rois.",
+    "Contexte droite": ". de baudrier* d'"
+  },
+  "Entite177": {
+    "entite": "Orion",
+    "label": "LOC",
+    "Contexte gauche": ". de baudrier* d'",
+    "Contexte droite": ".Au sud-est d'Orion"
+  },
+  "Entite178": {
+    "entite": "Orion",
+    "label": "LOC",
+    "Contexte gauche": "Orion.Au sud-est d'",
+    "Contexte droite": ", sur la ligne des"
+  },
+  "Entite179": {
+    "entite": "Trois Rois",
+    "label": "LOC",
+    "Contexte gauche": ", sur la ligne des",
+    "Contexte droite": ", resplendit la plus magnifique"
+  },
+  "Entite180": {
+    "entite": "Sirius",
+    "label": "LOC",
+    "Contexte gauche": "de toutes les \u00e9toiles,",
+    "Contexte droite": "(Flammarion, Astron."
+  },
+  "Entite181": {
+    "entite": "Flammarion",
+    "label": "LOC",
+    "Contexte gauche": "les \u00e9toiles, Sirius (",
+    "Contexte droite": ", Astron. pop."
+  },
+  "Entite182": {
+    "entite": "Roi d'Yvetot",
+    "label": "LOC",
+    "Contexte gauche": "\nb) HIST.",
+    "Contexte droite": ". Titre que porta jusqu'"
+  },
+  "Entite183": {
+    "entite": "terre d'Yvetot",
+    "label": "LOC",
+    "Contexte gauche": ". le seigneur de la",
+    "Contexte droite": "qui \u00e9tait \u00e0 l'origine"
+  },
+  "Entite184": {
+    "entite": "Yvetot",
+    "label": "LOC",
+    "Contexte gauche": "histoire du petit roi d'",
+    "Contexte droite": ", d'apr\u00e8s la chanson"
+  },
+  "Entite185": {
+    "entite": "A. France",
+    "label": "PER",
+    "Contexte gauche": "d'apr\u00e8s la chanson (",
+    "Contexte droite": ", Bonnard, 1881,"
+  },
+  "Entite186": {
+    "entite": "Bonnard",
+    "label": "PER",
+    "Contexte gauche": "chanson (A. France,",
+    "Contexte droite": ", 1881, p. 388"
+  },
+  "Entite187": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ", proverbes\na)",
+    "Contexte droite": "de, en + subst"
+  },
+  "Entite188": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ". Roi de carreau.",
+    "Contexte droite": "faible, sans autorit\u00e9 ou"
+  },
+  "Entite189": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "pouvoir est limit\u00e9. (",
+    "Contexte droite": ". xixes.)."
+  },
+  "Entite190": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": ". Roi de carton.",
+    "Contexte droite": ". de roi de carreau"
+  },
+  "Entite191": {
+    "entite": "Sorel",
+    "label": "PER",
+    "Contexte gauche": "A 2 ex. de",
+    "Contexte droite": ".Roi de th\u00e9\u00e2tre."
+  },
+  "Entite192": {
+    "entite": "duc barbu",
+    "label": "PER",
+    "Contexte gauche": "roi au th\u00e9\u00e2tre. Le",
+    "Contexte droite": "et immobile (...)"
+  },
+  "Entite193": {
+    "entite": "Bourges",
+    "label": "LOC",
+    "Contexte gauche": "th\u00e9\u00e2tre sur son estrade (",
+    "Contexte droite": ", Cr\u00e9pusc. dieux,"
+  },
+  "Entite194": {
+    "entite": "Souverain",
+    "label": "PER",
+    "Contexte gauche": "anal., p\u00e9j.",
+    "Contexte droite": "faible, sans autorit\u00e9 ou"
+  },
+  "Entite195": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "pouvoir est limit\u00e9. (",
+    "Contexte droite": ". xixes., Lar"
+  },
+  "Entite196": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "Dict. xixes.,",
+    "Contexte droite": ". Lang. fr."
+  },
+  "Entite197": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": ", Lar. Lang.",
+    "Contexte droite": ".). Roi en"
+  },
+  "Entite198": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": ". Roi en peinture.",
+    "Contexte droite": ". de roi de carreau"
+  },
+  "Entite199": {
+    "entite": "II B 2",
+    "label": "MISC",
+    "Contexte gauche": "de carreau.V. peinture",
+    "Contexte droite": "a ex. de Hugo"
+  },
+  "Entite200": {
+    "entite": "Hugo",
+    "label": "PER",
+    "Contexte gauche": "2 a ex. de",
+    "Contexte droite": ".\nb) La"
+  },
+  "Entite201": {
+    "entite": "P\u00e9taud",
+    "label": "PER",
+    "Contexte gauche": ") La cour du roi",
+    "Contexte droite": ". V. cour2I A p."
+  },
+  "Entite202": {
+    "entite": "C'\u00e9tait du temps du roi Guillemot",
+    "label": "MISC",
+    "Contexte gauche": ") Vieilli. ,,",
+    "Contexte droite": ". C'\u00e9tait dans l'"
+  },
+  "Entite203": {
+    "entite": "Prusse",
+    "label": "LOC",
+    "Contexte gauche": "aux mercenaires du roi de",
+    "Contexte droite": "qui \u00e9taient mal pay\u00e9s ainsi"
+  },
+  "Entite204": {
+    "entite": "Fran\u00e7ais",
+    "label": "LOC",
+    "Contexte gauche": "qu'\u00e0 la d\u00e9faite des",
+    "Contexte droite": "\u00e0 Rossbach, en 1757"
+  },
+  "Entite205": {
+    "entite": "Rossbach",
+    "label": "PER",
+    "Contexte gauche": "la d\u00e9faite des Fran\u00e7ais \u00e0",
+    "Contexte droite": ", en 1757, face"
+  },
+  "Entite206": {
+    "entite": "Prusse]",
+    "label": "LOC",
+    "Contexte gauche": "1757, face \u00e0 la",
+    "Contexte droite": "Travailler pour le roi de"
+  },
+  "Entite207": {
+    "entite": "Travailler",
+    "label": "MISC",
+    "Contexte gauche": "face \u00e0 la Prusse]",
+    "Contexte droite": "pour le roi de Prusse"
+  },
+  "Entite208": {
+    "entite": "Prusse",
+    "label": "LOC",
+    "Contexte gauche": "Travailler pour le roi de",
+    "Contexte droite": ". Se donner du mal"
+  },
+  "Entite209": {
+    "entite": "Prusse",
+    "label": "LOC",
+    "Contexte gauche": "gu\u00e8re, le roi de",
+    "Contexte droite": "(...) quelques lignes"
+  },
+  "Entite210": {
+    "entite": "Villiers de L'I.-A.",
+    "label": "PER",
+    "Contexte gauche": "coup d'\u00e9paule salubre.",
+    "Contexte droite": ", Corresp., 1880"
+  },
+  "Entite211": {
+    "entite": "Corresp.",
+    "label": "ORG",
+    "Contexte gauche": "Villiers de L'I.-A.,",
+    "Contexte droite": ", 1880, p. 277"
+  },
+  "Entite212": {
+    "entite": "Prusse",
+    "label": "LOC",
+    "Contexte gauche": "attendu pour le roi de",
+    "Contexte droite": "(Sue, Myst."
+  },
+  "Entite213": {
+    "entite": "Myst",
+    "label": "MISC",
+    "Contexte gauche": "de Prusse (Sue,",
+    "Contexte droite": ". Paris, t. 7"
+  },
+  "Entite214": {
+    "entite": "Prusse",
+    "label": "LOC",
+    "Contexte gauche": "d\u00e9rangements pour le roi de",
+    "Contexte droite": "(Mirbeau, Journal femme"
+  },
+  "Entite215": {
+    "entite": "Mirbeau",
+    "label": "LOC",
+    "Contexte gauche": "le roi de Prusse (",
+    "Contexte droite": ", Journal femme ch."
+  },
+  "Entite216": {
+    "entite": "Journal femme ch",
+    "label": "MISC",
+    "Contexte gauche": "de Prusse (Mirbeau,",
+    "Contexte droite": "., 1900, p."
+  },
+  "Entite217": {
+    "entite": "Constr",
+    "label": "PER",
+    "Contexte gauche": ".\n5. [",
+    "Contexte droite": ". partic., loc"
+  },
+  "Entite218": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "propres \u00e0 un roi.",
+    "Contexte droite": ", dans le r\u00e9gime f\u00e9odal"
+  },
+  "Entite219": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "vraiment roi (Guizot,",
+    "Contexte droite": ". civilis., le\u00e7on"
+  },
+  "Entite220": {
+    "entite": "le\u00e7on 9",
+    "label": "MISC",
+    "Contexte gauche": "Hist. civilis.,",
+    "Contexte droite": ", 1828, p. 28).Louis"
+  },
+  "Entite221": {
+    "entite": "R\u00e9publique",
+    "label": "MISC",
+    "Contexte gauche": ", fut d\u00e9plac\u00e9 par une",
+    "Contexte droite": "plus roi (P\u00e9guy,"
+  },
+  "Entite222": {
+    "entite": "P\u00e9guy, Argent",
+    "label": "MISC",
+    "Contexte gauche": "une R\u00e9publique plus roi (",
+    "Contexte droite": ", 1913, p. 1244"
+  },
+  "Entite223": {
+    "entite": "O'Relly] carte blanche",
+    "label": "ORG",
+    "Contexte gauche": "On lui donne [\u00e0",
+    "Contexte droite": ". On lui accorde cinq"
+  },
+  "Entite224": {
+    "entite": "Baudry des Loz",
+    "label": "PER",
+    "Contexte gauche": "; et il part (",
+    "Contexte droite": "., Voy. Louisiane"
+  },
+  "Entite225": {
+    "entite": "Contes de Perrault]",
+    "label": "MISC",
+    "Contexte gauche": "une \u00e9dition nouvelle [des",
+    "Contexte droite": "(...); elle"
+  },
+  "Entite226": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "des \u00e9trennes de roi (",
+    "Contexte droite": ", Nouv. lundis,"
+  },
+  "Entite227": {
+    "entite": "Nouv",
+    "label": "PER",
+    "Contexte gauche": "de roi (Sainte-Beuve,",
+    "Contexte droite": ". lundis, t. 1"
+  },
+  "Entite228": {
+    "entite": "Morceau",
+    "label": "PER",
+    "Contexte gauche": "297).\n\u2666",
+    "Contexte droite": "de roi. Mets d\u00e9licieux"
+  },
+  "Entite229": {
+    "entite": "Mets",
+    "label": "PER",
+    "Contexte gauche": "\u2666 Morceau de roi.",
+    "Contexte droite": "d\u00e9licieux. La soupe au"
+  },
+  "Entite230": {
+    "entite": "Xavi\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "propres expressions (Fabre,",
+    "Contexte droite": ", 1890, p. 15).P."
+  },
+  "Entite231": {
+    "entite": "15).P.",
+    "label": "LOC",
+    "Contexte gauche": "Xavi\u00e8re, 1890, p.",
+    "Contexte droite": "anal. Dans le dossier"
+  },
+  "Entite232": {
+    "entite": "Empereur Guillaume",
+    "label": "PER",
+    "Contexte gauche": ": les lettres de l'",
+    "Contexte droite": "(Clemenceau, Vers r\u00e9paration"
+  },
+  "Entite233": {
+    "entite": "Clemenceau",
+    "label": "PER",
+    "Contexte gauche": "de l'Empereur Guillaume (",
+    "Contexte droite": ", Vers r\u00e9paration, 1899"
+  },
+  "Entite234": {
+    "entite": "282).En partic",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9paration, 1899, p.",
+    "Contexte droite": ". [En parlant d'"
+  },
+  "Entite235": {
+    "entite": "V.",
+    "label": "MISC",
+    "Contexte gauche": "parlant d'une femme]",
+    "Contexte droite": "morceau I C p. anal"
+  },
+  "Entite236": {
+    "entite": "Choix",
+    "label": "LOC",
+    "Contexte gauche": "p. anal.\n\u2666",
+    "Contexte droite": "de/du roi."
+  },
+  "Entite237": {
+    "entite": "Livre raison, 1932",
+    "label": "MISC",
+    "Contexte gauche": "de roi (Pesquidoux,",
+    "Contexte droite": ", p. 29).Souhait de roi"
+  },
+  "Entite238": {
+    "entite": "de France",
+    "label": "LOC",
+    "Contexte gauche": "\u00e9mail des armes des rois",
+    "Contexte droite": "] Loc. adj."
+  },
+  "Entite239": {
+    "entite": "Bleu",
+    "label": "PER",
+    "Contexte gauche": "ell., bleu(-)roi.",
+    "Contexte droite": "tr\u00e8s vif. L'uniforme"
+  },
+  "Entite240": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "retroussis \u00e0 l'hermine (",
+    "Contexte droite": "., M\u00e9m.,"
+  },
+  "Entite241": {
+    "entite": "M\u00e9m.",
+    "label": "MISC",
+    "Contexte gauche": "hermine (Chateaubr.,",
+    "Contexte droite": ", t. 1, 1848"
+  },
+  "Entite242": {
+    "entite": "Dr\u00f4le de jeu",
+    "label": "MISC",
+    "Contexte gauche": "de rouge (Vailland,",
+    "Contexte droite": ", 1945, p. 126).V."
+  },
+  "Entite243": {
+    "entite": "T'Serstevens.\n\u2666",
+    "label": "ORG",
+    "Contexte gauche": "1 b ex. de",
+    "Contexte droite": "Empl. subst. masc"
+  },
+  "Entite244": {
+    "entite": "Empl",
+    "label": "LOC",
+    "Contexte gauche": "T'Serstevens.\n\u2666",
+    "Contexte droite": ". subst. masc."
+  },
+  "Entite245": {
+    "entite": "Giraudoux",
+    "label": "PER",
+    "Contexte gauche": ", le lilas blanc (",
+    "Contexte droite": ", Simon, 1926,"
+  },
+  "Entite246": {
+    "entite": "Simon",
+    "label": "PER",
+    "Contexte gauche": "lilas blanc (Giraudoux,",
+    "Contexte droite": ", 1926, p. 137).[Le"
+  },
+  "Entite247": {
+    "entite": "Cachemire",
+    "label": "LOC",
+    "Contexte gauche": "p. 137).[Le saphir] du",
+    "Contexte droite": ", devenu tr\u00e8s rare,"
+  },
+  "Entite248": {
+    "entite": "Pierres pr\u00e9c.",
+    "label": "LOC",
+    "Contexte gauche": "roi velout\u00e9 (Metta,",
+    "Contexte droite": ", 1960, p. 74"
+  },
+  "Entite249": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "pleines mains (Faure,",
+    "Contexte droite": ". art, 1921,"
+  },
+  "Entite250": {
+    "entite": "S\u00e9jour d\u00e9licieux!",
+    "label": "MISC",
+    "Contexte gauche": ". indiquant un summum]",
+    "Contexte droite": "r\u00e9duit enchant\u00e9! murmura-t"
+  },
+  "Entite251": {
+    "entite": "Tapis d'Aubusson",
+    "label": "PER",
+    "Contexte gauche": "se parlant \u00e0 lui-m\u00eame.",
+    "Contexte droite": ", damas de G\u00eanes,"
+  },
+  "Entite252": {
+    "entite": "G\u00eanes",
+    "label": "LOC",
+    "Contexte gauche": "d'Aubusson, damas de",
+    "Contexte droite": ", porcelaines de Saxe ("
+  },
+  "Entite253": {
+    "entite": "Saxe",
+    "label": "LOC",
+    "Contexte gauche": "de G\u00eanes, porcelaines de",
+    "Contexte droite": "(...) Monsieur le"
+  },
+  "Entite254": {
+    "entite": "Monsieur",
+    "label": "PER",
+    "Contexte gauche": "de Saxe (...)",
+    "Contexte droite": "le marquis, vous \u00eates"
+  },
+  "Entite255": {
+    "entite": "Mllede La Seigli\u00e8re",
+    "label": "PER",
+    "Contexte gauche": "un roi (Sandeau,",
+    "Contexte droite": ", 1848, p. 225).Heureux"
+  },
+  "Entite256": {
+    "entite": "G\u00eanes",
+    "label": "LOC",
+    "Contexte gauche": "point. Costals, \u00e0",
+    "Contexte droite": ", entre son travail et"
+  },
+  "Entite257": {
+    "entite": "L\u00e9preuses",
+    "label": "MISC",
+    "Contexte gauche": "roi (Montherl.,",
+    "Contexte droite": ", 1939, p. 1373"
+  },
+  "Entite258": {
+    "entite": "Empl",
+    "label": "LOC",
+    "Contexte gauche": ").\nB. \u2212",
+    "Contexte droite": ". abs.\n1"
+  },
+  "Entite259": {
+    "entite": "D\u00e9signe",
+    "label": "LOC",
+    "Contexte gauche": ".\n1. [",
+    "Contexte droite": "le roi qui r\u00e8gne ici"
+  },
+  "Entite260": {
+    "entite": "Paris",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9tonn\u00e9, mardi soir dans",
+    "Contexte droite": ", d'apprendre que le"
+  },
+  "Entite261": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "la presse (Del\u00e9cluze,",
+    "Contexte droite": ", 1827, p. 439"
+  },
+  "Entite262": {
+    "entite": "Avocat du roi",
+    "label": "MISC",
+    "Contexte gauche": "d\u00e9signe une pers.]",
+    "Contexte droite": ". V. avocat1III hist."
+  },
+  "Entite263": {
+    "entite": "B",
+    "label": "LOC",
+    "Contexte gauche": "du roi. V. lieutenant",
+    "Contexte droite": "3 a.Procureur du roi"
+  },
+  "Entite264": {
+    "entite": "Procureur",
+    "label": "LOC",
+    "Contexte gauche": "V. lieutenant B 3 a.",
+    "Contexte droite": "du roi. V. procureur"
+  },
+  "Entite265": {
+    "entite": "A",
+    "label": "LOC",
+    "Contexte gauche": "du roi. V. procureur",
+    "Contexte droite": "2.\n\u2666 Commissaire"
+  },
+  "Entite266": {
+    "entite": "Ch\u00e2telet",
+    "label": "LOC",
+    "Contexte gauche": "Un commissaire du roi au",
+    "Contexte droite": "allait porter le 24 au"
+  },
+  "Entite267": {
+    "entite": "monast\u00e8re des",
+    "label": "LOC",
+    "Contexte gauche": "allait porter le 24 au",
+    "Contexte droite": "Champs le m\u00eame ordre de"
+  },
+  "Entite268": {
+    "entite": "Champs",
+    "label": "LOC",
+    "Contexte gauche": "le 24 au monast\u00e8re des",
+    "Contexte droite": "le m\u00eame ordre de renvoyer"
+  },
+  "Entite269": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "de renvoyer les pensionnaires (",
+    "Contexte droite": ", Port-Royal, t. 4"
+  },
+  "Entite270": {
+    "entite": "Port-Royal",
+    "label": "MISC",
+    "Contexte gauche": "les pensionnaires (Sainte-Beuve,",
+    "Contexte droite": ", t. 4, 1859"
+  },
+  "Entite271": {
+    "entite": "Homme du roi",
+    "label": "PER",
+    "Contexte gauche": "13).\n\u2666",
+    "Contexte droite": ". ,,Celui qui"
+  },
+  "Entite272": {
+    "entite": "Celui qui a commission du roi",
+    "label": "MISC",
+    "Contexte gauche": "du roi. ,,",
+    "Contexte droite": "pour quelque affaire relative au"
+  },
+  "Entite273": {
+    "entite": "Gens du roi",
+    "label": "MISC",
+    "Contexte gauche": "1878).\n\u2666",
+    "Contexte droite": ". Magistrats charg\u00e9s du Minist\u00e8re"
+  },
+  "Entite274": {
+    "entite": "Minist\u00e8re Public",
+    "label": "ORG",
+    "Contexte gauche": "roi. Magistrats charg\u00e9s du",
+    "Contexte droite": "(tribunaux inf\u00e9rieurs et cours"
+  },
+  "Entite275": {
+    "entite": "Parlement",
+    "label": "ORG",
+    "Contexte gauche": "gens du roi pr\u00e8s le",
+    "Contexte droite": "et le Ch\u00e2telet (Barante"
+  },
+  "Entite276": {
+    "entite": "Ch\u00e2telet",
+    "label": "LOC",
+    "Contexte gauche": "pr\u00e8s le Parlement et le",
+    "Contexte droite": "(Barante, Hist."
+  },
+  "Entite277": {
+    "entite": "Barante",
+    "label": "LOC",
+    "Contexte gauche": "Parlement et le Ch\u00e2telet (",
+    "Contexte droite": ", Hist. ducs Bourg"
+  },
+  "Entite278": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "le Ch\u00e2telet (Barante,",
+    "Contexte droite": ". ducs Bourg.,"
+  },
+  "Entite279": {
+    "entite": "ducs Bourg",
+    "label": "LOC",
+    "Contexte gauche": "(Barante, Hist.",
+    "Contexte droite": "., t. 4,"
+  },
+  "Entite280": {
+    "entite": "II A 2 b hist",
+    "label": "MISC",
+    "Contexte gauche": "du roi (v. bouche",
+    "Contexte droite": ".); h\u00f4tel du"
+  },
+  "Entite281": {
+    "entite": "II B 1",
+    "label": "MISC",
+    "Contexte gauche": "le roi (v. poids",
+    "Contexte droite": "vx).\n\u2666"
+  },
+  "Entite282": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "des imp\u00f4ts lev\u00e9s par l'",
+    "Contexte droite": ". G\u00e9rer les deniers du"
+  },
+  "Entite283": {
+    "entite": "Parlement",
+    "label": "ORG",
+    "Contexte gauche": "1878).Nous ne sommes pas du",
+    "Contexte droite": ". Nous payons l'imp\u00f4t"
+  },
+  "Entite284": {
+    "entite": "Parlement l\u00e9sine",
+    "label": "ORG",
+    "Contexte gauche": "faisons pas. Si le",
+    "Contexte droite": "sur les deniers du roi"
+  },
+  "Entite285": {
+    "entite": "Main du roi",
+    "label": "MISC",
+    "Contexte gauche": "269).\n\u2666",
+    "Contexte droite": "(vx). ,"
+  },
+  "Entite286": {
+    "entite": "La puissance",
+    "label": "MISC",
+    "Contexte gauche": "vx). ,,",
+    "Contexte droite": "et l'autorit\u00e9 du roi"
+  },
+  "Entite287": {
+    "entite": "Saisir",
+    "label": "MISC",
+    "Contexte gauche": "vx). ,,",
+    "Contexte droite": "quelque chose en justice au"
+  },
+  "Entite288": {
+    "entite": "Maison du roi",
+    "label": "PER",
+    "Contexte gauche": "1878).\n\u2666",
+    "Contexte droite": ". Ensemble des domestiques,"
+  },
+  "Entite289": {
+    "entite": "Maison civile",
+    "label": "LOC",
+    "Contexte gauche": "du roi et composant la",
+    "Contexte droite": "et la Maison militaire;"
+  },
+  "Entite290": {
+    "entite": "Maison",
+    "label": "LOC",
+    "Contexte gauche": "la Maison civile et la",
+    "Contexte droite": "militaire; ensemble des services"
+  },
+  "Entite291": {
+    "entite": "France",
+    "label": "LOC",
+    "Contexte gauche": "particuli\u00e8rement d\u00e9velopp\u00e9s et organis\u00e9s en",
+    "Contexte droite": ", aux xviieet xviiies."
+  },
+  "Entite292": {
+    "entite": "xviieet xviiies.",
+    "label": "LOC",
+    "Contexte gauche": "organis\u00e9s en France, aux",
+    "Contexte droite": "et qui disparurent d\u00e9finitivement \u00e0"
+  },
+  "Entite293": {
+    "entite": "R\u00e9volution de 1848",
+    "label": "MISC",
+    "Contexte gauche": "qui disparurent d\u00e9finitivement \u00e0 la",
+    "Contexte droite": ". La haute noblesse continua"
+  },
+  "Entite294": {
+    "entite": "Maison du Roi",
+    "label": "PER",
+    "Contexte gauche": "l'arm\u00e9e comme pour la",
+    "Contexte droite": "(Lefebvre, R\u00e9vol."
+  },
+  "Entite295": {
+    "entite": "R\u00e9vol",
+    "label": "LOC",
+    "Contexte gauche": "du Roi (Lefebvre,",
+    "Contexte droite": ". fr., 1963"
+  },
+  "Entite296": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": "(Lefebvre, R\u00e9vol.",
+    "Contexte droite": "., 1963, p."
+  },
+  "Entite297": {
+    "entite": "Breton",
+    "label": "PER",
+    "Contexte gauche": "quelques ann\u00e9es, un jeune",
+    "Contexte droite": "(Lamart., Nouv"
+  },
+  "Entite298": {
+    "entite": "Nouv",
+    "label": "LOC",
+    "Contexte gauche": "Breton (Lamart.,",
+    "Contexte droite": ". Confid., 1851"
+  },
+  "Entite299": {
+    "entite": "Ordre du Roi",
+    "label": "ORG",
+    "Contexte gauche": "correspondante. Chevalier de l'",
+    "Contexte droite": "(Ac.1798).Au plur. Ordres"
+  },
+  "Entite300": {
+    "entite": "Ac.1798).Au",
+    "label": "LOC",
+    "Contexte gauche": "l'Ordre du Roi (",
+    "Contexte droite": "plur. Ordres de chevalerie"
+  },
+  "Entite301": {
+    "entite": "Saint-Esprit",
+    "label": "LOC",
+    "Contexte gauche": "chevalerie de Saint-Michel et du",
+    "Contexte droite": "; d\u00e9corations correspondantes. La"
+  },
+  "Entite302": {
+    "entite": "Bonald",
+    "label": "MISC",
+    "Contexte gauche": "dans le minist\u00e8re public (",
+    "Contexte droite": ", Essai analyt.,"
+  },
+  "Entite303": {
+    "entite": "Essai analyt.",
+    "label": "MISC",
+    "Contexte gauche": "minist\u00e8re public (Bonald,",
+    "Contexte droite": ", 1800, p. 211"
+  },
+  "Entite304": {
+    "entite": "Ponson du Terr.",
+    "label": "MISC",
+    "Contexte gauche": "long d'un pied-de-roi (",
+    "Contexte droite": ", Rocambole, t. 3"
+  },
+  "Entite305": {
+    "entite": "Rocambole, t. 3",
+    "label": "MISC",
+    "Contexte gauche": "Ponson du Terr.,",
+    "Contexte droite": ", 1859, p. 515"
+  },
+  "Entite306": {
+    "entite": "Taux du roi",
+    "label": "MISC",
+    "Contexte gauche": "515).\n\u2666",
+    "Contexte droite": "(vx). ,"
+  },
+  "Entite307": {
+    "entite": "Prix d'une chose r\u00e9gl\u00e9",
+    "label": "MISC",
+    "Contexte gauche": "vx). ,,",
+    "Contexte droite": "par l'autorit\u00e9 du Roi"
+  },
+  "Entite308": {
+    "entite": "Roi``",
+    "label": "PER",
+    "Contexte gauche": "r\u00e9gl\u00e9 par l'autorit\u00e9 du",
+    "Contexte droite": "(Ac. 1798)"
+  },
+  "Entite309": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": ". Les finances de l'",
+    "Contexte droite": ". Il en reviendra tant"
+  },
+  "Entite310": {
+    "entite": "Canada",
+    "label": "LOC",
+    "Contexte gauche": "\n\u2666 R\u00e9gion. (",
+    "Contexte droite": "). Chemin du roi"
+  },
+  "Entite311": {
+    "entite": "Chemin du roi",
+    "label": "LOC",
+    "Contexte gauche": ". (Canada).",
+    "Contexte droite": ". V. chemin I A"
+  },
+  "Entite312": {
+    "entite": "Concernant",
+    "label": "LOC",
+    "Contexte gauche": "expr.\n\u2212 [",
+    "Contexte droite": "la pers. du roi"
+  },
+  "Entite313": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "du roi]\n\u2666",
+    "Contexte droite": "ne meurt pas/point"
+  },
+  "Entite314": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "256).\n\u2666",
+    "Contexte droite": "est mort, vive le"
+  },
+  "Entite315": {
+    "entite": "Formule",
+    "label": "ORG",
+    "Contexte gauche": "vive le roi! [",
+    "Contexte droite": "par laquelle un h\u00e9raut annonce"
+  },
+  "Entite316": {
+    "entite": "cour",
+    "label": "LOC",
+    "Contexte gauche": "reprise dans la lang.",
+    "Contexte droite": ".]:\n3"
+  },
+  "Entite317": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "une voix solennelle: \u00ab",
+    "Contexte droite": "est mort, le roi"
+  },
+  "Entite318": {
+    "entite": "Dauphin",
+    "label": "LOC",
+    "Contexte gauche": "en se pr\u00e9cipitant vers le",
+    "Contexte droite": ": \u00ab Vive le roi"
+  },
+  "Entite319": {
+    "entite": "Vive",
+    "label": "PER",
+    "Contexte gauche": "vers le Dauphin: \u00ab",
+    "Contexte droite": "le roi! \u00bb Delavigne"
+  },
+  "Entite320": {
+    "entite": "Louis XI",
+    "label": "PER",
+    "Contexte gauche": "roi! \u00bb Delavigne,",
+    "Contexte droite": ", 1832, V,"
+  },
+  "Entite321": {
+    "entite": "V",
+    "label": "MISC",
+    "Contexte gauche": "Louis XI, 1832,",
+    "Contexte droite": ", 16, p. 226"
+  },
+  "Entite322": {
+    "entite": "Vive le roi",
+    "label": "PER",
+    "Contexte gauche": "p. 226.\n\u2666",
+    "Contexte droite": ", vive la Ligue*.\n"
+  },
+  "Entite323": {
+    "entite": "Ligue*.\n\u2666",
+    "label": "LOC",
+    "Contexte gauche": "le roi, vive la",
+    "Contexte droite": "Le roi r\u00e8gne et ne"
+  },
+  "Entite324": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "vive la Ligue*.\n\u2666",
+    "Contexte droite": "r\u00e8gne et ne gouverne pas"
+  },
+  "Entite325": {
+    "entite": "A 1",
+    "label": "MISC",
+    "Contexte gauche": "gouverne pas. V. r\u00e9gner",
+    "Contexte droite": "a et gouverner ex."
+  },
+  "Entite326": {
+    "entite": "Concernant des institutions",
+    "label": "MISC",
+    "Contexte gauche": "17.\n\u2212 [",
+    "Contexte droite": ", des coutumes sous la"
+  },
+  "Entite327": {
+    "entite": "I A 2",
+    "label": "MISC",
+    "Contexte gauche": "du roi. V. pav\u00e9",
+    "Contexte droite": "a.\n\u2666 \u00catre au"
+  },
+  "Entite328": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "sont nourris gratuitement par l'",
+    "Contexte droite": "] Peu apr\u00e8s il a"
+  },
+  "Entite329": {
+    "entite": "Suisses",
+    "label": "LOC",
+    "Contexte gauche": "a fort mal trait\u00e9 les",
+    "Contexte droite": ": il leur a reproch\u00e9"
+  },
+  "Entite330": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "de porter l'habit du",
+    "Contexte droite": ", et d'en manger"
+  },
+  "Entite331": {
+    "entite": "Marat",
+    "label": "LOC",
+    "Contexte gauche": "en manger le pain (",
+    "Contexte droite": ", Pamphlets, Relation fid"
+  },
+  "Entite332": {
+    "entite": "Pamphlets",
+    "label": "LOC",
+    "Contexte gauche": "le pain (Marat,",
+    "Contexte droite": ", Relation fid. affaires"
+  },
+  "Entite333": {
+    "entite": "Relation",
+    "label": "LOC",
+    "Contexte gauche": "(Marat, Pamphlets,",
+    "Contexte droite": "fid. affaires Nancy,"
+  },
+  "Entite334": {
+    "entite": "affaires Nancy",
+    "label": "LOC",
+    "Contexte gauche": "Pamphlets, Relation fid.",
+    "Contexte droite": ", 1790, p. 248"
+  },
+  "Entite335": {
+    "entite": "Loger",
+    "label": "PER",
+    "Contexte gauche": "P. plaisant. ,,",
+    "Contexte droite": "dans la maison du roi"
+  },
+  "Entite336": {
+    "entite": "Servir",
+    "label": "LOC",
+    "Contexte gauche": "1878).\n\u2666",
+    "Contexte droite": "le roi. \u00catre soldat"
+  },
+  "Entite337": {
+    "entite": "Journal",
+    "label": "PER",
+    "Contexte gauche": "le roi (Vigny,",
+    "Contexte droite": "po\u00e8te, 1830, p."
+  },
+  "Entite338": {
+    "entite": "V. noble1A 1 a.\u00catre",
+    "label": "MISC",
+    "Contexte gauche": "Noble comme le roi.",
+    "Contexte droite": "plus royaliste* que le"
+  },
+  "Entite339": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": ".\n\u2666 Fam.",
+    "Contexte droite": "n'est pas son cousin"
+  },
+  "Entite340": {
+    "entite": "Indique",
+    "label": "PER",
+    "Contexte gauche": "pas son cousin. [",
+    "Contexte droite": "qu'une pers. est"
+  },
+  "Entite341": {
+    "entite": "Edmond Barbentane",
+    "label": "PER",
+    "Contexte gauche": "de qqc.] [",
+    "Contexte droite": "] a dans la poche"
+  },
+  "Entite342": {
+    "entite": "Jacques Schoelzer",
+    "label": "PER",
+    "Contexte gauche": "de l'argent pr\u00eat\u00e9 par",
+    "Contexte droite": ". Le roi n'est"
+  },
+  "Entite343": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "pr\u00eat\u00e9 par Jacques Schoelzer.",
+    "Contexte droite": "n'est pas son cousin"
+  },
+  "Entite344": {
+    "entite": "Aragon",
+    "label": "PER",
+    "Contexte gauche": "est pas son cousin (",
+    "Contexte droite": ", Beaux quart.,"
+  },
+  "Entite345": {
+    "entite": "Beaux quart",
+    "label": "PER",
+    "Contexte gauche": "son cousin (Aragon,",
+    "Contexte droite": "., 1936, p."
+  },
+  "Entite346": {
+    "entite": "R\u00e9plique",
+    "label": "LOC",
+    "Contexte gauche": ": nous voulons. [",
+    "Contexte droite": "\u00e0 une pers. voulant"
+  },
+  "Entite347": {
+    "entite": "Louis XI",
+    "label": "PER",
+    "Contexte gauche": ", restez (Delavigne,",
+    "Contexte droite": ", 1832, II,"
+  },
+  "Entite348": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "Louis XI, 1832,",
+    "Contexte droite": ", 2, p. 38"
+  },
+  "Entite349": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "des choses magnifiques? (",
+    "Contexte droite": ". xixes.)."
+  },
+  "Entite350": {
+    "entite": "Arthur",
+    "label": "PER",
+    "Contexte gauche": "ses droits, reprit sir",
+    "Contexte droite": ", et je ne puis"
+  },
+  "Entite351": {
+    "entite": "Ponson du Terr.",
+    "label": "MISC",
+    "Contexte gauche": "n'ai pas encore (",
+    "Contexte droite": ", Rocambole, t. 3"
+  },
+  "Entite352": {
+    "entite": "Rocambole, t. 3",
+    "label": "MISC",
+    "Contexte gauche": "Ponson du Terr.,",
+    "Contexte droite": ", 1859, p. 371"
+  },
+  "Entite353": {
+    "entite": "qu')\u00e0",
+    "label": "MISC",
+    "Contexte gauche": "(ne) va (",
+    "Contexte droite": "pied, en personne,"
+  },
+  "Entite354": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "faire ses besoins. (",
+    "Contexte droite": ". xixeet xxes.)"
+  },
+  "Entite355": {
+    "entite": "xixeet xxes",
+    "label": "PER",
+    "Contexte gauche": "besoins. (Dict.",
+    "Contexte droite": ".). [P."
+  },
+  "Entite356": {
+    "entite": "Doroth\u00e9e",
+    "label": "PER",
+    "Contexte gauche": "), tout ce que",
+    "Contexte droite": "put imaginer, ce fut"
+  },
+  "Entite357": {
+    "entite": "Barth\u00e9lemy",
+    "label": "LOC",
+    "Contexte gauche": "du devant de porte de",
+    "Contexte droite": ". Chaque soir, la"
+  },
+  "Entite358": {
+    "entite": "Gaspard",
+    "label": "PER",
+    "Contexte gauche": "quelque autre. Pourrat,",
+    "Contexte droite": ", 1922, p. 184"
+  },
+  "Entite359": {
+    "entite": "P. m\u00e9ton",
+    "label": "PER",
+    "Contexte gauche": "184.\nC. \u2212",
+    "Contexte droite": "., JEUX. ["
+  },
+  "Entite360": {
+    "entite": "JEUX",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 P. m\u00e9ton.,",
+    "Contexte droite": ". [La pers."
+  },
+  "Entite361": {
+    "entite": "JEU",
+    "label": "ORG",
+    "Contexte gauche": "jeu]\n1.",
+    "Contexte droite": "DE CARTES\na)"
+  },
+  "Entite362": {
+    "entite": "CARTES\na)",
+    "label": "ORG",
+    "Contexte gauche": "\n1. JEU DE",
+    "Contexte droite": "Chacune des quatre cartes d'"
+  },
+  "Entite363": {
+    "entite": "Sois",
+    "label": "LOC",
+    "Contexte gauche": ", de pique, etc.",
+    "Contexte droite": "sage, finissons la partie"
+  },
+  "Entite364": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": ", continuait \u00e0 gronder (",
+    "Contexte droite": ", Faute Abb\u00e9 Mouret,"
+  },
+  "Entite365": {
+    "entite": "Faute",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 gronder (Zola,",
+    "Contexte droite": "Abb\u00e9 Mouret, 1875,"
+  },
+  "Entite366": {
+    "entite": "Abb\u00e9 Mouret",
+    "label": "PER",
+    "Contexte gauche": "gronder (Zola, Faute",
+    "Contexte droite": ", 1875, p. 1494"
+  },
+  "Entite367": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ").\nb)",
+    "Contexte droite": "(de piquet)."
+  },
+  "Entite368": {
+    "entite": "Ad\u00e9la\u00efde",
+    "label": "LOC",
+    "Contexte gauche": "1878).Le peintre resta pr\u00e8s d'",
+    "Contexte droite": "qui lui proposa six rois"
+  },
+  "Entite369": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "piquet, il accepta (",
+    "Contexte droite": ", Bourse, 1832,"
+  },
+  "Entite370": {
+    "entite": "JEU D'\u00c9CHECS",
+    "label": "PER",
+    "Contexte gauche": ").\n2.",
+    "Contexte droite": ". Pi\u00e8ce principale du jeu"
+  },
+  "Entite371": {
+    "entite": "\u00c9crit sur eau",
+    "label": "MISC",
+    "Contexte gauche": "sens commun (Miomandre,",
+    "Contexte droite": ", 1908, p. 195).V."
+  },
+  "Entite372": {
+    "entite": "Green",
+    "label": "PER",
+    "Contexte gauche": "195).V. mat ex. de",
+    "Contexte droite": ".\nII. \u2212"
+  },
+  "Entite373": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "le roi du salon (",
+    "Contexte droite": ", Illus. perdues,"
+  },
+  "Entite374": {
+    "entite": "Illus",
+    "label": "PER",
+    "Contexte gauche": "du salon (Balzac,",
+    "Contexte droite": ". perdues, 1843,"
+  },
+  "Entite375": {
+    "entite": "Genevoix, Raboliot",
+    "label": "MISC",
+    "Contexte gauche": "dire sans me vanter (",
+    "Contexte droite": ", 1925, p. 138"
+  },
+  "Entite376": {
+    "entite": "Empl",
+    "label": "LOC",
+    "Contexte gauche": "138).\n\u2212",
+    "Contexte droite": ". hypocor. Tout m'"
+  },
+  "Entite377": {
+    "entite": "Journal homme 40 ans",
+    "label": "MISC",
+    "Contexte gauche": "roi \u00bb (Gu\u00e9henno,",
+    "Contexte droite": ", 1934, p. 23"
+  },
+  "Entite378": {
+    "entite": "C'\u00e9tait le roi des hommes",
+    "label": "MISC",
+    "Contexte gauche": "tr\u00e8s gentil, pr\u00e9venant]",
+    "Contexte droite": ", ce brave M. Pons"
+  },
+  "Entite379": {
+    "entite": "M. Pons",
+    "label": "PER",
+    "Contexte gauche": "des hommes, ce brave",
+    "Contexte droite": ". Tous les mois,"
+  },
+  "Entite380": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "me donnait cent sous (",
+    "Contexte droite": ", Cous. Pons,"
+  },
+  "Entite381": {
+    "entite": "Aristophane: Les Oiseaux]",
+    "label": "MISC",
+    "Contexte gauche": ". \u00e0 la com\u00e9die d'",
+    "Contexte droite": "Le roi des oiseaux."
+  },
+  "Entite382": {
+    "entite": "Le roi des oiseaux",
+    "label": "MISC",
+    "Contexte gauche": "Aristophane: Les Oiseaux]",
+    "Contexte droite": ". [Qualifie un personnage"
+  },
+  "Entite383": {
+    "entite": "Grabi\u00e9 des Griffoux",
+    "label": "LOC",
+    "Contexte gauche": "pas un pour approcher du",
+    "Contexte droite": ", qui vivait en for\u00eat"
+  },
+  "Entite384": {
+    "entite": "Gaspard",
+    "label": "PER",
+    "Contexte gauche": "le bougre... Pourrat,",
+    "Contexte droite": ", 1930, p. 171"
+  },
+  "Entite385": {
+    "entite": "Passion J. Pasquier",
+    "label": "PER",
+    "Contexte gauche": "des raseurs (Duhamel,",
+    "Contexte droite": ", 1945, p. 26"
+  },
+  "Entite386": {
+    "entite": "Empl",
+    "label": "LOC",
+    "Contexte gauche": "26).\n\u2212",
+    "Contexte droite": ". adj. L'historien"
+  },
+  "Entite387": {
+    "entite": "Vierge",
+    "label": "LOC",
+    "Contexte gauche": "que la chapelle de la",
+    "Contexte droite": "(Michelet, Chemins Europe"
+  },
+  "Entite388": {
+    "entite": "Chemins Europe",
+    "label": "ORG",
+    "Contexte gauche": "la Vierge (Michelet,",
+    "Contexte droite": ", 1874, p. 235).V."
+  },
+  "Entite389": {
+    "entite": "Weinand",
+    "label": "PER",
+    "Contexte gauche": "235).V. jeudi ex. de",
+    "Contexte droite": ".\n2. En"
+  },
+  "Entite390": {
+    "entite": "L. Burckart",
+    "label": "PER",
+    "Contexte gauche": "un roi (Nerval,",
+    "Contexte droite": ", 1839, p. 140).La"
+  },
+  "Entite391": {
+    "entite": "140).La comtesse d'Urgel",
+    "label": "PER",
+    "Contexte gauche": "Burckart, 1839, p.",
+    "Contexte droite": "envoya une couronne estim\u00e9e \u00e0"
+  },
+  "Entite392": {
+    "entite": "Vie temps st Louis",
+    "label": "MISC",
+    "Contexte gauche": "des jongleurs (Faral,",
+    "Contexte droite": ", 1942, p. 180).Petit"
+  },
+  "Entite393": {
+    "entite": "Menon",
+    "label": "LOC",
+    "Contexte gauche": "d'une fl\u00e8che habile (",
+    "Contexte droite": ", Lecott\u00e9, Vill."
+  },
+  "Entite394": {
+    "entite": "Lecott\u00e9",
+    "label": "LOC",
+    "Contexte gauche": "fl\u00e8che habile (Menon,",
+    "Contexte droite": ", Vill. Fr."
+  },
+  "Entite395": {
+    "entite": "Vill",
+    "label": "LOC",
+    "Contexte gauche": "(Menon, Lecott\u00e9,",
+    "Contexte droite": ". Fr., 1"
+  },
+  "Entite396": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "\n\u2212 Vieilli\n\u2666",
+    "Contexte droite": "de l'oiseau. ,"
+  },
+  "Entite397": {
+    "entite": "Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "l'oiseau`` (",
+    "Contexte droite": ").\n\u2666 Roi"
+  },
+  "Entite398": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "Littr\u00e9).\n\u2666",
+    "Contexte droite": "des p\u00e8lerins. ,,"
+  },
+  "Entite399": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "1878).\n\u2212",
+    "Contexte droite": "du bal. Celui qui"
+  },
+  "Entite400": {
+    "entite": "Terres lorr.",
+    "label": "LOC",
+    "Contexte gauche": "beau danseur (Moselly,",
+    "Contexte droite": ", 1907, p. 83"
+  },
+  "Entite401": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "83).\n\u2212",
+    "Contexte droite": "de la f\u00e8ve (vieilli"
+  },
+  "Entite402": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": "reine ex.\n\u2666",
+    "Contexte droite": "boit! [Exclam."
+  },
+  "Entite403": {
+    "entite": "r\u00e9p\u00e9t\u00e9e g\u00e9n",
+    "label": "PER",
+    "Contexte gauche": "boit! [Exclam.",
+    "Contexte droite": ". deux fois par les"
+  },
+  "Entite404": {
+    "entite": "f\u00eate des Rois",
+    "label": "MISC",
+    "Contexte gauche": "le roi boit] La",
+    "Contexte droite": ", le joyeux cri \u00ab"
+  },
+  "Entite405": {
+    "entite": "Le Roi",
+    "label": "PER",
+    "Contexte gauche": ", le joyeux cri \u00ab",
+    "Contexte droite": "boit \u00bb seraient un reste"
+  },
+  "Entite406": {
+    "entite": "Saturnales antiques",
+    "label": "MISC",
+    "Contexte gauche": "\u00bb seraient un reste des",
+    "Contexte droite": "(D\u00e9vigne, L\u00e9gend."
+  },
+  "Entite407": {
+    "entite": "Fr",
+    "label": "LOC",
+    "Contexte gauche": "D\u00e9vigne, L\u00e9gend. de",
+    "Contexte droite": "., 1942, p."
+  },
+  "Entite408": {
+    "entite": "99).V. g\u00e2teau",
+    "label": "MISC",
+    "Contexte gauche": "., 1942, p.",
+    "Contexte droite": "ex. 2.\n"
+  },
+  "Entite409": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "HIST. ANC.\n",
+    "Contexte droite": "du festin. Convive qui"
+  },
+  "Entite410": {
+    "entite": "Lycus",
+    "label": "LOC",
+    "Contexte gauche": "\n6. Pr\u00e8s de",
+    "Contexte droite": ", sa fille, idole"
+  },
+  "Entite411": {
+    "entite": "Bucoliques",
+    "label": "LOC",
+    "Contexte gauche": "du festin... Ch\u00e9nier,",
+    "Contexte droite": ", 1794, p. 205"
+  },
+  "Entite412": {
+    "entite": "V. ribaud",
+    "label": "PER",
+    "Contexte gauche": ". Roi des ribauds.",
+    "Contexte droite": ".\nRoi d'armes"
+  },
+  "Entite413": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ". V. ribaud.\n",
+    "Contexte droite": "d'armes. Dignitaire \u00e0"
+  },
+  "Entite414": {
+    "entite": "Jarreti\u00e8re",
+    "label": "PER",
+    "Contexte gauche": ". Le roi d'armes",
+    "Contexte droite": "les montra du doigt \u00e0"
+  },
+  "Entite415": {
+    "entite": "Gwynplaine",
+    "label": "PER",
+    "Contexte gauche": "les montra du doigt \u00e0",
+    "Contexte droite": "(Hugo, Homme qui"
+  },
+  "Entite416": {
+    "entite": "Homme qui rit",
+    "label": "MISC",
+    "Contexte gauche": "\u00e0 Gwynplaine (Hugo,",
+    "Contexte droite": ", t. 3, 1869"
+  },
+  "Entite417": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ". merciers).\n",
+    "Contexte droite": "de Thune(s). Chef"
+  },
+  "Entite418": {
+    "entite": "Maxime",
+    "label": "PER",
+    "Contexte gauche": "de gueux au xves.",
+    "Contexte droite": "grav\u00e9e au clou sur le"
+  },
+  "Entite419": {
+    "entite": "mur",
+    "label": "MISC",
+    "Contexte gauche": "grav\u00e9e au clou sur le",
+    "Contexte droite": "par un roi de Thunes"
+  },
+  "Entite420": {
+    "entite": "Thunes",
+    "label": "LOC",
+    "Contexte gauche": "mur par un roi de",
+    "Contexte droite": "condamn\u00e9 aux gal\u00e8res (Hugo"
+  },
+  "Entite421": {
+    "entite": "Mis\u00e9r",
+    "label": "LOC",
+    "Contexte gauche": "aux gal\u00e8res (Hugo,",
+    "Contexte droite": "., t. 2,"
+  },
+  "Entite422": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ").\nb)",
+    "Contexte droite": "de + subst. rel"
+  },
+  "Entite423": {
+    "entite": "Synon",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 un secteur \u00e9con.",
+    "Contexte droite": ". de magnat (v."
+  },
+  "Entite424": {
+    "entite": "magnat",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9con.Synon. de",
+    "Contexte droite": "(v. ce mot B).Roi"
+  },
+  "Entite425": {
+    "entite": "Zola",
+    "label": "PER",
+    "Contexte gauche": "roi de l'industrie (",
+    "Contexte droite": ", Travail, t. 1"
+  },
+  "Entite426": {
+    "entite": "Travail, t. 1",
+    "label": "MISC",
+    "Contexte gauche": "l'industrie (Zola,",
+    "Contexte droite": ", 1901, p. 85).V."
+  },
+  "Entite427": {
+    "entite": "85).V.",
+    "label": "LOC",
+    "Contexte gauche": "1, 1901, p.",
+    "Contexte droite": "combinat ex.\nc"
+  },
+  "Entite428": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "ex.\nc)",
+    "Contexte droite": "de + subst. rel"
+  },
+  "Entite429": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "(...) les \u00ab",
+    "Contexte droite": "du volant \u00bb... les"
+  },
+  "Entite430": {
+    "entite": "H\u00e9ros",
+    "label": "LOC",
+    "Contexte gauche": "p\u00e9dale \u00bb et les \u00ab",
+    "Contexte droite": "de l'aviation \u00bb ("
+  },
+  "Entite431": {
+    "entite": "Mort \u00e0 cr\u00e9dit",
+    "label": "MISC",
+    "Contexte gauche": "aviation \u00bb (C\u00e9line,",
+    "Contexte droite": ", 1936, p. 394"
+  },
+  "Entite432": {
+    "entite": "Jouer",
+    "label": "PER",
+    "Contexte gauche": ". Jouer au roi d\u00e9pouill\u00e9*.",
+    "Contexte droite": "au roi d\u00e9tr\u00f4n\u00e9. Dans"
+  },
+  "Entite433": {
+    "entite": "Ds Littr\u00e9",
+    "label": "PER",
+    "Contexte gauche": "et vice versa. (",
+    "Contexte droite": ").\n3."
+  },
+  "Entite434": {
+    "entite": "Le roi",
+    "label": "PER",
+    "Contexte gauche": ". d\u00e9terminatif]\n\u2666",
+    "Contexte droite": "c\u00e9leste, le roi du"
+  },
+  "Entite435": {
+    "entite": "R\u00e9demption] aborde le dey d'Alger",
+    "label": "MISC",
+    "Contexte gauche": "[Le p\u00e8re de la",
+    "Contexte droite": ", il lui parle,"
+  },
+  "Entite436": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ", au nom de ce",
+    "Contexte droite": "c\u00e9leste dont il est l'"
+  },
+  "Entite437": {
+    "entite": "G\u00e9nie, t. 2",
+    "label": "MISC",
+    "Contexte gauche": "ambassadeur (Chateaubr.,",
+    "Contexte droite": ", 1803, p. 397).Je"
+  },
+  "Entite438": {
+    "entite": "Roi du Ciel",
+    "label": "PER",
+    "Contexte gauche": "ma\u00eetre, qui est le",
+    "Contexte droite": "(A. France, Clio"
+  },
+  "Entite439": {
+    "entite": "A. France",
+    "label": "PER",
+    "Contexte gauche": "le Roi du Ciel (",
+    "Contexte droite": ", Clio, 1900,"
+  },
+  "Entite440": {
+    "entite": "Clio",
+    "label": "MISC",
+    "Contexte gauche": "Ciel (A. France,",
+    "Contexte droite": ", 1900, p. 127).\u00c0"
+  },
+  "Entite441": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "part, bien entendu,",
+    "Contexte droite": "lui-m\u00eame, \u00e2me des \u00e2mes"
+  },
+  "Entite442": {
+    "entite": "Poulet",
+    "label": "LOC",
+    "Contexte gauche": "immanent \u00e0 l'espace (",
+    "Contexte droite": ", M\u00e9tam. cercle,"
+  },
+  "Entite443": {
+    "entite": "Weill",
+    "label": "LOC",
+    "Contexte gauche": "192).V. royaut\u00e9 ex. de",
+    "Contexte droite": ".\n\u2666 Le roi"
+  },
+  "Entite444": {
+    "entite": "Claudel",
+    "label": "PER",
+    "Contexte gauche": "V. INRI ex. de",
+    "Contexte droite": ":\n7. Avons"
+  },
+  "Entite445": {
+    "entite": "roi des",
+    "label": "PER",
+    "Contexte gauche": "de nos jours Entre le",
+    "Contexte droite": "Juifs et le pr\u00e9fet de"
+  },
+  "Entite446": {
+    "entite": "Juifs",
+    "label": "MISC",
+    "Contexte gauche": "jours Entre le roi des",
+    "Contexte droite": "et le pr\u00e9fet de Rome"
+  },
+  "Entite447": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "Juifs et le pr\u00e9fet de",
+    "Contexte droite": ". P\u00e9guy, \u00c8ve,"
+  },
+  "Entite448": {
+    "entite": "Jupiter",
+    "label": "PER",
+    "Contexte gauche": "Le roi des dieux.",
+    "Contexte droite": ". Oreste [\u00e0 Jupiter"
+  },
+  "Entite449": {
+    "entite": "Jupiter",
+    "label": "LOC",
+    "Contexte gauche": "Jupiter. Oreste [\u00e0",
+    "Contexte droite": "]: Quitte ce ton"
+  },
+  "Entite450": {
+    "entite": "Dieux",
+    "label": "PER",
+    "Contexte gauche": "sied mal au roi des",
+    "Contexte droite": "(Sartre, Mouches,"
+  },
+  "Entite451": {
+    "entite": "Sartre",
+    "label": "PER",
+    "Contexte gauche": "au roi des Dieux (",
+    "Contexte droite": ", Mouches, 1943,"
+  },
+  "Entite452": {
+    "entite": "Satan",
+    "label": "PER",
+    "Contexte gauche": "Le roi des enfers\n",
+    "Contexte droite": ". Le cadre m\u00eame du"
+  },
+  "Entite453": {
+    "entite": "Philos",
+    "label": "PER",
+    "Contexte gauche": "s\u00e9raphins? (Ozanam,",
+    "Contexte droite": ". Dante, 1838,"
+  },
+  "Entite454": {
+    "entite": "Dante",
+    "label": "PER",
+    "Contexte gauche": "(Ozanam, Philos.",
+    "Contexte droite": ", 1838, p. 252"
+  },
+  "Entite455": {
+    "entite": "Jupiter",
+    "label": "LOC",
+    "Contexte gauche": ").\nPluton.",
+    "Contexte droite": "[\u00e0 Pluton]:"
+  },
+  "Entite456": {
+    "entite": "Pluton",
+    "label": "LOC",
+    "Contexte gauche": "Pluton. Jupiter [\u00e0",
+    "Contexte droite": "]: (...)"
+  },
+  "Entite457": {
+    "entite": "Orph\u00e9e",
+    "label": "MISC",
+    "Contexte gauche": "appelle! (Cr\u00e9mieux,",
+    "Contexte droite": ", 1858, i,"
+  },
+  "Entite458": {
+    "entite": "Arabie]",
+    "label": "LOC",
+    "Contexte gauche": ". [Les animaux en",
+    "Contexte droite": "se souviennent mieux des jours"
+  },
+  "Entite459": {
+    "entite": "\u00c9den",
+    "label": "MISC",
+    "Contexte gauche": "souviennent mieux des jours d'",
+    "Contexte droite": ", o\u00f9 ils \u00e9taient encore"
+  },
+  "Entite460": {
+    "entite": "Voy",
+    "label": "MISC",
+    "Contexte gauche": "nature (Lamart.,",
+    "Contexte droite": ". Orient, t. 2"
+  },
+  "Entite461": {
+    "entite": "Providence",
+    "label": "LOC",
+    "Contexte gauche": "faible roitelet, si la",
+    "Contexte droite": "n'avait remis entre ses"
+  },
+  "Entite462": {
+    "entite": "Combien",
+    "label": "LOC",
+    "Contexte gauche": "tableau lamentable il pr\u00e9sente!",
+    "Contexte droite": "il est \u00e0 plaindre celui"
+  },
+  "Entite463": {
+    "entite": "Harm",
+    "label": "MISC",
+    "Contexte gauche": "Bern. de St.-P.,",
+    "Contexte droite": ". nat., 1814"
+  },
+  "Entite464": {
+    "entite": "Christ-Roi",
+    "label": "LOC",
+    "Contexte gauche": "\u2212 En compos. Le",
+    "Contexte droite": ". Un j\u00e9suite form\u00e9 par"
+  },
+  "Entite465": {
+    "entite": "Christ-roi",
+    "label": "PER",
+    "Contexte gauche": "spirituelle est de suivre le",
+    "Contexte droite": "et de l'imiter ("
+  },
+  "Entite466": {
+    "entite": "Bremond,Hist",
+    "label": "LOC",
+    "Contexte gauche": "et de l'imiter (",
+    "Contexte droite": ". sent. relig."
+  },
+  "Entite467": {
+    "entite": "264).F\u00eate du Christ-Roi",
+    "label": "MISC",
+    "Contexte gauche": "3, 1921, p.",
+    "Contexte droite": ". La f\u00eate du Christ"
+  },
+  "Entite468": {
+    "entite": "f\u00eate du Christ-Roi",
+    "label": "MISC",
+    "Contexte gauche": "Christ-Roi. La",
+    "Contexte droite": ", \u00e9tendue \u00e0 toute l'"
+  },
+  "Entite469": {
+    "entite": "\u00c9glise",
+    "label": "MISC",
+    "Contexte gauche": ", \u00e9tendue \u00e0 toute l'",
+    "Contexte droite": "par Pie XI, veut"
+  },
+  "Entite470": {
+    "entite": "Pie XI",
+    "label": "PER",
+    "Contexte gauche": "\u00e0 toute l'\u00c9glise par",
+    "Contexte droite": ", veut attester le droit"
+  },
+  "Entite471": {
+    "entite": "Sauveur",
+    "label": "PER",
+    "Contexte gauche": "veut attester le droit du",
+    "Contexte droite": "\u00e0 \u00eatre reconnu comme l\u00e9gislateur"
+  },
+  "Entite472": {
+    "entite": "Foit",
+    "label": "MISC",
+    "Contexte gauche": "de toute l'humanit\u00e9 (",
+    "Contexte droite": ". 11968).\n"
+  },
+  "Entite473": {
+    "entite": "Sur l'horizon ses nouvelles clart\u00e9s",
+    "label": "MISC",
+    "Contexte gauche": "jour s'appr\u00eatait \u00e0 r\u00e9pandre",
+    "Contexte droite": "(Baour-Lormian,"
+  },
+  "Entite474": {
+    "entite": "Baour-Lormian",
+    "label": "LOC",
+    "Contexte gauche": "horizon ses nouvelles clart\u00e9s (",
+    "Contexte droite": ", Ossian, 1827,"
+  },
+  "Entite475": {
+    "entite": "Ossian",
+    "label": "MISC",
+    "Contexte gauche": "(Baour-Lormian,",
+    "Contexte droite": ", 1827, p. 5"
+  },
+  "Entite476": {
+    "entite": "Peuple",
+    "label": "LOC",
+    "Contexte gauche": "une collectivit\u00e9] Peuple(-)roi.",
+    "Contexte droite": "qui l'emporte sur les"
+  },
+  "Entite477": {
+    "entite": "hist",
+    "label": "PER",
+    "Contexte gauche": ", Esq. tabl.",
+    "Contexte droite": "., 1794, p."
+  },
+  "Entite478": {
+    "entite": "Colis\u00e9e",
+    "label": "LOC",
+    "Contexte gauche": ", 1794, p. 75).Le",
+    "Contexte droite": "n'est que la formule"
+  },
+  "Entite479": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "peuple roi (Faure,",
+    "Contexte droite": ". art, 1909,"
+  },
+  "Entite480": {
+    "entite": "Alain",
+    "label": "PER",
+    "Contexte gauche": "en porte les couleurs (",
+    "Contexte droite": ", Propos, 1923,"
+  },
+  "Entite481": {
+    "entite": "Bern",
+    "label": "LOC",
+    "Contexte gauche": "animaux se faisait entendre (",
+    "Contexte droite": ". de St-P.,Harm"
+  },
+  "Entite482": {
+    "entite": "Dusaulx, Voy",
+    "label": "MISC",
+    "Contexte gauche": "tyran toi-m\u00eame (",
+    "Contexte droite": ". Bar\u00e8ge, t. 1"
+  },
+  "Entite483": {
+    "entite": "Vantoient",
+    "label": "LOC",
+    "Contexte gauche": ". [Les autres]",
+    "Contexte droite": "le privilege unique De ce"
+  },
+  "Entite484": {
+    "entite": "De ce roi des oiseaux",
+    "label": "MISC",
+    "Contexte gauche": "] Vantoient le privilege unique",
+    "Contexte droite": ", de cet enfant du"
+  },
+  "Entite485": {
+    "entite": "Se consume",
+    "label": "PER",
+    "Contexte gauche": "b\u00fbcher de cedre aromatique,",
+    "Contexte droite": "lui-m\u00eame, et rena\u00eet immortel"
+  },
+  "Entite486": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": ". d'un animal]",
+    "Contexte droite": "de(s) caille(s)."
+  },
+  "Entite487": {
+    "entite": "Synon",
+    "label": "LOC",
+    "Contexte gauche": "de(s) caille(s).",
+    "Contexte droite": ". r\u00e2le de(s) gen\u00eats"
+  },
+  "Entite488": {
+    "entite": "r\u00e2le",
+    "label": "LOC",
+    "Contexte gauche": "caille(s). Synon.",
+    "Contexte droite": "de(s) gen\u00eats (v."
+  },
+  "Entite489": {
+    "entite": "gen\u00eats",
+    "label": "LOC",
+    "Contexte gauche": "Synon. r\u00e2le de(s)",
+    "Contexte droite": "(v. r\u00e2le1).Broche admirablement garnie"
+  },
+  "Entite490": {
+    "entite": "garnie de cailles",
+    "label": "PER",
+    "Contexte gauche": "gen\u00eats (v. r\u00e2le1).Broche admirablement",
+    "Contexte droite": ", rois de cailles,"
+  },
+  "Entite491": {
+    "entite": "Brillat-Sav",
+    "label": "LOC",
+    "Contexte gauche": "sont toujours si gras (",
+    "Contexte droite": "., Physiol. go\u00fbt"
+  },
+  "Entite492": {
+    "entite": "Physiol",
+    "label": "LOC",
+    "Contexte gauche": "Brillat-Sav.,",
+    "Contexte droite": ". go\u00fbt, 1825,"
+  },
+  "Entite493": {
+    "entite": "376).On",
+    "label": "MISC",
+    "Contexte gauche": "go\u00fbt, 1825, p.",
+    "Contexte droite": "ne cherche pas le r\u00e2le"
+  },
+  "Entite494": {
+    "entite": "Melon",
+    "label": "LOC",
+    "Contexte gauche": "fort dans le temps le",
+    "Contexte droite": "; il [Saint-Amant]"
+  },
+  "Entite495": {
+    "entite": "Sainte-Beuve",
+    "label": "MISC",
+    "Contexte gauche": "ce roi des fruits (",
+    "Contexte droite": ", Caus. lundi,"
+  },
+  "Entite496": {
+    "entite": "Caus.",
+    "label": "MISC",
+    "Contexte gauche": "des fruits (Sainte-Beuve,",
+    "Contexte droite": "lundi, t. 12,"
+  },
+  "Entite497": {
+    "entite": "Chateaubr",
+    "label": "MISC",
+    "Contexte gauche": "verdoyant une couronne dess\u00e9ch\u00e9e (",
+    "Contexte droite": "., Martyrs, t."
+  },
+  "Entite498": {
+    "entite": "Martyrs",
+    "label": "LOC",
+    "Contexte gauche": "dess\u00e9ch\u00e9e (Chateaubr.,",
+    "Contexte droite": ", t. 3, 1810"
+  },
+  "Entite499": {
+    "entite": "Dict",
+    "label": "LOC",
+    "Contexte gauche": "des m\u00e9taux (Wurtz,",
+    "Contexte droite": ". chim., t."
+  },
+  "Entite500": {
+    "entite": "t. 2",
+    "label": "MISC",
+    "Contexte gauche": "Dict. chim.,",
+    "Contexte droite": ", vol. 1,"
+  },
+  "Entite501": {
+    "entite": "Inde",
+    "label": "LOC",
+    "Contexte gauche": ", 1873, p. 625).L'",
+    "Contexte droite": "sous les rajahs, livre"
+  },
+  "Entite502": {
+    "entite": "Mallarm\u00e9, Dern",
+    "label": "MISC",
+    "Contexte gauche": "roi de la saison (",
+    "Contexte droite": ". mode, 1874,"
+  },
+  "Entite503": {
+    "entite": "Roi",
+    "label": "PER",
+    "Contexte gauche": "] Le temps, ce",
+    "Contexte droite": "cruel, m'assignant mon"
+  },
+  "Entite504": {
+    "entite": "Journal",
+    "label": "MISC",
+    "Contexte gauche": "mon tombeau (Ch\u00eanedoll\u00e9,",
+    "Contexte droite": ", 1808, p. 34).La"
+  },
+  "Entite505": {
+    "entite": "Vice supr",
+    "label": "PER",
+    "Contexte gauche": "le catholicisme (P\u00e9ladan,",
+    "Contexte droite": "., 1884, p."
+  },
+  "Entite506": {
+    "entite": "R\u00e9gion",
+    "label": "LOC",
+    "Contexte gauche": ". Empl. adj.",
+    "Contexte droite": "foresti\u00e8re, o\u00f9 l'arbre"
+  },
+  "Entite507": {
+    "entite": "Vidal de",
+    "label": "MISC",
+    "Contexte gauche": "l'arbre \u00e9tait roi (",
+    "Contexte droite": "La Bl., Tabl"
+  },
+  "Entite508": {
+    "entite": "La Bl.",
+    "label": "ORG",
+    "Contexte gauche": "\u00e9tait roi (Vidal de",
+    "Contexte droite": ", Tabl. g\u00e9ogr."
+  },
+  "Entite509": {
+    "entite": "Tabl",
+    "label": "PER",
+    "Contexte gauche": "de La Bl.,",
+    "Contexte droite": ". g\u00e9ogr. Fr."
+  },
+  "Entite510": {
+    "entite": "Homme r\u00e9v.",
+    "label": "MISC",
+    "Contexte gauche": "les t\u00e9n\u00e8bres (Camus,",
+    "Contexte droite": ", 1951, p. 95"
+  },
+  "Entite511": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "astre roi (Faure,",
+    "Contexte droite": ". art, 1921,"
+  },
+  "Entite512": {
+    "entite": "Pierres pr\u00e9c.",
+    "label": "LOC",
+    "Contexte gauche": "-roi (Metta,",
+    "Contexte droite": ", 1960, p. 77"
+  },
+  "Entite513": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ".: [\u0280w\u0251]"
+  },
+  "Entite514": {
+    "entite": "Warn",
+    "label": "LOC",
+    "Contexte gauche": "\u0280wa]. Homon. roie.",
+    "Contexte droite": ". 1968 [a]"
+  },
+  "Entite515": {
+    "entite": "Rob",
+    "label": "MISC",
+    "Contexte gauche": "parfois [\u0251];",
+    "Contexte droite": ". 1985 [a]"
+  },
+  "Entite516": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "[a], mais",
+    "Contexte droite": ". Lang. fr."
+  },
+  "Entite517": {
+    "entite": "fr",
+    "label": "LOC",
+    "Contexte gauche": "mais Lar. Lang.",
+    "Contexte droite": ". [\u0251] et"
+  },
+  "Entite518": {
+    "entite": "Martinet-Walter",
+    "label": "MISC",
+    "Contexte gauche": ". [\u0251] et",
+    "Contexte droite": "1973 [\u0251],"
+  },
+  "Entite519": {
+    "entite": "G. Straka ds Trav",
+    "label": "PER",
+    "Contexte gauche": "[w], voir",
+    "Contexte droite": ". Ling. Litt."
+  },
+  "Entite520": {
+    "entite": "Strasbourg",
+    "label": "LOC",
+    "Contexte gauche": ". Ling. Litt.",
+    "Contexte droite": "t. 19 n o1 1981"
+  },
+  "Entite521": {
+    "entite": "o1",
+    "label": "LOC",
+    "Contexte gauche": ". Strasbourg t. 19 n",
+    "Contexte droite": "1981, p. 215."
+  },
+  "Entite522": {
+    "entite": "Hist",
+    "label": "LOC",
+    "Contexte gauche": "roi. \u00c9tymol. et",
+    "Contexte droite": ". A. 1. a"
+  },
+  "Entite523": {
+    "entite": "Ca 880",
+    "label": "LOC",
+    "Contexte gauche": "A. 1. a)",
+    "Contexte droite": "rex \u00ab souverain d'un"
+  },
+  "Entite524": {
+    "entite": "\u00c9tat",
+    "label": "LOC",
+    "Contexte gauche": "rex \u00ab souverain d'un",
+    "Contexte droite": "\u00bb (Eulalie, 12"
+  },
+  "Entite525": {
+    "entite": "Eulalie",
+    "label": "LOC",
+    "Contexte gauche": "d'un \u00c9tat \u00bb (",
+    "Contexte droite": ", 12 ds Henry Chrestomathie"
+  },
+  "Entite526": {
+    "entite": "Henry Chrestomathie",
+    "label": "PER",
+    "Contexte gauche": "(Eulalie, 12 ds",
+    "Contexte droite": ", p. 3);"
+  },
+  "Entite527": {
+    "entite": "rei",
+    "label": "MISC",
+    "Contexte gauche": "; 2emoit. xes.",
+    "Contexte droite": "(St L\u00e9ger, \u00e9d"
+  },
+  "Entite528": {
+    "entite": "St L\u00e9ger",
+    "label": "LOC",
+    "Contexte gauche": ". xes. rei (",
+    "Contexte droite": ", \u00e9d. J. Linskill"
+  },
+  "Entite529": {
+    "entite": "J. Linskill",
+    "label": "PER",
+    "Contexte gauche": "St L\u00e9ger, \u00e9d.",
+    "Contexte droite": ", 14); ca"
+  },
+  "Entite530": {
+    "entite": "Bible",
+    "label": "MISC",
+    "Contexte gauche": "rois \u00ab libres de la",
+    "Contexte droite": "consacr\u00e9s aux rois h\u00e9breux \u00bb"
+  },
+  "Entite531": {
+    "entite": "Rois",
+    "label": "LOC",
+    "Contexte gauche": "aux rois h\u00e9breux \u00bb (",
+    "Contexte droite": ", \u00e9d. E. R."
+  },
+  "Entite532": {
+    "entite": "E. R. Curtius",
+    "label": "PER",
+    "Contexte gauche": "(Rois, \u00e9d.",
+    "Contexte droite": ", p. 173);"
+  },
+  "Entite533": {
+    "entite": "Roy Tr\u00e8s-chrestien",
+    "label": "PER",
+    "Contexte gauche": "p. 173); 1606",
+    "Contexte droite": "titre donn\u00e9 aux rois de"
+  },
+  "Entite534": {
+    "entite": "de France",
+    "label": "LOC",
+    "Contexte gauche": "chrestien titre donn\u00e9 aux rois",
+    "Contexte droite": "(Nicot); b"
+  },
+  "Entite535": {
+    "entite": "roy \u00ab brun",
+    "label": "PER",
+    "Contexte gauche": "b) 1543 couleur de",
+    "Contexte droite": "fonc\u00e9 \u00bb (Cptes des"
+  },
+  "Entite536": {
+    "entite": "Cptes des C\u00e9lestins",
+    "label": "LOC",
+    "Contexte gauche": "\u00ab brun fonc\u00e9 \u00bb (",
+    "Contexte droite": ", fol. 108 ds"
+  },
+  "Entite537": {
+    "entite": "roy",
+    "label": "MISC",
+    "Contexte gauche": ".; 1690 bleu de",
+    "Contexte droite": "(Fur., s.v"
+  },
+  "Entite538": {
+    "entite": "roy",
+    "label": "MISC",
+    "Contexte gauche": "); 1549 gens du",
+    "Contexte droite": "\u00ab officiers du roi \u00bb"
+  },
+  "Entite539": {
+    "entite": "roy",
+    "label": "MISC",
+    "Contexte gauche": "); 1606 maison du",
+    "Contexte droite": "(Nicot, s.v."
+  },
+  "Entite540": {
+    "entite": "J\u00e9sus-Christ",
+    "label": "PER",
+    "Contexte gauche": ". reis en parlant de",
+    "Contexte droite": "(Passion, \u00e9d."
+  },
+  "Entite541": {
+    "entite": "Arco Silvio Avalle",
+    "label": "PER",
+    "Contexte gauche": "Passion, \u00e9d. D'",
+    "Contexte droite": ", 34); 1550"
+  },
+  "Entite542": {
+    "entite": "Juifs",
+    "label": "MISC",
+    "Contexte gauche": "); 1550 roi des",
+    "Contexte droite": "(Bible Louvain, Mat"
+  },
+  "Entite543": {
+    "entite": "Bible Louvain, Mat",
+    "label": "MISC",
+    "Contexte gauche": "1550 roi des Juifs (",
+    "Contexte droite": ". 2, 2 d'"
+  },
+  "Entite544": {
+    "entite": "FEW",
+    "label": "MISC",
+    "Contexte gauche": "2, 2 d'apr.",
+    "Contexte droite": "t. 10, p. 367a"
+  },
+  "Entite545": {
+    "entite": "Dieu",
+    "label": "MISC",
+    "Contexte gauche": "ca 1145 en parlant de",
+    "Contexte droite": "reis de majest\u00e9 (Wace"
+  },
+  "Entite546": {
+    "entite": "Conception N.D.",
+    "label": "PER",
+    "Contexte gauche": "de majest\u00e9 (Wace,",
+    "Contexte droite": ", \u00e9d. W. R."
+  },
+  "Entite547": {
+    "entite": "W. R. Ashford",
+    "label": "PER",
+    "Contexte gauche": "Conception N.D., \u00e9d.",
+    "Contexte droite": ", 635); 1155"
+  },
+  "Entite548": {
+    "entite": "Rei de glorie",
+    "label": "MISC",
+    "Contexte gauche": ", 635); 1155",
+    "Contexte droite": "(Id., Brut"
+  },
+  "Entite549": {
+    "entite": "Id",
+    "label": "MISC",
+    "Contexte gauche": "1155 Rei de glorie (",
+    "Contexte droite": "., Brut, \u00e9d"
+  },
+  "Entite550": {
+    "entite": "Brut",
+    "label": "LOC",
+    "Contexte gauche": "glorie (Id.,",
+    "Contexte droite": ", \u00e9d. I. Arnold"
+  },
+  "Entite551": {
+    "entite": "I. Arnold",
+    "label": "PER",
+    "Contexte gauche": ", Brut, \u00e9d.",
+    "Contexte droite": ", 10027); c"
+  },
+  "Entite552": {
+    "entite": "Jupiter",
+    "label": "PER",
+    "Contexte gauche": "ca 1165 en parlant de",
+    "Contexte droite": "rei (Beno\u00eet de Ste"
+  },
+  "Entite553": {
+    "entite": "Beno\u00eet de Ste-Maure",
+    "label": "PER",
+    "Contexte gauche": "parlant de Jupiter rei (",
+    "Contexte droite": ", Troie, \u00e9d."
+  },
+  "Entite554": {
+    "entite": "Troie",
+    "label": "LOC",
+    "Contexte gauche": "de Ste-Maure,",
+    "Contexte droite": ", \u00e9d. L. Constans"
+  },
+  "Entite555": {
+    "entite": "L. Constans",
+    "label": "PER",
+    "Contexte gauche": ", Troie, \u00e9d.",
+    "Contexte droite": ", 25831); 3"
+  },
+  "Entite556": {
+    "entite": "Roys",
+    "label": "MISC",
+    "Contexte gauche": ". 1324 feste des trois",
+    "Contexte droite": "\u00ab \u00c9piphanie \u00bb (Guerre"
+  },
+  "Entite557": {
+    "entite": "\u00c9piphanie",
+    "label": "MISC",
+    "Contexte gauche": "feste des trois Roys \u00ab",
+    "Contexte droite": "\u00bb (Guerre de Metz"
+  },
+  "Entite558": {
+    "entite": "Guerre de Metz ds A. Thierbach ds Untersuchungen zur benennung",
+    "label": "MISC",
+    "Contexte gauche": "Roys \u00ab \u00c9piphanie \u00bb (",
+    "Contexte droite": "der kirchenfeste, p. 22"
+  },
+  "Entite559": {
+    "entite": "guasteau des Roys",
+    "label": "MISC",
+    "Contexte gauche": "1533 trouver la feubve au",
+    "Contexte droite": "(Rabelais, Pantagru\u00e9line prognostication"
+  },
+  "Entite560": {
+    "entite": "Pantagru\u00e9line",
+    "label": "PER",
+    "Contexte gauche": "des Roys (Rabelais,",
+    "Contexte droite": "prognostication, \u00e9d. M."
+  },
+  "Entite561": {
+    "entite": "A. Screech",
+    "label": "PER",
+    "Contexte gauche": "prognostication, \u00e9d. M.",
+    "Contexte droite": ", p. 10);"
+  },
+  "Entite562": {
+    "entite": "Roy",
+    "label": "PER",
+    "Contexte gauche": "10); 1549 estre",
+    "Contexte droite": "de la feue (Est"
+  },
+  "Entite563": {
+    "entite": "Jeux 1",
+    "label": "MISC",
+    "Contexte gauche": "Compl.). B.",
+    "Contexte droite": ". 1176 \u00e9checs roi ("
+  },
+  "Entite564": {
+    "entite": "Chr\u00e9tien de Troyes",
+    "label": "PER",
+    "Contexte gauche": ". 1176 \u00e9checs roi (",
+    "Contexte droite": ", Clig\u00e8s, \u00e9d."
+  },
+  "Entite565": {
+    "entite": "A. Micha",
+    "label": "PER",
+    "Contexte gauche": ", Clig\u00e8s, \u00e9d.",
+    "Contexte droite": ", 2335); 2"
+  },
+  "Entite566": {
+    "entite": "F\u00e2cheux",
+    "label": "LOC",
+    "Contexte gauche": "1661 cartes (Moli\u00e8re,",
+    "Contexte droite": ", II, 2)"
+  },
+  "Entite567": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": "(Moli\u00e8re, F\u00e2cheux,",
+    "Contexte droite": ", 2); 3"
+  },
+  "Entite568": {
+    "entite": "Balzac",
+    "label": "PER",
+    "Contexte gauche": "3. 1832 piquet (",
+    "Contexte droite": ", loc. cit."
+  },
+  "Entite569": {
+    "entite": "Renart",
+    "label": "PER",
+    "Contexte gauche": "d'un roi \u00bb (",
+    "Contexte droite": ", \u00e9d. M. Roques"
+  },
+  "Entite570": {
+    "entite": "V",
+    "label": "MISC",
+    "Contexte gauche": "\u00e9d. M. Roques,",
+    "Contexte droite": ", 5152); 2"
+  },
+  "Entite571": {
+    "entite": "Huon de Cambrai",
+    "label": "PER",
+    "Contexte gauche": "m\u00e9nestrels de son \u00e9poque (",
+    "Contexte droite": ", Regrets N.D., 1"
+  },
+  "Entite572": {
+    "entite": "Regrets N.D.",
+    "label": "MISC",
+    "Contexte gauche": "(Huon de Cambrai,",
+    "Contexte droite": ", 1, 4 ds"
+  },
+  "Entite573": {
+    "entite": "ds T.-L.",
+    "label": "PER",
+    "Contexte gauche": "N.D., 1, 4",
+    "Contexte droite": "); fin xiiies."
+  },
+  "Entite574": {
+    "entite": "Castelain de Couci",
+    "label": "LOC",
+    "Contexte gauche": "des hiraus (Jakemes,",
+    "Contexte droite": ", 2002, ibid."
+  },
+  "Entite575": {
+    "entite": "Jupiter",
+    "label": "LOC",
+    "Contexte gauche": "\u00ab souverain \u00bb, \u00ab",
+    "Contexte droite": "\u00bb et \u00ab chef,"
+  },
+  "Entite576": {
+    "entite": "Latham",
+    "label": "PER",
+    "Contexte gauche": "rex fabe en 1334 ds",
+    "Contexte droite": ". Fr\u00e9q. abs."
+  },
+  "Entite577": {
+    "entite": "Roi-soleil",
+    "label": "LOC",
+    "Contexte gauche": ": 25 604. (",
+    "Contexte droite": ": 13. Roy:"
+  },
+  "Entite578": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r.:",
+    "Contexte droite": ".: a) 68"
+  },
+  "Entite579": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 34 905;",
+    "Contexte droite": ".: a) 19"
+  },
+  "Entite580": {
+    "entite": "Gall",
+    "label": "MISC",
+    "Contexte gauche": ", p. 411. \u2212",
+    "Contexte droite": ". 1955, p. 76"
+  },
+  "Entite581": {
+    "entite": "DDL",
+    "label": "MISC",
+    "Contexte gauche": "76. \u2212 Quem.",
+    "Contexte droite": "t. 9 (s.v."
+  },
+  "Entite582": {
+    "entite": "Vardar Soc",
+    "label": "PER",
+    "Contexte gauche": "), 30. \u2212",
+    "Contexte droite": ". pol. 1973 ["
+  },
+  "Entite583": {
+    "entite": "Walt",
+    "label": "LOC",
+    "Contexte gauche": ", p. 304. \u2212",
+    "Contexte droite": ". 1885, p. 82"
+  }
+}

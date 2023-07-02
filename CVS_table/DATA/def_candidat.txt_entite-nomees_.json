@@ -1,0 +1,350 @@
+{
+  "Entite0": {
+    "entite": "- Candidat",
+    "label": "PER",
+    "Contexte gauche": "",
+    "Contexte droite": ", -ate, subst."
+  },
+  "Entite1": {
+    "entite": "A.\u2212 Celui",
+    "label": "PER",
+    "Contexte gauche": "-ate, subst. \n",
+    "Contexte droite": "ou celle qui postule une"
+  },
+  "Entite2": {
+    "entite": "Grandes \u00c9coles",
+    "label": "ORG",
+    "Contexte gauche": "Candidat(e) au concours des",
+    "Contexte droite": ", candidat(e) \u00e0 l'"
+  },
+  "Entite3": {
+    "entite": "candidat(e",
+    "label": "LOC",
+    "Contexte gauche": "concours des Grandes \u00c9coles,",
+    "Contexte droite": ") \u00e0 l'agr\u00e9gation,"
+  },
+  "Entite4": {
+    "entite": "Acad\u00e9mie fran\u00e7aise",
+    "label": "ORG",
+    "Contexte gauche": "la d\u00e9putation, \u00e0 l'",
+    "Contexte droite": ". Les \u00e9garements des candidats"
+  },
+  "Entite5": {
+    "entite": "Principes de pol.",
+    "label": "MISC",
+    "Contexte gauche": "pr\u00e9tendants malheureux (Constant,",
+    "Contexte droite": ",1815, p. 61):"
+  },
+  "Entite6": {
+    "entite": "MM.",
+    "label": "MISC",
+    "Contexte gauche": "Elle s\u00e9parait les candidats de",
+    "Contexte droite": "les examinateurs en robe rouge"
+  },
+  "Entite7": {
+    "entite": "Flaubert",
+    "label": "PER",
+    "Contexte gauche": "en robe rouge, ...",
+    "Contexte droite": ", L'\u00c9ducation sentimentale,"
+  },
+  "Entite8": {
+    "entite": "L'\u00c9ducation sentimentale",
+    "label": "MISC",
+    "Contexte gauche": "rouge, ... Flaubert,",
+    "Contexte droite": ",t. 1, 1869"
+  },
+  "Entite9": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "\u2212 En partic. (",
+    "Contexte droite": "la Rome antique)."
+  },
+  "Entite10": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "partic. (ds la",
+    "Contexte droite": "antique). Celui qui"
+  },
+  "Entite11": {
+    "entite": "C\u00e9sar",
+    "label": "PER",
+    "Contexte gauche": "charge publique. Candidat de",
+    "Contexte droite": ", du prince.\n"
+  },
+  "Entite12": {
+    "entite": "Besch",
+    "label": "LOC",
+    "Contexte gauche": ". 1798-1932,",
+    "Contexte droite": ". 1845, Littr\u00e9,"
+  },
+  "Entite13": {
+    "entite": "Littr\u00e9",
+    "label": "LOC",
+    "Contexte gauche": ", Besch. 1845,",
+    "Contexte droite": ", Gu\u00e9rin 1892.\n"
+  },
+  "Entite14": {
+    "entite": "Gu\u00e9rin",
+    "label": "PER",
+    "Contexte gauche": ". 1845, Littr\u00e9,",
+    "Contexte droite": "1892.\nSYNT."
+  },
+  "Entite15": {
+    "entite": "B.\u2212 Fam.",
+    "label": "MISC",
+    "Contexte gauche": "sur une liste.\n",
+    "Contexte droite": "et au fig. Celui"
+  },
+  "Entite16": {
+    "entite": "Antigone,1946, p. 193",
+    "label": "MISC",
+    "Contexte gauche": "bonheur! (Anouilh,",
+    "Contexte droite": ").\n\u2212 P."
+  },
+  "Entite17": {
+    "entite": "P.",
+    "label": "PER",
+    "Contexte gauche": "193).\n\u2212",
+    "Contexte droite": "euph\u00e9misme, fam. Celui"
+  },
+  "Entite18": {
+    "entite": "masc",
+    "label": "LOC",
+    "Contexte gauche": ". Attest\u00e9 comme subst.",
+    "Contexte droite": ". ds la plupart des"
+  },
+  "Entite19": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "comme subst. masc.",
+    "Contexte droite": "la plupart des dict."
+  },
+  "Entite20": {
+    "entite": "ds Lar",
+    "label": "ORG",
+    "Contexte gauche": "du xixes. ainsi que",
+    "Contexte droite": ". 20e; attest\u00e9 comme"
+  },
+  "Entite21": {
+    "entite": "Ac",
+    "label": "LOC",
+    "Contexte gauche": "ou -ate \u00e0 partir de",
+    "Contexte droite": ". 1932 et ds Rob"
+  },
+  "Entite22": {
+    "entite": "ds",
+    "label": "MISC",
+    "Contexte gauche": "de Ac. 1932 et",
+    "Contexte droite": "Rob., Lar."
+  },
+  "Entite23": {
+    "entite": "Lar",
+    "label": "LOC",
+    "Contexte gauche": "et ds Rob.,",
+    "Contexte droite": ". encyclop., Quillet"
+  },
+  "Entite24": {
+    "entite": "Quillet 1965",
+    "label": "MISC",
+    "Contexte gauche": "Lar. encyclop.,",
+    "Contexte droite": ". Cf. \u00e9galement Boylesve"
+  },
+  "Entite25": {
+    "entite": "La Le\u00e7on d'amour dans un parc",
+    "label": "MISC",
+    "Contexte gauche": "Cf. \u00e9galement Boylesve,",
+    "Contexte droite": ", 1902, p. 230"
+  },
+  "Entite26": {
+    "entite": "Orth",
+    "label": "MISC",
+    "Contexte gauche": ".\nPrononc. et",
+    "Contexte droite": ". : [k\u0251 \u0303dida"
+  },
+  "Entite27": {
+    "entite": "\u0303dida",
+    "label": "MISC",
+    "Contexte gauche": "Orth. : [k\u0251",
+    "Contexte droite": "], f\u00e9m. ["
+  },
+  "Entite28": {
+    "entite": "Ds Ac",
+    "label": "PER",
+    "Contexte gauche": ", f\u00e9m. [-at].",
+    "Contexte droite": ". 1694-1932."
+  },
+  "Entite29": {
+    "entite": "ds Ac",
+    "label": "ORG",
+    "Contexte gauche": "candidate n'est donn\u00e9 que",
+    "Contexte droite": ". 1932. \u00c9tymol."
+  },
+  "Entite30": {
+    "entite": "Hist",
+    "label": "PER",
+    "Contexte gauche": "1932. \u00c9tymol. et",
+    "Contexte droite": ". I. 1. 1284"
+  },
+  "Entite31": {
+    "entite": "1284 hist",
+    "label": "PER",
+    "Contexte gauche": "Hist. I. 1.",
+    "Contexte droite": ". rom. \u00ab soldat"
+  },
+  "Entite32": {
+    "entite": "rom",
+    "label": "LOC",
+    "Contexte gauche": "1. 1284 hist.",
+    "Contexte droite": ". \u00ab soldat d'\u00e9lite"
+  },
+  "Entite33": {
+    "entite": "J. de Meung",
+    "label": "PER",
+    "Contexte gauche": "soldat d'\u00e9lite \u00bb (",
+    "Contexte droite": ", Trad. de l'"
+  },
+  "Entite34": {
+    "entite": "Trad",
+    "label": "MISC",
+    "Contexte gauche": "(J. de Meung,",
+    "Contexte droite": ". de l'art de"
+  },
+  "Entite35": {
+    "entite": "Veg",
+    "label": "PER",
+    "Contexte gauche": "art de cheval. de",
+    "Contexte droite": "., Ars. 2915"
+  },
+  "Entite36": {
+    "entite": "Ars",
+    "label": "MISC",
+    "Contexte gauche": ". de Veg.,",
+    "Contexte droite": ". 2915, fo56 vods"
+  },
+  "Entite37": {
+    "entite": "fo56 vods",
+    "label": "LOC",
+    "Contexte gauche": ", Ars. 2915,",
+    "Contexte droite": "Gdf. Compl.)"
+  },
+  "Entite38": {
+    "entite": "Tiers Livre",
+    "label": "ORG",
+    "Contexte gauche": "obs\u00e9quieux \u00bb (Rabelais,",
+    "Contexte droite": ", \u00e9d. M. A."
+  },
+  "Entite39": {
+    "entite": "A. Screech",
+    "label": "PER",
+    "Contexte gauche": "Livre, \u00e9d. M.",
+    "Contexte droite": ", Gen\u00e8ve, 1964,"
+  },
+  "Entite40": {
+    "entite": "Gen\u00e8ve",
+    "label": "LOC",
+    "Contexte gauche": ". M. A. Screech,",
+    "Contexte droite": ", 1964, p. 39"
+  },
+  "Entite41": {
+    "entite": "II",
+    "label": "MISC",
+    "Contexte gauche": ", p. 39).",
+    "Contexte droite": ". 1. 1671 \u00ab"
+  },
+  "Entite42": {
+    "entite": "Candidat, Dans les facultez de l'universit\u00e9",
+    "label": "MISC",
+    "Contexte gauche": ": On appelle aussi,",
+    "Contexte droite": ", ceux qui sont sur"
+  },
+  "Entite43": {
+    "entite": "Doctorat",
+    "label": "LOC",
+    "Contexte gauche": "les bancs pour parvenir au",
+    "Contexte droite": "). Empr. au"
+  },
+  "Entite44": {
+    "entite": "Plaute ds TLL",
+    "label": "PER",
+    "Contexte gauche": "de blanc \u00bb dep.",
+    "Contexte droite": "s.v., 237,"
+  },
+  "Entite45": {
+    "entite": "Rome",
+    "label": "LOC",
+    "Contexte gauche": "postulants aux fonctions publiques \u00e0",
+    "Contexte droite": "\u00e9tant rev\u00eatus de la toga"
+  },
+  "Entite46": {
+    "entite": "I 2",
+    "label": "LOC",
+    "Contexte gauche": "pour solliciter les suffrages.",
+    "Contexte droite": "Cic\u00e9ron, Verr.,"
+  },
+  "Entite47": {
+    "entite": "Verr",
+    "label": "MISC",
+    "Contexte gauche": ". I 2 Cic\u00e9ron,",
+    "Contexte droite": "., 5, 37"
+  },
+  "Entite48": {
+    "entite": "Quintilien",
+    "label": "PER",
+    "Contexte gauche": "aspire \u00e0 qqc. \u00bb",
+    "Contexte droite": ", Inst., 12"
+  },
+  "Entite49": {
+    "entite": "Inst",
+    "label": "PER",
+    "Contexte gauche": "qqc. \u00bb Quintilien,",
+    "Contexte droite": "., 12, 2"
+  },
+  "Entite50": {
+    "entite": "Der kleine Pauly",
+    "label": "MISC",
+    "Contexte gauche": "238, 69; v.",
+    "Contexte droite": ", s.v. candidatus."
+  },
+  "Entite51": {
+    "entite": "attest\u00e9",
+    "label": "LOC",
+    "Contexte gauche": ", de m\u00eame orig.",
+    "Contexte droite": "dep. 1580 sous la"
+  },
+  "Entite52": {
+    "entite": "Candidat au sens de \u00ab aspirant",
+    "label": "MISC",
+    "Contexte gauche": ". 1580 sous la forme",
+    "Contexte droite": "\u00e0 un grade acad\u00e9mique \u00bb"
+  },
+  "Entite53": {
+    "entite": "xixes",
+    "label": "LOC",
+    "Contexte gauche": "rel. litt\u00e9r. :",
+    "Contexte droite": ". : a) 598"
+  },
+  "Entite54": {
+    "entite": "xxes",
+    "label": "LOC",
+    "Contexte gauche": "b) 1 389;",
+    "Contexte droite": ". : a) 1"
+  },
+  "Entite55": {
+    "entite": "Vuille",
+    "label": "LOC",
+    "Contexte gauche": ", p. 247. \u2212",
+    "Contexte droite": "(P.). Madame"
+  },
+  "Entite56": {
+    "entite": "Madame Le",
+    "label": "PER",
+    "Contexte gauche": "Vuille (P.).",
+    "Contexte droite": "directeur... Vie Lang."
+  },
+  "Entite57": {
+    "entite": "Vie Lang",
+    "label": "PER",
+    "Contexte gauche": ". Madame Le directeur...",
+    "Contexte droite": ". 1961, p. 492"
+  }
+}
